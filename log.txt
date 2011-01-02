@@ -8002,3 +8002,4 @@
 86097. style: remove trailing whitespace #86097
 2190. refactor: split large controller into smaller functions #2190
 98521. style: rename variables for clarity #98521
+86542. perf: lazy-load components #86542
