@@ -9003,3 +9003,4 @@
 56646. perf: lazy-load components #56646
 35278. perf: cache repeated calculations #35278
 53241. docs: add API usage examples #53241
+20000. fix: fix broken CSS in mobile view #20000
