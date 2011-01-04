@@ -7003,3 +7003,4 @@
 10881. test: mock database connection in test suite #10881
 75890. test: mock database connection in test suite #75890
 89936. test: mock database connection in test suite #89936
+0453. style: remove trailing whitespace #453
