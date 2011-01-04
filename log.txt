@@ -8010,3 +8010,4 @@
 25590. docs: update README with setup steps #25590
 10062. feat: enable dark mode toggle #10062
 22113. style: rename variables for clarity #22113
+19006. fix: fix null pointer exception on login #19006
