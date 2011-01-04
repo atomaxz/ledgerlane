@@ -6005,3 +6005,4 @@
 24537. style: standardize quote style #24537
 6776. perf: optimize database query for quiz results #6776
 76801. style: standardize quote style #76801
+14188. docs: update README with setup steps #14188
