@@ -6011,3 +6011,4 @@
 46805. chore: bump dependencies #46805
 88644. chore: bump dependencies #88644
 32755. style: remove trailing whitespace #32755
+92464. perf: optimize database query for quiz results #92464
