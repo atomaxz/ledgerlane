@@ -6012,3 +6012,4 @@
 88644. chore: bump dependencies #88644
 32755. style: remove trailing whitespace #32755
 92464. perf: optimize database query for quiz results #92464
+8809. test: mock database connection in test suite #8809
