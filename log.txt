@@ -8014,3 +8014,4 @@
 13284. docs: write FAQ section #13284
 78379. chore: add GitHub actions badge #78379
 72541. feat: support email verification #72541
+35403. fix: correct typo in registration form #35403
