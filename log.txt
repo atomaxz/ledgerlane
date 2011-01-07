@@ -7012,3 +7012,4 @@
 17911. test: add integration test for /submit endpoint #17911
 53460. test: mock database connection in test suite #53460
 81227. chore: rename env.example #81227
+60022. docs: update README with setup steps #60022
