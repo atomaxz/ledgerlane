@@ -8017,3 +8017,4 @@
 35403. fix: correct typo in registration form #35403
 36948. fix: fix null pointer exception on login #36948
 40272. chore: clean up unused files #40272
+47398. docs: add API usage examples #47398
