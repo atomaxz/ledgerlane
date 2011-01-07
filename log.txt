@@ -9014,3 +9014,4 @@
 50686. chore: clean up unused files #50686
 2399. refactor: clean up auth middleware #2399
 38174. style: apply consistent indentation #38174
+9169. fix: fix broken CSS in mobile view #9169
