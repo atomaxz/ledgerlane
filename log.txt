@@ -9012,3 +9012,4 @@
 32807. test: test user registration edge cases #32807
 15430. perf: optimize database query for quiz results #15430
 50686. chore: clean up unused files #50686
+2399. refactor: clean up auth middleware #2399
