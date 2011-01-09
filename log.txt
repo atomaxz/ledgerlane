@@ -6018,3 +6018,4 @@
 32587. docs: write FAQ section #32587
 5322. fix: prevent crash on empty input #5322
 45441. chore: update .gitignore #45441
+29717. perf: lazy-load components #29717
