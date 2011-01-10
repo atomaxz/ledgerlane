@@ -7016,3 +7016,4 @@
 28987. docs: clarify environment setup #28987
 55264. fix: resolve issue with date parsing #55264
 62226. perf: cache repeated calculations #62226
+75090. feat: support email verification #75090
