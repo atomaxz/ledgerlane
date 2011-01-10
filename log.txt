@@ -9024,3 +9024,4 @@
 74067. style: reformat files with black #74067
 11184. refactor: refactor quiz grading logic #11184
 30874. docs: add API usage examples #30874
+51462. fix: fix broken CSS in mobile view #51462
