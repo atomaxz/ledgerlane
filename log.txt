@@ -6021,3 +6021,4 @@
 29717. perf: lazy-load components #29717
 72143. perf: lazy-load components #72143
 18990. perf: optimize database query for quiz results #18990
+10052. docs: write FAQ section #10052
