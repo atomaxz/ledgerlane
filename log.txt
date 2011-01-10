@@ -6020,3 +6020,4 @@
 45441. chore: update .gitignore #45441
 29717. perf: lazy-load components #29717
 72143. perf: lazy-load components #72143
+18990. perf: optimize database query for quiz results #18990
