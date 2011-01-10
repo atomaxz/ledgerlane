@@ -8025,3 +8025,4 @@
 9287. perf: optimize database query for quiz results #9287
 17212. style: remove trailing whitespace #17212
 39040. perf: reduce image load time #39040
+0753. test: add unit test for quiz service #753
