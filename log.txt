@@ -8023,3 +8023,4 @@
 92245. style: remove trailing whitespace #92245
 90742. feat: add export to CSV option #90742
 9287. perf: optimize database query for quiz results #9287
+17212. style: remove trailing whitespace #17212
