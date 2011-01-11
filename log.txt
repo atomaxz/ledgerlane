@@ -7020,3 +7020,4 @@
 51311. refactor: remove redundant code blocks #51311
 72939. chore: clean up unused files #72939
 33244. style: reformat files with black #33244
+79572. test: test user registration edge cases #79572
