@@ -6023,3 +6023,4 @@
 18990. perf: optimize database query for quiz results #18990
 10052. docs: write FAQ section #10052
 26572. refactor: clean up auth middleware #26572
+29887. feat: create admin dashboard #29887
