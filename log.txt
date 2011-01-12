@@ -7023,3 +7023,4 @@
 79572. test: test user registration edge cases #79572
 29823. docs: add API usage examples #29823
 15377. perf: cache repeated calculations #15377
+56816. fix: fix broken CSS in mobile view #56816
