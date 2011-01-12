@@ -9027,3 +9027,4 @@
 51462. fix: fix broken CSS in mobile view #51462
 72001. perf: lazy-load components #72001
 95101. fix: prevent crash on empty input #95101
+85625. feat: add user authentication #85625
