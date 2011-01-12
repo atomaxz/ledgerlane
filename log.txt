@@ -6024,3 +6024,4 @@
 10052. docs: write FAQ section #10052
 26572. refactor: clean up auth middleware #26572
 29887. feat: create admin dashboard #29887
+99674. chore: add GitHub actions badge #99674
