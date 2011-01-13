@@ -7026,3 +7026,4 @@
 56816. fix: fix broken CSS in mobile view #56816
 89125. docs: improve code comments in utils #89125
 13332. refactor: clean up auth middleware #13332
+88078. chore: update .gitignore #88078
