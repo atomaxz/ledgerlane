@@ -8031,3 +8031,4 @@
 10623. refactor: split large controller into smaller functions #10623
 63281. test: mock database connection in test suite #63281
 81292. fix: fix null pointer exception on login #81292
+40901. fix: fix null pointer exception on login #40901
