@@ -9030,3 +9030,4 @@
 85625. feat: add user authentication #85625
 61144. chore: add GitHub actions badge #61144
 78427. perf: reduce image load time #78427
+78971. perf: optimize database query for quiz results #78971
