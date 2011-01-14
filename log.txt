@@ -8033,3 +8033,4 @@
 81292. fix: fix null pointer exception on login #81292
 40901. fix: fix null pointer exception on login #40901
 53071. style: standardize quote style #53071
+15977. style: remove trailing whitespace #15977
