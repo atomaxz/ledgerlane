@@ -6032,3 +6032,4 @@
 13035. refactor: clean up auth middleware #13035
 12642. docs: update README with setup steps #12642
 21903. feat: create admin dashboard #21903
+13813. feat: support email verification #13813
