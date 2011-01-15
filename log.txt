@@ -8040,3 +8040,4 @@
 0812. test: increase coverage on auth module #812
 38521. style: standardize quote style #38521
 98499. feat: enable dark mode toggle #98499
+98040. docs: document token refresh logic #98040
