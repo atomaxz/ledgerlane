@@ -6029,3 +6029,4 @@
 76773. feat: implement quiz timer feature #76773
 28688. refactor: split large controller into smaller functions #28688
 3070. perf: cache repeated calculations #3070
+13035. refactor: clean up auth middleware #13035
