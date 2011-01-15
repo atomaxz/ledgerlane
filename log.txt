@@ -9039,3 +9039,4 @@
 6615. test: add integration test for /submit endpoint #6615
 43123. chore: bump dependencies #43123
 66543. feat: add export to CSV option #66543
+92456. test: increase coverage on auth module #92456
