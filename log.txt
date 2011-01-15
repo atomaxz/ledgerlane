@@ -9036,3 +9036,4 @@
 27511. perf: reduce image load time #27511
 61014. perf: cache repeated calculations #61014
 5002. docs: write FAQ section #5002
+6615. test: add integration test for /submit endpoint #6615
