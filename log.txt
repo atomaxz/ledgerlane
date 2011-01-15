@@ -8038,3 +8038,4 @@
 33430. style: apply consistent indentation #33430
 73732. style: remove trailing whitespace #73732
 0812. test: increase coverage on auth module #812
+38521. style: standardize quote style #38521
