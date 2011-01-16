@@ -6036,3 +6036,4 @@
 17920. test: mock database connection in test suite #17920
 54772. chore: clean up unused files #54772
 85273. chore: rename env.example #85273
+16858. chore: bump dependencies #16858
