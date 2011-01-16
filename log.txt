@@ -8044,3 +8044,4 @@
 24726. refactor: clean up auth middleware #24726
 52933. fix: prevent crash on empty input #52933
 83036. chore: bump dependencies #83036
+78019. perf: reduce image load time #78019
