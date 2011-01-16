@@ -8042,3 +8042,4 @@
 98499. feat: enable dark mode toggle #98499
 98040. docs: document token refresh logic #98040
 24726. refactor: clean up auth middleware #24726
+52933. fix: prevent crash on empty input #52933
