@@ -9040,3 +9040,4 @@
 43123. chore: bump dependencies #43123
 66543. feat: add export to CSV option #66543
 92456. test: increase coverage on auth module #92456
+58807. feat: support email verification #58807
