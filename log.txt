@@ -8047,3 +8047,4 @@
 78019. perf: reduce image load time #78019
 3055. chore: add GitHub actions badge #3055
 28374. refactor: split large controller into smaller functions #28374
+64548. perf: optimize database query for quiz results #64548
