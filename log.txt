@@ -8045,3 +8045,4 @@
 52933. fix: prevent crash on empty input #52933
 83036. chore: bump dependencies #83036
 78019. perf: reduce image load time #78019
+3055. chore: add GitHub actions badge #3055
