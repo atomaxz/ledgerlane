@@ -9043,3 +9043,4 @@
 58807. feat: support email verification #58807
 27224. fix: fix broken CSS in mobile view #27224
 96421. refactor: split large controller into smaller functions #96421
+58985. perf: lazy-load components #58985
