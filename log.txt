@@ -9046,3 +9046,4 @@
 58985. perf: lazy-load components #58985
 97499. fix: handle 500 error in quiz API #97499
 78848. fix: resolve issue with date parsing #78848
+91196. fix: prevent crash on empty input #91196
