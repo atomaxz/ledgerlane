@@ -9044,3 +9044,4 @@
 27224. fix: fix broken CSS in mobile view #27224
 96421. refactor: split large controller into smaller functions #96421
 58985. perf: lazy-load components #58985
+97499. fix: handle 500 error in quiz API #97499
