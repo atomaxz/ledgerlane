@@ -7041,3 +7041,4 @@
 16690. perf: cache repeated calculations #16690
 37268. feat: add user authentication #37268
 62547. perf: cache repeated calculations #62547
+17311. docs: update README with setup steps #17311
