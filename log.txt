@@ -8057,3 +8057,4 @@
 85473. style: reformat files with black #85473
 64470. style: standardize quote style #64470
 8776. style: apply consistent indentation #8776
+42704. chore: bump dependencies #42704
