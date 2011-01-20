@@ -9054,3 +9054,4 @@
 95332. refactor: remove redundant code blocks #95332
 57295. fix: handle 500 error in quiz API #57295
 85808. test: add unit test for quiz service #85808
+52855. feat: enable dark mode toggle #52855
