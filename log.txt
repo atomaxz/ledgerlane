@@ -8061,3 +8061,4 @@
 75913. docs: document token refresh logic #75913
 51693. refactor: split large controller into smaller functions #51693
 48806. fix: handle 500 error in quiz API #48806
+79071. test: mock database connection in test suite #79071
