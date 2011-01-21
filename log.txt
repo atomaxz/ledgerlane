@@ -9056,3 +9056,4 @@
 85808. test: add unit test for quiz service #85808
 52855. feat: enable dark mode toggle #52855
 4098. chore: clean up unused files #4098
+12696. perf: reduce image load time #12696
