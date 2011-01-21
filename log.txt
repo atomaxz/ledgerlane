@@ -7044,3 +7044,4 @@
 17311. docs: update README with setup steps #17311
 33739. refactor: split large controller into smaller functions #33739
 45034. test: mock database connection in test suite #45034
+84309. feat: add user authentication #84309
