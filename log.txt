@@ -8060,3 +8060,4 @@
 42704. chore: bump dependencies #42704
 75913. docs: document token refresh logic #75913
 51693. refactor: split large controller into smaller functions #51693
+48806. fix: handle 500 error in quiz API #48806
