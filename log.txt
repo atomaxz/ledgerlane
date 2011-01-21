@@ -9057,3 +9057,4 @@
 52855. feat: enable dark mode toggle #52855
 4098. chore: clean up unused files #4098
 12696. perf: reduce image load time #12696
+3250. perf: lazy-load components #3250
