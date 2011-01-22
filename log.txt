@@ -9063,3 +9063,4 @@
 65182. feat: add export to CSV option #65182
 93072. perf: reduce image load time #93072
 88813. docs: clarify environment setup #88813
+7609. fix: fix null pointer exception on login #7609
