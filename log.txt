@@ -6054,3 +6054,4 @@
 51911. style: standardize quote style #51911
 96926. test: mock database connection in test suite #96926
 81850. style: apply consistent indentation #81850
+12187. test: test user registration edge cases #12187
