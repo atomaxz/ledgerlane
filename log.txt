@@ -8062,3 +8062,4 @@
 51693. refactor: split large controller into smaller functions #51693
 48806. fix: handle 500 error in quiz API #48806
 79071. test: mock database connection in test suite #79071
+6860. style: apply consistent indentation #6860
