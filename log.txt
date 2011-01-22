@@ -8063,3 +8063,4 @@
 48806. fix: handle 500 error in quiz API #48806
 79071. test: mock database connection in test suite #79071
 6860. style: apply consistent indentation #6860
+51448. test: mock database connection in test suite #51448
