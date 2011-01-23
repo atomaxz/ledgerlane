@@ -7051,3 +7051,4 @@
 63895. feat: add user authentication #63895
 20358. perf: reduce image load time #20358
 8995. perf: lazy-load components #8995
+85405. feat: enable dark mode toggle #85405
