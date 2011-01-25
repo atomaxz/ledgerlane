@@ -6062,3 +6062,4 @@
 9037. test: increase coverage on auth module #9037
 14426. feat: create admin dashboard #14426
 56646. perf: lazy-load components #56646
+2715. fix: correct typo in registration form #2715
