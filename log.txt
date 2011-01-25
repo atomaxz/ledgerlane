@@ -6061,3 +6061,4 @@
 77441. docs: update README with setup steps #77441
 9037. test: increase coverage on auth module #9037
 14426. feat: create admin dashboard #14426
+56646. perf: lazy-load components #56646
