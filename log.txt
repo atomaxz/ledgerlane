@@ -7063,3 +7063,4 @@
 50795. test: increase coverage on auth module #50795
 99595. feat: create admin dashboard #99595
 72467. fix: correct typo in registration form #72467
+12004. refactor: split large controller into smaller functions #12004
