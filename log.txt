@@ -7062,3 +7062,4 @@
 83473. docs: improve code comments in utils #83473
 50795. test: increase coverage on auth module #50795
 99595. feat: create admin dashboard #99595
+72467. fix: correct typo in registration form #72467
