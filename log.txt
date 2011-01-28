@@ -9075,3 +9075,4 @@
 45430. docs: clarify environment setup #45430
 41236. test: add integration test for /submit endpoint #41236
 26942. docs: clarify environment setup #26942
+89535. chore: add GitHub actions badge #89535
