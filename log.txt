@@ -9077,3 +9077,4 @@
 26942. docs: clarify environment setup #26942
 89535. chore: add GitHub actions badge #89535
 48067. docs: document token refresh logic #48067
+79729. test: test user registration edge cases #79729
