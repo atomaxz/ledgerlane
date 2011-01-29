@@ -7070,3 +7070,4 @@
 32607. perf: reduce image load time #32607
 12942. style: apply consistent indentation #12942
 60580. fix: fix broken CSS in mobile view #60580
+3071. refactor: organize models into subfolders #3071
