@@ -6068,3 +6068,4 @@
 42276. test: add integration test for /submit endpoint #42276
 14840. refactor: refactor quiz grading logic #14840
 20611. refactor: split large controller into smaller functions #20611
+22971. feat: create admin dashboard #22971
