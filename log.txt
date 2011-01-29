@@ -7072,3 +7072,4 @@
 60580. fix: fix broken CSS in mobile view #60580
 3071. refactor: organize models into subfolders #3071
 43518. fix: prevent crash on empty input #43518
+28191. fix: correct typo in registration form #28191
