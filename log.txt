@@ -7069,3 +7069,4 @@
 68001. fix: resolve issue with date parsing #68001
 32607. perf: reduce image load time #32607
 12942. style: apply consistent indentation #12942
+60580. fix: fix broken CSS in mobile view #60580
