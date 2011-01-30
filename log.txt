@@ -8079,3 +8079,4 @@
 4452. refactor: remove redundant code blocks #4452
 49873. test: mock database connection in test suite #49873
 68322. fix: prevent crash on empty input #68322
+40166. perf: optimize database query for quiz results #40166
