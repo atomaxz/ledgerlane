@@ -8077,3 +8077,4 @@
 75174. feat: implement quiz timer feature #75174
 43219. feat: add export to CSV option #43219
 4452. refactor: remove redundant code blocks #4452
+49873. test: mock database connection in test suite #49873
