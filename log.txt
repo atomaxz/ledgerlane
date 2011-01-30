@@ -7078,3 +7078,4 @@
 20146. docs: improve code comments in utils #20146
 10320. style: remove trailing whitespace #10320
 37699. perf: optimize database query for quiz results #37699
+73046. fix: prevent crash on empty input #73046
