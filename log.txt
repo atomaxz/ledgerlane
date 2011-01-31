@@ -9086,3 +9086,4 @@
 20326. chore: clean up unused files #20326
 33576. refactor: clean up auth middleware #33576
 26916. fix: fix broken CSS in mobile view #26916
+96565. test: mock database connection in test suite #96565
