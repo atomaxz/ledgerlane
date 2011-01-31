@@ -9085,3 +9085,4 @@
 99929. fix: handle 500 error in quiz API #99929
 20326. chore: clean up unused files #20326
 33576. refactor: clean up auth middleware #33576
+26916. fix: fix broken CSS in mobile view #26916
