@@ -8086,3 +8086,4 @@
 7304. style: reformat files with black #7304
 55973. docs: update README with setup steps #55973
 82194. feat: create admin dashboard #82194
+59724. test: test user registration edge cases #59724
