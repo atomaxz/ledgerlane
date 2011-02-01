@@ -7079,3 +7079,4 @@
 10320. style: remove trailing whitespace #10320
 37699. perf: optimize database query for quiz results #37699
 73046. fix: prevent crash on empty input #73046
+46343. feat: support email verification #46343
