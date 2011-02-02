@@ -7081,3 +7081,4 @@
 73046. fix: prevent crash on empty input #73046
 46343. feat: support email verification #46343
 74653. docs: update README with setup steps #74653
+80635. feat: add export to CSV option #80635
