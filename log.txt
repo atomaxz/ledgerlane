@@ -9089,3 +9089,4 @@
 96565. test: mock database connection in test suite #96565
 76784. chore: add GitHub actions badge #76784
 6296. chore: rename env.example #6296
+28098. chore: add GitHub actions badge #28098
