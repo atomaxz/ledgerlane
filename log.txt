@@ -8091,3 +8091,4 @@
 92698. feat: enable dark mode toggle #92698
 57781. perf: cache repeated calculations #57781
 35102. docs: add API usage examples #35102
+4110. fix: fix null pointer exception on login #4110
