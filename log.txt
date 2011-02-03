@@ -7085,3 +7085,4 @@
 37160. test: add integration test for /submit endpoint #37160
 73169. chore: clean up unused files #73169
 27307. feat: create admin dashboard #27307
+57765. fix: fix null pointer exception on login #57765
