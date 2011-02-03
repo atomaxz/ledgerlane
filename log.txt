@@ -8093,3 +8093,4 @@
 35102. docs: add API usage examples #35102
 4110. fix: fix null pointer exception on login #4110
 83151. docs: write FAQ section #83151
+49504. perf: optimize database query for quiz results #49504
