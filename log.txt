@@ -9092,3 +9092,4 @@
 28098. chore: add GitHub actions badge #28098
 24898. chore: add GitHub actions badge #24898
 50649. fix: correct typo in registration form #50649
+24895. refactor: organize models into subfolders #24895
