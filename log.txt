@@ -7087,3 +7087,4 @@
 27307. feat: create admin dashboard #27307
 57765. fix: fix null pointer exception on login #57765
 65596. refactor: clean up auth middleware #65596
+24306. fix: prevent crash on empty input #24306
