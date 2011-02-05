@@ -6083,3 +6083,4 @@
 68464. fix: fix null pointer exception on login #68464
 7900. chore: bump dependencies #7900
 42221. fix: fix broken CSS in mobile view #42221
+4316. feat: add export to CSV option #4316
