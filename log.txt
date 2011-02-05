@@ -8097,3 +8097,4 @@
 41353. test: add integration test for /submit endpoint #41353
 94135. perf: reduce image load time #94135
 21062. refactor: organize models into subfolders #21062
+12414. feat: support email verification #12414
