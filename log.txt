@@ -6084,3 +6084,4 @@
 7900. chore: bump dependencies #7900
 42221. fix: fix broken CSS in mobile view #42221
 4316. feat: add export to CSV option #4316
+0881. style: apply consistent indentation #881
