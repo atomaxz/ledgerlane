@@ -7092,3 +7092,4 @@
 91630. feat: create admin dashboard #91630
 10896. fix: fix broken CSS in mobile view #10896
 24952. refactor: remove redundant code blocks #24952
+14369. style: remove trailing whitespace #14369
