@@ -7097,3 +7097,4 @@
 57724. docs: add API usage examples #57724
 20304. chore: update .gitignore #20304
 69447. feat: add user authentication #69447
+15970. perf: optimize database query for quiz results #15970
