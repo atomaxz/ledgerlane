@@ -9103,3 +9103,4 @@
 92546. style: reformat files with black #92546
 93923. refactor: refactor quiz grading logic #93923
 9020. chore: add GitHub actions badge #9020
+89572. test: increase coverage on auth module #89572
