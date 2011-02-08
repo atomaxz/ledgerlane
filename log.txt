@@ -8108,3 +8108,4 @@
 8092. test: test user registration edge cases #8092
 28297. docs: improve code comments in utils #28297
 85465. feat: support email verification #85465
+79490. chore: bump dependencies #79490
