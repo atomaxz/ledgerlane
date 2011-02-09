@@ -9105,3 +9105,4 @@
 9020. chore: add GitHub actions badge #9020
 89572. test: increase coverage on auth module #89572
 82576. fix: prevent crash on empty input #82576
+24953. test: mock database connection in test suite #24953
