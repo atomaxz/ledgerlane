@@ -6094,3 +6094,4 @@
 11555. fix: prevent crash on empty input #11555
 79912. perf: reduce image load time #79912
 11430. docs: add API usage examples #11430
+10947. feat: enable dark mode toggle #10947
