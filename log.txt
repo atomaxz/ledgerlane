@@ -6091,3 +6091,4 @@
 29209. docs: clarify environment setup #29209
 5907. chore: clean up unused files #5907
 87356. chore: add GitHub actions badge #87356
+11555. fix: prevent crash on empty input #11555
