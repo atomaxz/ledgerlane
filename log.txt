@@ -8110,3 +8110,4 @@
 85465. feat: support email verification #85465
 79490. chore: bump dependencies #79490
 36265. refactor: split large controller into smaller functions #36265
+44871. feat: enable dark mode toggle #44871
