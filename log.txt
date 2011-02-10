@@ -7108,3 +7108,4 @@
 95674. chore: update .gitignore #95674
 62172. fix: fix null pointer exception on login #62172
 79004. docs: document token refresh logic #79004
+10466. test: increase coverage on auth module #10466
