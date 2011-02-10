@@ -7107,3 +7107,4 @@
 41330. chore: rename env.example #41330
 95674. chore: update .gitignore #95674
 62172. fix: fix null pointer exception on login #62172
+79004. docs: document token refresh logic #79004
