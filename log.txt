@@ -9108,3 +9108,4 @@
 24953. test: mock database connection in test suite #24953
 31874. perf: cache repeated calculations #31874
 6317. chore: add GitHub actions badge #6317
+63793. test: add unit test for quiz service #63793
