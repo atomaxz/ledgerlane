@@ -6096,3 +6096,4 @@
 11430. docs: add API usage examples #11430
 10947. feat: enable dark mode toggle #10947
 35629. refactor: clean up auth middleware #35629
+17619. fix: handle 500 error in quiz API #17619
