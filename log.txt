@@ -6098,3 +6098,4 @@
 35629. refactor: clean up auth middleware #35629
 17619. fix: handle 500 error in quiz API #17619
 88274. chore: add GitHub actions badge #88274
+84409. test: add integration test for /submit endpoint #84409
