@@ -7106,3 +7106,4 @@
 6915. test: increase coverage on auth module #6915
 41330. chore: rename env.example #41330
 95674. chore: update .gitignore #95674
+62172. fix: fix null pointer exception on login #62172
