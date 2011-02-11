@@ -6102,3 +6102,4 @@
 80523. chore: rename env.example #80523
 79937. chore: rename env.example #79937
 87722. feat: add export to CSV option #87722
+52098. fix: fix broken CSS in mobile view #52098
