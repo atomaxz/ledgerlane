@@ -8116,3 +8116,4 @@
 87975. perf: cache repeated calculations #87975
 89714. feat: add export to CSV option #89714
 55692. fix: fix broken CSS in mobile view #55692
+74333. style: reformat files with black #74333
