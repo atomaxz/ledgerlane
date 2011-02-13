@@ -6108,3 +6108,4 @@
 61914. refactor: clean up auth middleware #61914
 77842. docs: clarify environment setup #77842
 23961. refactor: organize models into subfolders #23961
+41918. feat: enable dark mode toggle #41918
