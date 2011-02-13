@@ -8120,3 +8120,4 @@
 97536. chore: clean up unused files #97536
 81469. chore: update .gitignore #81469
 12757. docs: clarify environment setup #12757
+77063. feat: add user authentication #77063
