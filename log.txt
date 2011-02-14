@@ -9118,3 +9118,4 @@
 71135. fix: prevent crash on empty input #71135
 64915. fix: handle 500 error in quiz API #64915
 8428. chore: update .gitignore #8428
+22710. refactor: organize models into subfolders #22710
