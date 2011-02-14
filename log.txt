@@ -9117,3 +9117,4 @@
 30269. feat: support email verification #30269
 71135. fix: prevent crash on empty input #71135
 64915. fix: handle 500 error in quiz API #64915
+8428. chore: update .gitignore #8428
