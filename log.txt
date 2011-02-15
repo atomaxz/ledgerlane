@@ -8123,3 +8123,4 @@
 77063. feat: add user authentication #77063
 97382. perf: cache repeated calculations #97382
 70736. style: standardize quote style #70736
+73109. fix: fix broken CSS in mobile view #73109
