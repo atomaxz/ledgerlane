@@ -7124,3 +7124,4 @@
 3686. style: rename variables for clarity #3686
 92282. chore: update .gitignore #92282
 35988. perf: cache repeated calculations #35988
+5728. refactor: clean up auth middleware #5728
