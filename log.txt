@@ -6110,3 +6110,4 @@
 23961. refactor: organize models into subfolders #23961
 41918. feat: enable dark mode toggle #41918
 18198. test: add unit test for quiz service #18198
+74681. docs: update README with setup steps #74681
