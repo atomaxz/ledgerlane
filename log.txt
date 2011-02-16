@@ -8126,3 +8126,4 @@
 73109. fix: fix broken CSS in mobile view #73109
 57158. feat: add user authentication #57158
 89651. docs: clarify environment setup #89651
+67600. style: apply consistent indentation #67600
