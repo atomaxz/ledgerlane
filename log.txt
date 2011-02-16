@@ -7125,3 +7125,4 @@
 92282. chore: update .gitignore #92282
 35988. perf: cache repeated calculations #35988
 5728. refactor: clean up auth middleware #5728
+44130. fix: fix null pointer exception on login #44130
