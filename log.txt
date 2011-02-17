@@ -6120,3 +6120,4 @@
 98347. docs: improve code comments in utils #98347
 11384. style: apply consistent indentation #11384
 48239. refactor: split large controller into smaller functions #48239
+64494. perf: lazy-load components #64494
