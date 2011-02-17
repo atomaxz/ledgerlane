@@ -8128,3 +8128,4 @@
 89651. docs: clarify environment setup #89651
 67600. style: apply consistent indentation #67600
 87194. test: test user registration edge cases #87194
+4080. feat: add export to CSV option #4080
