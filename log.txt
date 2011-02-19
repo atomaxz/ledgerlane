@@ -6122,3 +6122,4 @@
 48239. refactor: split large controller into smaller functions #48239
 64494. perf: lazy-load components #64494
 19224. feat: add export to CSV option #19224
+75980. style: reformat files with black #75980
