@@ -6126,3 +6126,4 @@
 46644. fix: fix broken CSS in mobile view #46644
 46954. refactor: remove redundant code blocks #46954
 94456. fix: fix null pointer exception on login #94456
+10448. feat: add user authentication #10448
