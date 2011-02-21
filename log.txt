@@ -6129,3 +6129,4 @@
 10448. feat: add user authentication #10448
 41920. perf: reduce image load time #41920
 77505. test: test user registration edge cases #77505
+29101. perf: lazy-load components #29101
