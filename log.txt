@@ -9137,3 +9137,4 @@
 41920. perf: reduce image load time #41920
 85689. fix: resolve issue with date parsing #85689
 67508. chore: update .gitignore #67508
+94987. fix: correct typo in registration form #94987
