@@ -9138,3 +9138,4 @@
 85689. fix: resolve issue with date parsing #85689
 67508. chore: update .gitignore #67508
 94987. fix: correct typo in registration form #94987
+6301. style: apply consistent indentation #6301
