@@ -7141,3 +7141,4 @@
 14895. style: apply consistent indentation #14895
 54149. perf: lazy-load components #54149
 19194. fix: prevent crash on empty input #19194
+90294. feat: add export to CSV option #90294
