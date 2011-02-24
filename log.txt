@@ -6135,3 +6135,4 @@
 46718. feat: enable dark mode toggle #46718
 86150. chore: rename env.example #86150
 77378. perf: reduce image load time #77378
+66509. style: standardize quote style #66509
