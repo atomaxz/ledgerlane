@@ -6137,3 +6137,4 @@
 77378. perf: reduce image load time #77378
 66509. style: standardize quote style #66509
 68372. feat: add export to CSV option #68372
+80457. feat: enable dark mode toggle #80457
