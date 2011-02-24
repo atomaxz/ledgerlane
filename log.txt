@@ -6134,3 +6134,4 @@
 1411. style: rename variables for clarity #1411
 46718. feat: enable dark mode toggle #46718
 86150. chore: rename env.example #86150
+77378. perf: reduce image load time #77378
