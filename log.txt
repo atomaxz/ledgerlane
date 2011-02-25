@@ -9144,3 +9144,4 @@
 59140. chore: update .gitignore #59140
 91744. fix: prevent crash on empty input #91744
 17033. docs: write FAQ section #17033
+92432. test: increase coverage on auth module #92432
