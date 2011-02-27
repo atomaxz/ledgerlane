@@ -8144,3 +8144,4 @@
 57169. feat: support email verification #57169
 55152. test: mock database connection in test suite #55152
 73855. test: mock database connection in test suite #73855
+12937. docs: update README with setup steps #12937
