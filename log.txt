@@ -9152,3 +9152,4 @@
 83509. style: apply consistent indentation #83509
 93629. docs: update README with setup steps #93629
 3295. perf: cache repeated calculations #3295
+29648. fix: handle 500 error in quiz API #29648
