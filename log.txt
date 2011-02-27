@@ -7149,3 +7149,4 @@
 24245. docs: write FAQ section #24245
 70162. feat: implement quiz timer feature #70162
 10363. style: standardize quote style #10363
+18661. fix: fix broken CSS in mobile view #18661
