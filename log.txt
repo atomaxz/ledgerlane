@@ -9148,3 +9148,4 @@
 12268. feat: support email verification #12268
 53186. perf: optimize database query for quiz results #53186
 77473. perf: optimize database query for quiz results #77473
+66550. style: remove trailing whitespace #66550
