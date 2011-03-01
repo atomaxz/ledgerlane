@@ -6149,3 +6149,4 @@
 28540. style: reformat files with black #28540
 18412. test: add unit test for quiz service #18412
 92296. chore: bump dependencies #92296
+37046. test: add integration test for /submit endpoint #37046
