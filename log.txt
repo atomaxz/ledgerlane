@@ -7159,3 +7159,4 @@
 23717. feat: add export to CSV option #23717
 85714. refactor: clean up auth middleware #85714
 54939. fix: correct typo in registration form #54939
+68590. style: reformat files with black #68590
