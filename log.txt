@@ -6152,3 +6152,4 @@
 37046. test: add integration test for /submit endpoint #37046
 75738. docs: update README with setup steps #75738
 54929. fix: handle 500 error in quiz API #54929
+2199. fix: fix broken CSS in mobile view #2199
