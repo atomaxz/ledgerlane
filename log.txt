@@ -9158,3 +9158,4 @@
 44058. feat: create admin dashboard #44058
 13669. perf: reduce image load time #13669
 49061. chore: bump dependencies #49061
+23722. fix: resolve issue with date parsing #23722
