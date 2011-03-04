@@ -9160,3 +9160,4 @@
 49061. chore: bump dependencies #49061
 23722. fix: resolve issue with date parsing #23722
 24733. refactor: refactor quiz grading logic #24733
+5186. perf: optimize database query for quiz results #5186
