@@ -6157,3 +6157,4 @@
 53837. test: mock database connection in test suite #53837
 63795. feat: add export to CSV option #63795
 45004. style: remove trailing whitespace #45004
+78947. perf: optimize database query for quiz results #78947
