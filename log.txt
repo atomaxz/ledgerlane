@@ -8163,3 +8163,4 @@
 98889. feat: add export to CSV option #98889
 53256. perf: cache repeated calculations #53256
 55002. docs: clarify environment setup #55002
+82445. refactor: clean up auth middleware #82445
