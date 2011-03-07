@@ -7172,3 +7172,4 @@
 94713. refactor: refactor quiz grading logic #94713
 82614. refactor: organize models into subfolders #82614
 23925. feat: add user authentication #23925
+31031. chore: add GitHub actions badge #31031
