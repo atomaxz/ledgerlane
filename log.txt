@@ -8165,3 +8165,4 @@
 55002. docs: clarify environment setup #55002
 82445. refactor: clean up auth middleware #82445
 13969. perf: lazy-load components #13969
+27377. fix: handle 500 error in quiz API #27377
