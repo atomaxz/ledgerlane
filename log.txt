@@ -7171,3 +7171,4 @@
 32806. feat: enable dark mode toggle #32806
 94713. refactor: refactor quiz grading logic #94713
 82614. refactor: organize models into subfolders #82614
+23925. feat: add user authentication #23925
