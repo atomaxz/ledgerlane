@@ -6166,3 +6166,4 @@
 55371. chore: rename env.example #55371
 46929. fix: resolve issue with date parsing #46929
 29392. test: test user registration edge cases #29392
+58634. perf: lazy-load components #58634
