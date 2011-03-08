@@ -8168,3 +8168,4 @@
 27377. fix: handle 500 error in quiz API #27377
 88379. refactor: split large controller into smaller functions #88379
 21318. test: mock database connection in test suite #21318
+92459. perf: reduce image load time #92459
