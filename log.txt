@@ -9174,3 +9174,4 @@
 21183. fix: handle 500 error in quiz API #21183
 61919. style: rename variables for clarity #61919
 52498. test: add integration test for /submit endpoint #52498
+39843. refactor: split large controller into smaller functions #39843
