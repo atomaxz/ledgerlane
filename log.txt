@@ -9177,3 +9177,4 @@
 39843. refactor: split large controller into smaller functions #39843
 93524. fix: resolve issue with date parsing #93524
 48538. chore: clean up unused files #48538
+52589. test: test user registration edge cases #52589
