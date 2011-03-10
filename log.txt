@@ -7178,3 +7178,4 @@
 11085. chore: bump dependencies #11085
 9464. style: rename variables for clarity #9464
 14374. perf: optimize database query for quiz results #14374
+48633. docs: write FAQ section #48633
