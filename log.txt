@@ -7180,3 +7180,4 @@
 14374. perf: optimize database query for quiz results #14374
 48633. docs: write FAQ section #48633
 46181. docs: clarify environment setup #46181
+23763. perf: lazy-load components #23763
