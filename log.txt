@@ -8174,3 +8174,4 @@
 8377. feat: enable dark mode toggle #8377
 22662. feat: enable dark mode toggle #22662
 59047. chore: bump dependencies #59047
+40351. test: increase coverage on auth module #40351
