@@ -8175,3 +8175,4 @@
 22662. feat: enable dark mode toggle #22662
 59047. chore: bump dependencies #59047
 40351. test: increase coverage on auth module #40351
+70096. test: mock database connection in test suite #70096
