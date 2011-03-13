@@ -9184,3 +9184,4 @@
 97165. style: standardize quote style #97165
 98933. style: apply consistent indentation #98933
 76947. docs: write FAQ section #76947
+78179. perf: lazy-load components #78179
