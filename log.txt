@@ -6177,3 +6177,4 @@
 29015. test: mock database connection in test suite #29015
 89807. feat: create admin dashboard #89807
 79829. fix: prevent crash on empty input #79829
+9732. fix: prevent crash on empty input #9732
