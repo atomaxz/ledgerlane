@@ -8178,3 +8178,4 @@
 70096. test: mock database connection in test suite #70096
 67281. docs: clarify environment setup #67281
 51314. perf: lazy-load components #51314
+77896. chore: add GitHub actions badge #77896
