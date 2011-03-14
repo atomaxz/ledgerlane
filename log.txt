@@ -8181,3 +8181,4 @@
 77896. chore: add GitHub actions badge #77896
 77176. chore: clean up unused files #77176
 42086. perf: cache repeated calculations #42086
+96135. fix: correct typo in registration form #96135
