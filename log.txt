@@ -7187,3 +7187,4 @@
 20057. fix: correct typo in registration form #20057
 59534. style: standardize quote style #59534
 10434. feat: add user authentication #10434
+1966. feat: support email verification #1966
