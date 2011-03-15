@@ -7189,3 +7189,4 @@
 10434. feat: add user authentication #10434
 1966. feat: support email verification #1966
 89692. docs: improve code comments in utils #89692
+50220. fix: prevent crash on empty input #50220
