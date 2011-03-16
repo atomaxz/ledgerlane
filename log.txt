@@ -8186,3 +8186,4 @@
 65122. docs: clarify environment setup #65122
 7590. docs: write FAQ section #7590
 33544. test: add unit test for quiz service #33544
+47673. fix: fix broken CSS in mobile view #47673
