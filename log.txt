@@ -9193,3 +9193,4 @@
 35121. fix: prevent crash on empty input #35121
 90888. feat: implement quiz timer feature #90888
 50181. test: add integration test for /submit endpoint #50181
+75228. test: test user registration edge cases #75228
