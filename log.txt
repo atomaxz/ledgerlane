@@ -6184,3 +6184,4 @@
 28202. test: add unit test for quiz service #28202
 54294. test: mock database connection in test suite #54294
 50174. fix: prevent crash on empty input #50174
+4753. fix: prevent crash on empty input #4753
