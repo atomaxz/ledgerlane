@@ -7198,3 +7198,4 @@
 98264. refactor: clean up auth middleware #98264
 77155. test: increase coverage on auth module #77155
 42661. style: apply consistent indentation #42661
+75702. feat: support email verification #75702
