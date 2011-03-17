@@ -8192,3 +8192,4 @@
 50574. chore: bump dependencies #50574
 71306. feat: add user authentication #71306
 74645. fix: fix null pointer exception on login #74645
+32834. chore: update .gitignore #32834
