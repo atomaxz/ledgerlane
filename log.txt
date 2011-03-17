@@ -8190,3 +8190,4 @@
 0840. docs: update README with setup steps #840
 77924. refactor: refactor quiz grading logic #77924
 50574. chore: bump dependencies #50574
+71306. feat: add user authentication #71306
