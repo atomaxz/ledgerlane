@@ -6189,3 +6189,4 @@
 71602. refactor: refactor quiz grading logic #71602
 9660. style: apply consistent indentation #9660
 9042. docs: improve code comments in utils #9042
+57082. feat: support email verification #57082
