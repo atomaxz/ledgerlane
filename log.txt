@@ -9198,3 +9198,4 @@
 16286. fix: resolve issue with date parsing #16286
 35412. feat: implement quiz timer feature #35412
 1167. fix: fix broken CSS in mobile view #1167
+81998. test: test user registration edge cases #81998
