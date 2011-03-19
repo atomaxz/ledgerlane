@@ -6195,3 +6195,4 @@
 42574. refactor: organize models into subfolders #42574
 60672. perf: lazy-load components #60672
 42078. refactor: split large controller into smaller functions #42078
+10196. style: remove trailing whitespace #10196
