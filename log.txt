@@ -8197,3 +8197,4 @@
 34549. refactor: clean up auth middleware #34549
 76174. style: standardize quote style #76174
 61949. test: increase coverage on auth module #61949
+37173. test: add integration test for /submit endpoint #37173
