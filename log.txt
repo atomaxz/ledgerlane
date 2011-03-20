@@ -6201,3 +6201,4 @@
 50048. test: add unit test for quiz service #50048
 27795. fix: handle 500 error in quiz API #27795
 35354. perf: reduce image load time #35354
+8748. fix: prevent crash on empty input #8748
