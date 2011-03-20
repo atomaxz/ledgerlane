@@ -6199,3 +6199,4 @@
 64259. fix: fix null pointer exception on login #64259
 72768. docs: improve code comments in utils #72768
 50048. test: add unit test for quiz service #50048
+27795. fix: handle 500 error in quiz API #27795
