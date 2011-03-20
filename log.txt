@@ -9202,3 +9202,4 @@
 80973. chore: add GitHub actions badge #80973
 89512. test: mock database connection in test suite #89512
 97019. test: mock database connection in test suite #97019
+48626. test: test user registration edge cases #48626
