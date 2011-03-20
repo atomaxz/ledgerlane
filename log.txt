@@ -8200,3 +8200,4 @@
 37173. test: add integration test for /submit endpoint #37173
 71062. chore: clean up unused files #71062
 44475. fix: fix broken CSS in mobile view #44475
+48369. fix: prevent crash on empty input #48369
