@@ -9206,3 +9206,4 @@
 8040. refactor: split large controller into smaller functions #8040
 23592. fix: correct typo in registration form #23592
 14771. feat: create admin dashboard #14771
+97478. docs: add API usage examples #97478
