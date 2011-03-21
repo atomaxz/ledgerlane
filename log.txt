@@ -9205,3 +9205,4 @@
 48626. test: test user registration edge cases #48626
 8040. refactor: split large controller into smaller functions #8040
 23592. fix: correct typo in registration form #23592
+14771. feat: create admin dashboard #14771
