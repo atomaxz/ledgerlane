@@ -8204,3 +8204,4 @@
 40449. fix: fix broken CSS in mobile view #40449
 29457. perf: cache repeated calculations #29457
 8952. docs: improve code comments in utils #8952
+86000. chore: bump dependencies #86000
