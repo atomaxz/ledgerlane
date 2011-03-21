@@ -8202,3 +8202,4 @@
 44475. fix: fix broken CSS in mobile view #44475
 48369. fix: prevent crash on empty input #48369
 40449. fix: fix broken CSS in mobile view #40449
+29457. perf: cache repeated calculations #29457
