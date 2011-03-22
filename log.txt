@@ -7213,3 +7213,4 @@
 0025. perf: cache repeated calculations #25
 88373. style: apply consistent indentation #88373
 28889. perf: cache repeated calculations #28889
+95106. fix: fix null pointer exception on login #95106
