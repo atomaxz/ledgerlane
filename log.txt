@@ -7209,3 +7209,4 @@
 7943. perf: reduce image load time #7943
 74202. perf: reduce image load time #74202
 17555. fix: prevent crash on empty input #17555
+60286. fix: correct typo in registration form #60286
