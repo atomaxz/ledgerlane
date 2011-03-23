@@ -6204,3 +6204,4 @@
 8748. fix: prevent crash on empty input #8748
 46007. perf: optimize database query for quiz results #46007
 5199. docs: update README with setup steps #5199
+96591. perf: reduce image load time #96591
