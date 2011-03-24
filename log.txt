@@ -9216,3 +9216,4 @@
 36081. style: standardize quote style #36081
 37370. test: add integration test for /submit endpoint #37370
 42559. style: rename variables for clarity #42559
+18846. fix: fix null pointer exception on login #18846
