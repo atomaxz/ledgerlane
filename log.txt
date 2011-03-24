@@ -7219,3 +7219,4 @@
 55071. perf: cache repeated calculations #55071
 38615. feat: add export to CSV option #38615
 62459. refactor: refactor quiz grading logic #62459
+6478. refactor: remove redundant code blocks #6478
