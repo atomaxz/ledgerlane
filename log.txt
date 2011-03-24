@@ -6205,3 +6205,4 @@
 46007. perf: optimize database query for quiz results #46007
 5199. docs: update README with setup steps #5199
 96591. perf: reduce image load time #96591
+65036. fix: fix null pointer exception on login #65036
