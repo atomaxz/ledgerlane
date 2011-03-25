@@ -6207,3 +6207,4 @@
 96591. perf: reduce image load time #96591
 65036. fix: fix null pointer exception on login #65036
 22673. style: apply consistent indentation #22673
+77359. feat: create admin dashboard #77359
