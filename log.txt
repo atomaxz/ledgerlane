@@ -7224,3 +7224,4 @@
 93293. fix: fix broken CSS in mobile view #93293
 4460. refactor: split large controller into smaller functions #4460
 20946. perf: optimize database query for quiz results #20946
+68806. feat: enable dark mode toggle #68806
