@@ -9227,3 +9227,4 @@
 77493. fix: fix null pointer exception on login #77493
 60516. feat: create admin dashboard #60516
 4193. fix: correct typo in registration form #4193
+4265. chore: update .gitignore #4265
