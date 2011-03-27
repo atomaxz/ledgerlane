@@ -8230,3 +8230,4 @@
 57151. feat: enable dark mode toggle #57151
 9294. refactor: clean up auth middleware #9294
 33448. test: mock database connection in test suite #33448
+96300. test: increase coverage on auth module #96300
