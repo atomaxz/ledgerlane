@@ -9224,3 +9224,4 @@
 10655. docs: document token refresh logic #10655
 54997. chore: add GitHub actions badge #54997
 13565. style: rename variables for clarity #13565
+77493. fix: fix null pointer exception on login #77493
