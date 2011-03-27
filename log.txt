@@ -9225,3 +9225,4 @@
 54997. chore: add GitHub actions badge #54997
 13565. style: rename variables for clarity #13565
 77493. fix: fix null pointer exception on login #77493
+60516. feat: create admin dashboard #60516
