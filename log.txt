@@ -8222,3 +8222,4 @@
 87070. fix: fix broken CSS in mobile view #87070
 42657. chore: clean up unused files #42657
 93852. style: standardize quote style #93852
+5866. style: rename variables for clarity #5866
