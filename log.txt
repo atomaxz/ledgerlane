@@ -8224,3 +8224,4 @@
 93852. style: standardize quote style #93852
 5866. style: rename variables for clarity #5866
 37413. style: standardize quote style #37413
+82347. fix: correct typo in registration form #82347
