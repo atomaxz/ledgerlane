@@ -6215,3 +6215,4 @@
 14185. refactor: organize models into subfolders #14185
 47054. fix: resolve issue with date parsing #47054
 28423. refactor: refactor quiz grading logic #28423
+94795. fix: fix null pointer exception on login #94795
