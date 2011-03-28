@@ -8233,3 +8233,4 @@
 96300. test: increase coverage on auth module #96300
 14925. perf: reduce image load time #14925
 43107. perf: lazy-load components #43107
+3161. refactor: refactor quiz grading logic #3161
