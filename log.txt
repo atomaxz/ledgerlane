@@ -8232,3 +8232,4 @@
 33448. test: mock database connection in test suite #33448
 96300. test: increase coverage on auth module #96300
 14925. perf: reduce image load time #14925
+43107. perf: lazy-load components #43107
