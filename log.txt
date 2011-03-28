@@ -7229,3 +7229,4 @@
 26251. feat: add export to CSV option #26251
 99196. perf: cache repeated calculations #99196
 22602. feat: enable dark mode toggle #22602
+87970. fix: fix null pointer exception on login #87970
