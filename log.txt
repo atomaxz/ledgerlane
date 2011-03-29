@@ -6221,3 +6221,4 @@
 0811. chore: clean up unused files #811
 82940. feat: add user authentication #82940
 9661. style: standardize quote style #9661
+76370. chore: rename env.example #76370
