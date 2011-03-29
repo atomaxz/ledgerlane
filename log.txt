@@ -6219,3 +6219,4 @@
 49443. feat: add export to CSV option #49443
 18169. perf: lazy-load components #18169
 0811. chore: clean up unused files #811
+82940. feat: add user authentication #82940
