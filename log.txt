@@ -8235,3 +8235,4 @@
 43107. perf: lazy-load components #43107
 3161. refactor: refactor quiz grading logic #3161
 36588. refactor: refactor quiz grading logic #36588
+56626. chore: add GitHub actions badge #56626
