@@ -7233,3 +7233,4 @@
 76583. style: apply consistent indentation #76583
 15146. perf: cache repeated calculations #15146
 24895. refactor: organize models into subfolders #24895
+74535. docs: clarify environment setup #74535
