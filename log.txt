@@ -8241,3 +8241,4 @@
 24615. test: add integration test for /submit endpoint #24615
 26650. refactor: clean up auth middleware #26650
 42227. chore: update .gitignore #42227
+88887. test: mock database connection in test suite #88887
