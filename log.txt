@@ -8246,3 +8246,4 @@
 58148. docs: improve code comments in utils #58148
 77015. chore: update .gitignore #77015
 13866. perf: optimize database query for quiz results #13866
+20794. perf: reduce image load time #20794
