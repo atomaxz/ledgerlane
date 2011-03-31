@@ -9241,3 +9241,4 @@
 50422. test: test user registration edge cases #50422
 90514. chore: rename env.example #90514
 90471. fix: prevent crash on empty input #90471
+72931. chore: rename env.example #72931
