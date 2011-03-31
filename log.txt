@@ -9245,3 +9245,4 @@
 54272. docs: add API usage examples #54272
 4635. docs: write FAQ section #4635
 82554. feat: enable dark mode toggle #82554
+16250. docs: update README with setup steps #16250
