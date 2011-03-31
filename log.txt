@@ -6224,3 +6224,4 @@
 76370. chore: rename env.example #76370
 87076. feat: support email verification #87076
 79865. chore: clean up unused files #79865
+7920. perf: cache repeated calculations #7920
