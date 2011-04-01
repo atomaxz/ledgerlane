@@ -6225,3 +6225,4 @@
 87076. feat: support email verification #87076
 79865. chore: clean up unused files #79865
 7920. perf: cache repeated calculations #7920
+58822. feat: enable dark mode toggle #58822
