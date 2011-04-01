@@ -6226,3 +6226,4 @@
 79865. chore: clean up unused files #79865
 7920. perf: cache repeated calculations #7920
 58822. feat: enable dark mode toggle #58822
+96988. fix: correct typo in registration form #96988
