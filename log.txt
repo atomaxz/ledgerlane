@@ -7236,3 +7236,4 @@
 74535. docs: clarify environment setup #74535
 51360. test: test user registration edge cases #51360
 2606. feat: enable dark mode toggle #2606
+7027. docs: add API usage examples #7027
