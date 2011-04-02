@@ -8249,3 +8249,4 @@
 20794. perf: reduce image load time #20794
 93168. chore: add GitHub actions badge #93168
 61771. docs: add API usage examples #61771
+16579. feat: enable dark mode toggle #16579
