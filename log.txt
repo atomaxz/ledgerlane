@@ -7241,3 +7241,4 @@
 83742. feat: add export to CSV option #83742
 21105. style: reformat files with black #21105
 12073. chore: add GitHub actions badge #12073
+97384. chore: update .gitignore #97384
