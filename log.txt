@@ -8251,3 +8251,4 @@
 61771. docs: add API usage examples #61771
 16579. feat: enable dark mode toggle #16579
 60961. refactor: refactor quiz grading logic #60961
+17841. fix: prevent crash on empty input #17841
