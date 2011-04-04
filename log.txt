@@ -9256,3 +9256,4 @@
 28330. docs: add API usage examples #28330
 4538. style: rename variables for clarity #4538
 49710. perf: reduce image load time #49710
+86094. perf: cache repeated calculations #86094
