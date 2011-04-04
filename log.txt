@@ -8256,3 +8256,4 @@
 28110. perf: cache repeated calculations #28110
 60885. feat: support email verification #60885
 16384. style: reformat files with black #16384
+72083. docs: document token refresh logic #72083
