@@ -8258,3 +8258,4 @@
 16384. style: reformat files with black #16384
 72083. docs: document token refresh logic #72083
 58907. feat: support email verification #58907
+42788. refactor: clean up auth middleware #42788
