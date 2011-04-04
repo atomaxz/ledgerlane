@@ -8259,3 +8259,4 @@
 72083. docs: document token refresh logic #72083
 58907. feat: support email verification #58907
 42788. refactor: clean up auth middleware #42788
+5511. refactor: remove redundant code blocks #5511
