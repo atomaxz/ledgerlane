@@ -8254,3 +8254,4 @@
 17841. fix: prevent crash on empty input #17841
 78246. chore: update .gitignore #78246
 28110. perf: cache repeated calculations #28110
+60885. feat: support email verification #60885
