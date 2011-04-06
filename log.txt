@@ -8266,3 +8266,4 @@
 18223. style: rename variables for clarity #18223
 69663. feat: support email verification #69663
 21913. feat: add user authentication #21913
+94656. refactor: organize models into subfolders #94656
