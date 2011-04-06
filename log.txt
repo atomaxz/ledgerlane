@@ -8261,3 +8261,4 @@
 42788. refactor: clean up auth middleware #42788
 5511. refactor: remove redundant code blocks #5511
 3965. fix: prevent crash on empty input #3965
+96969. chore: bump dependencies #96969
