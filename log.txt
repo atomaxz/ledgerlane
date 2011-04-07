@@ -7248,3 +7248,4 @@
 4361. style: standardize quote style #4361
 70057. style: remove trailing whitespace #70057
 13504. feat: support email verification #13504
+86953. fix: fix null pointer exception on login #86953
