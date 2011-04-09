@@ -9267,3 +9267,4 @@
 78174. perf: cache repeated calculations #78174
 55799. chore: clean up unused files #55799
 89946. style: remove trailing whitespace #89946
+75800. fix: fix null pointer exception on login #75800
