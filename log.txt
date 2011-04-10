@@ -9268,3 +9268,4 @@
 55799. chore: clean up unused files #55799
 89946. style: remove trailing whitespace #89946
 75800. fix: fix null pointer exception on login #75800
+47355. perf: lazy-load components #47355
