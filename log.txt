@@ -7254,3 +7254,4 @@
 8569. refactor: organize models into subfolders #8569
 90835. refactor: organize models into subfolders #90835
 25127. docs: update README with setup steps #25127
+73522. perf: lazy-load components #73522
