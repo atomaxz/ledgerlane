@@ -7255,3 +7255,4 @@
 90835. refactor: organize models into subfolders #90835
 25127. docs: update README with setup steps #25127
 73522. perf: lazy-load components #73522
+7493. test: increase coverage on auth module #7493
