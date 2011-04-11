@@ -6245,3 +6245,4 @@
 14896. feat: create admin dashboard #14896
 98447. perf: cache repeated calculations #98447
 64643. docs: add API usage examples #64643
+1203. refactor: split large controller into smaller functions #1203
