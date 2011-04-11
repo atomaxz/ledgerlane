@@ -8278,3 +8278,4 @@
 46114. refactor: split large controller into smaller functions #46114
 22528. perf: cache repeated calculations #22528
 47569. fix: fix null pointer exception on login #47569
+5284. docs: update README with setup steps #5284
