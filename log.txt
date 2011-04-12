@@ -8283,3 +8283,4 @@
 86623. feat: enable dark mode toggle #86623
 68852. perf: cache repeated calculations #68852
 12063. perf: optimize database query for quiz results #12063
+5449. refactor: split large controller into smaller functions #5449
