@@ -9278,3 +9278,4 @@
 68569. test: mock database connection in test suite #68569
 35858. feat: support email verification #35858
 63632. fix: fix null pointer exception on login #63632
+92594. test: add integration test for /submit endpoint #92594
