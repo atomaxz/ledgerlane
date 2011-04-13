@@ -8287,3 +8287,4 @@
 54441. refactor: clean up auth middleware #54441
 39891. docs: write FAQ section #39891
 74596. style: standardize quote style #74596
+67728. fix: fix broken CSS in mobile view #67728
