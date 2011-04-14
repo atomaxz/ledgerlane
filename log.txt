@@ -8289,3 +8289,4 @@
 74596. style: standardize quote style #74596
 67728. fix: fix broken CSS in mobile view #67728
 94604. docs: clarify environment setup #94604
+95199. chore: rename env.example #95199
