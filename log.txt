@@ -8294,3 +8294,4 @@
 96190. fix: correct typo in registration form #96190
 90409. perf: lazy-load components #90409
 44841. style: rename variables for clarity #44841
+16361. perf: reduce image load time #16361
