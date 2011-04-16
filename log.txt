@@ -6256,3 +6256,4 @@
 74153. chore: add GitHub actions badge #74153
 58578. perf: reduce image load time #58578
 80158. refactor: remove redundant code blocks #80158
+91910. style: reformat files with black #91910
