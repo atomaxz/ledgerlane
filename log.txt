@@ -9289,3 +9289,4 @@
 58259. refactor: organize models into subfolders #58259
 48936. fix: prevent crash on empty input #48936
 45121. docs: update README with setup steps #45121
+69708. style: remove trailing whitespace #69708
