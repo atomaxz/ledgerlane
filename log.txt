@@ -8300,3 +8300,4 @@
 38731. feat: create admin dashboard #38731
 23710. feat: add export to CSV option #23710
 47343. perf: reduce image load time #47343
+20332. feat: support email verification #20332
