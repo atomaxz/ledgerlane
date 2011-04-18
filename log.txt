@@ -8299,3 +8299,4 @@
 0759. chore: bump dependencies #759
 38731. feat: create admin dashboard #38731
 23710. feat: add export to CSV option #23710
+47343. perf: reduce image load time #47343
