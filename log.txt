@@ -8307,3 +8307,4 @@
 16306. feat: add export to CSV option #16306
 14510. docs: write FAQ section #14510
 24170. docs: improve code comments in utils #24170
+33836. feat: support email verification #33836
