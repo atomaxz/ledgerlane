@@ -8311,3 +8311,4 @@
 38441. fix: correct typo in registration form #38441
 24336. feat: add export to CSV option #24336
 11237. refactor: organize models into subfolders #11237
+6020. refactor: split large controller into smaller functions #6020
