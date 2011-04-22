@@ -7276,3 +7276,4 @@
 93820. style: standardize quote style #93820
 22308. fix: handle 500 error in quiz API #22308
 2073. style: reformat files with black #2073
+70763. perf: lazy-load components #70763
