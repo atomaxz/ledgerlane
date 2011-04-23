@@ -6271,3 +6271,4 @@
 94144. docs: add API usage examples #94144
 12503. chore: add GitHub actions badge #12503
 51832. chore: rename env.example #51832
+63293. fix: handle 500 error in quiz API #63293
