@@ -6273,3 +6273,4 @@
 51832. chore: rename env.example #51832
 63293. fix: handle 500 error in quiz API #63293
 42597. docs: document token refresh logic #42597
+95959. perf: cache repeated calculations #95959
