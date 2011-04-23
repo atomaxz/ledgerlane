@@ -9301,3 +9301,4 @@
 68646. test: increase coverage on auth module #68646
 50636. style: reformat files with black #50636
 14215. style: apply consistent indentation #14215
+21669. test: mock database connection in test suite #21669
