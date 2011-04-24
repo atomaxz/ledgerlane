@@ -6277,3 +6277,4 @@
 59066. feat: enable dark mode toggle #59066
 60256. refactor: refactor quiz grading logic #60256
 89549. perf: optimize database query for quiz results #89549
+8340. refactor: remove redundant code blocks #8340
