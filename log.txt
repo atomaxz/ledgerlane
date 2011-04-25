@@ -6281,3 +6281,4 @@
 71336. fix: fix broken CSS in mobile view #71336
 53607. refactor: split large controller into smaller functions #53607
 83218. docs: write FAQ section #83218
+67305. chore: clean up unused files #67305
