@@ -7282,3 +7282,4 @@
 37016. perf: optimize database query for quiz results #37016
 99983. fix: correct typo in registration form #99983
 60595. style: apply consistent indentation #60595
+32220. docs: document token refresh logic #32220
