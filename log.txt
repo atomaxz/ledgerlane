@@ -7286,3 +7286,4 @@
 58469. docs: write FAQ section #58469
 42787. fix: prevent crash on empty input #42787
 4501. perf: reduce image load time #4501
+53846. test: add integration test for /submit endpoint #53846
