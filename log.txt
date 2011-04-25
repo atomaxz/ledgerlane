@@ -7283,3 +7283,4 @@
 99983. fix: correct typo in registration form #99983
 60595. style: apply consistent indentation #60595
 32220. docs: document token refresh logic #32220
+58469. docs: write FAQ section #58469
