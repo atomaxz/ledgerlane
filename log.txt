@@ -6279,3 +6279,4 @@
 89549. perf: optimize database query for quiz results #89549
 8340. refactor: remove redundant code blocks #8340
 71336. fix: fix broken CSS in mobile view #71336
+53607. refactor: split large controller into smaller functions #53607
