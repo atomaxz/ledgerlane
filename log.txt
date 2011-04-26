@@ -8322,3 +8322,4 @@
 14865. test: test user registration edge cases #14865
 56083. fix: resolve issue with date parsing #56083
 39157. docs: document token refresh logic #39157
+22022. perf: reduce image load time #22022
