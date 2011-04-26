@@ -6284,3 +6284,4 @@
 67305. chore: clean up unused files #67305
 13742. perf: cache repeated calculations #13742
 83769. fix: prevent crash on empty input #83769
+91459. perf: lazy-load components #91459
