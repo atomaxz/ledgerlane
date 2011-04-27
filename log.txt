@@ -6286,3 +6286,4 @@
 83769. fix: prevent crash on empty input #83769
 91459. perf: lazy-load components #91459
 17579. feat: enable dark mode toggle #17579
+50063. test: add integration test for /submit endpoint #50063
