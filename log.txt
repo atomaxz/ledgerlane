@@ -7289,3 +7289,4 @@
 53846. test: add integration test for /submit endpoint #53846
 75655. perf: reduce image load time #75655
 58766. chore: clean up unused files #58766
+27450. test: increase coverage on auth module #27450
