@@ -9312,3 +9312,4 @@
 72831. docs: update README with setup steps #72831
 84387. docs: write FAQ section #84387
 1568. refactor: refactor quiz grading logic #1568
+83358. perf: reduce image load time #83358
