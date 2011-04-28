@@ -8325,3 +8325,4 @@
 22022. perf: reduce image load time #22022
 28279. fix: fix broken CSS in mobile view #28279
 8533. chore: clean up unused files #8533
+80091. fix: correct typo in registration form #80091
