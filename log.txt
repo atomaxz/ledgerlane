@@ -7292,3 +7292,4 @@
 27450. test: increase coverage on auth module #27450
 75185. refactor: refactor quiz grading logic #75185
 11173. fix: fix null pointer exception on login #11173
+24050. refactor: refactor quiz grading logic #24050
