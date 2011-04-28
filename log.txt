@@ -7291,3 +7291,4 @@
 58766. chore: clean up unused files #58766
 27450. test: increase coverage on auth module #27450
 75185. refactor: refactor quiz grading logic #75185
+11173. fix: fix null pointer exception on login #11173
