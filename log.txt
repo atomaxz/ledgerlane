@@ -6291,3 +6291,4 @@
 10300. feat: add export to CSV option #10300
 62476. docs: update README with setup steps #62476
 12723. perf: lazy-load components #12723
+17288. docs: update README with setup steps #17288
