@@ -7298,3 +7298,4 @@
 51858. feat: implement quiz timer feature #51858
 76179. feat: add export to CSV option #76179
 13710. fix: fix broken CSS in mobile view #13710
+3508. test: mock database connection in test suite #3508
