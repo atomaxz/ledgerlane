@@ -8328,3 +8328,4 @@
 80091. fix: correct typo in registration form #80091
 84707. perf: optimize database query for quiz results #84707
 4048. fix: prevent crash on empty input #4048
+47301. chore: bump dependencies #47301
