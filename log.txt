@@ -8327,3 +8327,4 @@
 8533. chore: clean up unused files #8533
 80091. fix: correct typo in registration form #80091
 84707. perf: optimize database query for quiz results #84707
+4048. fix: prevent crash on empty input #4048
