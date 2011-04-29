@@ -7297,3 +7297,4 @@
 15966. style: rename variables for clarity #15966
 51858. feat: implement quiz timer feature #51858
 76179. feat: add export to CSV option #76179
+13710. fix: fix broken CSS in mobile view #13710
