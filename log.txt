@@ -8330,3 +8330,4 @@
 4048. fix: prevent crash on empty input #4048
 47301. chore: bump dependencies #47301
 62639. chore: add GitHub actions badge #62639
+85245. style: standardize quote style #85245
