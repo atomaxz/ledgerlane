@@ -6299,3 +6299,4 @@
 38466. docs: document token refresh logic #38466
 6131. perf: lazy-load components #6131
 35793. perf: lazy-load components #35793
+67499. fix: fix broken CSS in mobile view #67499
