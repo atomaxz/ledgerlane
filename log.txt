@@ -6298,3 +6298,4 @@
 89240. docs: improve code comments in utils #89240
 38466. docs: document token refresh logic #38466
 6131. perf: lazy-load components #6131
+35793. perf: lazy-load components #35793
