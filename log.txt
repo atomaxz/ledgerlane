@@ -7301,3 +7301,4 @@
 3508. test: mock database connection in test suite #3508
 40547. test: add integration test for /submit endpoint #40547
 58506. docs: clarify environment setup #58506
+40921. test: add unit test for quiz service #40921
