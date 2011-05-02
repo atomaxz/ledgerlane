@@ -6307,3 +6307,4 @@
 23809. test: increase coverage on auth module #23809
 74978. test: test user registration edge cases #74978
 62872. style: reformat files with black #62872
+3693. refactor: split large controller into smaller functions #3693
