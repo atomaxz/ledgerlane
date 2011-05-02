@@ -6308,3 +6308,4 @@
 74978. test: test user registration edge cases #74978
 62872. style: reformat files with black #62872
 3693. refactor: split large controller into smaller functions #3693
+80698. chore: clean up unused files #80698
