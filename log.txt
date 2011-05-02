@@ -8340,3 +8340,4 @@
 5075. fix: resolve issue with date parsing #5075
 16746. refactor: refactor quiz grading logic #16746
 83340. fix: correct typo in registration form #83340
+93192. fix: handle 500 error in quiz API #93192
