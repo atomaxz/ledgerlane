@@ -6304,3 +6304,4 @@
 78150. fix: fix null pointer exception on login #78150
 95254. chore: rename env.example #95254
 1601. fix: prevent crash on empty input #1601
+23809. test: increase coverage on auth module #23809
