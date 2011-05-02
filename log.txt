@@ -8336,3 +8336,4 @@
 12119. style: reformat files with black #12119
 35193. test: mock database connection in test suite #35193
 2344. feat: support email verification #2344
+22558. test: test user registration edge cases #22558
