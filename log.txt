@@ -7302,3 +7302,4 @@
 40547. test: add integration test for /submit endpoint #40547
 58506. docs: clarify environment setup #58506
 40921. test: add unit test for quiz service #40921
+75842. fix: fix null pointer exception on login #75842
