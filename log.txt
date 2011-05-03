@@ -9326,3 +9326,4 @@
 17208. docs: write FAQ section #17208
 76009. chore: bump dependencies #76009
 25126. perf: cache repeated calculations #25126
+7897. chore: bump dependencies #7897
