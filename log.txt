@@ -7307,3 +7307,4 @@
 13525. style: reformat files with black #13525
 87027. fix: handle 500 error in quiz API #87027
 61263. refactor: organize models into subfolders #61263
+22516. feat: support email verification #22516
