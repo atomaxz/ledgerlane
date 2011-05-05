@@ -6319,3 +6319,4 @@
 84070. feat: support email verification #84070
 7667. docs: write FAQ section #7667
 96476. feat: add user authentication #96476
+56287. docs: clarify environment setup #56287
