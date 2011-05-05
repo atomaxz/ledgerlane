@@ -6315,3 +6315,4 @@
 76297. style: reformat files with black #76297
 49459. style: reformat files with black #49459
 20102. fix: correct typo in registration form #20102
+81114. perf: reduce image load time #81114
