@@ -8346,3 +8346,4 @@
 28386. docs: document token refresh logic #28386
 21100. fix: fix broken CSS in mobile view #21100
 20259. fix: fix broken CSS in mobile view #20259
+56579. feat: enable dark mode toggle #56579
