@@ -6316,3 +6316,4 @@
 49459. style: reformat files with black #49459
 20102. fix: correct typo in registration form #20102
 81114. perf: reduce image load time #81114
+84070. feat: support email verification #84070
