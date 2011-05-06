@@ -8348,3 +8348,4 @@
 20259. fix: fix broken CSS in mobile view #20259
 56579. feat: enable dark mode toggle #56579
 99309. fix: resolve issue with date parsing #99309
+38073. docs: update README with setup steps #38073
