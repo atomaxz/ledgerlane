@@ -6322,3 +6322,4 @@
 56287. docs: clarify environment setup #56287
 65441. chore: bump dependencies #65441
 15912. refactor: remove redundant code blocks #15912
+72822. perf: optimize database query for quiz results #72822
