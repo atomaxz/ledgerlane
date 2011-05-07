@@ -6324,3 +6324,4 @@
 15912. refactor: remove redundant code blocks #15912
 72822. perf: optimize database query for quiz results #72822
 19289. style: rename variables for clarity #19289
+83986. perf: lazy-load components #83986
