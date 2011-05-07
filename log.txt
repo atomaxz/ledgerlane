@@ -6325,3 +6325,4 @@
 72822. perf: optimize database query for quiz results #72822
 19289. style: rename variables for clarity #19289
 83986. perf: lazy-load components #83986
+28301. fix: correct typo in registration form #28301
