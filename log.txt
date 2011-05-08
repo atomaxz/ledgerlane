@@ -7314,3 +7314,4 @@
 12624. perf: cache repeated calculations #12624
 64442. perf: lazy-load components #64442
 73748. style: remove trailing whitespace #73748
+86188. perf: lazy-load components #86188
