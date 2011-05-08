@@ -8354,3 +8354,4 @@
 90612. feat: support email verification #90612
 57275. chore: rename env.example #57275
 85251. perf: optimize database query for quiz results #85251
+6016. chore: add GitHub actions badge #6016
