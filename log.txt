@@ -7319,3 +7319,4 @@
 67400. test: add integration test for /submit endpoint #67400
 52974. chore: update .gitignore #52974
 97506. chore: update .gitignore #97506
+11936. style: remove trailing whitespace #11936
