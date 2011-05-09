@@ -6332,3 +6332,4 @@
 33523. refactor: split large controller into smaller functions #33523
 47832. feat: implement quiz timer feature #47832
 14791. style: apply consistent indentation #14791
+38979. perf: reduce image load time #38979
