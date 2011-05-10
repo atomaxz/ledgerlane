@@ -9337,3 +9337,4 @@
 69546. feat: add user authentication #69546
 43080. feat: implement quiz timer feature #43080
 91191. style: apply consistent indentation #91191
+38861. fix: prevent crash on empty input #38861
