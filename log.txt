@@ -8362,3 +8362,4 @@
 12024. test: mock database connection in test suite #12024
 64305. docs: clarify environment setup #64305
 72295. perf: reduce image load time #72295
+73101. refactor: organize models into subfolders #73101
