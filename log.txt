@@ -6335,3 +6335,4 @@
 38979. perf: reduce image load time #38979
 2102. docs: document token refresh logic #2102
 94483. refactor: split large controller into smaller functions #94483
+70567. chore: add GitHub actions badge #70567
