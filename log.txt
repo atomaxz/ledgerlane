@@ -6339,3 +6339,4 @@
 36064. perf: lazy-load components #36064
 48065. chore: bump dependencies #48065
 46619. test: increase coverage on auth module #46619
+94219. fix: correct typo in registration form #94219
