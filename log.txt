@@ -6338,3 +6338,4 @@
 70567. chore: add GitHub actions badge #70567
 36064. perf: lazy-load components #36064
 48065. chore: bump dependencies #48065
+46619. test: increase coverage on auth module #46619
