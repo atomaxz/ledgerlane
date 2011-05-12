@@ -6342,3 +6342,4 @@
 94219. fix: correct typo in registration form #94219
 72995. perf: cache repeated calculations #72995
 79786. chore: rename env.example #79786
+92150. fix: handle 500 error in quiz API #92150
