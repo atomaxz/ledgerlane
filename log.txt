@@ -6345,3 +6345,4 @@
 92150. fix: handle 500 error in quiz API #92150
 78949. fix: fix broken CSS in mobile view #78949
 51229. refactor: split large controller into smaller functions #51229
+22925. test: add unit test for quiz service #22925
