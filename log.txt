@@ -9348,3 +9348,4 @@
 12698. chore: update .gitignore #12698
 31381. chore: rename env.example #31381
 79759. docs: improve code comments in utils #79759
+47378. chore: bump dependencies #47378
