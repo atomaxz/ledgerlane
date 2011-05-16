@@ -6351,3 +6351,4 @@
 37535. docs: update README with setup steps #37535
 51307. fix: fix broken CSS in mobile view #51307
 17825. chore: add GitHub actions badge #17825
+55843. feat: support email verification #55843
