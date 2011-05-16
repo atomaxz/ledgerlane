@@ -9354,3 +9354,4 @@
 59136. feat: add user authentication #59136
 71303. chore: update .gitignore #71303
 83888. chore: rename env.example #83888
+22899. fix: handle 500 error in quiz API #22899
