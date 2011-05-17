@@ -7342,3 +7342,4 @@
 43970. fix: correct typo in registration form #43970
 92609. chore: clean up unused files #92609
 52825. refactor: remove redundant code blocks #52825
+36960. feat: support email verification #36960
