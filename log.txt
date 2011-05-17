@@ -8374,3 +8374,4 @@
 53030. refactor: split large controller into smaller functions #53030
 35145. perf: cache repeated calculations #35145
 46513. test: increase coverage on auth module #46513
+49947. perf: reduce image load time #49947
