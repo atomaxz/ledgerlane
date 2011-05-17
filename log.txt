@@ -6352,3 +6352,4 @@
 51307. fix: fix broken CSS in mobile view #51307
 17825. chore: add GitHub actions badge #17825
 55843. feat: support email verification #55843
+71211. refactor: remove redundant code blocks #71211
