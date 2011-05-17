@@ -8375,3 +8375,4 @@
 35145. perf: cache repeated calculations #35145
 46513. test: increase coverage on auth module #46513
 49947. perf: reduce image load time #49947
+7834. fix: fix broken CSS in mobile view #7834
