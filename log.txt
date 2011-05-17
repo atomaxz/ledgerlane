@@ -8373,3 +8373,4 @@
 52350. style: remove trailing whitespace #52350
 53030. refactor: split large controller into smaller functions #53030
 35145. perf: cache repeated calculations #35145
+46513. test: increase coverage on auth module #46513
