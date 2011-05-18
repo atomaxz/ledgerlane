@@ -8376,3 +8376,4 @@
 46513. test: increase coverage on auth module #46513
 49947. perf: reduce image load time #49947
 7834. fix: fix broken CSS in mobile view #7834
+63049. test: increase coverage on auth module #63049
