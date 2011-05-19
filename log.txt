@@ -9362,3 +9362,4 @@
 90147. refactor: remove redundant code blocks #90147
 79594. test: test user registration edge cases #79594
 84893. fix: resolve issue with date parsing #84893
+59203. feat: support email verification #59203
