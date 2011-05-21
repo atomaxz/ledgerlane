@@ -9369,3 +9369,4 @@
 70322. perf: lazy-load components #70322
 79181. fix: prevent crash on empty input #79181
 48673. fix: prevent crash on empty input #48673
+66597. chore: update .gitignore #66597
