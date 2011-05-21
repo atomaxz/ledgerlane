@@ -7356,3 +7356,4 @@
 0128. style: standardize quote style #128
 39264. feat: create admin dashboard #39264
 38272. test: mock database connection in test suite #38272
+96616. refactor: clean up auth middleware #96616
