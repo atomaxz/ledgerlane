@@ -9372,3 +9372,4 @@
 66597. chore: update .gitignore #66597
 59287. fix: fix broken CSS in mobile view #59287
 21182. perf: cache repeated calculations #21182
+21810. feat: create admin dashboard #21810
