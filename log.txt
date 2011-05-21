@@ -7357,3 +7357,4 @@
 39264. feat: create admin dashboard #39264
 38272. test: mock database connection in test suite #38272
 96616. refactor: clean up auth middleware #96616
+95630. style: apply consistent indentation #95630
