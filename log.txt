@@ -9367,3 +9367,4 @@
 97925. fix: resolve issue with date parsing #97925
 77931. feat: enable dark mode toggle #77931
 70322. perf: lazy-load components #70322
+79181. fix: prevent crash on empty input #79181
