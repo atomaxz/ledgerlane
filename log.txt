@@ -8382,3 +8382,4 @@
 1467. test: add integration test for /submit endpoint #1467
 90804. docs: update README with setup steps #90804
 29962. feat: create admin dashboard #29962
+98557. feat: enable dark mode toggle #98557
