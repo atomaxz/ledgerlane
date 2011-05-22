@@ -8384,3 +8384,4 @@
 29962. feat: create admin dashboard #29962
 98557. feat: enable dark mode toggle #98557
 37646. test: test user registration edge cases #37646
+4457. test: test user registration edge cases #4457
