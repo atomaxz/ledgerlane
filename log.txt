@@ -7360,3 +7360,4 @@
 95630. style: apply consistent indentation #95630
 76691. style: remove trailing whitespace #76691
 73216. style: remove trailing whitespace #73216
+28299. test: increase coverage on auth module #28299
