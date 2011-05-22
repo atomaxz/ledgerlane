@@ -8385,3 +8385,4 @@
 98557. feat: enable dark mode toggle #98557
 37646. test: test user registration edge cases #37646
 4457. test: test user registration edge cases #4457
+30624. feat: support email verification #30624
