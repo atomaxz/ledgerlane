@@ -6361,3 +6361,4 @@
 56914. style: rename variables for clarity #56914
 66099. perf: lazy-load components #66099
 6989. fix: prevent crash on empty input #6989
+11585. chore: add GitHub actions badge #11585
