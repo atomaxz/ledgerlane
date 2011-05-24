@@ -7364,3 +7364,4 @@
 45978. test: add unit test for quiz service #45978
 87187. chore: update .gitignore #87187
 63818. fix: fix broken CSS in mobile view #63818
+37274. perf: cache repeated calculations #37274
