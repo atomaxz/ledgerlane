@@ -7366,3 +7366,4 @@
 63818. fix: fix broken CSS in mobile view #63818
 37274. perf: cache repeated calculations #37274
 8960. fix: fix broken CSS in mobile view #8960
+6798. docs: document token refresh logic #6798
