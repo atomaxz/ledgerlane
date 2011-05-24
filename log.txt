@@ -6363,3 +6363,4 @@
 6989. fix: prevent crash on empty input #6989
 11585. chore: add GitHub actions badge #11585
 3711. perf: reduce image load time #3711
+37064. refactor: split large controller into smaller functions #37064
