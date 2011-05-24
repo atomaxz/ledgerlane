@@ -7367,3 +7367,4 @@
 37274. perf: cache repeated calculations #37274
 8960. fix: fix broken CSS in mobile view #8960
 6798. docs: document token refresh logic #6798
+64741. test: increase coverage on auth module #64741
