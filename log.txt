@@ -8388,3 +8388,4 @@
 30624. feat: support email verification #30624
 60883. refactor: organize models into subfolders #60883
 97437. test: add unit test for quiz service #97437
+98415. chore: bump dependencies #98415
