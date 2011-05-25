@@ -6364,3 +6364,4 @@
 11585. chore: add GitHub actions badge #11585
 3711. perf: reduce image load time #3711
 37064. refactor: split large controller into smaller functions #37064
+75276. docs: write FAQ section #75276
