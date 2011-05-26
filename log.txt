@@ -7368,3 +7368,4 @@
 8960. fix: fix broken CSS in mobile view #8960
 6798. docs: document token refresh logic #6798
 64741. test: increase coverage on auth module #64741
+75367. feat: add export to CSV option #75367
