@@ -9386,3 +9386,4 @@
 97180. feat: add user authentication #97180
 83327. chore: rename env.example #83327
 4089. fix: prevent crash on empty input #4089
+3996. refactor: remove redundant code blocks #3996
