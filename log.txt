@@ -8391,3 +8391,4 @@
 98415. chore: bump dependencies #98415
 50059. fix: correct typo in registration form #50059
 33287. chore: bump dependencies #33287
+96538. perf: reduce image load time #96538
