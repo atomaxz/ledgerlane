@@ -6366,3 +6366,4 @@
 37064. refactor: split large controller into smaller functions #37064
 75276. docs: write FAQ section #75276
 82875. feat: add export to CSV option #82875
+47535. style: reformat files with black #47535
