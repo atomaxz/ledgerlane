@@ -7371,3 +7371,4 @@
 75367. feat: add export to CSV option #75367
 46886. docs: write FAQ section #46886
 99421. chore: rename env.example #99421
+57369. perf: cache repeated calculations #57369
