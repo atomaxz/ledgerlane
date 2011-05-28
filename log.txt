@@ -9389,3 +9389,4 @@
 3996. refactor: remove redundant code blocks #3996
 61468. style: standardize quote style #61468
 22098. chore: rename env.example #22098
+50526. refactor: organize models into subfolders #50526
