@@ -7374,3 +7374,4 @@
 57369. perf: cache repeated calculations #57369
 53847. docs: write FAQ section #53847
 55274. feat: add export to CSV option #55274
+19290. style: apply consistent indentation #19290
