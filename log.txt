@@ -8395,3 +8395,4 @@
 24382. style: standardize quote style #24382
 84964. perf: optimize database query for quiz results #84964
 32015. perf: optimize database query for quiz results #32015
+52128. chore: bump dependencies #52128
