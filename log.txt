@@ -9394,3 +9394,4 @@
 86912. perf: cache repeated calculations #86912
 46642. docs: add API usage examples #46642
 58670. docs: add API usage examples #58670
+67416. feat: add export to CSV option #67416
