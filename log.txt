@@ -6378,3 +6378,4 @@
 33951. feat: add export to CSV option #33951
 59048. perf: reduce image load time #59048
 98360. feat: add export to CSV option #98360
+94719. chore: update .gitignore #94719
