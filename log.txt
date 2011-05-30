@@ -7377,3 +7377,4 @@
 19290. style: apply consistent indentation #19290
 64184. feat: implement quiz timer feature #64184
 53036. feat: implement quiz timer feature #53036
+2340. perf: reduce image load time #2340
