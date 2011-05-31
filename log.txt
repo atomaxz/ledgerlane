@@ -7381,3 +7381,4 @@
 59090. feat: enable dark mode toggle #59090
 54221. style: apply consistent indentation #54221
 23297. docs: document token refresh logic #23297
+7450. perf: lazy-load components #7450
