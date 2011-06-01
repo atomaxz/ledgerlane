@@ -9403,3 +9403,4 @@
 37282. feat: implement quiz timer feature #37282
 7219. refactor: clean up auth middleware #7219
 53261. fix: handle 500 error in quiz API #53261
+41189. chore: add GitHub actions badge #41189
