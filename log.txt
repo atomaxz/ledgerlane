@@ -6382,3 +6382,4 @@
 82364. style: reformat files with black #82364
 67981. refactor: organize models into subfolders #67981
 19765. feat: implement quiz timer feature #19765
+53852. fix: fix broken CSS in mobile view #53852
