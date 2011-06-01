@@ -8403,3 +8403,4 @@
 60308. docs: improve code comments in utils #60308
 93930. refactor: split large controller into smaller functions #93930
 55807. style: rename variables for clarity #55807
+74940. perf: lazy-load components #74940
