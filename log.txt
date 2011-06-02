@@ -8404,3 +8404,4 @@
 93930. refactor: split large controller into smaller functions #93930
 55807. style: rename variables for clarity #55807
 74940. perf: lazy-load components #74940
+38380. fix: fix null pointer exception on login #38380
