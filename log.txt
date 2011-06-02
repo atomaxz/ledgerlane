@@ -6384,3 +6384,4 @@
 19765. feat: implement quiz timer feature #19765
 53852. fix: fix broken CSS in mobile view #53852
 2007. style: rename variables for clarity #2007
+60820. test: add integration test for /submit endpoint #60820
