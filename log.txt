@@ -6387,3 +6387,4 @@
 60820. test: add integration test for /submit endpoint #60820
 19148. docs: clarify environment setup #19148
 93753. perf: cache repeated calculations #93753
+29166. feat: add user authentication #29166
