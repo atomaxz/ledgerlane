@@ -8411,3 +8411,4 @@
 27400. perf: lazy-load components #27400
 82874. docs: add API usage examples #82874
 99651. perf: reduce image load time #99651
+25413. chore: update .gitignore #25413
