@@ -8408,3 +8408,4 @@
 59517. refactor: refactor quiz grading logic #59517
 82230. docs: update README with setup steps #82230
 99171. docs: write FAQ section #99171
+27400. perf: lazy-load components #27400
