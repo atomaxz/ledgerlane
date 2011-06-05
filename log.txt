@@ -9412,3 +9412,4 @@
 35835. fix: prevent crash on empty input #35835
 65601. docs: clarify environment setup #65601
 79548. perf: lazy-load components #79548
+77384. refactor: split large controller into smaller functions #77384
