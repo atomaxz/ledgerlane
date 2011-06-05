@@ -8419,3 +8419,4 @@
 97683. chore: clean up unused files #97683
 42076. style: apply consistent indentation #42076
 72033. refactor: organize models into subfolders #72033
+19400. perf: lazy-load components #19400
