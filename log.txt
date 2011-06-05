@@ -7389,3 +7389,4 @@
 7173. style: apply consistent indentation #7173
 94319. style: apply consistent indentation #94319
 64813. test: increase coverage on auth module #64813
+75785. feat: add user authentication #75785
