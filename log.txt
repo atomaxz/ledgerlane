@@ -9411,3 +9411,4 @@
 97377. style: reformat files with black #97377
 35835. fix: prevent crash on empty input #35835
 65601. docs: clarify environment setup #65601
+79548. perf: lazy-load components #79548
