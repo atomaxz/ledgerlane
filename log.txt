@@ -6397,3 +6397,4 @@
 12025. fix: resolve issue with date parsing #12025
 43023. refactor: organize models into subfolders #43023
 74675. docs: update README with setup steps #74675
+15248. fix: fix null pointer exception on login #15248
