@@ -8422,3 +8422,4 @@
 19400. perf: lazy-load components #19400
 12829. chore: add GitHub actions badge #12829
 88186. perf: reduce image load time #88186
+5627. feat: support email verification #5627
