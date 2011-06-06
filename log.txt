@@ -8420,3 +8420,4 @@
 42076. style: apply consistent indentation #42076
 72033. refactor: organize models into subfolders #72033
 19400. perf: lazy-load components #19400
+12829. chore: add GitHub actions badge #12829
