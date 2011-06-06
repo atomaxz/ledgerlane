@@ -7394,3 +7394,4 @@
 59868. test: add integration test for /submit endpoint #59868
 27939. test: add integration test for /submit endpoint #27939
 33289. perf: lazy-load components #33289
+10572. docs: update README with setup steps #10572
