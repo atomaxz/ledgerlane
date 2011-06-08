@@ -6405,3 +6405,4 @@
 36255. feat: add user authentication #36255
 1029. fix: correct typo in registration form #1029
 15310. refactor: refactor quiz grading logic #15310
+95602. fix: fix null pointer exception on login #95602
