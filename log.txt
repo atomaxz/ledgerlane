@@ -7397,3 +7397,4 @@
 10572. docs: update README with setup steps #10572
 99744. docs: write FAQ section #99744
 57094. perf: lazy-load components #57094
+15164. chore: clean up unused files #15164
