@@ -6403,3 +6403,4 @@
 76599. chore: update .gitignore #76599
 7911. perf: reduce image load time #7911
 36255. feat: add user authentication #36255
+1029. fix: correct typo in registration form #1029
