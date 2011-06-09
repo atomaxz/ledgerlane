@@ -8430,3 +8430,4 @@
 8829. feat: add user authentication #8829
 92385. feat: support email verification #92385
 30077. docs: add API usage examples #30077
+67343. refactor: split large controller into smaller functions #67343
