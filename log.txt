@@ -6412,3 +6412,4 @@
 41054. test: add unit test for quiz service #41054
 14416. refactor: clean up auth middleware #14416
 44392. perf: optimize database query for quiz results #44392
+14726. fix: fix broken CSS in mobile view #14726
