@@ -9422,3 +9422,4 @@
 9745. refactor: clean up auth middleware #9745
 93304. chore: bump dependencies #93304
 87418. style: standardize quote style #87418
+94983. perf: optimize database query for quiz results #94983
