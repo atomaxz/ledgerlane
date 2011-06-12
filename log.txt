@@ -8441,3 +8441,4 @@
 51061. chore: rename env.example #51061
 32321. chore: clean up unused files #32321
 33672. style: rename variables for clarity #33672
+95469. style: remove trailing whitespace #95469
