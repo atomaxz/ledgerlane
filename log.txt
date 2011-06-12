@@ -9427,3 +9427,4 @@
 89066. docs: add API usage examples #89066
 17513. fix: prevent crash on empty input #17513
 68721. feat: implement quiz timer feature #68721
+88621. feat: support email verification #88621
