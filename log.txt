@@ -6414,3 +6414,4 @@
 44392. perf: optimize database query for quiz results #44392
 14726. fix: fix broken CSS in mobile view #14726
 90204. feat: add user authentication #90204
+76331. refactor: split large controller into smaller functions #76331
