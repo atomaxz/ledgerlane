@@ -8442,3 +8442,4 @@
 32321. chore: clean up unused files #32321
 33672. style: rename variables for clarity #33672
 95469. style: remove trailing whitespace #95469
+40699. fix: fix broken CSS in mobile view #40699
