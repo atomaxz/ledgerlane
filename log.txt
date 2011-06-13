@@ -9430,3 +9430,4 @@
 88621. feat: support email verification #88621
 78454. chore: bump dependencies #78454
 67433. feat: add export to CSV option #67433
+1794. perf: lazy-load components #1794
