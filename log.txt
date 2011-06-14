@@ -6422,3 +6422,4 @@
 45907. fix: handle 500 error in quiz API #45907
 82708. style: remove trailing whitespace #82708
 79030. refactor: split large controller into smaller functions #79030
+60782. fix: fix null pointer exception on login #60782
