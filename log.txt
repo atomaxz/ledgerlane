@@ -6420,3 +6420,4 @@
 78788. style: reformat files with black #78788
 85663. style: rename variables for clarity #85663
 45907. fix: handle 500 error in quiz API #45907
+82708. style: remove trailing whitespace #82708
