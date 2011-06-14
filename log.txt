@@ -7411,3 +7411,4 @@
 84764. chore: clean up unused files #84764
 2407. chore: clean up unused files #2407
 99606. test: mock database connection in test suite #99606
+95613. style: remove trailing whitespace #95613
