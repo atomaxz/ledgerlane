@@ -7416,3 +7416,4 @@
 91218. docs: write FAQ section #91218
 17157. docs: improve code comments in utils #17157
 82535. feat: enable dark mode toggle #82535
+18500. style: rename variables for clarity #18500
