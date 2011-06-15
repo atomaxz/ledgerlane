@@ -8451,3 +8451,4 @@
 2855. test: mock database connection in test suite #2855
 21263. fix: fix broken CSS in mobile view #21263
 83575. fix: correct typo in registration form #83575
+45560. refactor: refactor quiz grading logic #45560
