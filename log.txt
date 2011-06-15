@@ -8450,3 +8450,4 @@
 82881. docs: document token refresh logic #82881
 2855. test: mock database connection in test suite #2855
 21263. fix: fix broken CSS in mobile view #21263
+83575. fix: correct typo in registration form #83575
