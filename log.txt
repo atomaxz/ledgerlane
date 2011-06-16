@@ -7421,3 +7421,4 @@
 96062. feat: add export to CSV option #96062
 67153. docs: add API usage examples #67153
 61002. feat: add user authentication #61002
+31788. fix: handle 500 error in quiz API #31788
