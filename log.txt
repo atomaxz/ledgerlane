@@ -7420,3 +7420,4 @@
 62271. style: reformat files with black #62271
 96062. feat: add export to CSV option #96062
 67153. docs: add API usage examples #67153
+61002. feat: add user authentication #61002
