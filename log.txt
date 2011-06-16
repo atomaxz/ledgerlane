@@ -8453,3 +8453,4 @@
 83575. fix: correct typo in registration form #83575
 45560. refactor: refactor quiz grading logic #45560
 42500. test: test user registration edge cases #42500
+13519. docs: update README with setup steps #13519
