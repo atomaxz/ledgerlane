@@ -9438,3 +9438,4 @@
 23703. style: apply consistent indentation #23703
 60383. docs: write FAQ section #60383
 8078. fix: prevent crash on empty input #8078
+14921. perf: lazy-load components #14921
