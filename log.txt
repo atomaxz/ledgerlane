@@ -9445,3 +9445,4 @@
 43161. refactor: clean up auth middleware #43161
 23256. feat: enable dark mode toggle #23256
 34088. feat: add export to CSV option #34088
+61906. chore: add GitHub actions badge #61906
