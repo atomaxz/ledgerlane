@@ -9442,3 +9442,4 @@
 78842. refactor: split large controller into smaller functions #78842
 0660. feat: enable dark mode toggle #660
 33022. perf: lazy-load components #33022
+43161. refactor: clean up auth middleware #43161
