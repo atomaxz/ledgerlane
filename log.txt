@@ -8458,3 +8458,4 @@
 73463. chore: update .gitignore #73463
 71088. test: add integration test for /submit endpoint #71088
 71780. refactor: split large controller into smaller functions #71780
+7804. chore: add GitHub actions badge #7804
