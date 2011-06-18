@@ -7429,3 +7429,4 @@
 17566. test: increase coverage on auth module #17566
 4612. test: increase coverage on auth module #4612
 68188. chore: update .gitignore #68188
+31811. fix: correct typo in registration form #31811
