@@ -7426,3 +7426,4 @@
 17882. test: add integration test for /submit endpoint #17882
 24977. style: standardize quote style #24977
 10527. docs: improve code comments in utils #10527
+17566. test: increase coverage on auth module #17566
