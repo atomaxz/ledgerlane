@@ -9447,3 +9447,4 @@
 34088. feat: add export to CSV option #34088
 61906. chore: add GitHub actions badge #61906
 20714. chore: update .gitignore #20714
+96228. docs: update README with setup steps #96228
