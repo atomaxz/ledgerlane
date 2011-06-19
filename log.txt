@@ -6430,3 +6430,4 @@
 50180. docs: write FAQ section #50180
 61290. chore: update .gitignore #61290
 90389. style: remove trailing whitespace #90389
+89841. perf: lazy-load components #89841
