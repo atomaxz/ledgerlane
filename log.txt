@@ -7433,3 +7433,4 @@
 64289. docs: clarify environment setup #64289
 43814. feat: enable dark mode toggle #43814
 59104. test: add unit test for quiz service #59104
+36617. fix: fix null pointer exception on login #36617
