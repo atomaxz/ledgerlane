@@ -8459,3 +8459,4 @@
 71088. test: add integration test for /submit endpoint #71088
 71780. refactor: split large controller into smaller functions #71780
 7804. chore: add GitHub actions badge #7804
+42547. docs: add API usage examples #42547
