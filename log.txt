@@ -6434,3 +6434,4 @@
 17986. docs: clarify environment setup #17986
 4352. test: add integration test for /submit endpoint #4352
 19179. test: increase coverage on auth module #19179
+75797. perf: lazy-load components #75797
