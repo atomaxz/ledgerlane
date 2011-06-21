@@ -8462,3 +8462,4 @@
 42547. docs: add API usage examples #42547
 85946. feat: add export to CSV option #85946
 13873. test: add integration test for /submit endpoint #13873
+39208. fix: fix broken CSS in mobile view #39208
