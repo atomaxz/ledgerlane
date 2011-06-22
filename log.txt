@@ -8463,3 +8463,4 @@
 85946. feat: add export to CSV option #85946
 13873. test: add integration test for /submit endpoint #13873
 39208. fix: fix broken CSS in mobile view #39208
+20275. test: test user registration edge cases #20275
