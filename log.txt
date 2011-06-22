@@ -8465,3 +8465,4 @@
 39208. fix: fix broken CSS in mobile view #39208
 20275. test: test user registration edge cases #20275
 7301. refactor: remove redundant code blocks #7301
+70432. refactor: refactor quiz grading logic #70432
