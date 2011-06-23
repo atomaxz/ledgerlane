@@ -9462,3 +9462,4 @@
 74045. style: reformat files with black #74045
 72489. docs: clarify environment setup #72489
 59754. perf: lazy-load components #59754
+64350. fix: fix broken CSS in mobile view #64350
