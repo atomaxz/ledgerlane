@@ -9461,3 +9461,4 @@
 61864. chore: rename env.example #61864
 74045. style: reformat files with black #74045
 72489. docs: clarify environment setup #72489
+59754. perf: lazy-load components #59754
