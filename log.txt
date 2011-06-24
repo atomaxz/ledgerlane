@@ -8467,3 +8467,4 @@
 7301. refactor: remove redundant code blocks #7301
 70432. refactor: refactor quiz grading logic #70432
 63455. test: test user registration edge cases #63455
+54482. fix: fix null pointer exception on login #54482
