@@ -8466,3 +8466,4 @@
 20275. test: test user registration edge cases #20275
 7301. refactor: remove redundant code blocks #7301
 70432. refactor: refactor quiz grading logic #70432
+63455. test: test user registration edge cases #63455
