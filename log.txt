@@ -9464,3 +9464,4 @@
 59754. perf: lazy-load components #59754
 64350. fix: fix broken CSS in mobile view #64350
 41099. refactor: clean up auth middleware #41099
+34235. feat: add export to CSV option #34235
