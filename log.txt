@@ -9467,3 +9467,4 @@
 34235. feat: add export to CSV option #34235
 51279. fix: handle 500 error in quiz API #51279
 45333. refactor: refactor quiz grading logic #45333
+51152. perf: lazy-load components #51152
