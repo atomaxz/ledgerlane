@@ -9473,3 +9473,4 @@
 57252. docs: write FAQ section #57252
 96387. feat: implement quiz timer feature #96387
 19190. chore: clean up unused files #19190
+60624. perf: reduce image load time #60624
