@@ -9472,3 +9472,4 @@
 2655. fix: handle 500 error in quiz API #2655
 57252. docs: write FAQ section #57252
 96387. feat: implement quiz timer feature #96387
+19190. chore: clean up unused files #19190
