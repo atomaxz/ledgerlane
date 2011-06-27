@@ -7451,3 +7451,4 @@
 31131. refactor: remove redundant code blocks #31131
 52538. chore: add GitHub actions badge #52538
 13988. fix: fix broken CSS in mobile view #13988
+1479. fix: prevent crash on empty input #1479
