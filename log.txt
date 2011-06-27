@@ -6449,3 +6449,4 @@
 28192. chore: update .gitignore #28192
 13190. feat: add export to CSV option #13190
 69668. docs: write FAQ section #69668
+93937. docs: update README with setup steps #93937
