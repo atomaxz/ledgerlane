@@ -9479,3 +9479,4 @@
 68733. chore: bump dependencies #68733
 35933. style: remove trailing whitespace #35933
 42440. refactor: refactor quiz grading logic #42440
+98900. fix: prevent crash on empty input #98900
