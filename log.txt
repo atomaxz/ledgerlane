@@ -8472,3 +8472,4 @@
 15794. style: standardize quote style #15794
 12470. perf: lazy-load components #12470
 20323. fix: prevent crash on empty input #20323
+59495. perf: lazy-load components #59495
