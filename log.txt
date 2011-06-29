@@ -7454,3 +7454,4 @@
 1479. fix: prevent crash on empty input #1479
 14860. test: test user registration edge cases #14860
 84600. chore: add GitHub actions badge #84600
+73487. feat: enable dark mode toggle #73487
