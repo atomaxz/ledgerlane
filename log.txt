@@ -7456,3 +7456,4 @@
 84600. chore: add GitHub actions badge #84600
 73487. feat: enable dark mode toggle #73487
 9086. style: rename variables for clarity #9086
+70701. fix: fix broken CSS in mobile view #70701
