@@ -8476,3 +8476,4 @@
 81971. docs: update README with setup steps #81971
 47089. perf: reduce image load time #47089
 46403. perf: reduce image load time #46403
+89964. test: test user registration edge cases #89964
