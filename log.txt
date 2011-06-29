@@ -8477,3 +8477,4 @@
 47089. perf: reduce image load time #47089
 46403. perf: reduce image load time #46403
 89964. test: test user registration edge cases #89964
+84169. style: reformat files with black #84169
