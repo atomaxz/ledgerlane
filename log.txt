@@ -8474,3 +8474,4 @@
 20323. fix: prevent crash on empty input #20323
 59495. perf: lazy-load components #59495
 81971. docs: update README with setup steps #81971
+47089. perf: reduce image load time #47089
