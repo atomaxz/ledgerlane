@@ -7458,3 +7458,4 @@
 9086. style: rename variables for clarity #9086
 70701. fix: fix broken CSS in mobile view #70701
 54838. perf: cache repeated calculations #54838
+65869. style: apply consistent indentation #65869
