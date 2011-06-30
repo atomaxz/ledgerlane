@@ -8480,3 +8480,4 @@
 84169. style: reformat files with black #84169
 13702. perf: reduce image load time #13702
 27431. perf: lazy-load components #27431
+77067. style: remove trailing whitespace #77067
