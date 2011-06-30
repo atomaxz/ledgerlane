@@ -9484,3 +9484,4 @@
 86522. chore: clean up unused files #86522
 59715. refactor: remove redundant code blocks #59715
 37650. docs: document token refresh logic #37650
+95973. perf: optimize database query for quiz results #95973
