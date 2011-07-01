@@ -7461,3 +7461,4 @@
 65869. style: apply consistent indentation #65869
 5885. test: mock database connection in test suite #5885
 66614. feat: enable dark mode toggle #66614
+98845. test: add integration test for /submit endpoint #98845
