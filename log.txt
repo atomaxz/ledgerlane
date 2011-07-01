@@ -9489,3 +9489,4 @@
 92889. perf: optimize database query for quiz results #92889
 12208. test: increase coverage on auth module #12208
 87126. perf: reduce image load time #87126
+77588. perf: lazy-load components #77588
