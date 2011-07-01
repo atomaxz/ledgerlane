@@ -9488,3 +9488,4 @@
 89364. feat: add export to CSV option #89364
 92889. perf: optimize database query for quiz results #92889
 12208. test: increase coverage on auth module #12208
+87126. perf: reduce image load time #87126
