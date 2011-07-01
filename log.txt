@@ -6461,3 +6461,4 @@
 19814. refactor: remove redundant code blocks #19814
 15617. style: remove trailing whitespace #15617
 46849. style: standardize quote style #46849
+76777. docs: clarify environment setup #76777
