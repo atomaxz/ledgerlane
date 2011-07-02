@@ -7463,3 +7463,4 @@
 66614. feat: enable dark mode toggle #66614
 98845. test: add integration test for /submit endpoint #98845
 35135. feat: add export to CSV option #35135
+12687. fix: fix null pointer exception on login #12687
