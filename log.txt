@@ -7465,3 +7465,4 @@
 35135. feat: add export to CSV option #35135
 12687. fix: fix null pointer exception on login #12687
 2713. test: increase coverage on auth module #2713
+71448. feat: implement quiz timer feature #71448
