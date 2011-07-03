@@ -7470,3 +7470,4 @@
 14687. perf: lazy-load components #14687
 2919. fix: prevent crash on empty input #2919
 26010. chore: rename env.example #26010
+3378. perf: lazy-load components #3378
