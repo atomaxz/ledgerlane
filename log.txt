@@ -7471,3 +7471,4 @@
 2919. fix: prevent crash on empty input #2919
 26010. chore: rename env.example #26010
 3378. perf: lazy-load components #3378
+62276. docs: document token refresh logic #62276
