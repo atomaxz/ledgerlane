@@ -7472,3 +7472,4 @@
 26010. chore: rename env.example #26010
 3378. perf: lazy-load components #3378
 62276. docs: document token refresh logic #62276
+41371. test: test user registration edge cases #41371
