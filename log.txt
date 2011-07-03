@@ -7468,3 +7468,4 @@
 71448. feat: implement quiz timer feature #71448
 98980. refactor: remove redundant code blocks #98980
 14687. perf: lazy-load components #14687
+2919. fix: prevent crash on empty input #2919
