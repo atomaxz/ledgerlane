@@ -7467,3 +7467,4 @@
 2713. test: increase coverage on auth module #2713
 71448. feat: implement quiz timer feature #71448
 98980. refactor: remove redundant code blocks #98980
+14687. perf: lazy-load components #14687
