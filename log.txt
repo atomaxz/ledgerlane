@@ -9494,3 +9494,4 @@
 80734. feat: add user authentication #80734
 29092. docs: write FAQ section #29092
 60884. refactor: organize models into subfolders #60884
+92050. fix: prevent crash on empty input #92050
