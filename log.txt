@@ -6469,3 +6469,4 @@
 23948. chore: clean up unused files #23948
 54537. docs: clarify environment setup #54537
 89414. test: add unit test for quiz service #89414
+41621. feat: support email verification #41621
