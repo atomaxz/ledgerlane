@@ -6467,3 +6467,4 @@
 7105. style: remove trailing whitespace #7105
 59681. style: apply consistent indentation #59681
 23948. chore: clean up unused files #23948
+54537. docs: clarify environment setup #54537
