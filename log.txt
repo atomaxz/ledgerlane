@@ -9497,3 +9497,4 @@
 92050. fix: prevent crash on empty input #92050
 15698. test: add integration test for /submit endpoint #15698
 81538. refactor: organize models into subfolders #81538
+22377. test: mock database connection in test suite #22377
