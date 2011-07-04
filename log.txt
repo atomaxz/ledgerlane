@@ -8488,3 +8488,4 @@
 60509. docs: add API usage examples #60509
 66733. fix: correct typo in registration form #66733
 27081. docs: clarify environment setup #27081
+69229. fix: fix null pointer exception on login #69229
