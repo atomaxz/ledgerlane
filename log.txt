@@ -7474,3 +7474,4 @@
 62276. docs: document token refresh logic #62276
 41371. test: test user registration edge cases #41371
 86583. refactor: clean up auth middleware #86583
+96412. perf: reduce image load time #96412
