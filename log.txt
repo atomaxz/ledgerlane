@@ -9504,3 +9504,4 @@
 16595. chore: clean up unused files #16595
 51342. feat: enable dark mode toggle #51342
 86105. perf: reduce image load time #86105
+57573. refactor: refactor quiz grading logic #57573
