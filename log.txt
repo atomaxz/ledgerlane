@@ -8494,3 +8494,4 @@
 64777. docs: write FAQ section #64777
 50371. fix: resolve issue with date parsing #50371
 14323. fix: prevent crash on empty input #14323
+88378. test: add unit test for quiz service #88378
