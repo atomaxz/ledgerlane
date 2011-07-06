@@ -6473,3 +6473,4 @@
 89589. style: rename variables for clarity #89589
 1697. feat: implement quiz timer feature #1697
 37311. fix: fix broken CSS in mobile view #37311
+25134. style: remove trailing whitespace #25134
