@@ -9509,3 +9509,4 @@
 12301. feat: add user authentication #12301
 36220. chore: add GitHub actions badge #36220
 31492. fix: handle 500 error in quiz API #31492
+92704. fix: resolve issue with date parsing #92704
