@@ -9510,3 +9510,4 @@
 36220. chore: add GitHub actions badge #36220
 31492. fix: handle 500 error in quiz API #31492
 92704. fix: resolve issue with date parsing #92704
+5390. fix: handle 500 error in quiz API #5390
