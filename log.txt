@@ -7484,3 +7484,4 @@
 32525. refactor: remove redundant code blocks #32525
 34461. fix: handle 500 error in quiz API #34461
 68634. refactor: remove redundant code blocks #68634
+70556. chore: rename env.example #70556
