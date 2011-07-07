@@ -7486,3 +7486,4 @@
 68634. refactor: remove redundant code blocks #68634
 70556. chore: rename env.example #70556
 34538. refactor: remove redundant code blocks #34538
+9932. chore: add GitHub actions badge #9932
