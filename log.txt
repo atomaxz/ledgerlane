@@ -9515,3 +9515,4 @@
 5538. style: remove trailing whitespace #5538
 29197. fix: correct typo in registration form #29197
 27642. perf: optimize database query for quiz results #27642
+72757. test: add unit test for quiz service #72757
