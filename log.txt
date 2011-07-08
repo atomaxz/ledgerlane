@@ -9513,3 +9513,4 @@
 5390. fix: handle 500 error in quiz API #5390
 74298. docs: clarify environment setup #74298
 5538. style: remove trailing whitespace #5538
+29197. fix: correct typo in registration form #29197
