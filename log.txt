@@ -8498,3 +8498,4 @@
 14744. fix: correct typo in registration form #14744
 95945. refactor: organize models into subfolders #95945
 3615. feat: add export to CSV option #3615
+80917. perf: lazy-load components #80917
