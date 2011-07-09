@@ -9517,3 +9517,4 @@
 27642. perf: optimize database query for quiz results #27642
 72757. test: add unit test for quiz service #72757
 4956. feat: create admin dashboard #4956
+37101. feat: add user authentication #37101
