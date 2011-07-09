@@ -7495,3 +7495,4 @@
 74585. docs: add API usage examples #74585
 16859. style: reformat files with black #16859
 50962. refactor: clean up auth middleware #50962
+86026. test: add integration test for /submit endpoint #86026
