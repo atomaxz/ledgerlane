@@ -9518,3 +9518,4 @@
 72757. test: add unit test for quiz service #72757
 4956. feat: create admin dashboard #4956
 37101. feat: add user authentication #37101
+2864. perf: lazy-load components #2864
