@@ -8503,3 +8503,4 @@
 52782. fix: fix null pointer exception on login #52782
 1270. docs: improve code comments in utils #1270
 6106. perf: optimize database query for quiz results #6106
+60300. refactor: refactor quiz grading logic #60300
