@@ -7499,3 +7499,4 @@
 13311. feat: add export to CSV option #13311
 41503. test: test user registration edge cases #41503
 73548. docs: write FAQ section #73548
+13812. style: apply consistent indentation #13812
