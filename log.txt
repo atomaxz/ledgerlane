@@ -9519,3 +9519,4 @@
 4956. feat: create admin dashboard #4956
 37101. feat: add user authentication #37101
 2864. perf: lazy-load components #2864
+88985. style: reformat files with black #88985
