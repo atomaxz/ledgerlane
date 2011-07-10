@@ -6479,3 +6479,4 @@
 8633. docs: document token refresh logic #8633
 70019. test: mock database connection in test suite #70019
 65724. refactor: remove redundant code blocks #65724
+1141. feat: support email verification #1141
