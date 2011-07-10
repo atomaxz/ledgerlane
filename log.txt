@@ -8506,3 +8506,4 @@
 60300. refactor: refactor quiz grading logic #60300
 20397. docs: document token refresh logic #20397
 35151. fix: resolve issue with date parsing #35151
+16971. feat: add user authentication #16971
