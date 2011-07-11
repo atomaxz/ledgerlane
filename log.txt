@@ -6484,3 +6484,4 @@
 15876. docs: add API usage examples #15876
 29647. feat: support email verification #29647
 49738. perf: cache repeated calculations #49738
+93840. fix: correct typo in registration form #93840
