@@ -7504,3 +7504,4 @@
 82813. docs: update README with setup steps #82813
 18376. perf: reduce image load time #18376
 79990. fix: fix broken CSS in mobile view #79990
+10337. chore: bump dependencies #10337
