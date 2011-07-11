@@ -9524,3 +9524,4 @@
 42185. docs: improve code comments in utils #42185
 79968. docs: improve code comments in utils #79968
 53306. test: add integration test for /submit endpoint #53306
+48502. perf: lazy-load components #48502
