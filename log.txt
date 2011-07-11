@@ -7503,3 +7503,4 @@
 8050. feat: implement quiz timer feature #8050
 82813. docs: update README with setup steps #82813
 18376. perf: reduce image load time #18376
+79990. fix: fix broken CSS in mobile view #79990
