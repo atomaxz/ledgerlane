@@ -6482,3 +6482,4 @@
 1141. feat: support email verification #1141
 32624. test: add unit test for quiz service #32624
 15876. docs: add API usage examples #15876
+29647. feat: support email verification #29647
