@@ -7507,3 +7507,4 @@
 10337. chore: bump dependencies #10337
 0843. perf: reduce image load time #843
 35613. feat: enable dark mode toggle #35613
+93875. style: apply consistent indentation #93875
