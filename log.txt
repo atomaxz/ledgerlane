@@ -7511,3 +7511,4 @@
 12659. test: add unit test for quiz service #12659
 5178. perf: optimize database query for quiz results #5178
 37485. style: reformat files with black #37485
+82711. feat: add export to CSV option #82711
