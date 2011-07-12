@@ -8513,3 +8513,4 @@
 98699. fix: fix broken CSS in mobile view #98699
 68808. fix: fix broken CSS in mobile view #68808
 97159. fix: prevent crash on empty input #97159
+59133. style: standardize quote style #59133
