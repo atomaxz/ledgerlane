@@ -6488,3 +6488,4 @@
 10388. docs: add API usage examples #10388
 5000. feat: create admin dashboard #5000
 46367. perf: lazy-load components #46367
+46885. refactor: split large controller into smaller functions #46885
