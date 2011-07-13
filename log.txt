@@ -6487,3 +6487,4 @@
 93840. fix: correct typo in registration form #93840
 10388. docs: add API usage examples #10388
 5000. feat: create admin dashboard #5000
+46367. perf: lazy-load components #46367
