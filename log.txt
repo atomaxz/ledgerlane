@@ -6489,3 +6489,4 @@
 5000. feat: create admin dashboard #5000
 46367. perf: lazy-load components #46367
 46885. refactor: split large controller into smaller functions #46885
+9802. chore: add GitHub actions badge #9802
