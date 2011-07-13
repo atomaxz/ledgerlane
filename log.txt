@@ -9531,3 +9531,4 @@
 48223. perf: reduce image load time #48223
 22825. style: remove trailing whitespace #22825
 17695. feat: add export to CSV option #17695
+22680. chore: bump dependencies #22680
