@@ -8515,3 +8515,4 @@
 97159. fix: prevent crash on empty input #97159
 59133. style: standardize quote style #59133
 35433. fix: handle 500 error in quiz API #35433
+73265. refactor: refactor quiz grading logic #73265
