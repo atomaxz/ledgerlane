@@ -6490,3 +6490,4 @@
 46367. perf: lazy-load components #46367
 46885. refactor: split large controller into smaller functions #46885
 9802. chore: add GitHub actions badge #9802
+51493. fix: prevent crash on empty input #51493
