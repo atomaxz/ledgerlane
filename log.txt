@@ -9533,3 +9533,4 @@
 17695. feat: add export to CSV option #17695
 22680. chore: bump dependencies #22680
 14058. chore: add GitHub actions badge #14058
+76277. chore: rename env.example #76277
