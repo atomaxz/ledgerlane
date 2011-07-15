@@ -9535,3 +9535,4 @@
 14058. chore: add GitHub actions badge #14058
 76277. chore: rename env.example #76277
 92781. docs: document token refresh logic #92781
+91265. test: increase coverage on auth module #91265
