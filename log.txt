@@ -6494,3 +6494,4 @@
 0658. style: apply consistent indentation #658
 79176. feat: add export to CSV option #79176
 56404. docs: update README with setup steps #56404
+92745. perf: lazy-load components #92745
