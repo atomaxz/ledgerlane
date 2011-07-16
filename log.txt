@@ -9537,3 +9537,4 @@
 92781. docs: document token refresh logic #92781
 91265. test: increase coverage on auth module #91265
 17199. fix: correct typo in registration form #17199
+6124. style: remove trailing whitespace #6124
