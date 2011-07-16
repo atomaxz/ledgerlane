@@ -9536,3 +9536,4 @@
 76277. chore: rename env.example #76277
 92781. docs: document token refresh logic #92781
 91265. test: increase coverage on auth module #91265
+17199. fix: correct typo in registration form #17199
