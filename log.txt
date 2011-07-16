@@ -8522,3 +8522,4 @@
 90613. docs: improve code comments in utils #90613
 12256. fix: resolve issue with date parsing #12256
 61552. test: increase coverage on auth module #61552
+40722. refactor: split large controller into smaller functions #40722
