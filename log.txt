@@ -8525,3 +8525,4 @@
 40722. refactor: split large controller into smaller functions #40722
 16318. refactor: remove redundant code blocks #16318
 25627. chore: clean up unused files #25627
+62163. refactor: clean up auth middleware #62163
