@@ -7522,3 +7522,4 @@
 9034. feat: add export to CSV option #9034
 26442. docs: improve code comments in utils #26442
 61730. chore: clean up unused files #61730
+89283. fix: correct typo in registration form #89283
