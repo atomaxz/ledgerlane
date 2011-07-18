@@ -8533,3 +8533,4 @@
 77826. feat: add export to CSV option #77826
 80441. fix: resolve issue with date parsing #80441
 47034. perf: reduce image load time #47034
+61856. style: apply consistent indentation #61856
