@@ -8531,3 +8531,4 @@
 8112. fix: fix null pointer exception on login #8112
 24823. test: add integration test for /submit endpoint #24823
 77826. feat: add export to CSV option #77826
+80441. fix: resolve issue with date parsing #80441
