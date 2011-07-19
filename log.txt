@@ -8535,3 +8535,4 @@
 47034. perf: reduce image load time #47034
 61856. style: apply consistent indentation #61856
 97846. test: add unit test for quiz service #97846
+84500. chore: add GitHub actions badge #84500
