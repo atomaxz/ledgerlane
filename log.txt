@@ -7525,3 +7525,4 @@
 89283. fix: correct typo in registration form #89283
 23764. chore: rename env.example #23764
 75665. refactor: split large controller into smaller functions #75665
+71643. test: add integration test for /submit endpoint #71643
