@@ -8537,3 +8537,4 @@
 97846. test: add unit test for quiz service #97846
 84500. chore: add GitHub actions badge #84500
 27982. perf: optimize database query for quiz results #27982
+48958. perf: reduce image load time #48958
