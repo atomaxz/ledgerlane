@@ -9549,3 +9549,4 @@
 89516. style: reformat files with black #89516
 14284. perf: optimize database query for quiz results #14284
 19308. fix: resolve issue with date parsing #19308
+6854. style: standardize quote style #6854
