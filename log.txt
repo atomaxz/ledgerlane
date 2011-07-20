@@ -8540,3 +8540,4 @@
 48958. perf: reduce image load time #48958
 99982. docs: add API usage examples #99982
 43133. docs: document token refresh logic #43133
+20399. perf: optimize database query for quiz results #20399
