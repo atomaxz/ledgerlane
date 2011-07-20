@@ -9552,3 +9552,4 @@
 6854. style: standardize quote style #6854
 71937. refactor: clean up auth middleware #71937
 20001. style: remove trailing whitespace #20001
+94182. fix: handle 500 error in quiz API #94182
