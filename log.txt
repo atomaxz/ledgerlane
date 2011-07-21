@@ -7530,3 +7530,4 @@
 7482. feat: add user authentication #7482
 65696. style: apply consistent indentation #65696
 4201. perf: optimize database query for quiz results #4201
+94031. feat: support email verification #94031
