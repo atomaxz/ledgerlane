@@ -6507,3 +6507,4 @@
 18795. refactor: remove redundant code blocks #18795
 19168. fix: correct typo in registration form #19168
 74966. fix: correct typo in registration form #74966
+82202. test: add integration test for /submit endpoint #82202
