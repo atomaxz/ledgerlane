@@ -8548,3 +8548,4 @@
 50143. perf: lazy-load components #50143
 86343. style: remove trailing whitespace #86343
 29133. style: apply consistent indentation #29133
+41051. fix: correct typo in registration form #41051
