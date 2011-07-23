@@ -9559,3 +9559,4 @@
 47545. feat: support email verification #47545
 82418. docs: clarify environment setup #82418
 4029. docs: update README with setup steps #4029
+95114. style: reformat files with black #95114
