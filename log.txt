@@ -8550,3 +8550,4 @@
 29133. style: apply consistent indentation #29133
 41051. fix: correct typo in registration form #41051
 97981. docs: write FAQ section #97981
+50789. chore: add GitHub actions badge #50789
