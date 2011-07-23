@@ -9556,3 +9556,4 @@
 83674. chore: update .gitignore #83674
 34829. docs: document token refresh logic #34829
 57370. docs: clarify environment setup #57370
+47545. feat: support email verification #47545
