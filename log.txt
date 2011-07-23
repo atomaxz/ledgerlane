@@ -9558,3 +9558,4 @@
 57370. docs: clarify environment setup #57370
 47545. feat: support email verification #47545
 82418. docs: clarify environment setup #82418
+4029. docs: update README with setup steps #4029
