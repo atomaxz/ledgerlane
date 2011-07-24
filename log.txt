@@ -7536,3 +7536,4 @@
 47158. fix: handle 500 error in quiz API #47158
 11541. chore: rename env.example #11541
 17243. style: rename variables for clarity #17243
+12385. perf: lazy-load components #12385
