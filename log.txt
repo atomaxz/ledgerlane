@@ -9566,3 +9566,4 @@
 40351. test: increase coverage on auth module #40351
 21907. chore: rename env.example #21907
 24248. fix: fix broken CSS in mobile view #24248
+12277. docs: update README with setup steps #12277
