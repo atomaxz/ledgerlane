@@ -6515,3 +6515,4 @@
 58863. chore: bump dependencies #58863
 99938. chore: add GitHub actions badge #99938
 6791. docs: add API usage examples #6791
+30259. test: mock database connection in test suite #30259
