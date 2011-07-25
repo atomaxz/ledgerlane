@@ -6518,3 +6518,4 @@
 30259. test: mock database connection in test suite #30259
 34401. style: remove trailing whitespace #34401
 39169. fix: fix null pointer exception on login #39169
+46175. chore: update .gitignore #46175
