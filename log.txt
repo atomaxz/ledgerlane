@@ -9568,3 +9568,4 @@
 24248. fix: fix broken CSS in mobile view #24248
 12277. docs: update README with setup steps #12277
 79643. perf: reduce image load time #79643
+13978. chore: bump dependencies #13978
