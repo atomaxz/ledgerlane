@@ -8555,3 +8555,4 @@
 76086. refactor: refactor quiz grading logic #76086
 66777. test: test user registration edge cases #66777
 69516. perf: reduce image load time #69516
+96926. test: mock database connection in test suite #96926
