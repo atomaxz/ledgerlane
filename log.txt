@@ -8560,3 +8560,4 @@
 49424. fix: fix null pointer exception on login #49424
 51734. docs: improve code comments in utils #51734
 97736. perf: cache repeated calculations #97736
+52417. refactor: organize models into subfolders #52417
