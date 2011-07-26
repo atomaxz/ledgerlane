@@ -9569,3 +9569,4 @@
 12277. docs: update README with setup steps #12277
 79643. perf: reduce image load time #79643
 13978. chore: bump dependencies #13978
+47007. fix: resolve issue with date parsing #47007
