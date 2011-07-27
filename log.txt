@@ -8563,3 +8563,4 @@
 52417. refactor: organize models into subfolders #52417
 81857. fix: handle 500 error in quiz API #81857
 34045. style: standardize quote style #34045
+17497. refactor: refactor quiz grading logic #17497
