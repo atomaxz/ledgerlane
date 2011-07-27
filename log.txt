@@ -9572,3 +9572,4 @@
 47007. fix: resolve issue with date parsing #47007
 73129. test: add unit test for quiz service #73129
 99519. refactor: split large controller into smaller functions #99519
+47533. docs: write FAQ section #47533
