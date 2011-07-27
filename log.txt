@@ -8562,3 +8562,4 @@
 97736. perf: cache repeated calculations #97736
 52417. refactor: organize models into subfolders #52417
 81857. fix: handle 500 error in quiz API #81857
+34045. style: standardize quote style #34045
