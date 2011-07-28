@@ -9573,3 +9573,4 @@
 73129. test: add unit test for quiz service #73129
 99519. refactor: split large controller into smaller functions #99519
 47533. docs: write FAQ section #47533
+81947. style: reformat files with black #81947
