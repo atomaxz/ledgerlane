@@ -7542,3 +7542,4 @@
 7564. perf: cache repeated calculations #7564
 40979. feat: implement quiz timer feature #40979
 12675. docs: write FAQ section #12675
+52996. refactor: refactor quiz grading logic #52996
