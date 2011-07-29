@@ -6534,3 +6534,4 @@
 81527. refactor: remove redundant code blocks #81527
 24753. style: remove trailing whitespace #24753
 39007. style: apply consistent indentation #39007
+11588. refactor: split large controller into smaller functions #11588
