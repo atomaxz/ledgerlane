@@ -8565,3 +8565,4 @@
 34045. style: standardize quote style #34045
 17497. refactor: refactor quiz grading logic #17497
 86323. chore: rename env.example #86323
+48468. test: increase coverage on auth module #48468
