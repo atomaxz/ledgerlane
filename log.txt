@@ -6538,3 +6538,4 @@
 54317. feat: add export to CSV option #54317
 19763. test: increase coverage on auth module #19763
 50003. fix: fix broken CSS in mobile view #50003
+25715. fix: prevent crash on empty input #25715
