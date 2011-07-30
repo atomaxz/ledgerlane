@@ -7548,3 +7548,4 @@
 30455. style: reformat files with black #30455
 63500. fix: resolve issue with date parsing #63500
 22038. feat: add export to CSV option #22038
+71314. perf: lazy-load components #71314
