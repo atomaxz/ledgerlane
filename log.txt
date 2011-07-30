@@ -8567,3 +8567,4 @@
 86323. chore: rename env.example #86323
 48468. test: increase coverage on auth module #48468
 18835. style: remove trailing whitespace #18835
+45377. perf: optimize database query for quiz results #45377
