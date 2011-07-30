@@ -6540,3 +6540,4 @@
 50003. fix: fix broken CSS in mobile view #50003
 25715. fix: prevent crash on empty input #25715
 79486. refactor: clean up auth middleware #79486
+23892. test: test user registration edge cases #23892
