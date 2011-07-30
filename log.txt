@@ -9576,3 +9576,4 @@
 81947. style: reformat files with black #81947
 54493. test: add integration test for /submit endpoint #54493
 63259. fix: resolve issue with date parsing #63259
+98677. chore: add GitHub actions badge #98677
