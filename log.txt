@@ -6541,3 +6541,4 @@
 25715. fix: prevent crash on empty input #25715
 79486. refactor: clean up auth middleware #79486
 23892. test: test user registration edge cases #23892
+24277. docs: write FAQ section #24277
