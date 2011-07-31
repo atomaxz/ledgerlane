@@ -7550,3 +7550,4 @@
 22038. feat: add export to CSV option #22038
 71314. perf: lazy-load components #71314
 73241. style: standardize quote style #73241
+86343. style: remove trailing whitespace #86343
