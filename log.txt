@@ -6542,3 +6542,4 @@
 79486. refactor: clean up auth middleware #79486
 23892. test: test user registration edge cases #23892
 24277. docs: write FAQ section #24277
+32465. feat: support email verification #32465
