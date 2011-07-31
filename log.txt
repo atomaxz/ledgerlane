@@ -7551,3 +7551,4 @@
 71314. perf: lazy-load components #71314
 73241. style: standardize quote style #73241
 86343. style: remove trailing whitespace #86343
+12265. test: mock database connection in test suite #12265
