@@ -6543,3 +6543,4 @@
 23892. test: test user registration edge cases #23892
 24277. docs: write FAQ section #24277
 32465. feat: support email verification #32465
+17393. fix: correct typo in registration form #17393
