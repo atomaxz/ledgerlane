@@ -7554,3 +7554,4 @@
 12265. test: mock database connection in test suite #12265
 78660. feat: add export to CSV option #78660
 4680. feat: implement quiz timer feature #4680
+72570. test: increase coverage on auth module #72570
