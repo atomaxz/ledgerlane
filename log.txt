@@ -8571,3 +8571,4 @@
 9661. style: standardize quote style #9661
 80005. docs: clarify environment setup #80005
 28677. refactor: split large controller into smaller functions #28677
+24090. chore: add GitHub actions badge #24090
