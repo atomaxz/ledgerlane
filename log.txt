@@ -6546,3 +6546,4 @@
 17393. fix: correct typo in registration form #17393
 79328. style: reformat files with black #79328
 81512. feat: enable dark mode toggle #81512
+96211. chore: bump dependencies #96211
