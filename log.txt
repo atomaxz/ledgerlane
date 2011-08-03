@@ -8576,3 +8576,4 @@
 30080. perf: optimize database query for quiz results #30080
 95201. feat: implement quiz timer feature #95201
 25021. perf: optimize database query for quiz results #25021
+83406. test: test user registration edge cases #83406
