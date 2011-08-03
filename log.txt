@@ -6549,3 +6549,4 @@
 96211. chore: bump dependencies #96211
 22243. perf: optimize database query for quiz results #22243
 28531. fix: fix null pointer exception on login #28531
+25616. docs: update README with setup steps #25616
