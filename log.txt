@@ -7561,3 +7561,4 @@
 21825. test: test user registration edge cases #21825
 18804. style: remove trailing whitespace #18804
 76234. style: apply consistent indentation #76234
+37734. fix: fix broken CSS in mobile view #37734
