@@ -9586,3 +9586,4 @@
 43987. docs: clarify environment setup #43987
 22732. chore: bump dependencies #22732
 31340. style: rename variables for clarity #31340
+48476. docs: update README with setup steps #48476
