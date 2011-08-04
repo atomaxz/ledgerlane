@@ -8579,3 +8579,4 @@
 83406. test: test user registration edge cases #83406
 75066. perf: lazy-load components #75066
 68770. feat: support email verification #68770
+47759. docs: clarify environment setup #47759
