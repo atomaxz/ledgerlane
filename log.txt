@@ -6554,3 +6554,4 @@
 39321. docs: improve code comments in utils #39321
 80329. docs: write FAQ section #80329
 34836. perf: optimize database query for quiz results #34836
+37029. test: add integration test for /submit endpoint #37029
