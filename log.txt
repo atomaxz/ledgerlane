@@ -7568,3 +7568,4 @@
 69232. feat: add export to CSV option #69232
 50122. docs: write FAQ section #50122
 40063. fix: fix broken CSS in mobile view #40063
+41808. refactor: clean up auth middleware #41808
