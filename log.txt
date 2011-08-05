@@ -7564,3 +7564,4 @@
 37734. fix: fix broken CSS in mobile view #37734
 29060. style: rename variables for clarity #29060
 62876. fix: prevent crash on empty input #62876
+67367. style: apply consistent indentation #67367
