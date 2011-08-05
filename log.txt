@@ -9589,3 +9589,4 @@
 48476. docs: update README with setup steps #48476
 35723. refactor: split large controller into smaller functions #35723
 25914. docs: clarify environment setup #25914
+3683. feat: add user authentication #3683
