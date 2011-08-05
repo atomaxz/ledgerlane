@@ -7566,3 +7566,4 @@
 62876. fix: prevent crash on empty input #62876
 67367. style: apply consistent indentation #67367
 69232. feat: add export to CSV option #69232
+50122. docs: write FAQ section #50122
