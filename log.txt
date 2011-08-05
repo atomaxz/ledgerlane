@@ -7571,3 +7571,4 @@
 41808. refactor: clean up auth middleware #41808
 29196. chore: add GitHub actions badge #29196
 81585. docs: clarify environment setup #81585
+77931. feat: enable dark mode toggle #77931
