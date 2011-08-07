@@ -8584,3 +8584,4 @@
 48157. feat: add user authentication #48157
 90704. feat: create admin dashboard #90704
 19511. feat: add export to CSV option #19511
+19427. style: standardize quote style #19427
