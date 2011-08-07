@@ -9594,3 +9594,4 @@
 31816. feat: add export to CSV option #31816
 67990. docs: improve code comments in utils #67990
 12047. refactor: split large controller into smaller functions #12047
+45432. style: remove trailing whitespace #45432
