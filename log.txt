@@ -7574,3 +7574,4 @@
 77931. feat: enable dark mode toggle #77931
 11514. perf: reduce image load time #11514
 21555. style: reformat files with black #21555
+53485. docs: document token refresh logic #53485
