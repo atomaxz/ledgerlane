@@ -7576,3 +7576,4 @@
 21555. style: reformat files with black #21555
 53485. docs: document token refresh logic #53485
 20835. docs: document token refresh logic #20835
+70450. feat: add user authentication #70450
