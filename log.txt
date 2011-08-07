@@ -8586,3 +8586,4 @@
 19511. feat: add export to CSV option #19511
 19427. style: standardize quote style #19427
 33598. docs: document token refresh logic #33598
+34089. test: increase coverage on auth module #34089
