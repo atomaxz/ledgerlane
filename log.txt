@@ -9597,3 +9597,4 @@
 45432. style: remove trailing whitespace #45432
 75371. fix: correct typo in registration form #75371
 61228. chore: clean up unused files #61228
+19461. docs: write FAQ section #19461
