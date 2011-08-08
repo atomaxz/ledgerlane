@@ -9598,3 +9598,4 @@
 75371. fix: correct typo in registration form #75371
 61228. chore: clean up unused files #61228
 19461. docs: write FAQ section #19461
+75527. feat: support email verification #75527
