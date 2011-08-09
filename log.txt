@@ -8591,3 +8591,4 @@
 9517. refactor: split large controller into smaller functions #9517
 0741. test: add unit test for quiz service #741
 70871. style: reformat files with black #70871
+80862. fix: fix null pointer exception on login #80862
