@@ -6558,3 +6558,4 @@
 97828. refactor: remove redundant code blocks #97828
 36361. fix: fix null pointer exception on login #36361
 20006. refactor: organize models into subfolders #20006
+66869. style: remove trailing whitespace #66869
