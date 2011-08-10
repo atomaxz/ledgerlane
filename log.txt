@@ -8592,3 +8592,4 @@
 0741. test: add unit test for quiz service #741
 70871. style: reformat files with black #70871
 80862. fix: fix null pointer exception on login #80862
+81599. fix: resolve issue with date parsing #81599
