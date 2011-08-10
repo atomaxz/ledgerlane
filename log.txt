@@ -6559,3 +6559,4 @@
 36361. fix: fix null pointer exception on login #36361
 20006. refactor: organize models into subfolders #20006
 66869. style: remove trailing whitespace #66869
+67366. test: add unit test for quiz service #67366
