@@ -7586,3 +7586,4 @@
 26193. style: standardize quote style #26193
 84017. style: reformat files with black #84017
 93446. fix: resolve issue with date parsing #93446
+93749. fix: fix null pointer exception on login #93749
