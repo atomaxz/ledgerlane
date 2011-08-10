@@ -8595,3 +8595,4 @@
 81599. fix: resolve issue with date parsing #81599
 74662. fix: fix broken CSS in mobile view #74662
 43010. style: standardize quote style #43010
+7161. fix: handle 500 error in quiz API #7161
