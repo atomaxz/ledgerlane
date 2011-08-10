@@ -8593,3 +8593,4 @@
 70871. style: reformat files with black #70871
 80862. fix: fix null pointer exception on login #80862
 81599. fix: resolve issue with date parsing #81599
+74662. fix: fix broken CSS in mobile view #74662
