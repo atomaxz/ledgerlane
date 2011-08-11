@@ -8596,3 +8596,4 @@
 74662. fix: fix broken CSS in mobile view #74662
 43010. style: standardize quote style #43010
 7161. fix: handle 500 error in quiz API #7161
+32554. chore: rename env.example #32554
