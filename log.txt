@@ -8597,3 +8597,4 @@
 43010. style: standardize quote style #43010
 7161. fix: handle 500 error in quiz API #7161
 32554. chore: rename env.example #32554
+43096. fix: correct typo in registration form #43096
