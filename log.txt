@@ -6564,3 +6564,4 @@
 16612. chore: clean up unused files #16612
 65730. perf: reduce image load time #65730
 11048. feat: create admin dashboard #11048
+84010. test: increase coverage on auth module #84010
