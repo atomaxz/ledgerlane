@@ -6565,3 +6565,4 @@
 65730. perf: reduce image load time #65730
 11048. feat: create admin dashboard #11048
 84010. test: increase coverage on auth module #84010
+92661. fix: handle 500 error in quiz API #92661
