@@ -7596,3 +7596,4 @@
 30052. feat: add export to CSV option #30052
 81932. style: reformat files with black #81932
 30760. style: rename variables for clarity #30760
+0206. docs: write FAQ section #206
