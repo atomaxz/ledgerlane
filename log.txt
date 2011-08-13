@@ -7597,3 +7597,4 @@
 81932. style: reformat files with black #81932
 30760. style: rename variables for clarity #30760
 0206. docs: write FAQ section #206
+51403. refactor: organize models into subfolders #51403
