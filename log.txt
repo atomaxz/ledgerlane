@@ -9609,3 +9609,4 @@
 77635. style: apply consistent indentation #77635
 8830. chore: rename env.example #8830
 56033. style: rename variables for clarity #56033
+33667. feat: support email verification #33667
