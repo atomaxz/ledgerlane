@@ -8604,3 +8604,4 @@
 11082. test: mock database connection in test suite #11082
 41310. style: standardize quote style #41310
 35982. test: increase coverage on auth module #35982
+76347. test: increase coverage on auth module #76347
