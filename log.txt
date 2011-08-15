@@ -6570,3 +6570,4 @@
 89485. style: standardize quote style #89485
 54167. chore: rename env.example #54167
 61989. chore: clean up unused files #61989
+81720. style: remove trailing whitespace #81720
