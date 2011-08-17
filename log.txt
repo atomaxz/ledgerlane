@@ -8610,3 +8610,4 @@
 18987. fix: handle 500 error in quiz API #18987
 33903. style: standardize quote style #33903
 8106. docs: document token refresh logic #8106
+61122. test: add integration test for /submit endpoint #61122
