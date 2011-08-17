@@ -7604,3 +7604,4 @@
 1884. refactor: remove redundant code blocks #1884
 97359. style: apply consistent indentation #97359
 89349. fix: fix null pointer exception on login #89349
+33642. test: add integration test for /submit endpoint #33642
