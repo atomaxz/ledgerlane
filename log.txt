@@ -6576,3 +6576,4 @@
 20443. test: increase coverage on auth module #20443
 45912. fix: handle 500 error in quiz API #45912
 26794. style: apply consistent indentation #26794
+76803. perf: optimize database query for quiz results #76803
