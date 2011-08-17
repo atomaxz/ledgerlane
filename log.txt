@@ -7606,3 +7606,4 @@
 89349. fix: fix null pointer exception on login #89349
 33642. test: add integration test for /submit endpoint #33642
 78740. fix: fix null pointer exception on login #78740
+95992. chore: add GitHub actions badge #95992
