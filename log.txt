@@ -9618,3 +9618,4 @@
 98738. style: reformat files with black #98738
 15635. test: add integration test for /submit endpoint #15635
 3077. style: rename variables for clarity #3077
+82288. fix: handle 500 error in quiz API #82288
