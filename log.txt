@@ -6581,3 +6581,4 @@
 97164. feat: support email verification #97164
 88654. chore: add GitHub actions badge #88654
 2585. refactor: clean up auth middleware #2585
+13423. fix: fix null pointer exception on login #13423
