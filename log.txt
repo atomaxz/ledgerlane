@@ -7609,3 +7609,4 @@
 95992. chore: add GitHub actions badge #95992
 96784. fix: fix broken CSS in mobile view #96784
 91088. feat: implement quiz timer feature #91088
+57045. chore: update .gitignore #57045
