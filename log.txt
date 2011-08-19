@@ -6587,3 +6587,4 @@
 22780. style: remove trailing whitespace #22780
 88824. test: test user registration edge cases #88824
 16451. chore: bump dependencies #16451
+74361. feat: enable dark mode toggle #74361
