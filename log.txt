@@ -6584,3 +6584,4 @@
 13423. fix: fix null pointer exception on login #13423
 79772. feat: create admin dashboard #79772
 42679. chore: add GitHub actions badge #42679
+22780. style: remove trailing whitespace #22780
