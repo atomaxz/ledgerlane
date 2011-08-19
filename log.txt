@@ -7612,3 +7612,4 @@
 57045. chore: update .gitignore #57045
 49379. fix: handle 500 error in quiz API #49379
 77585. refactor: organize models into subfolders #77585
+37539. fix: correct typo in registration form #37539
