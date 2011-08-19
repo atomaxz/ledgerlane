@@ -7610,3 +7610,4 @@
 96784. fix: fix broken CSS in mobile view #96784
 91088. feat: implement quiz timer feature #91088
 57045. chore: update .gitignore #57045
+49379. fix: handle 500 error in quiz API #49379
