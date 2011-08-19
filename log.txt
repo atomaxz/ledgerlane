@@ -6586,3 +6586,4 @@
 42679. chore: add GitHub actions badge #42679
 22780. style: remove trailing whitespace #22780
 88824. test: test user registration edge cases #88824
+16451. chore: bump dependencies #16451
