@@ -7615,3 +7615,4 @@
 37539. fix: correct typo in registration form #37539
 45437. chore: bump dependencies #45437
 74764. perf: lazy-load components #74764
+57877. refactor: refactor quiz grading logic #57877
