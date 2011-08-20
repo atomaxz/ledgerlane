@@ -7614,3 +7614,4 @@
 77585. refactor: organize models into subfolders #77585
 37539. fix: correct typo in registration form #37539
 45437. chore: bump dependencies #45437
+74764. perf: lazy-load components #74764
