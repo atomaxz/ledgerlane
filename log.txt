@@ -7617,3 +7617,4 @@
 74764. perf: lazy-load components #74764
 57877. refactor: refactor quiz grading logic #57877
 73815. refactor: organize models into subfolders #73815
+32874. test: increase coverage on auth module #32874
