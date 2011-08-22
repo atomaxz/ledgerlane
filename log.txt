@@ -7620,3 +7620,4 @@
 32874. test: increase coverage on auth module #32874
 31897. test: add integration test for /submit endpoint #31897
 12499. fix: handle 500 error in quiz API #12499
+77999. feat: support email verification #77999
