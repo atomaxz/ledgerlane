@@ -8632,3 +8632,4 @@
 8288. feat: enable dark mode toggle #8288
 65007. fix: correct typo in registration form #65007
 88610. refactor: remove redundant code blocks #88610
+6473. refactor: split large controller into smaller functions #6473
