@@ -7622,3 +7622,4 @@
 12499. fix: handle 500 error in quiz API #12499
 77999. feat: support email verification #77999
 17117. refactor: organize models into subfolders #17117
+36552. fix: prevent crash on empty input #36552
