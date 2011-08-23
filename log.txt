@@ -9629,3 +9629,4 @@
 93401. refactor: clean up auth middleware #93401
 69343. fix: correct typo in registration form #69343
 43202. feat: support email verification #43202
+1771. docs: improve code comments in utils #1771
