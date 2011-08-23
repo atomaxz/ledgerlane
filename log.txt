@@ -7626,3 +7626,4 @@
 47256. style: standardize quote style #47256
 87241. style: standardize quote style #87241
 84050. test: mock database connection in test suite #84050
+87760. perf: reduce image load time #87760
