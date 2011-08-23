@@ -9631,3 +9631,4 @@
 43202. feat: support email verification #43202
 1771. docs: improve code comments in utils #1771
 12849. chore: update .gitignore #12849
+54142. fix: fix broken CSS in mobile view #54142
