@@ -6596,3 +6596,4 @@
 42722. style: standardize quote style #42722
 71567. refactor: refactor quiz grading logic #71567
 29417. test: mock database connection in test suite #29417
+14488. fix: fix broken CSS in mobile view #14488
