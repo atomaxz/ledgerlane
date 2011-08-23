@@ -7628,3 +7628,4 @@
 84050. test: mock database connection in test suite #84050
 87760. perf: reduce image load time #87760
 78716. test: add unit test for quiz service #78716
+9707. perf: reduce image load time #9707
