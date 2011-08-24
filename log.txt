@@ -6599,3 +6599,4 @@
 14488. fix: fix broken CSS in mobile view #14488
 52850. docs: update README with setup steps #52850
 5934. refactor: organize models into subfolders #5934
+69359. chore: update .gitignore #69359
