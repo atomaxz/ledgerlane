@@ -8636,3 +8636,4 @@
 66008. test: test user registration edge cases #66008
 4293. feat: add export to CSV option #4293
 83033. style: reformat files with black #83033
+57734. refactor: organize models into subfolders #57734
