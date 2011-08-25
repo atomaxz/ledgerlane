@@ -7631,3 +7631,4 @@
 9707. perf: reduce image load time #9707
 49659. docs: clarify environment setup #49659
 87019. chore: rename env.example #87019
+77848. style: reformat files with black #77848
