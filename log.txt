@@ -8642,3 +8642,4 @@
 54043. perf: lazy-load components #54043
 70526. style: reformat files with black #70526
 65157. test: add unit test for quiz service #65157
+41546. fix: fix null pointer exception on login #41546
