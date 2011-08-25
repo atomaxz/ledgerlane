@@ -9637,3 +9637,4 @@
 88810. docs: update README with setup steps #88810
 74873. style: standardize quote style #74873
 68444. docs: clarify environment setup #68444
+96747. fix: fix null pointer exception on login #96747
