@@ -6605,3 +6605,4 @@
 99879. perf: lazy-load components #99879
 1540. docs: update README with setup steps #1540
 91392. docs: clarify environment setup #91392
+38530. chore: clean up unused files #38530
