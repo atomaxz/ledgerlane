@@ -8639,3 +8639,4 @@
 57734. refactor: organize models into subfolders #57734
 14902. chore: clean up unused files #14902
 35494. refactor: remove redundant code blocks #35494
+54043. perf: lazy-load components #54043
