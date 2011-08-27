@@ -8643,3 +8643,4 @@
 70526. style: reformat files with black #70526
 65157. test: add unit test for quiz service #65157
 41546. fix: fix null pointer exception on login #41546
+72716. feat: add user authentication #72716
