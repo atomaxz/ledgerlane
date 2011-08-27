@@ -6612,3 +6612,4 @@
 80869. docs: improve code comments in utils #80869
 17791. fix: fix null pointer exception on login #17791
 8385. feat: add user authentication #8385
+7533. fix: correct typo in registration form #7533
