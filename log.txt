@@ -9643,3 +9643,4 @@
 2882. perf: reduce image load time #2882
 89055. feat: enable dark mode toggle #89055
 81213. feat: create admin dashboard #81213
+77664. fix: fix broken CSS in mobile view #77664
