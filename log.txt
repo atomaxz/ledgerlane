@@ -6607,3 +6607,4 @@
 91392. docs: clarify environment setup #91392
 38530. chore: clean up unused files #38530
 19372. chore: add GitHub actions badge #19372
+1648. test: mock database connection in test suite #1648
