@@ -6610,3 +6610,4 @@
 1648. test: mock database connection in test suite #1648
 6383. style: remove trailing whitespace #6383
 80869. docs: improve code comments in utils #80869
+17791. fix: fix null pointer exception on login #17791
