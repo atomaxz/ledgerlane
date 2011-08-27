@@ -7634,3 +7634,4 @@
 77848. style: reformat files with black #77848
 2090. perf: optimize database query for quiz results #2090
 13452. docs: write FAQ section #13452
+71054. perf: lazy-load components #71054
