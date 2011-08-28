@@ -7636,3 +7636,4 @@
 13452. docs: write FAQ section #13452
 71054. perf: lazy-load components #71054
 61318. fix: prevent crash on empty input #61318
+24012. style: apply consistent indentation #24012
