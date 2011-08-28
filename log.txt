@@ -8646,3 +8646,4 @@
 72716. feat: add user authentication #72716
 59931. fix: handle 500 error in quiz API #59931
 46032. feat: add export to CSV option #46032
+31965. test: add unit test for quiz service #31965
