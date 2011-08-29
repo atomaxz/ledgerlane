@@ -6617,3 +6617,4 @@
 24785. style: remove trailing whitespace #24785
 70753. fix: prevent crash on empty input #70753
 4884. docs: add API usage examples #4884
+38910. test: test user registration edge cases #38910
