@@ -7641,3 +7641,4 @@
 58235. feat: add user authentication #58235
 52230. fix: resolve issue with date parsing #52230
 44882. docs: improve code comments in utils #44882
+25260. refactor: clean up auth middleware #25260
