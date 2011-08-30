@@ -8651,3 +8651,4 @@
 69679. test: add unit test for quiz service #69679
 20282. refactor: organize models into subfolders #20282
 3798. docs: add API usage examples #3798
+75386. refactor: refactor quiz grading logic #75386
