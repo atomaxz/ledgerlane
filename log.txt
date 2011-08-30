@@ -6621,3 +6621,4 @@
 0521. chore: bump dependencies #521
 93030. feat: enable dark mode toggle #93030
 83554. style: remove trailing whitespace #83554
+45410. perf: lazy-load components #45410
