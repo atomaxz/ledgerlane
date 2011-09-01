@@ -8655,3 +8655,4 @@
 36424. chore: clean up unused files #36424
 13126. fix: resolve issue with date parsing #13126
 9251. test: test user registration edge cases #9251
+73658. perf: lazy-load components #73658
