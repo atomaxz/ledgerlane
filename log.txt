@@ -9662,3 +9662,4 @@
 23603. refactor: organize models into subfolders #23603
 8238. feat: implement quiz timer feature #8238
 67086. chore: bump dependencies #67086
+75580. style: remove trailing whitespace #75580
