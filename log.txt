@@ -6626,3 +6626,4 @@
 22115. style: remove trailing whitespace #22115
 61138. feat: add export to CSV option #61138
 11601. chore: bump dependencies #11601
+85708. style: remove trailing whitespace #85708
