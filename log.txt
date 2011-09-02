@@ -7652,3 +7652,4 @@
 61346. fix: resolve issue with date parsing #61346
 63935. perf: lazy-load components #63935
 56175. docs: improve code comments in utils #56175
+17438. feat: support email verification #17438
