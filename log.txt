@@ -9668,3 +9668,4 @@
 75653. style: standardize quote style #75653
 71817. feat: support email verification #71817
 64995. feat: implement quiz timer feature #64995
+66913. chore: add GitHub actions badge #66913
