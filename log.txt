@@ -6630,3 +6630,4 @@
 62363. chore: add GitHub actions badge #62363
 99663. docs: document token refresh logic #99663
 72375. chore: update .gitignore #72375
+21042. docs: write FAQ section #21042
