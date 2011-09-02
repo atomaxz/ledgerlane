@@ -6628,3 +6628,4 @@
 11601. chore: bump dependencies #11601
 85708. style: remove trailing whitespace #85708
 62363. chore: add GitHub actions badge #62363
+99663. docs: document token refresh logic #99663
