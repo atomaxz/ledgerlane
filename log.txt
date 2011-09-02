@@ -9666,3 +9666,4 @@
 34066. chore: add GitHub actions badge #34066
 34629. docs: document token refresh logic #34629
 75653. style: standardize quote style #75653
+71817. feat: support email verification #71817
