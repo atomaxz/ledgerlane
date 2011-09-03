@@ -8656,3 +8656,4 @@
 13126. fix: resolve issue with date parsing #13126
 9251. test: test user registration edge cases #9251
 73658. perf: lazy-load components #73658
+63775. chore: bump dependencies #63775
