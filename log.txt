@@ -7655,3 +7655,4 @@
 17438. feat: support email verification #17438
 30933. refactor: refactor quiz grading logic #30933
 28612. style: rename variables for clarity #28612
+75885. test: increase coverage on auth module #75885
