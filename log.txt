@@ -9674,3 +9674,4 @@
 31401. docs: improve code comments in utils #31401
 46060. feat: support email verification #46060
 9343. fix: handle 500 error in quiz API #9343
+45183. test: increase coverage on auth module #45183
