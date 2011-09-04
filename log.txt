@@ -9673,3 +9673,4 @@
 86058. fix: fix broken CSS in mobile view #86058
 31401. docs: improve code comments in utils #31401
 46060. feat: support email verification #46060
+9343. fix: handle 500 error in quiz API #9343
