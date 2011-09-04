@@ -8658,3 +8658,4 @@
 73658. perf: lazy-load components #73658
 63775. chore: bump dependencies #63775
 22327. feat: add user authentication #22327
+6703. chore: update .gitignore #6703
