@@ -7657,3 +7657,4 @@
 28612. style: rename variables for clarity #28612
 75885. test: increase coverage on auth module #75885
 77328. perf: lazy-load components #77328
+84481. perf: optimize database query for quiz results #84481
