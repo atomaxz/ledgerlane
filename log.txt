@@ -6636,3 +6636,4 @@
 64276. style: standardize quote style #64276
 85881. chore: update .gitignore #85881
 71370. docs: clarify environment setup #71370
+37595. perf: reduce image load time #37595
