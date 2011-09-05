@@ -9678,3 +9678,4 @@
 72130. perf: reduce image load time #72130
 79529. fix: fix broken CSS in mobile view #79529
 79775. feat: add user authentication #79775
+38105. refactor: organize models into subfolders #38105
