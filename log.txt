@@ -6641,3 +6641,4 @@
 9844. fix: fix broken CSS in mobile view #9844
 42037. feat: implement quiz timer feature #42037
 46615. perf: cache repeated calculations #46615
+48324. perf: optimize database query for quiz results #48324
