@@ -6645,3 +6645,4 @@
 52670. style: standardize quote style #52670
 58676. feat: add user authentication #58676
 37106. style: apply consistent indentation #37106
+84717. fix: handle 500 error in quiz API #84717
