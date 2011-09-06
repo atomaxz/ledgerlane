@@ -6649,3 +6649,4 @@
 51452. docs: add API usage examples #51452
 68327. chore: update .gitignore #68327
 47583. perf: cache repeated calculations #47583
+58036. fix: resolve issue with date parsing #58036
