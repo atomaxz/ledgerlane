@@ -8667,3 +8667,4 @@
 56505. docs: write FAQ section #56505
 58082. test: increase coverage on auth module #58082
 6524. feat: add export to CSV option #6524
+91953. perf: reduce image load time #91953
