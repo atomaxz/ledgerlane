@@ -8673,3 +8673,4 @@
 25042. fix: resolve issue with date parsing #25042
 35671. docs: add API usage examples #35671
 96209. chore: rename env.example #96209
+63941. chore: bump dependencies #63941
