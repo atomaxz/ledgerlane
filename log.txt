@@ -6654,3 +6654,4 @@
 31657. test: increase coverage on auth module #31657
 53429. docs: add API usage examples #53429
 39331. fix: prevent crash on empty input #39331
+39214. fix: handle 500 error in quiz API #39214
