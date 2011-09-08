@@ -9683,3 +9683,4 @@
 26300. chore: bump dependencies #26300
 55354. style: standardize quote style #55354
 24507. test: increase coverage on auth module #24507
+47629. refactor: organize models into subfolders #47629
