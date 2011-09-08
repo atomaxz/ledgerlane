@@ -7666,3 +7666,4 @@
 14942. chore: add GitHub actions badge #14942
 74575. perf: cache repeated calculations #74575
 44392. perf: optimize database query for quiz results #44392
+96540. docs: add API usage examples #96540
