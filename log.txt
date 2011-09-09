@@ -9687,3 +9687,4 @@
 84450. docs: update README with setup steps #84450
 34334. refactor: clean up auth middleware #34334
 60026. fix: handle 500 error in quiz API #60026
+84736. fix: prevent crash on empty input #84736
