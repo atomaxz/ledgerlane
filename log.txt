@@ -8680,3 +8680,4 @@
 48407. docs: add API usage examples #48407
 78940. perf: cache repeated calculations #78940
 63648. docs: write FAQ section #63648
+13180. test: add integration test for /submit endpoint #13180
