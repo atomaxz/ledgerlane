@@ -6658,3 +6658,4 @@
 36276. chore: bump dependencies #36276
 96102. style: rename variables for clarity #96102
 90405. fix: correct typo in registration form #90405
+36148. feat: enable dark mode toggle #36148
