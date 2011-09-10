@@ -8682,3 +8682,4 @@
 63648. docs: write FAQ section #63648
 13180. test: add integration test for /submit endpoint #13180
 33748. style: reformat files with black #33748
+64466. perf: lazy-load components #64466
