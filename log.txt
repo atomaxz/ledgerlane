@@ -7669,3 +7669,4 @@
 96540. docs: add API usage examples #96540
 69845. chore: update .gitignore #69845
 73307. fix: prevent crash on empty input #73307
+14274. test: mock database connection in test suite #14274
