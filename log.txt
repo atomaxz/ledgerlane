@@ -8679,3 +8679,4 @@
 31590. test: test user registration edge cases #31590
 48407. docs: add API usage examples #48407
 78940. perf: cache repeated calculations #78940
+63648. docs: write FAQ section #63648
