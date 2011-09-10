@@ -6661,3 +6661,4 @@
 36148. feat: enable dark mode toggle #36148
 27714. perf: optimize database query for quiz results #27714
 25270. docs: write FAQ section #25270
+64527. feat: create admin dashboard #64527
