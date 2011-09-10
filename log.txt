@@ -9688,3 +9688,4 @@
 34334. refactor: clean up auth middleware #34334
 60026. fix: handle 500 error in quiz API #60026
 84736. fix: prevent crash on empty input #84736
+85417. style: standardize quote style #85417
