@@ -8687,3 +8687,4 @@
 39113. chore: add GitHub actions badge #39113
 30403. fix: fix broken CSS in mobile view #30403
 69615. test: increase coverage on auth module #69615
+23170. chore: rename env.example #23170
