@@ -6663,3 +6663,4 @@
 25270. docs: write FAQ section #25270
 64527. feat: create admin dashboard #64527
 17344. style: rename variables for clarity #17344
+72775. perf: reduce image load time #72775
