@@ -9695,3 +9695,4 @@
 63778. docs: document token refresh logic #63778
 15209. fix: prevent crash on empty input #15209
 97530. fix: fix null pointer exception on login #97530
+49978. fix: fix broken CSS in mobile view #49978
