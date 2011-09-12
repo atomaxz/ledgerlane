@@ -9694,3 +9694,4 @@
 19423. test: add unit test for quiz service #19423
 63778. docs: document token refresh logic #63778
 15209. fix: prevent crash on empty input #15209
+97530. fix: fix null pointer exception on login #97530
