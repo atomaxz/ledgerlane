@@ -7675,3 +7675,4 @@
 99733. chore: add GitHub actions badge #99733
 56946. refactor: remove redundant code blocks #56946
 17877. chore: add GitHub actions badge #17877
+72783. style: remove trailing whitespace #72783
