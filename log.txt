@@ -6664,3 +6664,4 @@
 64527. feat: create admin dashboard #64527
 17344. style: rename variables for clarity #17344
 72775. perf: reduce image load time #72775
+14063. test: test user registration edge cases #14063
