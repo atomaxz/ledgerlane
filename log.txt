@@ -8693,3 +8693,4 @@
 34688. fix: resolve issue with date parsing #34688
 17533. style: standardize quote style #17533
 86688. perf: reduce image load time #86688
+5634. test: increase coverage on auth module #5634
