@@ -7674,3 +7674,4 @@
 22823. perf: reduce image load time #22823
 99733. chore: add GitHub actions badge #99733
 56946. refactor: remove redundant code blocks #56946
+17877. chore: add GitHub actions badge #17877
