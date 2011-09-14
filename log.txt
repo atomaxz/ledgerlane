@@ -8694,3 +8694,4 @@
 17533. style: standardize quote style #17533
 86688. perf: reduce image load time #86688
 5634. test: increase coverage on auth module #5634
+11486. docs: update README with setup steps #11486
