@@ -6666,3 +6666,4 @@
 72775. perf: reduce image load time #72775
 14063. test: test user registration edge cases #14063
 39574. feat: enable dark mode toggle #39574
+20663. test: increase coverage on auth module #20663
