@@ -9705,3 +9705,4 @@
 33166. fix: fix broken CSS in mobile view #33166
 32436. feat: implement quiz timer feature #32436
 48784. perf: reduce image load time #48784
+25326. refactor: remove redundant code blocks #25326
