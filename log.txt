@@ -9701,3 +9701,4 @@
 9711. test: increase coverage on auth module #9711
 44914. perf: cache repeated calculations #44914
 8570. chore: bump dependencies #8570
+30741. fix: resolve issue with date parsing #30741
