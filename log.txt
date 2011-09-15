@@ -6669,3 +6669,4 @@
 20663. test: increase coverage on auth module #20663
 71451. feat: enable dark mode toggle #71451
 9759. style: rename variables for clarity #9759
+32497. style: reformat files with black #32497
