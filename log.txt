@@ -9713,3 +9713,4 @@
 51597. test: increase coverage on auth module #51597
 87719. docs: clarify environment setup #87719
 74417. perf: lazy-load components #74417
+96561. docs: document token refresh logic #96561
