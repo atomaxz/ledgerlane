@@ -8701,3 +8701,4 @@
 90182. refactor: refactor quiz grading logic #90182
 12004. refactor: split large controller into smaller functions #12004
 28437. perf: optimize database query for quiz results #28437
+44610. perf: reduce image load time #44610
