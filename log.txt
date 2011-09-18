@@ -8705,3 +8705,4 @@
 81992. test: add integration test for /submit endpoint #81992
 74863. feat: support email verification #74863
 94221. style: rename variables for clarity #94221
+89575. perf: lazy-load components #89575
