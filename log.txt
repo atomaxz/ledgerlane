@@ -9715,3 +9715,4 @@
 74417. perf: lazy-load components #74417
 96561. docs: document token refresh logic #96561
 9275. docs: clarify environment setup #9275
+87409. perf: reduce image load time #87409
