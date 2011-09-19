@@ -8708,3 +8708,4 @@
 89575. perf: lazy-load components #89575
 95046. style: rename variables for clarity #95046
 78194. fix: fix null pointer exception on login #78194
+87980. perf: reduce image load time #87980
