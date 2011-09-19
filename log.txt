@@ -7687,3 +7687,4 @@
 15385. refactor: split large controller into smaller functions #15385
 7847. refactor: split large controller into smaller functions #7847
 92044. test: increase coverage on auth module #92044
+85976. perf: lazy-load components #85976
