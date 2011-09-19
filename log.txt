@@ -6680,3 +6680,4 @@
 81791. docs: document token refresh logic #81791
 95086. style: standardize quote style #95086
 3536. test: add integration test for /submit endpoint #3536
+48709. perf: lazy-load components #48709
