@@ -7689,3 +7689,4 @@
 92044. test: increase coverage on auth module #92044
 85976. perf: lazy-load components #85976
 57937. refactor: clean up auth middleware #57937
+60299. chore: update .gitignore #60299
