@@ -8711,3 +8711,4 @@
 87980. perf: reduce image load time #87980
 71568. style: rename variables for clarity #71568
 55068. refactor: refactor quiz grading logic #55068
+22514. perf: lazy-load components #22514
