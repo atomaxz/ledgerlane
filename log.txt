@@ -9724,3 +9724,4 @@
 40598. feat: enable dark mode toggle #40598
 91693. refactor: organize models into subfolders #91693
 58515. test: mock database connection in test suite #58515
+8225. refactor: refactor quiz grading logic #8225
