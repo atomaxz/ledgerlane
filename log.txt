@@ -6683,3 +6683,4 @@
 48709. perf: lazy-load components #48709
 75422. perf: lazy-load components #75422
 88840. feat: enable dark mode toggle #88840
+99624. docs: document token refresh logic #99624
