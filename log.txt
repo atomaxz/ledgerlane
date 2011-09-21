@@ -6687,3 +6687,4 @@
 37994. style: rename variables for clarity #37994
 16699. chore: clean up unused files #16699
 32767. chore: rename env.example #32767
+55911. perf: lazy-load components #55911
