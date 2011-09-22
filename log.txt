@@ -6689,3 +6689,4 @@
 32767. chore: rename env.example #32767
 55911. perf: lazy-load components #55911
 60064. style: standardize quote style #60064
+54025. fix: handle 500 error in quiz API #54025
