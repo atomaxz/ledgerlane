@@ -7702,3 +7702,4 @@
 65063. fix: prevent crash on empty input #65063
 48226. test: add integration test for /submit endpoint #48226
 32307. docs: write FAQ section #32307
+85582. style: remove trailing whitespace #85582
