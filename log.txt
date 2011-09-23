@@ -8717,3 +8717,4 @@
 33382. feat: enable dark mode toggle #33382
 32198. perf: reduce image load time #32198
 90760. docs: clarify environment setup #90760
+4349. perf: optimize database query for quiz results #4349
