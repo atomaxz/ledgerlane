@@ -7707,3 +7707,4 @@
 56031. refactor: clean up auth middleware #56031
 8731. fix: fix null pointer exception on login #8731
 40722. refactor: split large controller into smaller functions #40722
+57628. chore: bump dependencies #57628
