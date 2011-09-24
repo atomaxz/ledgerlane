@@ -7705,3 +7705,4 @@
 85582. style: remove trailing whitespace #85582
 65077. docs: add API usage examples #65077
 56031. refactor: clean up auth middleware #56031
+8731. fix: fix null pointer exception on login #8731
