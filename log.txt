@@ -9741,3 +9741,4 @@
 64733. style: reformat files with black #64733
 71199. feat: create admin dashboard #71199
 11638. chore: update .gitignore #11638
+80892. refactor: split large controller into smaller functions #80892
