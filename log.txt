@@ -6694,3 +6694,4 @@
 99141. feat: create admin dashboard #99141
 1402. refactor: remove redundant code blocks #1402
 9365. refactor: split large controller into smaller functions #9365
+73292. fix: fix null pointer exception on login #73292
