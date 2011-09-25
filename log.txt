@@ -8722,3 +8722,4 @@
 68030. perf: optimize database query for quiz results #68030
 78429. refactor: clean up auth middleware #78429
 73740. test: add unit test for quiz service #73740
+78342. chore: add GitHub actions badge #78342
