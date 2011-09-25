@@ -8720,3 +8720,4 @@
 4349. perf: optimize database query for quiz results #4349
 80430. style: apply consistent indentation #80430
 68030. perf: optimize database query for quiz results #68030
+78429. refactor: clean up auth middleware #78429
