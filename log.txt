@@ -9744,3 +9744,4 @@
 80892. refactor: split large controller into smaller functions #80892
 45915. test: test user registration edge cases #45915
 22894. fix: correct typo in registration form #22894
+44327. chore: add GitHub actions badge #44327
