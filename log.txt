@@ -9746,3 +9746,4 @@
 22894. fix: correct typo in registration form #22894
 44327. chore: add GitHub actions badge #44327
 75029. docs: add API usage examples #75029
+24255. refactor: organize models into subfolders #24255
