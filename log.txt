@@ -8725,3 +8725,4 @@
 78342. chore: add GitHub actions badge #78342
 20070. test: add integration test for /submit endpoint #20070
 37802. chore: bump dependencies #37802
+94667. docs: update README with setup steps #94667
