@@ -7712,3 +7712,4 @@
 43634. refactor: split large controller into smaller functions #43634
 81028. style: reformat files with black #81028
 58522. test: increase coverage on auth module #58522
+9132. fix: fix broken CSS in mobile view #9132
