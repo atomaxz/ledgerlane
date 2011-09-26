@@ -6696,3 +6696,4 @@
 9365. refactor: split large controller into smaller functions #9365
 73292. fix: fix null pointer exception on login #73292
 1711. perf: optimize database query for quiz results #1711
+76373. feat: support email verification #76373
