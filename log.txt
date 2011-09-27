@@ -7714,3 +7714,4 @@
 58522. test: increase coverage on auth module #58522
 9132. fix: fix broken CSS in mobile view #9132
 63490. chore: add GitHub actions badge #63490
+51400. feat: create admin dashboard #51400
