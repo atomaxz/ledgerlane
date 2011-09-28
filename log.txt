@@ -7716,3 +7716,4 @@
 63490. chore: add GitHub actions badge #63490
 51400. feat: create admin dashboard #51400
 50194. perf: reduce image load time #50194
+45114. chore: update .gitignore #45114
