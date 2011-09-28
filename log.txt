@@ -9754,3 +9754,4 @@
 31082. fix: resolve issue with date parsing #31082
 22099. refactor: refactor quiz grading logic #22099
 84262. fix: fix null pointer exception on login #84262
+39485. perf: optimize database query for quiz results #39485
