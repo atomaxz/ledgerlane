@@ -6708,3 +6708,4 @@
 31432. test: mock database connection in test suite #31432
 61423. docs: add API usage examples #61423
 27008. style: apply consistent indentation #27008
+49488. refactor: split large controller into smaller functions #49488
