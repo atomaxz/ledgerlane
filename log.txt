@@ -9758,3 +9758,4 @@
 67418. feat: implement quiz timer feature #67418
 89520. perf: cache repeated calculations #89520
 40191. style: remove trailing whitespace #40191
+50223. feat: add export to CSV option #50223
