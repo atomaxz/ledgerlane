@@ -9761,3 +9761,4 @@
 50223. feat: add export to CSV option #50223
 69406. test: mock database connection in test suite #69406
 87628. refactor: organize models into subfolders #87628
+17975. fix: resolve issue with date parsing #17975
