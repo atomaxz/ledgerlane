@@ -9764,3 +9764,4 @@
 17975. fix: resolve issue with date parsing #17975
 57128. chore: bump dependencies #57128
 80849. perf: cache repeated calculations #80849
+61033. feat: add export to CSV option #61033
