@@ -8739,3 +8739,4 @@
 85784. fix: handle 500 error in quiz API #85784
 77009. style: apply consistent indentation #77009
 76699. refactor: clean up auth middleware #76699
+77781. chore: add GitHub actions badge #77781
