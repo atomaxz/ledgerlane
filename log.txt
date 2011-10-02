@@ -8742,3 +8742,4 @@
 77781. chore: add GitHub actions badge #77781
 58810. perf: cache repeated calculations #58810
 13749. refactor: remove redundant code blocks #13749
+1826. perf: reduce image load time #1826
