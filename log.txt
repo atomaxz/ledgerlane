@@ -6715,3 +6715,4 @@
 13968. perf: reduce image load time #13968
 13778. test: test user registration edge cases #13778
 61065. perf: reduce image load time #61065
+16982. docs: clarify environment setup #16982
