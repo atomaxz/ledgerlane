@@ -6714,3 +6714,4 @@
 92095. refactor: refactor quiz grading logic #92095
 13968. perf: reduce image load time #13968
 13778. test: test user registration edge cases #13778
+61065. perf: reduce image load time #61065
