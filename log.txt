@@ -9775,3 +9775,4 @@
 28008. feat: add user authentication #28008
 78983. style: remove trailing whitespace #78983
 30295. docs: clarify environment setup #30295
+59925. test: increase coverage on auth module #59925
