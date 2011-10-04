@@ -7734,3 +7734,4 @@
 88157. fix: handle 500 error in quiz API #88157
 44564. style: remove trailing whitespace #44564
 38984. style: standardize quote style #38984
+19197. feat: support email verification #19197
