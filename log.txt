@@ -8748,3 +8748,4 @@
 89672. refactor: clean up auth middleware #89672
 42225. style: remove trailing whitespace #42225
 4036. test: test user registration edge cases #4036
+64602. docs: add API usage examples #64602
