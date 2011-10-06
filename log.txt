@@ -9783,3 +9783,4 @@
 61622. test: increase coverage on auth module #61622
 3979. style: standardize quote style #3979
 47656. refactor: refactor quiz grading logic #47656
+57652. test: mock database connection in test suite #57652
