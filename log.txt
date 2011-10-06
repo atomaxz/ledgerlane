@@ -6725,3 +6725,4 @@
 90820. test: test user registration edge cases #90820
 34929. feat: add export to CSV option #34929
 49847. test: increase coverage on auth module #49847
+24777. style: rename variables for clarity #24777
