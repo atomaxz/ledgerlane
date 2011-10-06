@@ -7738,3 +7738,4 @@
 42751. feat: support email verification #42751
 30010. refactor: split large controller into smaller functions #30010
 4404. style: standardize quote style #4404
+96063. fix: fix null pointer exception on login #96063
