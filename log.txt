@@ -7740,3 +7740,4 @@
 4404. style: standardize quote style #4404
 96063. fix: fix null pointer exception on login #96063
 44746. chore: rename env.example #44746
+76322. fix: handle 500 error in quiz API #76322
