@@ -9787,3 +9787,4 @@
 26258. feat: support email verification #26258
 20717. test: mock database connection in test suite #20717
 22860. test: mock database connection in test suite #22860
+97910. style: apply consistent indentation #97910
