@@ -6727,3 +6727,4 @@
 49847. test: increase coverage on auth module #49847
 24777. style: rename variables for clarity #24777
 27179. fix: fix broken CSS in mobile view #27179
+49586. feat: add user authentication #49586
