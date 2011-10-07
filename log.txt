@@ -9792,3 +9792,4 @@
 73294. feat: support email verification #73294
 85862. refactor: split large controller into smaller functions #85862
 47844. test: increase coverage on auth module #47844
+53392. chore: bump dependencies #53392
