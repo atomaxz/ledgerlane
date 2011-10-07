@@ -9789,3 +9789,4 @@
 22860. test: mock database connection in test suite #22860
 97910. style: apply consistent indentation #97910
 5569. docs: update README with setup steps #5569
+73294. feat: support email verification #73294
