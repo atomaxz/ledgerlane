@@ -6729,3 +6729,4 @@
 27179. fix: fix broken CSS in mobile view #27179
 49586. feat: add user authentication #49586
 19607. style: standardize quote style #19607
+94211. chore: bump dependencies #94211
