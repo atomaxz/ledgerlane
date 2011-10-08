@@ -9796,3 +9796,4 @@
 55934. docs: document token refresh logic #55934
 9858. feat: add export to CSV option #9858
 71166. style: rename variables for clarity #71166
+39145. chore: add GitHub actions badge #39145
