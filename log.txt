@@ -6733,3 +6733,4 @@
 93157. test: mock database connection in test suite #93157
 28180. fix: prevent crash on empty input #28180
 14296. docs: document token refresh logic #14296
+97457. refactor: clean up auth middleware #97457
