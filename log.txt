@@ -9794,3 +9794,4 @@
 47844. test: increase coverage on auth module #47844
 53392. chore: bump dependencies #53392
 55934. docs: document token refresh logic #55934
+9858. feat: add export to CSV option #9858
