@@ -6734,3 +6734,4 @@
 28180. fix: prevent crash on empty input #28180
 14296. docs: document token refresh logic #14296
 97457. refactor: clean up auth middleware #97457
+75370. fix: correct typo in registration form #75370
