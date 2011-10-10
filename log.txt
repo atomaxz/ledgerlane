@@ -8755,3 +8755,4 @@
 80243. test: increase coverage on auth module #80243
 7159. fix: handle 500 error in quiz API #7159
 31073. perf: reduce image load time #31073
+32791. docs: document token refresh logic #32791
