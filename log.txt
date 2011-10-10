@@ -7753,3 +7753,4 @@
 80612. perf: cache repeated calculations #80612
 76032. perf: cache repeated calculations #76032
 50285. refactor: split large controller into smaller functions #50285
+93377. perf: reduce image load time #93377
