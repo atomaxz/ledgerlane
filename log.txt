@@ -7757,3 +7757,4 @@
 85161. fix: handle 500 error in quiz API #85161
 16468. perf: cache repeated calculations #16468
 48505. chore: add GitHub actions badge #48505
+53655. perf: lazy-load components #53655
