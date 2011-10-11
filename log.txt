@@ -9802,3 +9802,4 @@
 60728. refactor: split large controller into smaller functions #60728
 83939. test: test user registration edge cases #83939
 41319. perf: lazy-load components #41319
+26409. fix: handle 500 error in quiz API #26409
