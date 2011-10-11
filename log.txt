@@ -8761,3 +8761,4 @@
 49993. style: remove trailing whitespace #49993
 13858. feat: add user authentication #13858
 36581. chore: bump dependencies #36581
+5716. test: test user registration edge cases #5716
