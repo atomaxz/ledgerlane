@@ -6747,3 +6747,4 @@
 52316. chore: add GitHub actions badge #52316
 96860. test: add unit test for quiz service #96860
 51758. test: add unit test for quiz service #51758
+73584. style: remove trailing whitespace #73584
