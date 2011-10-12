@@ -7758,3 +7758,4 @@
 16468. perf: cache repeated calculations #16468
 48505. chore: add GitHub actions badge #48505
 53655. perf: lazy-load components #53655
+1789. style: remove trailing whitespace #1789
