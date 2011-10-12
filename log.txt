@@ -8763,3 +8763,4 @@
 36581. chore: bump dependencies #36581
 5716. test: test user registration edge cases #5716
 37778. refactor: split large controller into smaller functions #37778
+23625. chore: rename env.example #23625
