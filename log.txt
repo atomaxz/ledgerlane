@@ -9809,3 +9809,4 @@
 89623. docs: clarify environment setup #89623
 68641. style: reformat files with black #68641
 51324. test: test user registration edge cases #51324
+83290. fix: fix broken CSS in mobile view #83290
