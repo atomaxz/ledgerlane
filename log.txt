@@ -6751,3 +6751,4 @@
 99140. feat: create admin dashboard #99140
 81927. refactor: organize models into subfolders #81927
 68160. feat: create admin dashboard #68160
+71049. perf: optimize database query for quiz results #71049
