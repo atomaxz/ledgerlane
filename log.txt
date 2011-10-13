@@ -9810,3 +9810,4 @@
 68641. style: reformat files with black #68641
 51324. test: test user registration edge cases #51324
 83290. fix: fix broken CSS in mobile view #83290
+67242. perf: lazy-load components #67242
