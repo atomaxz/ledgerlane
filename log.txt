@@ -8765,3 +8765,4 @@
 37778. refactor: split large controller into smaller functions #37778
 23625. chore: rename env.example #23625
 24176. test: increase coverage on auth module #24176
+7653. perf: lazy-load components #7653
