@@ -7765,3 +7765,4 @@
 34299. fix: correct typo in registration form #34299
 65476. perf: optimize database query for quiz results #65476
 11770. perf: cache repeated calculations #11770
+95409. test: add integration test for /submit endpoint #95409
