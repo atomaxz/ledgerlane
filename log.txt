@@ -8769,3 +8769,4 @@
 75166. docs: write FAQ section #75166
 7474. docs: document token refresh logic #7474
 73849. test: add unit test for quiz service #73849
+2697. chore: rename env.example #2697
