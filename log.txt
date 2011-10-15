@@ -8774,3 +8774,4 @@
 26999. style: reformat files with black #26999
 66217. perf: optimize database query for quiz results #66217
 85920. docs: write FAQ section #85920
+19839. chore: add GitHub actions badge #19839
