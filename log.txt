@@ -6759,3 +6759,4 @@
 77379. perf: cache repeated calculations #77379
 73536. refactor: split large controller into smaller functions #73536
 47715. refactor: clean up auth middleware #47715
+6659. refactor: clean up auth middleware #6659
