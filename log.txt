@@ -9819,3 +9819,4 @@
 65770. test: test user registration edge cases #65770
 99255. perf: cache repeated calculations #99255
 31564. test: add integration test for /submit endpoint #31564
+41899. fix: fix null pointer exception on login #41899
