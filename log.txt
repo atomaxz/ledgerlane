@@ -6758,3 +6758,4 @@
 79378. test: add integration test for /submit endpoint #79378
 77379. perf: cache repeated calculations #77379
 73536. refactor: split large controller into smaller functions #73536
+47715. refactor: clean up auth middleware #47715
