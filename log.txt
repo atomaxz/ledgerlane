@@ -8776,3 +8776,4 @@
 85920. docs: write FAQ section #85920
 19839. chore: add GitHub actions badge #19839
 41869. style: rename variables for clarity #41869
+4510. chore: rename env.example #4510
