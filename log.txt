@@ -6760,3 +6760,4 @@
 73536. refactor: split large controller into smaller functions #73536
 47715. refactor: clean up auth middleware #47715
 6659. refactor: clean up auth middleware #6659
+90755. test: add unit test for quiz service #90755
