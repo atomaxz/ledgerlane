@@ -7772,3 +7772,4 @@
 87544. feat: add user authentication #87544
 6115. feat: support email verification #6115
 21007. perf: reduce image load time #21007
+3500. fix: correct typo in registration form #3500
