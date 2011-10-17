@@ -8778,3 +8778,4 @@
 41869. style: rename variables for clarity #41869
 4510. chore: rename env.example #4510
 99472. fix: fix null pointer exception on login #99472
+91849. docs: update README with setup steps #91849
