@@ -7773,3 +7773,4 @@
 6115. feat: support email verification #6115
 21007. perf: reduce image load time #21007
 3500. fix: correct typo in registration form #3500
+17686. feat: support email verification #17686
