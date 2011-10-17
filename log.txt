@@ -7775,3 +7775,4 @@
 3500. fix: correct typo in registration form #3500
 17686. feat: support email verification #17686
 77546. fix: prevent crash on empty input #77546
+84269. style: remove trailing whitespace #84269
