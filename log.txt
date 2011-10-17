@@ -6762,3 +6762,4 @@
 6659. refactor: clean up auth middleware #6659
 90755. test: add unit test for quiz service #90755
 82006. refactor: split large controller into smaller functions #82006
+40372. fix: fix broken CSS in mobile view #40372
