@@ -8782,3 +8782,4 @@
 2058. style: remove trailing whitespace #2058
 66693. feat: add user authentication #66693
 54878. test: test user registration edge cases #54878
+33826. test: add integration test for /submit endpoint #33826
