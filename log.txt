@@ -6764,3 +6764,4 @@
 82006. refactor: split large controller into smaller functions #82006
 40372. fix: fix broken CSS in mobile view #40372
 82534. docs: document token refresh logic #82534
+18260. chore: bump dependencies #18260
