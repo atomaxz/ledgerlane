@@ -8784,3 +8784,4 @@
 54878. test: test user registration edge cases #54878
 33826. test: add integration test for /submit endpoint #33826
 28778. chore: clean up unused files #28778
+78707. docs: write FAQ section #78707
