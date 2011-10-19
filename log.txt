@@ -9827,3 +9827,4 @@
 23966. docs: document token refresh logic #23966
 20384. docs: add API usage examples #20384
 13570. docs: document token refresh logic #13570
+36680. fix: correct typo in registration form #36680
