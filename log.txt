@@ -6770,3 +6770,4 @@
 99599. perf: cache repeated calculations #99599
 70232. style: apply consistent indentation #70232
 86609. perf: cache repeated calculations #86609
+8691. perf: lazy-load components #8691
