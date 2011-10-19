@@ -6767,3 +6767,4 @@
 18260. chore: bump dependencies #18260
 5952. feat: add export to CSV option #5952
 59658. perf: reduce image load time #59658
+99599. perf: cache repeated calculations #99599
