@@ -7780,3 +7780,4 @@
 31989. test: increase coverage on auth module #31989
 41025. docs: add API usage examples #41025
 72948. chore: rename env.example #72948
+48638. fix: correct typo in registration form #48638
