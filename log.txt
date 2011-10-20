@@ -7782,3 +7782,4 @@
 72948. chore: rename env.example #72948
 48638. fix: correct typo in registration form #48638
 76215. refactor: remove redundant code blocks #76215
+78502. docs: clarify environment setup #78502
