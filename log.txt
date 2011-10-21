@@ -7784,3 +7784,4 @@
 76215. refactor: remove redundant code blocks #76215
 78502. docs: clarify environment setup #78502
 39347. fix: handle 500 error in quiz API #39347
+1876. fix: fix null pointer exception on login #1876
