@@ -8785,3 +8785,4 @@
 33826. test: add integration test for /submit endpoint #33826
 28778. chore: clean up unused files #28778
 78707. docs: write FAQ section #78707
+6090. feat: enable dark mode toggle #6090
