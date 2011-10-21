@@ -7786,3 +7786,4 @@
 39347. fix: handle 500 error in quiz API #39347
 1876. fix: fix null pointer exception on login #1876
 86842. feat: support email verification #86842
+2139. chore: update .gitignore #2139
