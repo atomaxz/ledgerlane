@@ -6777,3 +6777,4 @@
 53179. feat: create admin dashboard #53179
 52462. refactor: clean up auth middleware #52462
 13974. docs: improve code comments in utils #13974
+87561. test: test user registration edge cases #87561
