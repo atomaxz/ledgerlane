@@ -9834,3 +9834,4 @@
 16299. fix: resolve issue with date parsing #16299
 47251. fix: fix broken CSS in mobile view #47251
 86332. fix: resolve issue with date parsing #86332
+61518. fix: handle 500 error in quiz API #61518
