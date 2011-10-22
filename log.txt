@@ -8788,3 +8788,4 @@
 6090. feat: enable dark mode toggle #6090
 82324. docs: improve code comments in utils #82324
 56784. refactor: clean up auth middleware #56784
+31085. chore: add GitHub actions badge #31085
