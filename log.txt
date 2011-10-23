@@ -6781,3 +6781,4 @@
 46830. docs: clarify environment setup #46830
 11042. feat: support email verification #11042
 19859. test: mock database connection in test suite #19859
+95795. test: mock database connection in test suite #95795
