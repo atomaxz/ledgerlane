@@ -7793,3 +7793,4 @@
 40830. chore: rename env.example #40830
 11336. perf: lazy-load components #11336
 51030. test: add unit test for quiz service #51030
+60673. perf: reduce image load time #60673
