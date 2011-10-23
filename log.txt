@@ -6779,3 +6779,4 @@
 13974. docs: improve code comments in utils #13974
 87561. test: test user registration edge cases #87561
 46830. docs: clarify environment setup #46830
+11042. feat: support email verification #11042
