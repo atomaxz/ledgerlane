@@ -9837,3 +9837,4 @@
 61518. fix: handle 500 error in quiz API #61518
 58221. style: apply consistent indentation #58221
 53518. chore: update .gitignore #53518
+43700. test: add unit test for quiz service #43700
