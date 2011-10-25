@@ -8796,3 +8796,4 @@
 67535. test: test user registration edge cases #67535
 50565. test: mock database connection in test suite #50565
 12584. feat: add export to CSV option #12584
+20482. feat: implement quiz timer feature #20482
