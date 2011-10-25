@@ -7796,3 +7796,4 @@
 60673. perf: reduce image load time #60673
 6284. refactor: split large controller into smaller functions #6284
 32323. refactor: remove redundant code blocks #32323
+31853. test: test user registration edge cases #31853
