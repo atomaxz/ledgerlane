@@ -8800,3 +8800,4 @@
 24342. refactor: organize models into subfolders #24342
 77613. refactor: refactor quiz grading logic #77613
 24522. perf: cache repeated calculations #24522
+25785. fix: prevent crash on empty input #25785
