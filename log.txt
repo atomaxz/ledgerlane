@@ -6784,3 +6784,4 @@
 95795. test: mock database connection in test suite #95795
 73732. style: remove trailing whitespace #73732
 2828. perf: optimize database query for quiz results #2828
+28589. perf: lazy-load components #28589
