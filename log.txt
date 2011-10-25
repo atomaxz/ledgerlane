@@ -7797,3 +7797,4 @@
 6284. refactor: split large controller into smaller functions #6284
 32323. refactor: remove redundant code blocks #32323
 31853. test: test user registration edge cases #31853
+40538. chore: add GitHub actions badge #40538
