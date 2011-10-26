@@ -7803,3 +7803,4 @@
 13012. fix: handle 500 error in quiz API #13012
 19280. style: reformat files with black #19280
 49512. refactor: clean up auth middleware #49512
+48045. fix: fix null pointer exception on login #48045
