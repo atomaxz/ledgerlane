@@ -6785,3 +6785,4 @@
 73732. style: remove trailing whitespace #73732
 2828. perf: optimize database query for quiz results #2828
 28589. perf: lazy-load components #28589
+25343. chore: clean up unused files #25343
