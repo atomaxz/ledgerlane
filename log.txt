@@ -9845,3 +9845,4 @@
 51106. style: reformat files with black #51106
 98966. style: reformat files with black #98966
 85239. chore: add GitHub actions badge #85239
+68802. perf: cache repeated calculations #68802
