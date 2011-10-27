@@ -7805,3 +7805,4 @@
 49512. refactor: clean up auth middleware #49512
 48045. fix: fix null pointer exception on login #48045
 38875. refactor: remove redundant code blocks #38875
+37575. perf: optimize database query for quiz results #37575
