@@ -6794,3 +6794,4 @@
 35152. docs: write FAQ section #35152
 74652. chore: add GitHub actions badge #74652
 41536. fix: fix null pointer exception on login #41536
+79393. docs: update README with setup steps #79393
