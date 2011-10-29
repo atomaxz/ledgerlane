@@ -8812,3 +8812,4 @@
 75026. refactor: refactor quiz grading logic #75026
 84010. test: increase coverage on auth module #84010
 84326. refactor: remove redundant code blocks #84326
+16346. fix: fix null pointer exception on login #16346
