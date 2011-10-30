@@ -7808,3 +7808,4 @@
 37575. perf: optimize database query for quiz results #37575
 53564. refactor: clean up auth middleware #53564
 5983. refactor: clean up auth middleware #5983
+88987. perf: optimize database query for quiz results #88987
