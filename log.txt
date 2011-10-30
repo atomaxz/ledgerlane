@@ -6800,3 +6800,4 @@
 24960. refactor: refactor quiz grading logic #24960
 59578. fix: prevent crash on empty input #59578
 63060. docs: add API usage examples #63060
+39415. fix: prevent crash on empty input #39415
