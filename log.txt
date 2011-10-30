@@ -8814,3 +8814,4 @@
 84326. refactor: remove redundant code blocks #84326
 16346. fix: fix null pointer exception on login #16346
 6205. feat: create admin dashboard #6205
+0039. fix: handle 500 error in quiz API #39
