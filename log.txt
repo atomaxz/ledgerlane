@@ -7811,3 +7811,4 @@
 88987. perf: optimize database query for quiz results #88987
 49105. style: reformat files with black #49105
 66934. test: increase coverage on auth module #66934
+34314. docs: document token refresh logic #34314
