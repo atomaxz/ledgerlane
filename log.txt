@@ -7813,3 +7813,4 @@
 66934. test: increase coverage on auth module #66934
 34314. docs: document token refresh logic #34314
 6533. refactor: split large controller into smaller functions #6533
+42935. test: add unit test for quiz service #42935
