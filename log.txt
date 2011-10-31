@@ -8816,3 +8816,4 @@
 6205. feat: create admin dashboard #6205
 0039. fix: handle 500 error in quiz API #39
 1285. feat: add user authentication #1285
+75852. fix: resolve issue with date parsing #75852
