@@ -6803,3 +6803,4 @@
 39415. fix: prevent crash on empty input #39415
 22928. chore: rename env.example #22928
 51274. fix: correct typo in registration form #51274
+26243. style: apply consistent indentation #26243
