@@ -6811,3 +6811,4 @@
 41601. feat: create admin dashboard #41601
 93891. test: increase coverage on auth module #93891
 10394. docs: document token refresh logic #10394
+70352. chore: add GitHub actions badge #70352
