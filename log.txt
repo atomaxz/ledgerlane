@@ -6808,3 +6808,4 @@
 64743. fix: correct typo in registration form #64743
 29622. docs: update README with setup steps #29622
 4771. test: increase coverage on auth module #4771
+41601. feat: create admin dashboard #41601
