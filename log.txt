@@ -8822,3 +8822,4 @@
 13276. fix: handle 500 error in quiz API #13276
 78767. perf: lazy-load components #78767
 98647. fix: fix broken CSS in mobile view #98647
+78592. refactor: refactor quiz grading logic #78592
