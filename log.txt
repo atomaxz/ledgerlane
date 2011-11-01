@@ -8819,3 +8819,4 @@
 75852. fix: resolve issue with date parsing #75852
 31427. test: add unit test for quiz service #31427
 67101. fix: correct typo in registration form #67101
+13276. fix: handle 500 error in quiz API #13276
