@@ -6815,3 +6815,4 @@
 11604. fix: prevent crash on empty input #11604
 81485. feat: enable dark mode toggle #81485
 64993. refactor: clean up auth middleware #64993
+41528. docs: update README with setup steps #41528
