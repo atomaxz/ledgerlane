@@ -7823,3 +7823,4 @@
 46238. style: reformat files with black #46238
 96701. chore: update .gitignore #96701
 81988. fix: resolve issue with date parsing #81988
+30233. docs: write FAQ section #30233
