@@ -9856,3 +9856,4 @@
 33523. refactor: split large controller into smaller functions #33523
 51604. feat: add export to CSV option #51604
 8495. docs: add API usage examples #8495
+13745. feat: enable dark mode toggle #13745
