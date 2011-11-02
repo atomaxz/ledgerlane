@@ -6813,3 +6813,4 @@
 10394. docs: document token refresh logic #10394
 70352. chore: add GitHub actions badge #70352
 11604. fix: prevent crash on empty input #11604
+81485. feat: enable dark mode toggle #81485
