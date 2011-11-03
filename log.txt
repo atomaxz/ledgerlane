@@ -7825,3 +7825,4 @@
 81988. fix: resolve issue with date parsing #81988
 30233. docs: write FAQ section #30233
 14422. test: mock database connection in test suite #14422
+80551. docs: update README with setup steps #80551
