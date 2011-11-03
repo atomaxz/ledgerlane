@@ -7824,3 +7824,4 @@
 96701. chore: update .gitignore #96701
 81988. fix: resolve issue with date parsing #81988
 30233. docs: write FAQ section #30233
+14422. test: mock database connection in test suite #14422
