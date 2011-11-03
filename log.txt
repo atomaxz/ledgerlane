@@ -7826,3 +7826,4 @@
 30233. docs: write FAQ section #30233
 14422. test: mock database connection in test suite #14422
 80551. docs: update README with setup steps #80551
+25757. chore: add GitHub actions badge #25757
