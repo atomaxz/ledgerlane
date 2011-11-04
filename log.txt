@@ -9863,3 +9863,4 @@
 93159. refactor: organize models into subfolders #93159
 86535. perf: optimize database query for quiz results #86535
 36465. style: rename variables for clarity #36465
+8950. perf: reduce image load time #8950
