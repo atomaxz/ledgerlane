@@ -9868,3 +9868,4 @@
 65677. feat: enable dark mode toggle #65677
 10499. style: reformat files with black #10499
 8037. style: reformat files with black #8037
+37094. chore: rename env.example #37094
