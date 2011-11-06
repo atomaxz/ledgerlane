@@ -8838,3 +8838,4 @@
 8801. style: apply consistent indentation #8801
 8451. fix: correct typo in registration form #8451
 9969. chore: rename env.example #9969
+75813. test: test user registration edge cases #75813
