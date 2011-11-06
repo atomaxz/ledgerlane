@@ -8839,3 +8839,4 @@
 8451. fix: correct typo in registration form #8451
 9969. chore: rename env.example #9969
 75813. test: test user registration edge cases #75813
+42262. test: mock database connection in test suite #42262
