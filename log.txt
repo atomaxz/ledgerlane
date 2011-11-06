@@ -8836,3 +8836,4 @@
 63030. docs: document token refresh logic #63030
 58083. feat: enable dark mode toggle #58083
 8801. style: apply consistent indentation #8801
+8451. fix: correct typo in registration form #8451
