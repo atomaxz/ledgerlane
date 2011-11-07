@@ -9870,3 +9870,4 @@
 8037. style: reformat files with black #8037
 37094. chore: rename env.example #37094
 35081. feat: create admin dashboard #35081
+63545. perf: lazy-load components #63545
