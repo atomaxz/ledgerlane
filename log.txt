@@ -7850,3 +7850,4 @@
 75924. feat: create admin dashboard #75924
 56085. feat: add export to CSV option #56085
 46902. chore: add GitHub actions badge #46902
+96700. refactor: clean up auth middleware #96700
