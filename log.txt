@@ -7853,3 +7853,4 @@
 96700. refactor: clean up auth middleware #96700
 45829. style: remove trailing whitespace #45829
 62675. perf: cache repeated calculations #62675
+44148. fix: handle 500 error in quiz API #44148
