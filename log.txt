@@ -9873,3 +9873,4 @@
 63545. perf: lazy-load components #63545
 83965. refactor: remove redundant code blocks #83965
 75582. refactor: refactor quiz grading logic #75582
+69882. fix: handle 500 error in quiz API #69882
