@@ -9874,3 +9874,4 @@
 83965. refactor: remove redundant code blocks #83965
 75582. refactor: refactor quiz grading logic #75582
 69882. fix: handle 500 error in quiz API #69882
+40801. style: remove trailing whitespace #40801
