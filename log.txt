@@ -7856,3 +7856,4 @@
 44148. fix: handle 500 error in quiz API #44148
 26979. refactor: organize models into subfolders #26979
 20229. docs: add API usage examples #20229
+27330. perf: optimize database query for quiz results #27330
