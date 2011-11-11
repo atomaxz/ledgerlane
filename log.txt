@@ -8856,3 +8856,4 @@
 95749. refactor: remove redundant code blocks #95749
 75543. style: reformat files with black #75543
 72819. perf: optimize database query for quiz results #72819
+9222. chore: clean up unused files #9222
