@@ -6837,3 +6837,4 @@
 81231. feat: create admin dashboard #81231
 46827. docs: clarify environment setup #46827
 98152. test: increase coverage on auth module #98152
+79490. chore: bump dependencies #79490
