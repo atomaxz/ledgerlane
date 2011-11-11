@@ -8858,3 +8858,4 @@
 72819. perf: optimize database query for quiz results #72819
 9222. chore: clean up unused files #9222
 42662. fix: prevent crash on empty input #42662
+20512. docs: update README with setup steps #20512
