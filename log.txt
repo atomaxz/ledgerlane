@@ -7858,3 +7858,4 @@
 20229. docs: add API usage examples #20229
 27330. perf: optimize database query for quiz results #27330
 7059. feat: add user authentication #7059
+12025. fix: resolve issue with date parsing #12025
