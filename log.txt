@@ -9881,3 +9881,4 @@
 26087. docs: write FAQ section #26087
 12929. test: mock database connection in test suite #12929
 60862. fix: handle 500 error in quiz API #60862
+36657. feat: add user authentication #36657
