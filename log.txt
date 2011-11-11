@@ -6838,3 +6838,4 @@
 46827. docs: clarify environment setup #46827
 98152. test: increase coverage on auth module #98152
 79490. chore: bump dependencies #79490
+59288. refactor: clean up auth middleware #59288
