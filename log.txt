@@ -9879,3 +9879,4 @@
 79509. chore: clean up unused files #79509
 38086. test: test user registration edge cases #38086
 26087. docs: write FAQ section #26087
+12929. test: mock database connection in test suite #12929
