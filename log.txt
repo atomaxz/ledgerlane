@@ -8863,3 +8863,4 @@
 47849. docs: clarify environment setup #47849
 90205. chore: add GitHub actions badge #90205
 92670. refactor: organize models into subfolders #92670
+58384. perf: lazy-load components #58384
