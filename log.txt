@@ -7860,3 +7860,4 @@
 7059. feat: add user authentication #7059
 12025. fix: resolve issue with date parsing #12025
 47622. perf: optimize database query for quiz results #47622
+31605. test: add unit test for quiz service #31605
