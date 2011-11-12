@@ -7865,3 +7865,4 @@
 19384. test: add unit test for quiz service #19384
 99335. docs: update README with setup steps #99335
 69521. test: increase coverage on auth module #69521
+1738. perf: optimize database query for quiz results #1738
