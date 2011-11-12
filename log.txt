@@ -8860,3 +8860,4 @@
 42662. fix: prevent crash on empty input #42662
 20512. docs: update README with setup steps #20512
 47475. chore: bump dependencies #47475
+47849. docs: clarify environment setup #47849
