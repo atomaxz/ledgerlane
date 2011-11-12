@@ -8862,3 +8862,4 @@
 47475. chore: bump dependencies #47475
 47849. docs: clarify environment setup #47849
 90205. chore: add GitHub actions badge #90205
+92670. refactor: organize models into subfolders #92670
