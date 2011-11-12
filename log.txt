@@ -8861,3 +8861,4 @@
 20512. docs: update README with setup steps #20512
 47475. chore: bump dependencies #47475
 47849. docs: clarify environment setup #47849
+90205. chore: add GitHub actions badge #90205
