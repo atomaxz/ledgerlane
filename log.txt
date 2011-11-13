@@ -9888,3 +9888,4 @@
 99187. docs: clarify environment setup #99187
 43731. feat: create admin dashboard #43731
 34919. style: standardize quote style #34919
+43954. style: remove trailing whitespace #43954
