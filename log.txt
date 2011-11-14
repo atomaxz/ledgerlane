@@ -9889,3 +9889,4 @@
 43731. feat: create admin dashboard #43731
 34919. style: standardize quote style #34919
 43954. style: remove trailing whitespace #43954
+47246. feat: add user authentication #47246
