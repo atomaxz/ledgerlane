@@ -8870,3 +8870,4 @@
 95256. fix: handle 500 error in quiz API #95256
 23421. fix: resolve issue with date parsing #23421
 5826. style: reformat files with black #5826
+62104. docs: write FAQ section #62104
