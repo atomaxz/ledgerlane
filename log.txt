@@ -8872,3 +8872,4 @@
 5826. style: reformat files with black #5826
 62104. docs: write FAQ section #62104
 98548. perf: cache repeated calculations #98548
+21973. docs: document token refresh logic #21973
