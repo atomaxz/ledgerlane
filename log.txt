@@ -6850,3 +6850,4 @@
 96398. fix: resolve issue with date parsing #96398
 96205. chore: rename env.example #96205
 51416. refactor: split large controller into smaller functions #51416
+58237. feat: enable dark mode toggle #58237
