@@ -9892,3 +9892,4 @@
 47246. feat: add user authentication #47246
 47214. style: rename variables for clarity #47214
 81664. chore: update .gitignore #81664
+78351. perf: lazy-load components #78351
