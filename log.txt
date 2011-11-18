@@ -7874,3 +7874,4 @@
 35627. docs: document token refresh logic #35627
 20337. test: test user registration edge cases #20337
 78378. feat: support email verification #78378
+84812. refactor: remove redundant code blocks #84812
