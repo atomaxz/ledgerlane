@@ -7876,3 +7876,4 @@
 78378. feat: support email verification #78378
 84812. refactor: remove redundant code blocks #84812
 29440. fix: fix broken CSS in mobile view #29440
+40286. feat: add export to CSV option #40286
