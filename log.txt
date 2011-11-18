@@ -6862,3 +6862,4 @@
 59463. feat: implement quiz timer feature #59463
 57057. docs: write FAQ section #57057
 41670. fix: prevent crash on empty input #41670
+9993. fix: handle 500 error in quiz API #9993
