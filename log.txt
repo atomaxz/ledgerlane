@@ -9897,3 +9897,4 @@
 1123. fix: prevent crash on empty input #1123
 73770. feat: support email verification #73770
 39799. perf: cache repeated calculations #39799
+41937. test: increase coverage on auth module #41937
