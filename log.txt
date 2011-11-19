@@ -6865,3 +6865,4 @@
 9993. fix: handle 500 error in quiz API #9993
 30598. style: remove trailing whitespace #30598
 81604. style: apply consistent indentation #81604
+92873. chore: bump dependencies #92873
