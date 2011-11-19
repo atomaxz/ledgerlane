@@ -7879,3 +7879,4 @@
 40286. feat: add export to CSV option #40286
 75790. test: increase coverage on auth module #75790
 27025. style: remove trailing whitespace #27025
+56262. refactor: clean up auth middleware #56262
