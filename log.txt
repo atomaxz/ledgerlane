@@ -7883,3 +7883,4 @@
 84321. docs: write FAQ section #84321
 79088. style: reformat files with black #79088
 6510. feat: add user authentication #6510
+35956. chore: rename env.example #35956
