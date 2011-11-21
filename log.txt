@@ -6866,3 +6866,4 @@
 30598. style: remove trailing whitespace #30598
 81604. style: apply consistent indentation #81604
 92873. chore: bump dependencies #92873
+12207. fix: prevent crash on empty input #12207
