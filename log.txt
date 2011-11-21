@@ -7885,3 +7885,4 @@
 6510. feat: add user authentication #6510
 35956. chore: rename env.example #35956
 64490. feat: add user authentication #64490
+60634. chore: bump dependencies #60634
