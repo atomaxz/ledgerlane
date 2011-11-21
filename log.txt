@@ -6867,3 +6867,4 @@
 81604. style: apply consistent indentation #81604
 92873. chore: bump dependencies #92873
 12207. fix: prevent crash on empty input #12207
+30532. refactor: remove redundant code blocks #30532
