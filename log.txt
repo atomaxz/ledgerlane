@@ -9910,3 +9910,4 @@
 2019. refactor: split large controller into smaller functions #2019
 5633. fix: fix broken CSS in mobile view #5633
 0965. chore: clean up unused files #965
+92788. fix: handle 500 error in quiz API #92788
