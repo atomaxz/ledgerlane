@@ -7890,3 +7890,4 @@
 60814. test: add integration test for /submit endpoint #60814
 7336. chore: bump dependencies #7336
 71457. chore: bump dependencies #71457
+74161. feat: support email verification #74161
