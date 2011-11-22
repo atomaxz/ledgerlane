@@ -9911,3 +9911,4 @@
 5633. fix: fix broken CSS in mobile view #5633
 0965. chore: clean up unused files #965
 92788. fix: handle 500 error in quiz API #92788
+35389. perf: cache repeated calculations #35389
