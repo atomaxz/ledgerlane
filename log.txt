@@ -9912,3 +9912,4 @@
 0965. chore: clean up unused files #965
 92788. fix: handle 500 error in quiz API #92788
 35389. perf: cache repeated calculations #35389
+39367. refactor: refactor quiz grading logic #39367
