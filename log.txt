@@ -6870,3 +6870,4 @@
 30532. refactor: remove redundant code blocks #30532
 42664. feat: create admin dashboard #42664
 5488. fix: fix broken CSS in mobile view #5488
+41537. docs: document token refresh logic #41537
