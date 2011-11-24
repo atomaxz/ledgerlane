@@ -9917,3 +9917,4 @@
 10653. refactor: remove redundant code blocks #10653
 82527. fix: prevent crash on empty input #82527
 96707. test: increase coverage on auth module #96707
+80650. feat: support email verification #80650
