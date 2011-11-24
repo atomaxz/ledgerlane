@@ -8895,3 +8895,4 @@
 1304. feat: create admin dashboard #1304
 41246. chore: rename env.example #41246
 85398. style: standardize quote style #85398
+3021. fix: correct typo in registration form #3021
