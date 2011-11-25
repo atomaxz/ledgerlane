@@ -6874,3 +6874,4 @@
 34696. feat: add user authentication #34696
 95089. perf: cache repeated calculations #95089
 50273. chore: bump dependencies #50273
+31328. test: add unit test for quiz service #31328
