@@ -6873,3 +6873,4 @@
 41537. docs: document token refresh logic #41537
 34696. feat: add user authentication #34696
 95089. perf: cache repeated calculations #95089
+50273. chore: bump dependencies #50273
