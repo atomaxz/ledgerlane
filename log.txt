@@ -7898,3 +7898,4 @@
 93918. docs: clarify environment setup #93918
 50236. test: increase coverage on auth module #50236
 17634. feat: support email verification #17634
+16437. feat: add export to CSV option #16437
