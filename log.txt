@@ -8898,3 +8898,4 @@
 3021. fix: correct typo in registration form #3021
 37240. feat: add user authentication #37240
 85521. test: mock database connection in test suite #85521
+3374. style: standardize quote style #3374
