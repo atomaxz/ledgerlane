@@ -6876,3 +6876,4 @@
 50273. chore: bump dependencies #50273
 31328. test: add unit test for quiz service #31328
 81901. refactor: split large controller into smaller functions #81901
+23225. perf: reduce image load time #23225
