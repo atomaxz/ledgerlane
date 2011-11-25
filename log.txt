@@ -7897,3 +7897,4 @@
 93078. fix: correct typo in registration form #93078
 93918. docs: clarify environment setup #93918
 50236. test: increase coverage on auth module #50236
+17634. feat: support email verification #17634
