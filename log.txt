@@ -6880,3 +6880,4 @@
 24057. perf: optimize database query for quiz results #24057
 58757. style: apply consistent indentation #58757
 41187. fix: fix null pointer exception on login #41187
+51728. fix: correct typo in registration form #51728
