@@ -9924,3 +9924,4 @@
 64188. test: test user registration edge cases #64188
 62002. refactor: clean up auth middleware #62002
 78548. test: add unit test for quiz service #78548
+46968. refactor: clean up auth middleware #46968
