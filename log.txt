@@ -9923,3 +9923,4 @@
 99893. style: remove trailing whitespace #99893
 64188. test: test user registration edge cases #64188
 62002. refactor: clean up auth middleware #62002
+78548. test: add unit test for quiz service #78548
