@@ -8900,3 +8900,4 @@
 85521. test: mock database connection in test suite #85521
 3374. style: standardize quote style #3374
 72238. fix: fix null pointer exception on login #72238
+10135. perf: reduce image load time #10135
