@@ -6881,3 +6881,4 @@
 58757. style: apply consistent indentation #58757
 41187. fix: fix null pointer exception on login #41187
 51728. fix: correct typo in registration form #51728
+56294. fix: fix broken CSS in mobile view #56294
