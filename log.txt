@@ -8904,3 +8904,4 @@
 86049. fix: prevent crash on empty input #86049
 33239. refactor: remove redundant code blocks #33239
 9539. style: apply consistent indentation #9539
+21456. perf: optimize database query for quiz results #21456
