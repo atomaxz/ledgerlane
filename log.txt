@@ -6889,3 +6889,4 @@
 61871. feat: implement quiz timer feature #61871
 32565. perf: reduce image load time #32565
 72451. perf: reduce image load time #72451
+83222. refactor: clean up auth middleware #83222
