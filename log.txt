@@ -7902,3 +7902,4 @@
 0591. fix: correct typo in registration form #591
 16163. fix: resolve issue with date parsing #16163
 79426. chore: update .gitignore #79426
+34061. fix: prevent crash on empty input #34061
