@@ -7904,3 +7904,4 @@
 79426. chore: update .gitignore #79426
 34061. fix: prevent crash on empty input #34061
 63841. docs: add API usage examples #63841
+42340. style: remove trailing whitespace #42340
