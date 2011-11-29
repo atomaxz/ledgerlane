@@ -8906,3 +8906,4 @@
 9539. style: apply consistent indentation #9539
 21456. perf: optimize database query for quiz results #21456
 88905. style: remove trailing whitespace #88905
+33018. perf: lazy-load components #33018
