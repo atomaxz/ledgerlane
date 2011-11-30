@@ -7907,3 +7907,4 @@
 42340. style: remove trailing whitespace #42340
 73739. fix: prevent crash on empty input #73739
 10646. feat: support email verification #10646
+21267. fix: handle 500 error in quiz API #21267
