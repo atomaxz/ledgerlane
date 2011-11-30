@@ -6895,3 +6895,4 @@
 64220. chore: clean up unused files #64220
 77835. test: increase coverage on auth module #77835
 52790. feat: add export to CSV option #52790
+4403. fix: handle 500 error in quiz API #4403
