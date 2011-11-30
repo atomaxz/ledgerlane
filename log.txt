@@ -7910,3 +7910,4 @@
 21267. fix: handle 500 error in quiz API #21267
 99995. refactor: split large controller into smaller functions #99995
 58159. chore: bump dependencies #58159
+83122. docs: write FAQ section #83122
