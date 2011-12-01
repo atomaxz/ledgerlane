@@ -7911,3 +7911,4 @@
 99995. refactor: split large controller into smaller functions #99995
 58159. chore: bump dependencies #58159
 83122. docs: write FAQ section #83122
+57799. feat: enable dark mode toggle #57799
