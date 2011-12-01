@@ -8914,3 +8914,4 @@
 57796. feat: add export to CSV option #57796
 67547. style: standardize quote style #67547
 79673. style: remove trailing whitespace #79673
+21024. chore: bump dependencies #21024
