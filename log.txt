@@ -9929,3 +9929,4 @@
 68978. fix: resolve issue with date parsing #68978
 81585. docs: clarify environment setup #81585
 41109. fix: correct typo in registration form #41109
+12926. feat: enable dark mode toggle #12926
