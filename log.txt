@@ -6899,3 +6899,4 @@
 65028. chore: clean up unused files #65028
 27484. chore: clean up unused files #27484
 33673. perf: lazy-load components #33673
+42662. fix: prevent crash on empty input #42662
