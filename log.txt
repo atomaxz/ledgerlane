@@ -7918,3 +7918,4 @@
 60774. style: standardize quote style #60774
 83338. fix: handle 500 error in quiz API #83338
 10374. refactor: split large controller into smaller functions #10374
+68559. test: add unit test for quiz service #68559
