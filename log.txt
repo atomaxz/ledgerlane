@@ -6901,3 +6901,4 @@
 33673. perf: lazy-load components #33673
 42662. fix: prevent crash on empty input #42662
 77894. style: remove trailing whitespace #77894
+1620. refactor: clean up auth middleware #1620
