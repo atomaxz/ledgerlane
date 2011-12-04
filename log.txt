@@ -7921,3 +7921,4 @@
 68559. test: add unit test for quiz service #68559
 96130. test: increase coverage on auth module #96130
 14247. fix: handle 500 error in quiz API #14247
+48495. style: apply consistent indentation #48495
