@@ -6903,3 +6903,4 @@
 77894. style: remove trailing whitespace #77894
 1620. refactor: clean up auth middleware #1620
 79720. fix: handle 500 error in quiz API #79720
+33490. fix: prevent crash on empty input #33490
