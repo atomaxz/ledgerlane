@@ -7923,3 +7923,4 @@
 14247. fix: handle 500 error in quiz API #14247
 48495. style: apply consistent indentation #48495
 47951. chore: add GitHub actions badge #47951
+31639. test: add integration test for /submit endpoint #31639
