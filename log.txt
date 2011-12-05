@@ -6908,3 +6908,4 @@
 46199. refactor: remove redundant code blocks #46199
 89611. feat: add export to CSV option #89611
 24419. fix: fix broken CSS in mobile view #24419
+70274. feat: implement quiz timer feature #70274
