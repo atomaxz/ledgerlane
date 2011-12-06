@@ -9940,3 +9940,4 @@
 54030. style: standardize quote style #54030
 34650. perf: reduce image load time #34650
 35547. chore: rename env.example #35547
+31854. test: increase coverage on auth module #31854
