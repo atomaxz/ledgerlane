@@ -6913,3 +6913,4 @@
 96600. docs: add API usage examples #96600
 78563. test: increase coverage on auth module #78563
 12033. docs: document token refresh logic #12033
+75518. docs: write FAQ section #75518
