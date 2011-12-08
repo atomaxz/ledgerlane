@@ -6915,3 +6915,4 @@
 12033. docs: document token refresh logic #12033
 75518. docs: write FAQ section #75518
 14620. feat: enable dark mode toggle #14620
+56150. test: test user registration edge cases #56150
