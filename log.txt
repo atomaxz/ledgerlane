@@ -7930,3 +7930,4 @@
 42092. docs: improve code comments in utils #42092
 79851. perf: reduce image load time #79851
 66029. feat: create admin dashboard #66029
+81307. docs: write FAQ section #81307
