@@ -7931,3 +7931,4 @@
 79851. perf: reduce image load time #79851
 66029. feat: create admin dashboard #66029
 81307. docs: write FAQ section #81307
+73400. style: standardize quote style #73400
