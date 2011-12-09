@@ -7932,3 +7932,4 @@
 66029. feat: create admin dashboard #66029
 81307. docs: write FAQ section #81307
 73400. style: standardize quote style #73400
+47141. test: mock database connection in test suite #47141
