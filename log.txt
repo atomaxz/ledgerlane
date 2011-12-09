@@ -6917,3 +6917,4 @@
 14620. feat: enable dark mode toggle #14620
 56150. test: test user registration edge cases #56150
 50962. refactor: clean up auth middleware #50962
+14497. perf: lazy-load components #14497
