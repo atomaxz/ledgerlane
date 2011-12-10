@@ -6919,3 +6919,4 @@
 50962. refactor: clean up auth middleware #50962
 14497. perf: lazy-load components #14497
 38405. refactor: split large controller into smaller functions #38405
+44723. perf: lazy-load components #44723
