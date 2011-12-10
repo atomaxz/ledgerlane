@@ -9948,3 +9948,4 @@
 75688. fix: resolve issue with date parsing #75688
 83156. docs: document token refresh logic #83156
 99729. test: add integration test for /submit endpoint #99729
+24257. test: test user registration edge cases #24257
