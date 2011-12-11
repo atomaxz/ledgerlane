@@ -6922,3 +6922,4 @@
 44723. perf: lazy-load components #44723
 88123. style: standardize quote style #88123
 0435. docs: clarify environment setup #435
+98533. fix: prevent crash on empty input #98533
