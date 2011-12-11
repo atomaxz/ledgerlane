@@ -8940,3 +8940,4 @@
 69755. style: rename variables for clarity #69755
 50533. perf: cache repeated calculations #50533
 79816. perf: lazy-load components #79816
+7860. fix: resolve issue with date parsing #7860
