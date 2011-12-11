@@ -9950,3 +9950,4 @@
 99729. test: add integration test for /submit endpoint #99729
 24257. test: test user registration edge cases #24257
 40919. refactor: organize models into subfolders #40919
+47802. style: remove trailing whitespace #47802
