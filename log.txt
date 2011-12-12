@@ -9952,3 +9952,4 @@
 40919. refactor: organize models into subfolders #40919
 47802. style: remove trailing whitespace #47802
 50122. docs: write FAQ section #50122
+8786. test: test user registration edge cases #8786
