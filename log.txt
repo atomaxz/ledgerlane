@@ -9956,3 +9956,4 @@
 74927. docs: improve code comments in utils #74927
 95822. style: rename variables for clarity #95822
 40616. style: rename variables for clarity #40616
+9183. fix: handle 500 error in quiz API #9183
