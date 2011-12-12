@@ -7942,3 +7942,4 @@
 70426. style: remove trailing whitespace #70426
 53204. perf: reduce image load time #53204
 54502. feat: add user authentication #54502
+18288. docs: clarify environment setup #18288
