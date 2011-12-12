@@ -8942,3 +8942,4 @@
 79816. perf: lazy-load components #79816
 7860. fix: resolve issue with date parsing #7860
 77370. refactor: organize models into subfolders #77370
+60250. test: test user registration edge cases #60250
