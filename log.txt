@@ -9960,3 +9960,4 @@
 43932. test: add integration test for /submit endpoint #43932
 61777. chore: clean up unused files #61777
 93025. refactor: split large controller into smaller functions #93025
+76903. perf: lazy-load components #76903
