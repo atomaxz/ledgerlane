@@ -6925,3 +6925,4 @@
 98533. fix: prevent crash on empty input #98533
 42940. style: reformat files with black #42940
 31377. style: remove trailing whitespace #31377
+6802. style: apply consistent indentation #6802
