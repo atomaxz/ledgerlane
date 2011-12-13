@@ -8945,3 +8945,4 @@
 60250. test: test user registration edge cases #60250
 16237. style: remove trailing whitespace #16237
 94661. test: test user registration edge cases #94661
+67280. chore: add GitHub actions badge #67280
