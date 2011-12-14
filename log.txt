@@ -7951,3 +7951,4 @@
 51791. chore: update .gitignore #51791
 17757. style: standardize quote style #17757
 30397. refactor: clean up auth middleware #30397
+74436. test: increase coverage on auth module #74436
