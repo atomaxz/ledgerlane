@@ -7947,3 +7947,4 @@
 93120. perf: lazy-load components #93120
 29709. feat: create admin dashboard #29709
 78621. feat: add export to CSV option #78621
+64256. fix: fix broken CSS in mobile view #64256
