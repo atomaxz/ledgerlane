@@ -6931,3 +6931,4 @@
 52814. docs: update README with setup steps #52814
 96059. test: test user registration edge cases #96059
 65148. feat: support email verification #65148
+59570. test: add integration test for /submit endpoint #59570
