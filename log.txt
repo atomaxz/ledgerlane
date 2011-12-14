@@ -8947,3 +8947,4 @@
 94661. test: test user registration edge cases #94661
 67280. chore: add GitHub actions badge #67280
 29880. feat: add user authentication #29880
+90478. perf: lazy-load components #90478
