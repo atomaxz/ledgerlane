@@ -7950,3 +7950,4 @@
 64256. fix: fix broken CSS in mobile view #64256
 51791. chore: update .gitignore #51791
 17757. style: standardize quote style #17757
+30397. refactor: clean up auth middleware #30397
