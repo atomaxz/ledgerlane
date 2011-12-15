@@ -7954,3 +7954,4 @@
 74436. test: increase coverage on auth module #74436
 7143. style: apply consistent indentation #7143
 13459. style: rename variables for clarity #13459
+23660. feat: enable dark mode toggle #23660
