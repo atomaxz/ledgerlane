@@ -6936,3 +6936,4 @@
 27645. perf: optimize database query for quiz results #27645
 25951. style: standardize quote style #25951
 96586. chore: bump dependencies #96586
+62755. fix: handle 500 error in quiz API #62755
