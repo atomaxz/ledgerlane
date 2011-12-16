@@ -6940,3 +6940,4 @@
 87996. test: increase coverage on auth module #87996
 20204. perf: optimize database query for quiz results #20204
 32458. fix: handle 500 error in quiz API #32458
+50569. chore: update .gitignore #50569
