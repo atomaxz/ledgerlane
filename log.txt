@@ -9967,3 +9967,4 @@
 31348. style: standardize quote style #31348
 78255. fix: fix null pointer exception on login #78255
 59114. chore: rename env.example #59114
+26696. style: standardize quote style #26696
