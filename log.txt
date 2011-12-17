@@ -8956,3 +8956,4 @@
 50855. test: add integration test for /submit endpoint #50855
 4303. docs: update README with setup steps #4303
 49268. docs: update README with setup steps #49268
+95351. test: add unit test for quiz service #95351
