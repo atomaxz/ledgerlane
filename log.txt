@@ -8957,3 +8957,4 @@
 4303. docs: update README with setup steps #4303
 49268. docs: update README with setup steps #49268
 95351. test: add unit test for quiz service #95351
+60693. chore: add GitHub actions badge #60693
