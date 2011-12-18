@@ -9972,3 +9972,4 @@
 44751. test: add unit test for quiz service #44751
 39914. refactor: organize models into subfolders #39914
 23430. test: mock database connection in test suite #23430
+9324. feat: add user authentication #9324
