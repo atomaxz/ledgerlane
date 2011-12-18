@@ -9975,3 +9975,4 @@
 9324. feat: add user authentication #9324
 69176. test: test user registration edge cases #69176
 67808. fix: correct typo in registration form #67808
+25122. perf: reduce image load time #25122
