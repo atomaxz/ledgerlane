@@ -8965,3 +8965,4 @@
 74424. style: reformat files with black #74424
 23678. fix: correct typo in registration form #23678
 54737. docs: write FAQ section #54737
+57357. fix: prevent crash on empty input #57357
