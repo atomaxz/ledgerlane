@@ -6948,3 +6948,4 @@
 1700. fix: resolve issue with date parsing #1700
 2249. chore: bump dependencies #2249
 59787. refactor: remove redundant code blocks #59787
+26331. test: mock database connection in test suite #26331
