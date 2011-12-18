@@ -9973,3 +9973,4 @@
 39914. refactor: organize models into subfolders #39914
 23430. test: mock database connection in test suite #23430
 9324. feat: add user authentication #9324
+69176. test: test user registration edge cases #69176
