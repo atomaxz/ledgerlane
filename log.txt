@@ -8964,3 +8964,4 @@
 73490. chore: add GitHub actions badge #73490
 74424. style: reformat files with black #74424
 23678. fix: correct typo in registration form #23678
+54737. docs: write FAQ section #54737
