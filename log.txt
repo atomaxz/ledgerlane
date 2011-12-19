@@ -7966,3 +7966,4 @@
 59796. docs: add API usage examples #59796
 14852. docs: update README with setup steps #14852
 78402. chore: update .gitignore #78402
+79093. fix: prevent crash on empty input #79093
