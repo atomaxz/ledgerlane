@@ -8967,3 +8967,4 @@
 54737. docs: write FAQ section #54737
 57357. fix: prevent crash on empty input #57357
 35997. feat: add export to CSV option #35997
+45494. feat: create admin dashboard #45494
