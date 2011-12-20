@@ -7972,3 +7972,4 @@
 13456. perf: lazy-load components #13456
 18996. chore: rename env.example #18996
 67935. fix: correct typo in registration form #67935
+24407. perf: reduce image load time #24407
