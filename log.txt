@@ -7970,3 +7970,4 @@
 16998. test: test user registration edge cases #16998
 71254. style: reformat files with black #71254
 13456. perf: lazy-load components #13456
+18996. chore: rename env.example #18996
