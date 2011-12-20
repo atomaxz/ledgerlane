@@ -6954,3 +6954,4 @@
 38239. chore: bump dependencies #38239
 70114. chore: bump dependencies #70114
 30802. refactor: clean up auth middleware #30802
+12450. perf: lazy-load components #12450
