@@ -8971,3 +8971,4 @@
 67029. refactor: refactor quiz grading logic #67029
 96664. style: standardize quote style #96664
 35064. refactor: refactor quiz grading logic #35064
+11555. fix: prevent crash on empty input #11555
