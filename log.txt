@@ -7967,3 +7967,4 @@
 14852. docs: update README with setup steps #14852
 78402. chore: update .gitignore #78402
 79093. fix: prevent crash on empty input #79093
+16998. test: test user registration edge cases #16998
