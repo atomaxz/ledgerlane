@@ -7969,3 +7969,4 @@
 79093. fix: prevent crash on empty input #79093
 16998. test: test user registration edge cases #16998
 71254. style: reformat files with black #71254
+13456. perf: lazy-load components #13456
