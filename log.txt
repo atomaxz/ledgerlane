@@ -7976,3 +7976,4 @@
 80254. style: rename variables for clarity #80254
 58721. feat: support email verification #58721
 87190. docs: improve code comments in utils #87190
+40877. fix: fix null pointer exception on login #40877
