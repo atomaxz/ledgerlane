@@ -8975,3 +8975,4 @@
 56082. refactor: split large controller into smaller functions #56082
 40164. feat: implement quiz timer feature #40164
 41954. test: increase coverage on auth module #41954
+71876. test: add integration test for /submit endpoint #71876
