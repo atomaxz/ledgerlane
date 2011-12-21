@@ -8974,3 +8974,4 @@
 11555. fix: prevent crash on empty input #11555
 56082. refactor: split large controller into smaller functions #56082
 40164. feat: implement quiz timer feature #40164
+41954. test: increase coverage on auth module #41954
