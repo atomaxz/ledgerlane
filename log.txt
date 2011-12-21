@@ -7974,3 +7974,4 @@
 67935. fix: correct typo in registration form #67935
 24407. perf: reduce image load time #24407
 80254. style: rename variables for clarity #80254
+58721. feat: support email verification #58721
