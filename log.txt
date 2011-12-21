@@ -8976,3 +8976,4 @@
 40164. feat: implement quiz timer feature #40164
 41954. test: increase coverage on auth module #41954
 71876. test: add integration test for /submit endpoint #71876
+27761. docs: write FAQ section #27761
