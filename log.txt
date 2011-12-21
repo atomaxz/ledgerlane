@@ -8977,3 +8977,4 @@
 41954. test: increase coverage on auth module #41954
 71876. test: add integration test for /submit endpoint #71876
 27761. docs: write FAQ section #27761
+64231. fix: fix broken CSS in mobile view #64231
