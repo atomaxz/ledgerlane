@@ -6958,3 +6958,4 @@
 36353. feat: add export to CSV option #36353
 45017. refactor: refactor quiz grading logic #45017
 99423. chore: bump dependencies #99423
+74540. feat: add user authentication #74540
