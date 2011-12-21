@@ -7975,3 +7975,4 @@
 24407. perf: reduce image load time #24407
 80254. style: rename variables for clarity #80254
 58721. feat: support email verification #58721
+87190. docs: improve code comments in utils #87190
