@@ -7979,3 +7979,4 @@
 40877. fix: fix null pointer exception on login #40877
 41208. fix: resolve issue with date parsing #41208
 24768. feat: implement quiz timer feature #24768
+56509. fix: handle 500 error in quiz API #56509
