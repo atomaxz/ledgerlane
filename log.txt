@@ -6960,3 +6960,4 @@
 99423. chore: bump dependencies #99423
 74540. feat: add user authentication #74540
 85743. docs: document token refresh logic #85743
+24722. test: mock database connection in test suite #24722
