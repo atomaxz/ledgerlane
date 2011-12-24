@@ -6964,3 +6964,4 @@
 46634. chore: clean up unused files #46634
 3603. feat: create admin dashboard #3603
 75993. refactor: remove redundant code blocks #75993
+5116. chore: update .gitignore #5116
