@@ -8980,3 +8980,4 @@
 64231. fix: fix broken CSS in mobile view #64231
 20824. style: rename variables for clarity #20824
 39378. perf: cache repeated calculations #39378
+61595. docs: document token refresh logic #61595
