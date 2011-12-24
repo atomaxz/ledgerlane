@@ -9986,3 +9986,4 @@
 50934. docs: add API usage examples #50934
 65143. refactor: remove redundant code blocks #65143
 90350. perf: reduce image load time #90350
+89492. perf: reduce image load time #89492
