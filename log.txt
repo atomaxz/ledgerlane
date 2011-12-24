@@ -7982,3 +7982,4 @@
 56509. fix: handle 500 error in quiz API #56509
 27785. test: add unit test for quiz service #27785
 22240. style: reformat files with black #22240
+36921. docs: add API usage examples #36921
