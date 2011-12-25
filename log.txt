@@ -6969,3 +6969,4 @@
 52033. test: add integration test for /submit endpoint #52033
 56291. perf: cache repeated calculations #56291
 7754. docs: clarify environment setup #7754
+92792. test: test user registration edge cases #92792
