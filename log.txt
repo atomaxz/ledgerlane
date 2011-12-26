@@ -6971,3 +6971,4 @@
 7754. docs: clarify environment setup #7754
 92792. test: test user registration edge cases #92792
 83414. test: test user registration edge cases #83414
+62841. style: remove trailing whitespace #62841
