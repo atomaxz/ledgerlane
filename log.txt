@@ -8987,3 +8987,4 @@
 39257. style: apply consistent indentation #39257
 52964. docs: write FAQ section #52964
 52880. refactor: organize models into subfolders #52880
+59578. fix: prevent crash on empty input #59578
