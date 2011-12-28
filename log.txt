@@ -8988,3 +8988,4 @@
 52964. docs: write FAQ section #52964
 52880. refactor: organize models into subfolders #52880
 59578. fix: prevent crash on empty input #59578
+37872. refactor: refactor quiz grading logic #37872
