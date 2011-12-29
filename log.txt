@@ -8992,3 +8992,4 @@
 49287. chore: clean up unused files #49287
 23645. docs: update README with setup steps #23645
 68815. refactor: remove redundant code blocks #68815
+79260. docs: write FAQ section #79260
