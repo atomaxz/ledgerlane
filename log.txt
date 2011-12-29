@@ -6982,3 +6982,4 @@
 16491. chore: rename env.example #16491
 71257. docs: improve code comments in utils #71257
 32840. refactor: organize models into subfolders #32840
+6261. fix: correct typo in registration form #6261
