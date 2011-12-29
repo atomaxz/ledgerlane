@@ -6986,3 +6986,4 @@
 36281. fix: fix broken CSS in mobile view #36281
 25445. feat: implement quiz timer feature #25445
 39810. feat: add export to CSV option #39810
+18512. style: reformat files with black #18512
