@@ -6992,3 +6992,4 @@
 19442. style: reformat files with black #19442
 44264. test: mock database connection in test suite #44264
 82833. chore: update .gitignore #82833
+21390. feat: enable dark mode toggle #21390
