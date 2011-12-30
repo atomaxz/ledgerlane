@@ -6987,3 +6987,4 @@
 25445. feat: implement quiz timer feature #25445
 39810. feat: add export to CSV option #39810
 18512. style: reformat files with black #18512
+45450. perf: reduce image load time #45450
