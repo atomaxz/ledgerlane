@@ -9996,3 +9996,4 @@
 17116. perf: reduce image load time #17116
 33342. chore: clean up unused files #33342
 64238. feat: support email verification #64238
+32211. fix: fix broken CSS in mobile view #32211
