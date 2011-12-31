@@ -6993,3 +6993,4 @@
 44264. test: mock database connection in test suite #44264
 82833. chore: update .gitignore #82833
 21390. feat: enable dark mode toggle #21390
+26430. docs: document token refresh logic #26430
