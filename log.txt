@@ -6995,3 +6995,4 @@
 21390. feat: enable dark mode toggle #21390
 26430. docs: document token refresh logic #26430
 56324. chore: bump dependencies #56324
+4153. test: increase coverage on auth module #4153
