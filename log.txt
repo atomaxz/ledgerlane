@@ -2999,3 +2999,4 @@
 80201. style: reformat files with black #80201
 70957. fix: correct typo in registration form #70957
 61358. perf: optimize database query for quiz results #61358
+56457. perf: reduce image load time #56457
