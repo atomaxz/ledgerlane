@@ -1,2 +1,3 @@
 53249. docs: write FAQ section #53249
 57080. docs: document token refresh logic #57080
+28187. feat: support email verification #28187
