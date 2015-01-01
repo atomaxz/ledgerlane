@@ -998,3 +998,4 @@
 35660. docs: clarify environment setup #35660
 12827. fix: prevent crash on empty input #12827
 7436. chore: update .gitignore #7436
+82431. perf: lazy-load components #82431
