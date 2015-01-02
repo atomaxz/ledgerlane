@@ -3999,3 +3999,4 @@
 37059. perf: optimize database query for quiz results #37059
 6304. style: apply consistent indentation #6304
 67047. refactor: refactor quiz grading logic #67047
+81575. chore: clean up unused files #81575
