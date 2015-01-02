@@ -3001,3 +3001,4 @@
 61358. perf: optimize database query for quiz results #61358
 56457. perf: reduce image load time #56457
 67069. refactor: remove redundant code blocks #67069
+88371. fix: fix broken CSS in mobile view #88371
