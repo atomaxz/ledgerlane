@@ -2,3 +2,4 @@
 57080. docs: document token refresh logic #57080
 28187. feat: support email verification #28187
 4135. docs: write FAQ section #4135
+66731. test: add integration test for /submit endpoint #66731
