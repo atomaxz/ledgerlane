@@ -4,3 +4,4 @@
 4135. docs: write FAQ section #4135
 66731. test: add integration test for /submit endpoint #66731
 94204. docs: add API usage examples #94204
+46513. test: increase coverage on auth module #46513
