@@ -5005,3 +5005,4 @@
 58852. perf: optimize database query for quiz results #58852
 95017. refactor: split large controller into smaller functions #95017
 41028. feat: add user authentication #41028
+83386. fix: prevent crash on empty input #83386
