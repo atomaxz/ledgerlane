@@ -8,3 +8,4 @@
 66560. refactor: refactor quiz grading logic #66560
 94189. test: mock database connection in test suite #94189
 73265. refactor: refactor quiz grading logic #73265
+80833. style: reformat files with black #80833
