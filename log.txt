@@ -4011,3 +4011,4 @@
 83265. feat: add user authentication #83265
 32984. feat: create admin dashboard #32984
 14098. chore: update .gitignore #14098
+78939. chore: add GitHub actions badge #78939
