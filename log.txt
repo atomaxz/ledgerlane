@@ -16,3 +16,4 @@
 15667. style: reformat files with black #15667
 79486. refactor: clean up auth middleware #79486
 52826. perf: lazy-load components #52826
+20487. fix: prevent crash on empty input #20487
