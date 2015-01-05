@@ -14,3 +14,4 @@
 9664. docs: update README with setup steps #9664
 45646. docs: add API usage examples #45646
 15667. style: reformat files with black #15667
+79486. refactor: clean up auth middleware #79486
