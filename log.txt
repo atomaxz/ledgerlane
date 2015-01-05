@@ -1009,3 +1009,4 @@
 62632. docs: document token refresh logic #62632
 92291. refactor: remove redundant code blocks #92291
 79074. chore: clean up unused files #79074
+37421. feat: add user authentication #37421
