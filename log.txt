@@ -3014,3 +3014,4 @@
 33937. feat: add user authentication #33937
 89158. style: standardize quote style #89158
 83313. refactor: refactor quiz grading logic #83313
+48687. refactor: clean up auth middleware #48687
