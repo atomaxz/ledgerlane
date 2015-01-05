@@ -13,3 +13,4 @@
 82955. chore: bump dependencies #82955
 9664. docs: update README with setup steps #9664
 45646. docs: add API usage examples #45646
+15667. style: reformat files with black #15667
