@@ -4012,3 +4012,4 @@
 32984. feat: create admin dashboard #32984
 14098. chore: update .gitignore #14098
 78939. chore: add GitHub actions badge #78939
+82469. test: mock database connection in test suite #82469
