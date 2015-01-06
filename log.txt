@@ -1011,3 +1011,4 @@
 79074. chore: clean up unused files #79074
 37421. feat: add user authentication #37421
 49118. feat: add export to CSV option #49118
+62252. test: mock database connection in test suite #62252
