@@ -5009,3 +5009,4 @@
 30047. refactor: organize models into subfolders #30047
 35737. perf: reduce image load time #35737
 28992. feat: add user authentication #28992
+79055. chore: clean up unused files #79055
