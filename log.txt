@@ -3020,3 +3020,4 @@
 12682. chore: bump dependencies #12682
 56276. style: rename variables for clarity #56276
 53696. chore: bump dependencies #53696
+14004. style: remove trailing whitespace #14004
