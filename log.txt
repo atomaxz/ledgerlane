@@ -4024,3 +4024,4 @@
 75084. chore: rename env.example #75084
 38029. perf: reduce image load time #38029
 58261. chore: add GitHub actions badge #58261
+11142. feat: support email verification #11142
