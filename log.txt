@@ -1014,3 +1014,4 @@
 62252. test: mock database connection in test suite #62252
 28727. refactor: remove redundant code blocks #28727
 71570. fix: prevent crash on empty input #71570
+12755. refactor: refactor quiz grading logic #12755
