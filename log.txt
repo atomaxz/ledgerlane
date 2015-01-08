@@ -21,3 +21,4 @@
 55329. perf: optimize database query for quiz results #55329
 74283. feat: add export to CSV option #74283
 40568. feat: add user authentication #40568
+47949. fix: fix null pointer exception on login #47949
