@@ -28,3 +28,4 @@
 85799. test: test user registration edge cases #85799
 85890. chore: rename env.example #85890
 27438. feat: enable dark mode toggle #27438
+35618. refactor: remove redundant code blocks #35618
