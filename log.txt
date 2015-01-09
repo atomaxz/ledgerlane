@@ -5015,3 +5015,4 @@
 81807. test: mock database connection in test suite #81807
 19168. fix: correct typo in registration form #19168
 82335. test: add unit test for quiz service #82335
+4222. refactor: refactor quiz grading logic #4222
