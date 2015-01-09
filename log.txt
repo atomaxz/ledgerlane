@@ -1017,3 +1017,4 @@
 12755. refactor: refactor quiz grading logic #12755
 38941. style: rename variables for clarity #38941
 51584. docs: update README with setup steps #51584
+73286. perf: lazy-load components #73286
