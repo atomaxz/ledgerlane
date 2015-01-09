@@ -27,3 +27,4 @@
 28256. perf: reduce image load time #28256
 85799. test: test user registration edge cases #85799
 85890. chore: rename env.example #85890
+27438. feat: enable dark mode toggle #27438
