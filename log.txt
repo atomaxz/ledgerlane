@@ -25,3 +25,4 @@
 0418. feat: implement quiz timer feature #418
 1450. feat: create admin dashboard #1450
 28256. perf: reduce image load time #28256
+85799. test: test user registration edge cases #85799
