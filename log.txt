@@ -24,3 +24,4 @@
 47949. fix: fix null pointer exception on login #47949
 0418. feat: implement quiz timer feature #418
 1450. feat: create admin dashboard #1450
+28256. perf: reduce image load time #28256
