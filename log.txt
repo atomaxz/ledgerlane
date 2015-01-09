@@ -3024,3 +3024,4 @@
 26847. docs: write FAQ section #26847
 60608. docs: improve code comments in utils #60608
 52463. chore: add GitHub actions badge #52463
+39920. feat: enable dark mode toggle #39920
