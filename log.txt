@@ -31,3 +31,4 @@
 35618. refactor: remove redundant code blocks #35618
 44617. chore: rename env.example #44617
 89213. fix: fix null pointer exception on login #89213
+82313. feat: support email verification #82313
