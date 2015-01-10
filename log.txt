@@ -4029,3 +4029,4 @@
 76644. refactor: organize models into subfolders #76644
 11427. style: standardize quote style #11427
 16716. test: mock database connection in test suite #16716
+36697. chore: update .gitignore #36697
