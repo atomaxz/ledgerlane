@@ -3029,3 +3029,4 @@
 32935. feat: implement quiz timer feature #32935
 57795. feat: enable dark mode toggle #57795
 24276. docs: document token refresh logic #24276
+98734. perf: lazy-load components #98734
