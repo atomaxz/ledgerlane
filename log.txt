@@ -1021,3 +1021,4 @@
 7656. perf: cache repeated calculations #7656
 95823. style: apply consistent indentation #95823
 85847. fix: correct typo in registration form #85847
+41530. fix: resolve issue with date parsing #41530
