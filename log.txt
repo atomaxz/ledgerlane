@@ -30,3 +30,4 @@
 27438. feat: enable dark mode toggle #27438
 35618. refactor: remove redundant code blocks #35618
 44617. chore: rename env.example #44617
+89213. fix: fix null pointer exception on login #89213
