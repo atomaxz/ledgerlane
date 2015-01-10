@@ -32,3 +32,4 @@
 44617. chore: rename env.example #44617
 89213. fix: fix null pointer exception on login #89213
 82313. feat: support email verification #82313
+51413. perf: cache repeated calculations #51413
