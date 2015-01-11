@@ -37,3 +37,4 @@
 22392. docs: write FAQ section #22392
 63677. chore: rename env.example #63677
 15948. perf: lazy-load components #15948
+88715. fix: prevent crash on empty input #88715
