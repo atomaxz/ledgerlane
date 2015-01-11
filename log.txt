@@ -4035,3 +4035,4 @@
 19275. style: standardize quote style #19275
 63631. fix: prevent crash on empty input #63631
 84934. feat: add export to CSV option #84934
+71829. feat: support email verification #71829
