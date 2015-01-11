@@ -4034,3 +4034,4 @@
 60926. test: increase coverage on auth module #60926
 19275. style: standardize quote style #19275
 63631. fix: prevent crash on empty input #63631
+84934. feat: add export to CSV option #84934
