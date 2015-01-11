@@ -1026,3 +1026,4 @@
 5243. chore: add GitHub actions badge #5243
 44196. perf: optimize database query for quiz results #44196
 43106. fix: handle 500 error in quiz API #43106
+88280. style: reformat files with black #88280
