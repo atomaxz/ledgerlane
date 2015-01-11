@@ -5020,3 +5020,4 @@
 80517. test: add unit test for quiz service #80517
 62838. style: rename variables for clarity #62838
 1825. perf: lazy-load components #1825
+20446. perf: reduce image load time #20446
