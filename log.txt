@@ -1030,3 +1030,4 @@
 30653. chore: clean up unused files #30653
 13564. chore: clean up unused files #13564
 69924. feat: support email verification #69924
+28941. fix: prevent crash on empty input #28941
