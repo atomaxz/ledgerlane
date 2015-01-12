@@ -4037,3 +4037,4 @@
 84934. feat: add export to CSV option #84934
 71829. feat: support email verification #71829
 94409. fix: handle 500 error in quiz API #94409
+21514. fix: handle 500 error in quiz API #21514
