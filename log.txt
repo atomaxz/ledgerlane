@@ -4038,3 +4038,4 @@
 71829. feat: support email verification #71829
 94409. fix: handle 500 error in quiz API #94409
 21514. fix: handle 500 error in quiz API #21514
+57653. perf: optimize database query for quiz results #57653
