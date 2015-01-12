@@ -3034,3 +3034,4 @@
 75107. chore: rename env.example #75107
 24079. test: increase coverage on auth module #24079
 23978. test: mock database connection in test suite #23978
+19837. chore: rename env.example #19837
