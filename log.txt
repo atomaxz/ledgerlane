@@ -2029,3 +2029,4 @@
 93823. fix: correct typo in registration form #93823
 84471. fix: handle 500 error in quiz API #84471
 16217. fix: prevent crash on empty input #16217
+68805. fix: fix null pointer exception on login #68805
