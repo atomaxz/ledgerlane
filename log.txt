@@ -1033,3 +1033,4 @@
 28941. fix: prevent crash on empty input #28941
 9961. feat: support email verification #9961
 47192. docs: add API usage examples #47192
+32809. feat: create admin dashboard #32809
