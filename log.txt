@@ -3036,3 +3036,4 @@
 23978. test: mock database connection in test suite #23978
 19837. chore: rename env.example #19837
 5597. chore: rename env.example #5597
+28295. fix: prevent crash on empty input #28295
