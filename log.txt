@@ -5031,3 +5031,4 @@
 92020. fix: correct typo in registration form #92020
 30097. chore: clean up unused files #30097
 1603. feat: implement quiz timer feature #1603
+21154. perf: reduce image load time #21154
