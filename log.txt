@@ -2032,3 +2032,4 @@
 68805. fix: fix null pointer exception on login #68805
 89658. fix: correct typo in registration form #89658
 63067. perf: cache repeated calculations #63067
+63061. test: add integration test for /submit endpoint #63061
