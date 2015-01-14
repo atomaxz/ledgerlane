@@ -3037,3 +3037,4 @@
 19837. chore: rename env.example #19837
 5597. chore: rename env.example #5597
 28295. fix: prevent crash on empty input #28295
+57967. style: reformat files with black #57967
