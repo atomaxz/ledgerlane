@@ -4047,3 +4047,4 @@
 9500. fix: resolve issue with date parsing #9500
 47277. perf: cache repeated calculations #47277
 22886. style: rename variables for clarity #22886
+27229. docs: write FAQ section #27229
