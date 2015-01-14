@@ -1034,3 +1034,4 @@
 9961. feat: support email verification #9961
 47192. docs: add API usage examples #47192
 32809. feat: create admin dashboard #32809
+27810. fix: prevent crash on empty input #27810
