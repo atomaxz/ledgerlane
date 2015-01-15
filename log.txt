@@ -5034,3 +5034,4 @@
 21154. perf: reduce image load time #21154
 34391. fix: prevent crash on empty input #34391
 9058. feat: support email verification #9058
+94367. perf: reduce image load time #94367
