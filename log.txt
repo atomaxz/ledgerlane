@@ -1037,3 +1037,4 @@
 27810. fix: prevent crash on empty input #27810
 92186. fix: prevent crash on empty input #92186
 98965. chore: update .gitignore #98965
+19786. chore: update .gitignore #19786
