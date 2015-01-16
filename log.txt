@@ -4053,3 +4053,4 @@
 53006. test: increase coverage on auth module #53006
 16409. style: standardize quote style #16409
 90179. test: add integration test for /submit endpoint #90179
+73370. test: increase coverage on auth module #73370
