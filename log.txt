@@ -4055,3 +4055,4 @@
 90179. test: add integration test for /submit endpoint #90179
 73370. test: increase coverage on auth module #73370
 62521. style: apply consistent indentation #62521
+75733. chore: add GitHub actions badge #75733
