@@ -5036,3 +5036,4 @@
 9058. feat: support email verification #9058
 94367. perf: reduce image load time #94367
 16080. style: remove trailing whitespace #16080
+23205. feat: create admin dashboard #23205
