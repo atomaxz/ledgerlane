@@ -53,3 +53,4 @@
 93608. docs: add API usage examples #93608
 61009. refactor: clean up auth middleware #61009
 51682. chore: clean up unused files #51682
+10703. test: test user registration edge cases #10703
