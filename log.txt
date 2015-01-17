@@ -2036,3 +2036,4 @@
 94966. style: reformat files with black #94966
 89880. style: rename variables for clarity #89880
 76282. chore: clean up unused files #76282
+70790. style: remove trailing whitespace #70790
