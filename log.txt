@@ -5041,3 +5041,4 @@
 22130. chore: update .gitignore #22130
 98684. fix: prevent crash on empty input #98684
 82656. refactor: remove redundant code blocks #82656
+21018. perf: optimize database query for quiz results #21018
