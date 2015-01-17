@@ -51,3 +51,4 @@
 70559. test: increase coverage on auth module #70559
 8776. style: apply consistent indentation #8776
 93608. docs: add API usage examples #93608
+61009. refactor: clean up auth middleware #61009
