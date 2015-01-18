@@ -1044,3 +1044,4 @@
 32536. style: standardize quote style #32536
 97010. perf: reduce image load time #97010
 58338. feat: add export to CSV option #58338
+37197. style: remove trailing whitespace #37197
