@@ -3045,3 +3045,4 @@
 18185. feat: enable dark mode toggle #18185
 10241. chore: clean up unused files #10241
 23858. chore: rename env.example #23858
+95131. chore: add GitHub actions badge #95131
