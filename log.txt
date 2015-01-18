@@ -55,3 +55,4 @@
 51682. chore: clean up unused files #51682
 10703. test: test user registration edge cases #10703
 47679. fix: fix null pointer exception on login #47679
+21859. test: test user registration edge cases #21859
