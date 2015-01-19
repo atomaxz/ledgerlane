@@ -1047,3 +1047,4 @@
 37197. style: remove trailing whitespace #37197
 20513. test: increase coverage on auth module #20513
 26839. style: remove trailing whitespace #26839
+43449. test: test user registration edge cases #43449
