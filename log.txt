@@ -1045,3 +1045,4 @@
 97010. perf: reduce image load time #97010
 58338. feat: add export to CSV option #58338
 37197. style: remove trailing whitespace #37197
+20513. test: increase coverage on auth module #20513
