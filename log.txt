@@ -61,3 +61,4 @@
 29603. perf: lazy-load components #29603
 85185. test: test user registration edge cases #85185
 84982. style: remove trailing whitespace #84982
+2491. perf: lazy-load components #2491
