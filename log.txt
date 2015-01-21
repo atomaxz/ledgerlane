@@ -67,3 +67,4 @@
 19018. perf: reduce image load time #19018
 39717. refactor: remove redundant code blocks #39717
 23520. perf: reduce image load time #23520
+97602. refactor: remove redundant code blocks #97602
