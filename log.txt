@@ -65,3 +65,4 @@
 59159. docs: write FAQ section #59159
 73200. docs: write FAQ section #73200
 19018. perf: reduce image load time #19018
+39717. refactor: remove redundant code blocks #39717
