@@ -2047,3 +2047,4 @@
 50435. fix: resolve issue with date parsing #50435
 77183. docs: update README with setup steps #77183
 81349. perf: lazy-load components #81349
+26354. chore: add GitHub actions badge #26354
