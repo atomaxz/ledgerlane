@@ -5051,3 +5051,4 @@
 45582. fix: prevent crash on empty input #45582
 99232. fix: fix broken CSS in mobile view #99232
 50034. style: standardize quote style #50034
+22411. test: add integration test for /submit endpoint #22411
