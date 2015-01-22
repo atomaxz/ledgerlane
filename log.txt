@@ -2050,3 +2050,4 @@
 26354. chore: add GitHub actions badge #26354
 89337. test: increase coverage on auth module #89337
 50298. docs: document token refresh logic #50298
+6927. test: increase coverage on auth module #6927
