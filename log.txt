@@ -1056,3 +1056,4 @@
 98397. perf: optimize database query for quiz results #98397
 87724. test: add integration test for /submit endpoint #87724
 81757. feat: support email verification #81757
+73234. test: add integration test for /submit endpoint #73234
