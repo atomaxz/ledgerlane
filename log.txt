@@ -3059,3 +3059,4 @@
 83809. chore: update .gitignore #83809
 5690. fix: handle 500 error in quiz API #5690
 93175. perf: lazy-load components #93175
+36339. test: increase coverage on auth module #36339
