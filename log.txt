@@ -4072,3 +4072,4 @@
 46885. refactor: split large controller into smaller functions #46885
 46940. docs: clarify environment setup #46940
 89880. style: rename variables for clarity #89880
+43223. perf: optimize database query for quiz results #43223
