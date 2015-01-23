@@ -3057,3 +3057,4 @@
 14873. style: standardize quote style #14873
 76613. test: add unit test for quiz service #76613
 83809. chore: update .gitignore #83809
+5690. fix: handle 500 error in quiz API #5690
