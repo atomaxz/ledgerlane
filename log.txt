@@ -3058,3 +3058,4 @@
 76613. test: add unit test for quiz service #76613
 83809. chore: update .gitignore #83809
 5690. fix: handle 500 error in quiz API #5690
+93175. perf: lazy-load components #93175
