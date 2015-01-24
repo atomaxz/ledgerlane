@@ -2055,3 +2055,4 @@
 31035. test: add unit test for quiz service #31035
 58091. chore: rename env.example #58091
 72079. style: apply consistent indentation #72079
+36534. docs: write FAQ section #36534
