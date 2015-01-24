@@ -3061,3 +3061,4 @@
 93175. perf: lazy-load components #93175
 36339. test: increase coverage on auth module #36339
 84021. docs: update README with setup steps #84021
+72579. chore: bump dependencies #72579
