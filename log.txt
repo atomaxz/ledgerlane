@@ -2056,3 +2056,4 @@
 58091. chore: rename env.example #58091
 72079. style: apply consistent indentation #72079
 36534. docs: write FAQ section #36534
+78077. refactor: remove redundant code blocks #78077
