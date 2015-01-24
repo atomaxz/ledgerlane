@@ -69,3 +69,4 @@
 23520. perf: reduce image load time #23520
 97602. refactor: remove redundant code blocks #97602
 84242. perf: optimize database query for quiz results #84242
+21425. docs: document token refresh logic #21425
