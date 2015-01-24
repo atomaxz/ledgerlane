@@ -1061,3 +1061,4 @@
 83511. style: reformat files with black #83511
 42421. fix: fix broken CSS in mobile view #42421
 66787. style: reformat files with black #66787
+7002. refactor: clean up auth middleware #7002
