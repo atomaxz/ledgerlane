@@ -5058,3 +5058,4 @@
 84696. docs: add API usage examples #84696
 2127. docs: add API usage examples #2127
 75165. test: add integration test for /submit endpoint #75165
+94310. chore: add GitHub actions badge #94310
