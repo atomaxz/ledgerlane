@@ -2058,3 +2058,4 @@
 36534. docs: write FAQ section #36534
 78077. refactor: remove redundant code blocks #78077
 9307. perf: reduce image load time #9307
+5077. fix: resolve issue with date parsing #5077
