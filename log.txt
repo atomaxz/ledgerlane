@@ -2057,3 +2057,4 @@
 72079. style: apply consistent indentation #72079
 36534. docs: write FAQ section #36534
 78077. refactor: remove redundant code blocks #78077
+9307. perf: reduce image load time #9307
