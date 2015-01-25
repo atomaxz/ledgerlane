@@ -3066,3 +3066,4 @@
 39499. chore: rename env.example #39499
 80167. fix: prevent crash on empty input #80167
 40775. perf: cache repeated calculations #40775
+63317. perf: optimize database query for quiz results #63317
