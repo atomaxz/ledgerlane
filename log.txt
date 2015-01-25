@@ -3064,3 +3064,4 @@
 72579. chore: bump dependencies #72579
 93803. fix: correct typo in registration form #93803
 39499. chore: rename env.example #39499
+80167. fix: prevent crash on empty input #80167
