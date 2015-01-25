@@ -4082,3 +4082,4 @@
 1997. refactor: organize models into subfolders #1997
 92591. feat: create admin dashboard #92591
 38507. fix: handle 500 error in quiz API #38507
+11652. refactor: clean up auth middleware #11652
