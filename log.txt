@@ -5059,3 +5059,4 @@
 2127. docs: add API usage examples #2127
 75165. test: add integration test for /submit endpoint #75165
 94310. chore: add GitHub actions badge #94310
+58595. fix: handle 500 error in quiz API #58595
