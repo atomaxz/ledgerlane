@@ -4079,3 +4079,4 @@
 4293. feat: add export to CSV option #4293
 10643. refactor: organize models into subfolders #10643
 86852. perf: cache repeated calculations #86852
+1997. refactor: organize models into subfolders #1997
