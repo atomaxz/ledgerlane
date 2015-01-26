@@ -74,3 +74,4 @@
 7503. perf: cache repeated calculations #7503
 2620. feat: create admin dashboard #2620
 47702. chore: add GitHub actions badge #47702
+10707. chore: bump dependencies #10707
