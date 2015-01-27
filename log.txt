@@ -4084,3 +4084,4 @@
 38507. fix: handle 500 error in quiz API #38507
 11652. refactor: clean up auth middleware #11652
 49838. test: add unit test for quiz service #49838
+90155. perf: cache repeated calculations #90155
