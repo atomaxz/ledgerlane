@@ -4086,3 +4086,4 @@
 49838. test: add unit test for quiz service #49838
 90155. perf: cache repeated calculations #90155
 7948. perf: lazy-load components #7948
+5005. fix: correct typo in registration form #5005
