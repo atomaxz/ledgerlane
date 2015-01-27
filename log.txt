@@ -78,3 +78,4 @@
 58116. feat: support email verification #58116
 12832. refactor: clean up auth middleware #12832
 85072. perf: cache repeated calculations #85072
+87431. test: test user registration edge cases #87431
