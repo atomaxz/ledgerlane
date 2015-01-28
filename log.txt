@@ -80,3 +80,4 @@
 85072. perf: cache repeated calculations #85072
 87431. test: test user registration edge cases #87431
 15218. refactor: refactor quiz grading logic #15218
+73518. perf: reduce image load time #73518
