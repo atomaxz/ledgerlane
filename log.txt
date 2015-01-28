@@ -3076,3 +3076,4 @@
 28856. feat: create admin dashboard #28856
 65698. docs: add API usage examples #65698
 72801. chore: add GitHub actions badge #72801
+73321. docs: document token refresh logic #73321
