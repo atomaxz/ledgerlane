@@ -5069,3 +5069,4 @@
 30952. docs: write FAQ section #30952
 77440. docs: update README with setup steps #77440
 81617. refactor: split large controller into smaller functions #81617
+86004. perf: reduce image load time #86004
