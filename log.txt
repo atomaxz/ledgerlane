@@ -1066,3 +1066,4 @@
 30152. feat: add user authentication #30152
 5897. perf: cache repeated calculations #5897
 82206. refactor: refactor quiz grading logic #82206
+96645. feat: add user authentication #96645
