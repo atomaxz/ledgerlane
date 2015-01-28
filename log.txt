@@ -85,3 +85,4 @@
 92869. docs: update README with setup steps #92869
 88250. fix: prevent crash on empty input #88250
 41406. refactor: clean up auth middleware #41406
+6835. docs: write FAQ section #6835
