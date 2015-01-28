@@ -81,3 +81,4 @@
 87431. test: test user registration edge cases #87431
 15218. refactor: refactor quiz grading logic #15218
 73518. perf: reduce image load time #73518
+87609. perf: lazy-load components #87609
