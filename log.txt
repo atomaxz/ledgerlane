@@ -2063,3 +2063,4 @@
 40102. test: add integration test for /submit endpoint #40102
 61358. perf: optimize database query for quiz results #61358
 65583. chore: clean up unused files #65583
+42807. perf: optimize database query for quiz results #42807
