@@ -3080,3 +3080,4 @@
 84934. feat: add export to CSV option #84934
 5952. feat: add export to CSV option #5952
 19733. feat: create admin dashboard #19733
+79248. perf: cache repeated calculations #79248
