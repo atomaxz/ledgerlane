@@ -86,3 +86,4 @@
 88250. fix: prevent crash on empty input #88250
 41406. refactor: clean up auth middleware #41406
 6835. docs: write FAQ section #6835
+7138. docs: write FAQ section #7138
