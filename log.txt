@@ -5071,3 +5071,4 @@
 81617. refactor: split large controller into smaller functions #81617
 86004. perf: reduce image load time #86004
 47743. refactor: split large controller into smaller functions #47743
+77742. refactor: clean up auth middleware #77742
