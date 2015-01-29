@@ -5072,3 +5072,4 @@
 86004. perf: reduce image load time #86004
 47743. refactor: split large controller into smaller functions #47743
 77742. refactor: clean up auth middleware #77742
+68549. perf: optimize database query for quiz results #68549
