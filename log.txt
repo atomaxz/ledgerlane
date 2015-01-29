@@ -87,3 +87,4 @@
 41406. refactor: clean up auth middleware #41406
 6835. docs: write FAQ section #6835
 7138. docs: write FAQ section #7138
+15670. feat: add user authentication #15670
