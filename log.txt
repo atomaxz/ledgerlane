@@ -88,3 +88,4 @@
 6835. docs: write FAQ section #6835
 7138. docs: write FAQ section #7138
 15670. feat: add user authentication #15670
+64556. style: apply consistent indentation #64556
