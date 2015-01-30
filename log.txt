@@ -1074,3 +1074,4 @@
 65812. refactor: remove redundant code blocks #65812
 23477. refactor: refactor quiz grading logic #23477
 77041. fix: prevent crash on empty input #77041
+78081. chore: update .gitignore #78081
