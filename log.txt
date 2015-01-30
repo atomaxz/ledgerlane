@@ -2068,3 +2068,4 @@
 95366. docs: write FAQ section #95366
 55926. style: standardize quote style #55926
 56741. docs: clarify environment setup #56741
+38214. chore: add GitHub actions badge #38214
