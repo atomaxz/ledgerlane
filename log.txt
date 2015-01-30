@@ -4088,3 +4088,4 @@
 7948. perf: lazy-load components #7948
 5005. fix: correct typo in registration form #5005
 91029. fix: prevent crash on empty input #91029
+55421. perf: reduce image load time #55421
