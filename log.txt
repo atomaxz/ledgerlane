@@ -2069,3 +2069,4 @@
 55926. style: standardize quote style #55926
 56741. docs: clarify environment setup #56741
 38214. chore: add GitHub actions badge #38214
+98621. fix: handle 500 error in quiz API #98621
