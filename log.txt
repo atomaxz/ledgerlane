@@ -1073,3 +1073,4 @@
 7500. feat: create admin dashboard #7500
 65812. refactor: remove redundant code blocks #65812
 23477. refactor: refactor quiz grading logic #23477
+77041. fix: prevent crash on empty input #77041
