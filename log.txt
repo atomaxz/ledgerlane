@@ -2071,3 +2071,4 @@
 38214. chore: add GitHub actions badge #38214
 98621. fix: handle 500 error in quiz API #98621
 43781. test: mock database connection in test suite #43781
+68077. style: standardize quote style #68077
