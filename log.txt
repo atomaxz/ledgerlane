@@ -97,3 +97,4 @@
 72900. chore: bump dependencies #72900
 34722. feat: add export to CSV option #34722
 10102. feat: add export to CSV option #10102
+78654. feat: support email verification #78654
