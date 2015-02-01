@@ -5078,3 +5078,4 @@
 74880. docs: update README with setup steps #74880
 12093. docs: write FAQ section #12093
 54232. docs: add API usage examples #54232
+1841. fix: handle 500 error in quiz API #1841
