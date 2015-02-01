@@ -1083,3 +1083,4 @@
 91586. docs: write FAQ section #91586
 73377. fix: correct typo in registration form #73377
 33948. docs: improve code comments in utils #33948
+14683. perf: reduce image load time #14683
