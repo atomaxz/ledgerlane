@@ -3092,3 +3092,4 @@
 56089. docs: add API usage examples #56089
 17304. perf: reduce image load time #17304
 76658. fix: correct typo in registration form #76658
+4187. docs: write FAQ section #4187
