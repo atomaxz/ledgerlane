@@ -4095,3 +4095,4 @@
 35541. perf: optimize database query for quiz results #35541
 22486. style: rename variables for clarity #22486
 75671. perf: optimize database query for quiz results #75671
+6402. perf: reduce image load time #6402
