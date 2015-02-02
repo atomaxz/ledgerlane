@@ -3095,3 +3095,4 @@
 4187. docs: write FAQ section #4187
 67054. perf: lazy-load components #67054
 62390. feat: enable dark mode toggle #62390
+62186. chore: clean up unused files #62186
