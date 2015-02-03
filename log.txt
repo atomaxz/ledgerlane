@@ -2077,3 +2077,4 @@
 26436. chore: update .gitignore #26436
 66298. refactor: refactor quiz grading logic #66298
 58486. feat: create admin dashboard #58486
+3371. test: mock database connection in test suite #3371
