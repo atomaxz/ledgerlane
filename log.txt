@@ -3099,3 +3099,4 @@
 89194. style: standardize quote style #89194
 69806. fix: resolve issue with date parsing #69806
 65522. chore: bump dependencies #65522
+30887. fix: fix broken CSS in mobile view #30887
