@@ -3101,3 +3101,4 @@
 65522. chore: bump dependencies #65522
 30887. fix: fix broken CSS in mobile view #30887
 40663. chore: clean up unused files #40663
+78135. style: standardize quote style #78135
