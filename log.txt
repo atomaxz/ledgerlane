@@ -5083,3 +5083,4 @@
 38260. feat: support email verification #38260
 50505. docs: update README with setup steps #50505
 88751. chore: add GitHub actions badge #88751
+2846. fix: handle 500 error in quiz API #2846
