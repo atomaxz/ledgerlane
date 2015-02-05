@@ -2083,3 +2083,4 @@
 32635. chore: bump dependencies #32635
 38831. refactor: refactor quiz grading logic #38831
 29717. perf: lazy-load components #29717
+55692. fix: fix broken CSS in mobile view #55692
