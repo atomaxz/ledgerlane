@@ -106,3 +106,4 @@
 5347. style: standardize quote style #5347
 64188. test: test user registration edge cases #64188
 89783. docs: clarify environment setup #89783
+46531. perf: lazy-load components #46531
