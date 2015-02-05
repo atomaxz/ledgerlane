@@ -1091,3 +1091,4 @@
 97800. docs: improve code comments in utils #97800
 9475. chore: rename env.example #9475
 32840. refactor: organize models into subfolders #32840
+54593. docs: update README with setup steps #54593
