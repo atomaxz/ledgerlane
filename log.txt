@@ -5087,3 +5087,4 @@
 44066. feat: implement quiz timer feature #44066
 99651. perf: reduce image load time #99651
 9518. test: test user registration edge cases #9518
+79495. fix: fix broken CSS in mobile view #79495
