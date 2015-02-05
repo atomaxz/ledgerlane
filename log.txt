@@ -104,3 +104,4 @@
 89944. refactor: split large controller into smaller functions #89944
 14462. chore: update .gitignore #14462
 5347. style: standardize quote style #5347
+64188. test: test user registration edge cases #64188
