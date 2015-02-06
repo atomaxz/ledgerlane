@@ -4107,3 +4107,4 @@
 46925. chore: clean up unused files #46925
 10950. docs: write FAQ section #10950
 1551. feat: support email verification #1551
+54765. test: test user registration edge cases #54765
