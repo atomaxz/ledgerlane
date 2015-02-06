@@ -3104,3 +3104,4 @@
 78135. style: standardize quote style #78135
 84906. feat: support email verification #84906
 42048. refactor: refactor quiz grading logic #42048
+67487. chore: add GitHub actions badge #67487
