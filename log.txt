@@ -112,3 +112,4 @@
 51637. refactor: refactor quiz grading logic #51637
 34631. style: remove trailing whitespace #34631
 72602. chore: rename env.example #72602
+1537. style: apply consistent indentation #1537
