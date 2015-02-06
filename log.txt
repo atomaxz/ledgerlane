@@ -4108,3 +4108,4 @@
 10950. docs: write FAQ section #10950
 1551. feat: support email verification #1551
 54765. test: test user registration edge cases #54765
+17343. style: remove trailing whitespace #17343
