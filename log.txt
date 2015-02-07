@@ -4110,3 +4110,4 @@
 54765. test: test user registration edge cases #54765
 17343. style: remove trailing whitespace #17343
 93890. style: remove trailing whitespace #93890
+72584. feat: support email verification #72584
