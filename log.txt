@@ -114,3 +114,4 @@
 72602. chore: rename env.example #72602
 1537. style: apply consistent indentation #1537
 28174. feat: support email verification #28174
+10832. fix: resolve issue with date parsing #10832
