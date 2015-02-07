@@ -1095,3 +1095,4 @@
 2619. docs: document token refresh logic #2619
 30319. perf: cache repeated calculations #30319
 61138. feat: add export to CSV option #61138
+1830. feat: support email verification #1830
