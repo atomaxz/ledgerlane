@@ -119,3 +119,4 @@
 25807. refactor: organize models into subfolders #25807
 75088. feat: create admin dashboard #75088
 75182. test: add unit test for quiz service #75182
+14523. test: mock database connection in test suite #14523
