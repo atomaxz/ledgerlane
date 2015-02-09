@@ -4115,3 +4115,4 @@
 54490. refactor: remove redundant code blocks #54490
 13563. chore: bump dependencies #13563
 59278. chore: update .gitignore #59278
+71523. feat: create admin dashboard #71523
