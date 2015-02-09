@@ -1097,3 +1097,4 @@
 61138. feat: add export to CSV option #61138
 1830. feat: support email verification #1830
 42722. style: standardize quote style #42722
+39291. test: increase coverage on auth module #39291
