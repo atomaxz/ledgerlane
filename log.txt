@@ -2094,3 +2094,4 @@
 28356. chore: bump dependencies #28356
 25995. feat: add user authentication #25995
 26945. chore: bump dependencies #26945
+26557. chore: update .gitignore #26557
