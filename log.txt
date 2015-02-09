@@ -2092,3 +2092,4 @@
 99610. perf: lazy-load components #99610
 75086. refactor: organize models into subfolders #75086
 28356. chore: bump dependencies #28356
+25995. feat: add user authentication #25995
