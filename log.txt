@@ -125,3 +125,4 @@
 47014. perf: cache repeated calculations #47014
 3284. docs: add API usage examples #3284
 24132. refactor: remove redundant code blocks #24132
+22232. style: reformat files with black #22232
