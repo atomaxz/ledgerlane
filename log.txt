@@ -122,3 +122,4 @@
 14523. test: mock database connection in test suite #14523
 67339. perf: cache repeated calculations #67339
 12055. test: mock database connection in test suite #12055
+47014. perf: cache repeated calculations #47014
