@@ -2096,3 +2096,4 @@
 26945. chore: bump dependencies #26945
 26557. chore: update .gitignore #26557
 50979. fix: fix broken CSS in mobile view #50979
+72376. test: add integration test for /submit endpoint #72376
