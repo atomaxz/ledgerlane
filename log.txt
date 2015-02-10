@@ -1099,3 +1099,4 @@
 42722. style: standardize quote style #42722
 39291. test: increase coverage on auth module #39291
 59142. test: increase coverage on auth module #59142
+43588. test: add unit test for quiz service #43588
