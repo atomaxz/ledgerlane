@@ -2098,3 +2098,4 @@
 50979. fix: fix broken CSS in mobile view #50979
 72376. test: add integration test for /submit endpoint #72376
 18781. fix: prevent crash on empty input #18781
+25007. docs: write FAQ section #25007
