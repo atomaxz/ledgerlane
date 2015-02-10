@@ -2099,3 +2099,4 @@
 72376. test: add integration test for /submit endpoint #72376
 18781. fix: prevent crash on empty input #18781
 25007. docs: write FAQ section #25007
+26925. refactor: clean up auth middleware #26925
