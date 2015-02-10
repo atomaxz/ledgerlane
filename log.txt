@@ -4120,3 +4120,4 @@
 65178. chore: bump dependencies #65178
 45826. feat: create admin dashboard #45826
 42534. chore: add GitHub actions badge #42534
+54495. perf: optimize database query for quiz results #54495
