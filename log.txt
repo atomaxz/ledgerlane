@@ -2102,3 +2102,4 @@
 26925. refactor: clean up auth middleware #26925
 48551. refactor: refactor quiz grading logic #48551
 48870. refactor: clean up auth middleware #48870
+94661. test: test user registration edge cases #94661
