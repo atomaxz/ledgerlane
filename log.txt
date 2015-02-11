@@ -4123,3 +4123,4 @@
 54495. perf: optimize database query for quiz results #54495
 45941. test: test user registration edge cases #45941
 73808. test: add integration test for /submit endpoint #73808
+3844. test: add unit test for quiz service #3844
