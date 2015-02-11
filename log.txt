@@ -4121,3 +4121,4 @@
 45826. feat: create admin dashboard #45826
 42534. chore: add GitHub actions badge #42534
 54495. perf: optimize database query for quiz results #54495
+45941. test: test user registration edge cases #45941
