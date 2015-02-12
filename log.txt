@@ -3116,3 +3116,4 @@
 58243. refactor: refactor quiz grading logic #58243
 60611. chore: update .gitignore #60611
 69002. fix: fix broken CSS in mobile view #69002
+10807. feat: enable dark mode toggle #10807
