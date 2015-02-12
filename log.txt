@@ -1104,3 +1104,4 @@
 26126. refactor: clean up auth middleware #26126
 43789. fix: correct typo in registration form #43789
 1104. docs: document token refresh logic #1104
+38329. chore: bump dependencies #38329
