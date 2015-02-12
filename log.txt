@@ -130,3 +130,4 @@
 87871. perf: reduce image load time #87871
 7895. refactor: refactor quiz grading logic #7895
 52473. refactor: clean up auth middleware #52473
+51235. feat: enable dark mode toggle #51235
