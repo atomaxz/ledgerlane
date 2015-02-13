@@ -2106,3 +2106,4 @@
 93788. chore: rename env.example #93788
 90847. test: test user registration edge cases #90847
 87867. chore: clean up unused files #87867
+60594. test: add unit test for quiz service #60594
