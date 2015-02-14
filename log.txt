@@ -3118,3 +3118,4 @@
 69002. fix: fix broken CSS in mobile view #69002
 10807. feat: enable dark mode toggle #10807
 68325. style: reformat files with black #68325
+30509. docs: write FAQ section #30509
