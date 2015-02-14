@@ -3120,3 +3120,4 @@
 68325. style: reformat files with black #68325
 30509. docs: write FAQ section #30509
 16970. perf: optimize database query for quiz results #16970
+64135. test: increase coverage on auth module #64135
