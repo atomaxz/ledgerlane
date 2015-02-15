@@ -1111,3 +1111,4 @@
 91553. style: reformat files with black #91553
 36561. feat: create admin dashboard #36561
 25983. fix: correct typo in registration form #25983
+51963. style: remove trailing whitespace #51963
