@@ -1113,3 +1113,4 @@
 25983. fix: correct typo in registration form #25983
 51963. style: remove trailing whitespace #51963
 84163. perf: reduce image load time #84163
+67114. fix: fix broken CSS in mobile view #67114
