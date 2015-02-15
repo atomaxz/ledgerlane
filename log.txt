@@ -4135,3 +4135,4 @@
 19555. docs: improve code comments in utils #19555
 68968. refactor: refactor quiz grading logic #68968
 6468. feat: create admin dashboard #6468
+74520. perf: optimize database query for quiz results #74520
