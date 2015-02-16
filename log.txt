@@ -4137,3 +4137,4 @@
 6468. feat: create admin dashboard #6468
 74520. perf: optimize database query for quiz results #74520
 98390. refactor: clean up auth middleware #98390
+97001. fix: handle 500 error in quiz API #97001
