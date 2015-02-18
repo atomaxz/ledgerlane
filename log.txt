@@ -3125,3 +3125,4 @@
 30523. test: add integration test for /submit endpoint #30523
 58522. test: increase coverage on auth module #58522
 13809. feat: create admin dashboard #13809
+1421. fix: fix broken CSS in mobile view #1421
