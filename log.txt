@@ -2125,3 +2125,4 @@
 58077. feat: support email verification #58077
 8358. docs: document token refresh logic #8358
 78520. feat: add export to CSV option #78520
+4503. fix: fix broken CSS in mobile view #4503
