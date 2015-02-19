@@ -2122,3 +2122,4 @@
 8175. docs: write FAQ section #8175
 9134. perf: cache repeated calculations #9134
 4360. feat: support email verification #4360
+58077. feat: support email verification #58077
