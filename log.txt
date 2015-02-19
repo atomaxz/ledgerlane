@@ -3127,3 +3127,4 @@
 13809. feat: create admin dashboard #13809
 1421. fix: fix broken CSS in mobile view #1421
 76836. perf: optimize database query for quiz results #76836
+62977. perf: reduce image load time #62977
