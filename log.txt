@@ -2123,3 +2123,4 @@
 9134. perf: cache repeated calculations #9134
 4360. feat: support email verification #4360
 58077. feat: support email verification #58077
+8358. docs: document token refresh logic #8358
