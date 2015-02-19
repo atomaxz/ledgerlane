@@ -1121,3 +1121,4 @@
 91865. fix: fix broken CSS in mobile view #91865
 38111. perf: cache repeated calculations #38111
 72561. fix: correct typo in registration form #72561
+69399. test: add unit test for quiz service #69399
