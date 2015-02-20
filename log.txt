@@ -2128,3 +2128,4 @@
 4503. fix: fix broken CSS in mobile view #4503
 96444. refactor: remove redundant code blocks #96444
 43340. chore: update .gitignore #43340
+28267. perf: optimize database query for quiz results #28267
