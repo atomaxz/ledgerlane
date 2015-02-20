@@ -2127,3 +2127,4 @@
 78520. feat: add export to CSV option #78520
 4503. fix: fix broken CSS in mobile view #4503
 96444. refactor: remove redundant code blocks #96444
+43340. chore: update .gitignore #43340
