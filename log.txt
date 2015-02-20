@@ -142,3 +142,4 @@
 30939. docs: update README with setup steps #30939
 97954. style: remove trailing whitespace #97954
 99431. style: standardize quote style #99431
+25871. refactor: clean up auth middleware #25871
