@@ -5120,3 +5120,4 @@
 98922. feat: enable dark mode toggle #98922
 5164. style: apply consistent indentation #5164
 37731. fix: fix broken CSS in mobile view #37731
+11405. refactor: refactor quiz grading logic #11405
