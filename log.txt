@@ -5121,3 +5121,4 @@
 5164. style: apply consistent indentation #5164
 37731. fix: fix broken CSS in mobile view #37731
 11405. refactor: refactor quiz grading logic #11405
+47323. chore: update .gitignore #47323
