@@ -5125,3 +5125,4 @@
 26757. style: apply consistent indentation #26757
 43760. feat: enable dark mode toggle #43760
 67324. feat: create admin dashboard #67324
+94593. style: remove trailing whitespace #94593
