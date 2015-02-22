@@ -148,3 +148,4 @@
 6956. perf: optimize database query for quiz results #6956
 77861. docs: clarify environment setup #77861
 4297. perf: reduce image load time #4297
+10957. refactor: remove redundant code blocks #10957
