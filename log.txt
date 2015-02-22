@@ -145,3 +145,4 @@
 25871. refactor: clean up auth middleware #25871
 89242. chore: bump dependencies #89242
 54252. test: add unit test for quiz service #54252
+6956. perf: optimize database query for quiz results #6956
