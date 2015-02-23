@@ -4155,3 +4155,4 @@
 77548. docs: clarify environment setup #77548
 57726. style: reformat files with black #57726
 74925. fix: fix broken CSS in mobile view #74925
+84643. feat: create admin dashboard #84643
