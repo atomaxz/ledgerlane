@@ -2137,3 +2137,4 @@
 83954. refactor: split large controller into smaller functions #83954
 97941. docs: write FAQ section #97941
 45222. refactor: split large controller into smaller functions #45222
+75428. feat: enable dark mode toggle #75428
