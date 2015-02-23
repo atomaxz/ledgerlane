@@ -3136,3 +3136,4 @@
 88522. refactor: remove redundant code blocks #88522
 22598. perf: cache repeated calculations #22598
 13690. chore: update .gitignore #13690
+22956. test: increase coverage on auth module #22956
