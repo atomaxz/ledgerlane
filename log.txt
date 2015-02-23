@@ -5126,3 +5126,4 @@
 43760. feat: enable dark mode toggle #43760
 67324. feat: create admin dashboard #67324
 94593. style: remove trailing whitespace #94593
+34528. test: test user registration edge cases #34528
