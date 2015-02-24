@@ -153,3 +153,4 @@
 60307. perf: cache repeated calculations #60307
 23479. refactor: remove redundant code blocks #23479
 10415. feat: create admin dashboard #10415
+64681. style: standardize quote style #64681
