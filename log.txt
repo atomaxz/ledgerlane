@@ -2139,3 +2139,4 @@
 45222. refactor: split large controller into smaller functions #45222
 75428. feat: enable dark mode toggle #75428
 98074. perf: lazy-load components #98074
+45191. style: remove trailing whitespace #45191
