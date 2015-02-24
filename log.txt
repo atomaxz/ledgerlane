@@ -5128,3 +5128,4 @@
 94593. style: remove trailing whitespace #94593
 34528. test: test user registration edge cases #34528
 92802. feat: create admin dashboard #92802
+90672. perf: optimize database query for quiz results #90672
