@@ -4160,3 +4160,4 @@
 14468. style: standardize quote style #14468
 61390. fix: prevent crash on empty input #61390
 75702. feat: support email verification #75702
+48847. style: remove trailing whitespace #48847
