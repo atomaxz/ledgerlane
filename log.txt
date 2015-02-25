@@ -3145,3 +3145,4 @@
 26169. style: apply consistent indentation #26169
 34548. style: standardize quote style #34548
 64937. test: increase coverage on auth module #64937
+50539. chore: add GitHub actions badge #50539
