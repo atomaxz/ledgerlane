@@ -5133,3 +5133,4 @@
 68994. refactor: remove redundant code blocks #68994
 88024. chore: add GitHub actions badge #88024
 32167. feat: add user authentication #32167
+63276. test: test user registration edge cases #63276
