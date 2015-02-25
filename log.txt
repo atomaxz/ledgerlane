@@ -3146,3 +3146,4 @@
 34548. style: standardize quote style #34548
 64937. test: increase coverage on auth module #64937
 50539. chore: add GitHub actions badge #50539
+98830. fix: fix broken CSS in mobile view #98830
