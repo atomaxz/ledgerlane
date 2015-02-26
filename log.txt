@@ -5136,3 +5136,4 @@
 63276. test: test user registration edge cases #63276
 90725. feat: add export to CSV option #90725
 82872. feat: add export to CSV option #82872
+10890. chore: add GitHub actions badge #10890
