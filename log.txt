@@ -157,3 +157,4 @@
 95693. docs: write FAQ section #95693
 20303. feat: implement quiz timer feature #20303
 38271. test: mock database connection in test suite #38271
+66913. chore: add GitHub actions badge #66913
