@@ -160,3 +160,4 @@
 66913. chore: add GitHub actions badge #66913
 66162. style: standardize quote style #66162
 35340. perf: cache repeated calculations #35340
+62250. perf: lazy-load components #62250
