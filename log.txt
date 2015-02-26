@@ -3148,3 +3148,4 @@
 50539. chore: add GitHub actions badge #50539
 98830. fix: fix broken CSS in mobile view #98830
 51742. perf: cache repeated calculations #51742
+88008. chore: update .gitignore #88008
