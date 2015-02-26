@@ -2146,3 +2146,4 @@
 80376. docs: improve code comments in utils #80376
 41425. style: apply consistent indentation #41425
 67737. perf: cache repeated calculations #67737
+73350. fix: fix null pointer exception on login #73350
