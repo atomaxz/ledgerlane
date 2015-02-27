@@ -164,3 +164,4 @@
 71574. docs: improve code comments in utils #71574
 95459. style: reformat files with black #95459
 21538. docs: write FAQ section #21538
+45941. test: test user registration edge cases #45941
