@@ -4170,3 +4170,4 @@
 9650. test: add integration test for /submit endpoint #9650
 20622. feat: enable dark mode toggle #20622
 14063. test: test user registration edge cases #14063
+58811. fix: fix null pointer exception on login #58811
