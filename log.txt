@@ -4171,3 +4171,4 @@
 20622. feat: enable dark mode toggle #20622
 14063. test: test user registration edge cases #14063
 58811. fix: fix null pointer exception on login #58811
+45483. feat: create admin dashboard #45483
