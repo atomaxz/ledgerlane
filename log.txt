@@ -4179,3 +4179,4 @@
 15788. style: standardize quote style #15788
 53750. chore: clean up unused files #53750
 3035. fix: handle 500 error in quiz API #3035
+41664. test: test user registration edge cases #41664
