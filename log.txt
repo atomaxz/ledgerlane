@@ -1146,3 +1146,4 @@
 8778. perf: lazy-load components #8778
 92181. perf: cache repeated calculations #92181
 59240. chore: bump dependencies #59240
+26473. test: test user registration edge cases #26473
