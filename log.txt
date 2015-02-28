@@ -4174,3 +4174,4 @@
 45483. feat: create admin dashboard #45483
 38013. docs: update README with setup steps #38013
 17153. test: add integration test for /submit endpoint #17153
+35569. fix: fix broken CSS in mobile view #35569
