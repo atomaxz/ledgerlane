@@ -2151,3 +2151,4 @@
 52060. chore: clean up unused files #52060
 6432. refactor: organize models into subfolders #6432
 42513. chore: add GitHub actions badge #42513
+40552. chore: update .gitignore #40552
