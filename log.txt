@@ -2152,3 +2152,4 @@
 6432. refactor: organize models into subfolders #6432
 42513. chore: add GitHub actions badge #42513
 40552. chore: update .gitignore #40552
+93754. test: mock database connection in test suite #93754
