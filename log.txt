@@ -3159,3 +3159,4 @@
 41409. chore: bump dependencies #41409
 78893. fix: fix null pointer exception on login #78893
 28083. perf: cache repeated calculations #28083
+1756. test: add unit test for quiz service #1756
