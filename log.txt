@@ -2157,3 +2157,4 @@
 47575. chore: clean up unused files #47575
 85362. test: test user registration edge cases #85362
 72152. perf: optimize database query for quiz results #72152
+23430. test: mock database connection in test suite #23430
