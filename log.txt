@@ -2155,3 +2155,4 @@
 93754. test: mock database connection in test suite #93754
 38480. perf: lazy-load components #38480
 47575. chore: clean up unused files #47575
+85362. test: test user registration edge cases #85362
