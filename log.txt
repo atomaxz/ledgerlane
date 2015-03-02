@@ -4181,3 +4181,4 @@
 3035. fix: handle 500 error in quiz API #3035
 41664. test: test user registration edge cases #41664
 84469. perf: cache repeated calculations #84469
+82925. test: add unit test for quiz service #82925
