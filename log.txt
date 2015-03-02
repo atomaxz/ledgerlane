@@ -167,3 +167,4 @@
 45941. test: test user registration edge cases #45941
 33605. perf: cache repeated calculations #33605
 93838. refactor: split large controller into smaller functions #93838
+37246. style: standardize quote style #37246
