@@ -1152,3 +1152,4 @@
 36838. chore: bump dependencies #36838
 2985. refactor: remove redundant code blocks #2985
 75443. docs: update README with setup steps #75443
+1882. test: mock database connection in test suite #1882
