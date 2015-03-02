@@ -1150,3 +1150,4 @@
 25205. chore: rename env.example #25205
 51207. style: reformat files with black #51207
 36838. chore: bump dependencies #36838
+2985. refactor: remove redundant code blocks #2985
