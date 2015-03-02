@@ -4183,3 +4183,4 @@
 84469. perf: cache repeated calculations #84469
 82925. test: add unit test for quiz service #82925
 77560. perf: cache repeated calculations #77560
+32965. perf: optimize database query for quiz results #32965
