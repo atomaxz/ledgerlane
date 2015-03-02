@@ -5144,3 +5144,4 @@
 66146. docs: add API usage examples #66146
 9610. perf: reduce image load time #9610
 73584. style: remove trailing whitespace #73584
+50603. refactor: clean up auth middleware #50603
