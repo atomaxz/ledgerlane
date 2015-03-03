@@ -3163,3 +3163,4 @@
 8054. perf: cache repeated calculations #8054
 51537. feat: support email verification #51537
 16101. chore: bump dependencies #16101
+70793. style: standardize quote style #70793
