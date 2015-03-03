@@ -170,3 +170,4 @@
 37246. style: standardize quote style #37246
 60503. fix: correct typo in registration form #60503
 26920. chore: rename env.example #26920
+25138. feat: create admin dashboard #25138
