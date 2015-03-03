@@ -5147,3 +5147,4 @@
 50603. refactor: clean up auth middleware #50603
 51973. fix: fix null pointer exception on login #51973
 6622. fix: handle 500 error in quiz API #6622
+6654. fix: resolve issue with date parsing #6654
