@@ -169,3 +169,4 @@
 93838. refactor: split large controller into smaller functions #93838
 37246. style: standardize quote style #37246
 60503. fix: correct typo in registration form #60503
+26920. chore: rename env.example #26920
