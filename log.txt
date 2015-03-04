@@ -2166,3 +2166,4 @@
 89556. perf: cache repeated calculations #89556
 55180. fix: correct typo in registration form #55180
 41596. style: standardize quote style #41596
+18794. perf: reduce image load time #18794
