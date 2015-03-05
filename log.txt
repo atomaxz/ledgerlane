@@ -3171,3 +3171,4 @@
 91744. fix: prevent crash on empty input #91744
 31739. perf: reduce image load time #31739
 82218. test: add unit test for quiz service #82218
+87490. refactor: organize models into subfolders #87490
