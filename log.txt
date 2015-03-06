@@ -4192,3 +4192,4 @@
 38003. docs: add API usage examples #38003
 94800. fix: prevent crash on empty input #94800
 58828. docs: document token refresh logic #58828
+74810. chore: add GitHub actions badge #74810
