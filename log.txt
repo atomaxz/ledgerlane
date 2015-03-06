@@ -178,3 +178,4 @@
 94661. test: test user registration edge cases #94661
 86931. refactor: remove redundant code blocks #86931
 38982. test: test user registration edge cases #38982
+18594. docs: document token refresh logic #18594
