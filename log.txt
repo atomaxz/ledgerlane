@@ -3173,3 +3173,4 @@
 82218. test: add unit test for quiz service #82218
 87490. refactor: organize models into subfolders #87490
 19761. perf: reduce image load time #19761
+50367. perf: optimize database query for quiz results #50367
