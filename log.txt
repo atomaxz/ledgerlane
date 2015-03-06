@@ -5152,3 +5152,4 @@
 34508. fix: prevent crash on empty input #34508
 98980. refactor: remove redundant code blocks #98980
 1103. docs: write FAQ section #1103
+71491. fix: fix null pointer exception on login #71491
