@@ -3179,3 +3179,4 @@
 70254. refactor: refactor quiz grading logic #70254
 37560. docs: write FAQ section #37560
 93367. feat: support email verification #93367
+7920. perf: cache repeated calculations #7920
