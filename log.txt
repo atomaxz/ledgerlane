@@ -183,3 +183,4 @@
 42704. chore: bump dependencies #42704
 99898. fix: prevent crash on empty input #99898
 95875. style: reformat files with black #95875
+15958. chore: update .gitignore #15958
