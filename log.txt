@@ -1166,3 +1166,4 @@
 55077. fix: resolve issue with date parsing #55077
 4106. perf: cache repeated calculations #4106
 53214. feat: implement quiz timer feature #53214
+44048. fix: fix null pointer exception on login #44048
