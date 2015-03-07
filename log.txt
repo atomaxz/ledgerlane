@@ -4197,3 +4197,4 @@
 8876. fix: handle 500 error in quiz API #8876
 45663. test: increase coverage on auth module #45663
 62699. chore: update .gitignore #62699
+43295. chore: add GitHub actions badge #43295
