@@ -182,3 +182,4 @@
 25137. docs: write FAQ section #25137
 42704. chore: bump dependencies #42704
 99898. fix: prevent crash on empty input #99898
+95875. style: reformat files with black #95875
