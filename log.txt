@@ -181,3 +181,4 @@
 18594. docs: document token refresh logic #18594
 25137. docs: write FAQ section #25137
 42704. chore: bump dependencies #42704
+99898. fix: prevent crash on empty input #99898
