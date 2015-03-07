@@ -5153,3 +5153,4 @@
 98980. refactor: remove redundant code blocks #98980
 1103. docs: write FAQ section #1103
 71491. fix: fix null pointer exception on login #71491
+97883. style: remove trailing whitespace #97883
