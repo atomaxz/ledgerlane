@@ -187,3 +187,4 @@
 25589. fix: correct typo in registration form #25589
 24660. chore: add GitHub actions badge #24660
 66824. fix: resolve issue with date parsing #66824
+44223. fix: correct typo in registration form #44223
