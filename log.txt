@@ -184,3 +184,4 @@
 99898. fix: prevent crash on empty input #99898
 95875. style: reformat files with black #95875
 15958. chore: update .gitignore #15958
+25589. fix: correct typo in registration form #25589
