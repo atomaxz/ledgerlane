@@ -4204,3 +4204,4 @@
 33491. refactor: split large controller into smaller functions #33491
 37837. refactor: refactor quiz grading logic #37837
 18045. docs: clarify environment setup #18045
+86170. fix: prevent crash on empty input #86170
