@@ -3182,3 +3182,4 @@
 7920. perf: cache repeated calculations #7920
 14704. perf: lazy-load components #14704
 99131. style: reformat files with black #99131
+65678. docs: add API usage examples #65678
