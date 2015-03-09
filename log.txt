@@ -3185,3 +3185,4 @@
 65678. docs: add API usage examples #65678
 1816. chore: rename env.example #1816
 41874. feat: support email verification #41874
+48685. perf: optimize database query for quiz results #48685
