@@ -2178,3 +2178,4 @@
 41925. style: reformat files with black #41925
 73709. perf: lazy-load components #73709
 98978. docs: document token refresh logic #98978
+82331. style: remove trailing whitespace #82331
