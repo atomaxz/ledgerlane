@@ -189,3 +189,4 @@
 66824. fix: resolve issue with date parsing #66824
 44223. fix: correct typo in registration form #44223
 57178. docs: add API usage examples #57178
+70839. perf: optimize database query for quiz results #70839
