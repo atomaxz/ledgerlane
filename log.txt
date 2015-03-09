@@ -4210,3 +4210,4 @@
 57373. refactor: split large controller into smaller functions #57373
 67174. docs: update README with setup steps #67174
 3792. docs: document token refresh logic #3792
+80457. feat: enable dark mode toggle #80457
