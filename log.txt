@@ -3186,3 +3186,4 @@
 1816. chore: rename env.example #1816
 41874. feat: support email verification #41874
 48685. perf: optimize database query for quiz results #48685
+75392. test: add integration test for /submit endpoint #75392
