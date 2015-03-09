@@ -4211,3 +4211,4 @@
 67174. docs: update README with setup steps #67174
 3792. docs: document token refresh logic #3792
 80457. feat: enable dark mode toggle #80457
+98824. feat: add user authentication #98824
