@@ -2181,3 +2181,4 @@
 82331. style: remove trailing whitespace #82331
 61617. feat: implement quiz timer feature #61617
 59407. refactor: organize models into subfolders #59407
+3548. test: test user registration edge cases #3548
