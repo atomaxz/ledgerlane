@@ -188,3 +188,4 @@
 24660. chore: add GitHub actions badge #24660
 66824. fix: resolve issue with date parsing #66824
 44223. fix: correct typo in registration form #44223
+57178. docs: add API usage examples #57178
