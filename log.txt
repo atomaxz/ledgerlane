@@ -196,3 +196,4 @@
 55806. test: test user registration edge cases #55806
 82489. perf: optimize database query for quiz results #82489
 70106. perf: cache repeated calculations #70106
+52949. test: add integration test for /submit endpoint #52949
