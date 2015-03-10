@@ -193,3 +193,4 @@
 55417. docs: improve code comments in utils #55417
 89054. feat: add user authentication #89054
 70966. docs: document token refresh logic #70966
+55806. test: test user registration edge cases #55806
