@@ -195,3 +195,4 @@
 70966. docs: document token refresh logic #70966
 55806. test: test user registration edge cases #55806
 82489. perf: optimize database query for quiz results #82489
+70106. perf: cache repeated calculations #70106
