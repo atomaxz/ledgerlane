@@ -198,3 +198,4 @@
 70106. perf: cache repeated calculations #70106
 52949. test: add integration test for /submit endpoint #52949
 88406. fix: fix null pointer exception on login #88406
+55022. test: add integration test for /submit endpoint #55022
