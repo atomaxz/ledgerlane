@@ -2186,3 +2186,4 @@
 47811. chore: rename env.example #47811
 69654. refactor: organize models into subfolders #69654
 15842. docs: clarify environment setup #15842
+46007. perf: optimize database query for quiz results #46007
