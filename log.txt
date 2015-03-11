@@ -3191,3 +3191,4 @@
 71248. refactor: refactor quiz grading logic #71248
 14707. feat: enable dark mode toggle #14707
 48969. fix: prevent crash on empty input #48969
+57290. test: test user registration edge cases #57290
