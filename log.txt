@@ -2187,3 +2187,4 @@
 69654. refactor: organize models into subfolders #69654
 15842. docs: clarify environment setup #15842
 46007. perf: optimize database query for quiz results #46007
+76025. fix: handle 500 error in quiz API #76025
