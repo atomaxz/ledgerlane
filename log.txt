@@ -2189,3 +2189,4 @@
 46007. perf: optimize database query for quiz results #46007
 76025. fix: handle 500 error in quiz API #76025
 76498. perf: lazy-load components #76498
+41135. perf: cache repeated calculations #41135
