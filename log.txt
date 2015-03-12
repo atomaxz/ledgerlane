@@ -4221,3 +4221,4 @@
 96907. fix: correct typo in registration form #96907
 39853. fix: resolve issue with date parsing #39853
 89716. chore: update .gitignore #89716
+47410. feat: add export to CSV option #47410
