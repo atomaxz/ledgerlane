@@ -2192,3 +2192,4 @@
 41135. perf: cache repeated calculations #41135
 15756. test: test user registration edge cases #15756
 99888. chore: add GitHub actions badge #99888
+92429. feat: create admin dashboard #92429
