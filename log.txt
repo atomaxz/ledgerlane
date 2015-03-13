@@ -2194,3 +2194,4 @@
 99888. chore: add GitHub actions badge #99888
 92429. feat: create admin dashboard #92429
 36341. style: apply consistent indentation #36341
+65192. test: add integration test for /submit endpoint #65192
