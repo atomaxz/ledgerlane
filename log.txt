@@ -3192,3 +3192,4 @@
 14707. feat: enable dark mode toggle #14707
 48969. fix: prevent crash on empty input #48969
 57290. test: test user registration edge cases #57290
+28403. chore: bump dependencies #28403
