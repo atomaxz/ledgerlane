@@ -201,3 +201,4 @@
 55022. test: add integration test for /submit endpoint #55022
 38525. refactor: refactor quiz grading logic #38525
 12317. perf: reduce image load time #12317
+53748. chore: add GitHub actions badge #53748
