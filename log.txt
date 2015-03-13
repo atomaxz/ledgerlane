@@ -1177,3 +1177,4 @@
 51654. perf: optimize database query for quiz results #51654
 84111. feat: implement quiz timer feature #84111
 20307. fix: fix broken CSS in mobile view #20307
+40354. test: add unit test for quiz service #40354
