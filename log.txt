@@ -3195,3 +3195,4 @@
 28403. chore: bump dependencies #28403
 73831. test: add integration test for /submit endpoint #73831
 56238. test: increase coverage on auth module #56238
+19792. feat: support email verification #19792
