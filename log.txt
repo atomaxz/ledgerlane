@@ -203,3 +203,4 @@
 12317. perf: reduce image load time #12317
 53748. chore: add GitHub actions badge #53748
 45302. perf: cache repeated calculations #45302
+17257. style: reformat files with black #17257
