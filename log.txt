@@ -3197,3 +3197,4 @@
 56238. test: increase coverage on auth module #56238
 19792. feat: support email verification #19792
 54192. chore: rename env.example #54192
+83912. feat: add export to CSV option #83912
