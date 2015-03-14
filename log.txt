@@ -2197,3 +2197,4 @@
 65192. test: add integration test for /submit endpoint #65192
 45292. refactor: clean up auth middleware #45292
 92970. style: remove trailing whitespace #92970
+62610. test: test user registration edge cases #62610
