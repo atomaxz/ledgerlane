@@ -5172,3 +5172,4 @@
 85453. docs: add API usage examples #85453
 2516. feat: add user authentication #2516
 41304. style: remove trailing whitespace #41304
+67998. docs: update README with setup steps #67998
