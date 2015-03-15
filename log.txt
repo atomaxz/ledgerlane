@@ -2199,3 +2199,4 @@
 92970. style: remove trailing whitespace #92970
 62610. test: test user registration edge cases #62610
 96295. docs: update README with setup steps #96295
+12005. docs: clarify environment setup #12005
