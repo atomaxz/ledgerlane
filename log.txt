@@ -209,3 +209,4 @@
 18940. refactor: refactor quiz grading logic #18940
 72718. chore: clean up unused files #72718
 53326. fix: resolve issue with date parsing #53326
+56855. perf: lazy-load components #56855
