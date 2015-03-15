@@ -5175,3 +5175,4 @@
 67998. docs: update README with setup steps #67998
 2430. test: add integration test for /submit endpoint #2430
 57753. chore: add GitHub actions badge #57753
+56345. feat: support email verification #56345
