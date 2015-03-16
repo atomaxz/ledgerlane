@@ -1183,3 +1183,4 @@
 12498. test: test user registration edge cases #12498
 60780. style: apply consistent indentation #60780
 26727. docs: update README with setup steps #26727
+35028. fix: fix null pointer exception on login #35028
