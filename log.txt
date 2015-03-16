@@ -1182,3 +1182,4 @@
 97296. chore: update .gitignore #97296
 12498. test: test user registration edge cases #12498
 60780. style: apply consistent indentation #60780
+26727. docs: update README with setup steps #26727
