@@ -2205,3 +2205,4 @@
 26937. docs: add API usage examples #26937
 42048. refactor: refactor quiz grading logic #42048
 5512. perf: lazy-load components #5512
+31113. feat: support email verification #31113
