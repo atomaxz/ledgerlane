@@ -4228,3 +4228,4 @@
 54741. perf: optimize database query for quiz results #54741
 78960. feat: create admin dashboard #78960
 81963. test: increase coverage on auth module #81963
+41069. style: remove trailing whitespace #41069
