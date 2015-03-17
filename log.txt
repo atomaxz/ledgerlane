@@ -3206,3 +3206,4 @@
 25387. style: remove trailing whitespace #25387
 76337. chore: rename env.example #76337
 51557. test: add unit test for quiz service #51557
+84254. test: test user registration edge cases #84254
