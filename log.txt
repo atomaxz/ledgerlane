@@ -2206,3 +2206,4 @@
 42048. refactor: refactor quiz grading logic #42048
 5512. perf: lazy-load components #5512
 31113. feat: support email verification #31113
+4943. feat: add export to CSV option #4943
