@@ -214,3 +214,4 @@
 87154. test: add integration test for /submit endpoint #87154
 45146. docs: improve code comments in utils #45146
 30353. fix: correct typo in registration form #30353
+9169. fix: fix broken CSS in mobile view #9169
