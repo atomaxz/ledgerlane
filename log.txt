@@ -2210,3 +2210,4 @@
 83277. test: test user registration edge cases #83277
 1653. style: remove trailing whitespace #1653
 23979. feat: implement quiz timer feature #23979
+98188. fix: fix broken CSS in mobile view #98188
