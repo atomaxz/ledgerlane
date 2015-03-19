@@ -218,3 +218,4 @@
 85021. perf: optimize database query for quiz results #85021
 87222. feat: enable dark mode toggle #87222
 65546. test: mock database connection in test suite #65546
+80599. refactor: split large controller into smaller functions #80599
