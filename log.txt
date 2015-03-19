@@ -1194,3 +1194,4 @@
 17882. test: add integration test for /submit endpoint #17882
 80102. test: increase coverage on auth module #80102
 45580. style: standardize quote style #45580
+94612. refactor: organize models into subfolders #94612
