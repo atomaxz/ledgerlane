@@ -5187,3 +5187,4 @@
 87756. refactor: split large controller into smaller functions #87756
 69676. fix: fix broken CSS in mobile view #69676
 88140. docs: improve code comments in utils #88140
+47709. perf: cache repeated calculations #47709
