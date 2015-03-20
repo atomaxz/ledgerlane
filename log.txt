@@ -1197,3 +1197,4 @@
 94612. refactor: organize models into subfolders #94612
 93684. refactor: clean up auth middleware #93684
 79100. docs: add API usage examples #79100
+78954. refactor: clean up auth middleware #78954
