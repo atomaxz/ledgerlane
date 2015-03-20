@@ -3210,3 +3210,4 @@
 76221. perf: lazy-load components #76221
 85839. chore: bump dependencies #85839
 90855. docs: update README with setup steps #90855
+80321. test: test user registration edge cases #80321
