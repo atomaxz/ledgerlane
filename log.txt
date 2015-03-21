@@ -5191,3 +5191,4 @@
 99856. refactor: remove redundant code blocks #99856
 7896. chore: update .gitignore #7896
 24456. docs: update README with setup steps #24456
+82421. docs: clarify environment setup #82421
