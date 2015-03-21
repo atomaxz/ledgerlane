@@ -5190,3 +5190,4 @@
 47709. perf: cache repeated calculations #47709
 99856. refactor: remove redundant code blocks #99856
 7896. chore: update .gitignore #7896
+24456. docs: update README with setup steps #24456
