@@ -3212,3 +3212,4 @@
 90855. docs: update README with setup steps #90855
 80321. test: test user registration edge cases #80321
 67413. style: rename variables for clarity #67413
+47758. test: mock database connection in test suite #47758
