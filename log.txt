@@ -2217,3 +2217,4 @@
 24751. fix: fix null pointer exception on login #24751
 81179. fix: fix null pointer exception on login #81179
 13068. docs: update README with setup steps #13068
+7826. test: add unit test for quiz service #7826
