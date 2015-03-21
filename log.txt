@@ -1199,3 +1199,4 @@
 79100. docs: add API usage examples #79100
 78954. refactor: clean up auth middleware #78954
 5870. style: standardize quote style #5870
+60838. refactor: clean up auth middleware #60838
