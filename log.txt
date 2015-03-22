@@ -225,3 +225,4 @@
 85966. test: add integration test for /submit endpoint #85966
 92576. docs: update README with setup steps #92576
 60711. fix: prevent crash on empty input #60711
+99365. perf: reduce image load time #99365
