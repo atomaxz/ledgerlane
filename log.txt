@@ -4239,3 +4239,4 @@
 56494. feat: enable dark mode toggle #56494
 23458. style: remove trailing whitespace #23458
 49888. fix: correct typo in registration form #49888
+82848. refactor: clean up auth middleware #82848
