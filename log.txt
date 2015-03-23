@@ -4241,3 +4241,4 @@
 49888. fix: correct typo in registration form #49888
 82848. refactor: clean up auth middleware #82848
 6105. fix: resolve issue with date parsing #6105
+52262. chore: bump dependencies #52262
