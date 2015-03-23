@@ -5193,3 +5193,4 @@
 24456. docs: update README with setup steps #24456
 82421. docs: clarify environment setup #82421
 43749. chore: clean up unused files #43749
+6292. test: mock database connection in test suite #6292
