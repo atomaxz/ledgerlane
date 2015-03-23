@@ -1201,3 +1201,4 @@
 5870. style: standardize quote style #5870
 60838. refactor: clean up auth middleware #60838
 42144. fix: fix null pointer exception on login #42144
+93252. chore: add GitHub actions badge #93252
