@@ -3220,3 +3220,4 @@
 25320. chore: bump dependencies #25320
 90800. feat: support email verification #90800
 70846. chore: clean up unused files #70846
+40392. feat: add user authentication #40392
