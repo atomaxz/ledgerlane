@@ -227,3 +227,4 @@
 60711. fix: prevent crash on empty input #60711
 99365. perf: reduce image load time #99365
 22577. chore: update .gitignore #22577
+13604. docs: add API usage examples #13604
