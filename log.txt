@@ -2224,3 +2224,4 @@
 72128. test: increase coverage on auth module #72128
 43336. refactor: organize models into subfolders #43336
 61211. refactor: organize models into subfolders #61211
+65846. docs: update README with setup steps #65846
