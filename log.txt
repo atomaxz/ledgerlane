@@ -1211,3 +1211,4 @@
 86546. feat: implement quiz timer feature #86546
 17816. fix: fix null pointer exception on login #17816
 43631. chore: rename env.example #43631
+17052. fix: resolve issue with date parsing #17052
