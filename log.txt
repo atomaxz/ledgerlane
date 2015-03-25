@@ -2228,3 +2228,4 @@
 47658. fix: fix null pointer exception on login #47658
 67214. fix: fix null pointer exception on login #67214
 23640. refactor: remove redundant code blocks #23640
+49427. refactor: clean up auth middleware #49427
