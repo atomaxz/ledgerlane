@@ -230,3 +230,4 @@
 13604. docs: add API usage examples #13604
 29006. style: reformat files with black #29006
 21904. perf: cache repeated calculations #21904
+2146. feat: add user authentication #2146
