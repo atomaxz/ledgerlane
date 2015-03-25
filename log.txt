@@ -4248,3 +4248,4 @@
 63234. fix: correct typo in registration form #63234
 64304. test: test user registration edge cases #64304
 83698. perf: optimize database query for quiz results #83698
+90645. fix: handle 500 error in quiz API #90645
