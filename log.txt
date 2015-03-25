@@ -2226,3 +2226,4 @@
 61211. refactor: organize models into subfolders #61211
 65846. docs: update README with setup steps #65846
 47658. fix: fix null pointer exception on login #47658
+67214. fix: fix null pointer exception on login #67214
