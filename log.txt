@@ -232,3 +232,4 @@
 21904. perf: cache repeated calculations #21904
 2146. feat: add user authentication #2146
 68395. feat: create admin dashboard #68395
+27837. fix: prevent crash on empty input #27837
