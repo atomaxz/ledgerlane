@@ -5201,3 +5201,4 @@
 83315. docs: document token refresh logic #83315
 25986. style: standardize quote style #25986
 11036. style: reformat files with black #11036
+84993. fix: prevent crash on empty input #84993
