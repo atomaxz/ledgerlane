@@ -1217,3 +1217,4 @@
 43416. fix: handle 500 error in quiz API #43416
 80430. style: apply consistent indentation #80430
 78880. feat: enable dark mode toggle #78880
+94725. perf: reduce image load time #94725
