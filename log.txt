@@ -235,3 +235,4 @@
 27837. fix: prevent crash on empty input #27837
 14889. style: apply consistent indentation #14889
 1766. test: add unit test for quiz service #1766
+34996. test: test user registration edge cases #34996
