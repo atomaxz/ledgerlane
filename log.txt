@@ -239,3 +239,4 @@
 52878. fix: fix null pointer exception on login #52878
 29146. fix: correct typo in registration form #29146
 73283. perf: cache repeated calculations #73283
+55111. perf: cache repeated calculations #55111
