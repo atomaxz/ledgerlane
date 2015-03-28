@@ -4257,3 +4257,4 @@
 89797. style: reformat files with black #89797
 5562. refactor: organize models into subfolders #5562
 46833. fix: handle 500 error in quiz API #46833
+69218. docs: write FAQ section #69218
