@@ -1219,3 +1219,4 @@
 78880. feat: enable dark mode toggle #78880
 94725. perf: reduce image load time #94725
 77808. fix: prevent crash on empty input #77808
+43676. perf: reduce image load time #43676
