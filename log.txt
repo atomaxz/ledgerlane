@@ -3228,3 +3228,4 @@
 89883. feat: create admin dashboard #89883
 54929. fix: handle 500 error in quiz API #54929
 74400. test: increase coverage on auth module #74400
+98390. refactor: clean up auth middleware #98390
