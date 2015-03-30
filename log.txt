@@ -3231,3 +3231,4 @@
 98390. refactor: clean up auth middleware #98390
 25149. feat: implement quiz timer feature #25149
 21729. fix: resolve issue with date parsing #21729
+85675. perf: optimize database query for quiz results #85675
