@@ -3236,3 +3236,4 @@
 66175. perf: reduce image load time #66175
 84976. feat: implement quiz timer feature #84976
 66268. refactor: refactor quiz grading logic #66268
+90462. feat: support email verification #90462
