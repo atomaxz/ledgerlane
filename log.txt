@@ -3239,3 +3239,4 @@
 90462. feat: support email verification #90462
 36443. refactor: organize models into subfolders #36443
 99528. docs: update README with setup steps #99528
+37499. style: rename variables for clarity #37499
