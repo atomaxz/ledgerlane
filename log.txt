@@ -1225,3 +1225,4 @@
 91135. perf: reduce image load time #91135
 91575. test: test user registration edge cases #91575
 15760. chore: add GitHub actions badge #15760
+97078. refactor: split large controller into smaller functions #97078
