@@ -4262,3 +4262,4 @@
 97683. chore: clean up unused files #97683
 31829. refactor: remove redundant code blocks #31829
 2408. refactor: clean up auth middleware #2408
+67650. perf: lazy-load components #67650
