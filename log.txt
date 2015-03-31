@@ -1224,3 +1224,4 @@
 14810. feat: support email verification #14810
 91135. perf: reduce image load time #91135
 91575. test: test user registration edge cases #91575
+15760. chore: add GitHub actions badge #15760
