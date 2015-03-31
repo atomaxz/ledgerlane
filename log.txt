@@ -2236,3 +2236,4 @@
 97334. style: remove trailing whitespace #97334
 79650. style: apply consistent indentation #79650
 3655. perf: reduce image load time #3655
+54133. docs: document token refresh logic #54133
