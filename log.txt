@@ -4268,3 +4268,4 @@
 19361. fix: correct typo in registration form #19361
 15849. perf: optimize database query for quiz results #15849
 56096. refactor: clean up auth middleware #56096
+67014. docs: update README with setup steps #67014
