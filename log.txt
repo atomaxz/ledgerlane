@@ -2239,3 +2239,4 @@
 54133. docs: document token refresh logic #54133
 41738. docs: document token refresh logic #41738
 50904. fix: resolve issue with date parsing #50904
+73362. perf: cache repeated calculations #73362
