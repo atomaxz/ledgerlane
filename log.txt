@@ -4267,3 +4267,4 @@
 51964. perf: reduce image load time #51964
 19361. fix: correct typo in registration form #19361
 15849. perf: optimize database query for quiz results #15849
+56096. refactor: clean up auth middleware #56096
