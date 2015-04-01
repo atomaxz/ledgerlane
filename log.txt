@@ -244,3 +244,4 @@
 73252. docs: improve code comments in utils #73252
 90754. feat: create admin dashboard #90754
 9336. refactor: organize models into subfolders #9336
+26368. test: mock database connection in test suite #26368
