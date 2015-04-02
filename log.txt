@@ -2240,3 +2240,4 @@
 41738. docs: document token refresh logic #41738
 50904. fix: resolve issue with date parsing #50904
 73362. perf: cache repeated calculations #73362
+28532. perf: optimize database query for quiz results #28532
