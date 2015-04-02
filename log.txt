@@ -3246,3 +3246,4 @@
 72098. fix: handle 500 error in quiz API #72098
 4980. chore: clean up unused files #4980
 7568. feat: add export to CSV option #7568
+77818. fix: correct typo in registration form #77818
