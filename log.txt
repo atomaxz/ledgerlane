@@ -247,3 +247,4 @@
 26368. test: mock database connection in test suite #26368
 93487. feat: add export to CSV option #93487
 89507. chore: update .gitignore #89507
+56405. perf: optimize database query for quiz results #56405
