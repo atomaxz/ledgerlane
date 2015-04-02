@@ -5217,3 +5217,4 @@
 61406. chore: add GitHub actions badge #61406
 57541. fix: prevent crash on empty input #57541
 85534. docs: document token refresh logic #85534
+11868. feat: add user authentication #11868
