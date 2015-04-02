@@ -5218,3 +5218,4 @@
 57541. fix: prevent crash on empty input #57541
 85534. docs: document token refresh logic #85534
 11868. feat: add user authentication #11868
+56111. refactor: clean up auth middleware #56111
