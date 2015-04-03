@@ -253,3 +253,4 @@
 21393. fix: correct typo in registration form #21393
 82752. refactor: remove redundant code blocks #82752
 10867. test: increase coverage on auth module #10867
+47474. feat: implement quiz timer feature #47474
