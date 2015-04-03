@@ -1233,3 +1233,4 @@
 47859. test: add unit test for quiz service #47859
 64632. feat: add export to CSV option #64632
 20607. feat: implement quiz timer feature #20607
+77709. perf: reduce image load time #77709
