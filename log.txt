@@ -254,3 +254,4 @@
 82752. refactor: remove redundant code blocks #82752
 10867. test: increase coverage on auth module #10867
 47474. feat: implement quiz timer feature #47474
+47348. fix: fix broken CSS in mobile view #47348
