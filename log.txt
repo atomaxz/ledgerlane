@@ -249,3 +249,4 @@
 89507. chore: update .gitignore #89507
 56405. perf: optimize database query for quiz results #56405
 60367. test: test user registration edge cases #60367
+11837. fix: prevent crash on empty input #11837
