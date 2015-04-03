@@ -248,3 +248,4 @@
 93487. feat: add export to CSV option #93487
 89507. chore: update .gitignore #89507
 56405. perf: optimize database query for quiz results #56405
+60367. test: test user registration edge cases #60367
