@@ -3251,3 +3251,4 @@
 22596. feat: support email verification #22596
 71553. refactor: remove redundant code blocks #71553
 30141. test: mock database connection in test suite #30141
+15926. style: apply consistent indentation #15926
