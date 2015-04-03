@@ -5220,3 +5220,4 @@
 11868. feat: add user authentication #11868
 56111. refactor: clean up auth middleware #56111
 52917. test: test user registration edge cases #52917
+64729. chore: update .gitignore #64729
