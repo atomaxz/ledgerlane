@@ -257,3 +257,4 @@
 47348. fix: fix broken CSS in mobile view #47348
 44336. fix: prevent crash on empty input #44336
 5797. feat: support email verification #5797
+84984. style: reformat files with black #84984
