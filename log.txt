@@ -260,3 +260,4 @@
 84984. style: reformat files with black #84984
 46510. test: add integration test for /submit endpoint #46510
 87504. docs: document token refresh logic #87504
+10584. fix: correct typo in registration form #10584
