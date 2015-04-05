@@ -2249,3 +2249,4 @@
 44523. chore: clean up unused files #44523
 35608. perf: optimize database query for quiz results #35608
 10512. style: remove trailing whitespace #10512
+28390. test: mock database connection in test suite #28390
