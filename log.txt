@@ -5225,3 +5225,4 @@
 75460. style: rename variables for clarity #75460
 57922. fix: fix broken CSS in mobile view #57922
 99732. feat: implement quiz timer feature #99732
+48271. chore: rename env.example #48271
