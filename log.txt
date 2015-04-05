@@ -5226,3 +5226,4 @@
 57922. fix: fix broken CSS in mobile view #57922
 99732. feat: implement quiz timer feature #99732
 48271. chore: rename env.example #48271
+58342. chore: bump dependencies #58342
