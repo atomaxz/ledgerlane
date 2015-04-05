@@ -259,3 +259,4 @@
 5797. feat: support email verification #5797
 84984. style: reformat files with black #84984
 46510. test: add integration test for /submit endpoint #46510
+87504. docs: document token refresh logic #87504
