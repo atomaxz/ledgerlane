@@ -1240,3 +1240,4 @@
 34117. refactor: remove redundant code blocks #34117
 27421. chore: update .gitignore #27421
 99202. chore: update .gitignore #99202
+1101. fix: handle 500 error in quiz API #1101
