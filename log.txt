@@ -5223,3 +5223,4 @@
 64729. chore: update .gitignore #64729
 80210. fix: fix broken CSS in mobile view #80210
 75460. style: rename variables for clarity #75460
+57922. fix: fix broken CSS in mobile view #57922
