@@ -1242,3 +1242,4 @@
 99202. chore: update .gitignore #99202
 1101. fix: handle 500 error in quiz API #1101
 8530. chore: bump dependencies #8530
+40788. style: standardize quote style #40788
