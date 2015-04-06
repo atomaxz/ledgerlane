@@ -3259,3 +3259,4 @@
 75543. style: reformat files with black #75543
 43576. fix: fix broken CSS in mobile view #43576
 64188. test: test user registration edge cases #64188
+42027. docs: document token refresh logic #42027
