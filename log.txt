@@ -2254,3 +2254,4 @@
 84523. perf: lazy-load components #84523
 93950. test: add unit test for quiz service #93950
 42746. feat: implement quiz timer feature #42746
+17435. test: test user registration edge cases #17435
