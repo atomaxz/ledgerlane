@@ -1243,3 +1243,4 @@
 1101. fix: handle 500 error in quiz API #1101
 8530. chore: bump dependencies #8530
 40788. style: standardize quote style #40788
+72633. test: add unit test for quiz service #72633
