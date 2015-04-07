@@ -1244,3 +1244,4 @@
 8530. chore: bump dependencies #8530
 40788. style: standardize quote style #40788
 72633. test: add unit test for quiz service #72633
+7863. refactor: clean up auth middleware #7863
