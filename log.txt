@@ -271,3 +271,4 @@
 94254. style: standardize quote style #94254
 56648. perf: optimize database query for quiz results #56648
 86481. perf: reduce image load time #86481
+28534. docs: write FAQ section #28534
