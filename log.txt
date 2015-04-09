@@ -273,3 +273,4 @@
 86481. perf: reduce image load time #86481
 28534. docs: write FAQ section #28534
 40518. chore: rename env.example #40518
+58053. perf: optimize database query for quiz results #58053
