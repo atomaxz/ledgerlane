@@ -1251,3 +1251,4 @@
 4779. docs: clarify environment setup #4779
 60013. feat: add export to CSV option #60013
 49194. perf: reduce image load time #49194
+37658. fix: fix broken CSS in mobile view #37658
