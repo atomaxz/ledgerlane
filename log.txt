@@ -275,3 +275,4 @@
 40518. chore: rename env.example #40518
 58053. perf: optimize database query for quiz results #58053
 71748. style: rename variables for clarity #71748
+68519. chore: add GitHub actions badge #68519
