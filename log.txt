@@ -277,3 +277,4 @@
 71748. style: rename variables for clarity #71748
 68519. chore: add GitHub actions badge #68519
 64258. perf: optimize database query for quiz results #64258
+90032. feat: add user authentication #90032
