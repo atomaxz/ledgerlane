@@ -3269,3 +3269,4 @@
 32424. style: apply consistent indentation #32424
 3951. refactor: organize models into subfolders #3951
 75588. docs: clarify environment setup #75588
+82398. feat: support email verification #82398
