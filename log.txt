@@ -3272,3 +3272,4 @@
 82398. feat: support email verification #82398
 4241. style: reformat files with black #4241
 44341. fix: fix null pointer exception on login #44341
+64205. test: increase coverage on auth module #64205
