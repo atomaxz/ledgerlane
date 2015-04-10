@@ -3270,3 +3270,4 @@
 3951. refactor: organize models into subfolders #3951
 75588. docs: clarify environment setup #75588
 82398. feat: support email verification #82398
+4241. style: reformat files with black #4241
