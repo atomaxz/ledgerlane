@@ -4290,3 +4290,4 @@
 34512. test: add unit test for quiz service #34512
 15369. perf: cache repeated calculations #15369
 92283. refactor: refactor quiz grading logic #92283
+6603. refactor: remove redundant code blocks #6603
