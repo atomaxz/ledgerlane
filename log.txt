@@ -2260,3 +2260,4 @@
 37129. docs: write FAQ section #37129
 68854. refactor: split large controller into smaller functions #68854
 73687. feat: add export to CSV option #73687
+2123. perf: optimize database query for quiz results #2123
