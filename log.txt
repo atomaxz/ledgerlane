@@ -3276,3 +3276,4 @@
 57976. feat: add user authentication #57976
 50116. refactor: remove redundant code blocks #50116
 62794. style: standardize quote style #62794
+88717. perf: lazy-load components #88717
