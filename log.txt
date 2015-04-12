@@ -5246,3 +5246,4 @@
 22288. docs: update README with setup steps #22288
 82977. style: rename variables for clarity #82977
 22965. feat: implement quiz timer feature #22965
+14833. docs: write FAQ section #14833
