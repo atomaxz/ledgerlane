@@ -5250,3 +5250,4 @@
 66159. style: reformat files with black #66159
 44463. test: increase coverage on auth module #44463
 13977. test: test user registration edge cases #13977
+13439. docs: write FAQ section #13439
