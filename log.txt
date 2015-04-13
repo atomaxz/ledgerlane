@@ -2264,3 +2264,4 @@
 4990. feat: enable dark mode toggle #4990
 22077. style: standardize quote style #22077
 21842. fix: correct typo in registration form #21842
+26757. style: apply consistent indentation #26757
