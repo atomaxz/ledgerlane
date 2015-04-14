@@ -2266,3 +2266,4 @@
 21842. fix: correct typo in registration form #21842
 26757. style: apply consistent indentation #26757
 64467. style: apply consistent indentation #64467
+71234. docs: write FAQ section #71234
