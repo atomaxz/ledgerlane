@@ -4295,3 +4295,4 @@
 75333. perf: cache repeated calculations #75333
 46509. refactor: clean up auth middleware #46509
 62155. style: reformat files with black #62155
+75450. refactor: organize models into subfolders #75450
