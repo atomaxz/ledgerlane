@@ -4293,3 +4293,4 @@
 6603. refactor: remove redundant code blocks #6603
 85867. refactor: split large controller into smaller functions #85867
 75333. perf: cache repeated calculations #75333
+46509. refactor: clean up auth middleware #46509
