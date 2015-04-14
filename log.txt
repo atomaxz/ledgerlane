@@ -286,3 +286,4 @@
 75241. test: mock database connection in test suite #75241
 18366. refactor: clean up auth middleware #18366
 6216. fix: prevent crash on empty input #6216
+10608. fix: correct typo in registration form #10608
