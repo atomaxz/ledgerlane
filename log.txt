@@ -5252,3 +5252,4 @@
 13977. test: test user registration edge cases #13977
 13439. docs: write FAQ section #13439
 96925. refactor: remove redundant code blocks #96925
+52099. feat: add user authentication #52099
