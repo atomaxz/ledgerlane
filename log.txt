@@ -284,3 +284,4 @@
 54007. style: rename variables for clarity #54007
 8430. docs: update README with setup steps #8430
 75241. test: mock database connection in test suite #75241
+18366. refactor: clean up auth middleware #18366
