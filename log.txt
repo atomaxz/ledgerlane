@@ -3281,3 +3281,4 @@
 80930. perf: optimize database query for quiz results #80930
 28848. perf: cache repeated calculations #28848
 49196. chore: clean up unused files #49196
+99296. style: remove trailing whitespace #99296
