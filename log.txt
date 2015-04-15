@@ -4298,3 +4298,4 @@
 75450. refactor: organize models into subfolders #75450
 21509. docs: update README with setup steps #21509
 75706. refactor: remove redundant code blocks #75706
+8112. fix: fix null pointer exception on login #8112
