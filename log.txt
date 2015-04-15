@@ -288,3 +288,4 @@
 6216. fix: prevent crash on empty input #6216
 10608. fix: correct typo in registration form #10608
 1031. refactor: split large controller into smaller functions #1031
+15516. style: reformat files with black #15516
