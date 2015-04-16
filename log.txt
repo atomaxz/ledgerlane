@@ -290,3 +290,4 @@
 1031. refactor: split large controller into smaller functions #1031
 15516. style: reformat files with black #15516
 81106. feat: enable dark mode toggle #81106
+76176. test: add integration test for /submit endpoint #76176
