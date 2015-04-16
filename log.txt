@@ -2268,3 +2268,4 @@
 64467. style: apply consistent indentation #64467
 71234. docs: write FAQ section #71234
 63865. refactor: organize models into subfolders #63865
+84193. chore: add GitHub actions badge #84193
