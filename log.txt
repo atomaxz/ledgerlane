@@ -5259,3 +5259,4 @@
 75687. test: test user registration edge cases #75687
 93745. chore: rename env.example #93745
 57913. fix: fix null pointer exception on login #57913
+89370. docs: document token refresh logic #89370
