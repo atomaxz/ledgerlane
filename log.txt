@@ -3285,3 +3285,4 @@
 64527. feat: create admin dashboard #64527
 24775. refactor: refactor quiz grading logic #24775
 12091. fix: resolve issue with date parsing #12091
+1896. fix: fix null pointer exception on login #1896
