@@ -3286,3 +3286,4 @@
 24775. refactor: refactor quiz grading logic #24775
 12091. fix: resolve issue with date parsing #12091
 1896. fix: fix null pointer exception on login #1896
+21717. perf: reduce image load time #21717
