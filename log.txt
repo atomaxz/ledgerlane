@@ -1268,3 +1268,4 @@
 39035. test: increase coverage on auth module #39035
 23473. perf: cache repeated calculations #23473
 45130. docs: add API usage examples #45130
+90496. perf: optimize database query for quiz results #90496
