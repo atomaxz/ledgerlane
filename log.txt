@@ -5260,3 +5260,4 @@
 93745. chore: rename env.example #93745
 57913. fix: fix null pointer exception on login #57913
 89370. docs: document token refresh logic #89370
+43082. test: increase coverage on auth module #43082
