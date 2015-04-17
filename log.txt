@@ -5261,3 +5261,4 @@
 57913. fix: fix null pointer exception on login #57913
 89370. docs: document token refresh logic #89370
 43082. test: increase coverage on auth module #43082
+46168. feat: add user authentication #46168
