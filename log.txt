@@ -4307,3 +4307,4 @@
 15074. refactor: refactor quiz grading logic #15074
 72388. refactor: clean up auth middleware #72388
 55511. perf: reduce image load time #55511
+44314. fix: prevent crash on empty input #44314
