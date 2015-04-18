@@ -4308,3 +4308,4 @@
 72388. refactor: clean up auth middleware #72388
 55511. perf: reduce image load time #55511
 44314. fix: prevent crash on empty input #44314
+2741. fix: fix null pointer exception on login #2741
