@@ -1271,3 +1271,4 @@
 90496. perf: optimize database query for quiz results #90496
 49273. test: mock database connection in test suite #49273
 99393. perf: lazy-load components #99393
+52870. chore: update .gitignore #52870
