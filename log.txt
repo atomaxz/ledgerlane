@@ -5265,3 +5265,4 @@
 39120. chore: bump dependencies #39120
 48888. test: add unit test for quiz service #48888
 49080. chore: update .gitignore #49080
+12231. docs: write FAQ section #12231
