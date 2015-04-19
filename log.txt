@@ -5264,3 +5264,4 @@
 46168. feat: add user authentication #46168
 39120. chore: bump dependencies #39120
 48888. test: add unit test for quiz service #48888
+49080. chore: update .gitignore #49080
