@@ -299,3 +299,4 @@
 30792. test: increase coverage on auth module #30792
 85658. refactor: remove redundant code blocks #85658
 57629. test: test user registration edge cases #57629
+42414. chore: update .gitignore #42414
