@@ -2282,3 +2282,4 @@
 83772. style: reformat files with black #83772
 96633. fix: fix broken CSS in mobile view #96633
 32808. chore: clean up unused files #32808
+54092. docs: clarify environment setup #54092
