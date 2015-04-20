@@ -1276,3 +1276,4 @@
 68718. style: rename variables for clarity #68718
 18691. perf: lazy-load components #18691
 45834. fix: fix broken CSS in mobile view #45834
+89391. fix: prevent crash on empty input #89391
