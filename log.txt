@@ -301,3 +301,4 @@
 57629. test: test user registration edge cases #57629
 42414. chore: update .gitignore #42414
 55210. fix: resolve issue with date parsing #55210
+84249. chore: bump dependencies #84249
