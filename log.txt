@@ -5267,3 +5267,4 @@
 49080. chore: update .gitignore #49080
 12231. docs: write FAQ section #12231
 30302. docs: update README with setup steps #30302
+25257. chore: rename env.example #25257
