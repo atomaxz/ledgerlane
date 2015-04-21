@@ -2286,3 +2286,4 @@
 6701. perf: cache repeated calculations #6701
 97151. feat: enable dark mode toggle #97151
 29322. fix: fix broken CSS in mobile view #29322
+45311. chore: clean up unused files #45311
