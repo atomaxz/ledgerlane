@@ -4316,3 +4316,4 @@
 34490. perf: reduce image load time #34490
 33014. test: test user registration edge cases #33014
 8434. test: test user registration edge cases #8434
+89968. feat: enable dark mode toggle #89968
