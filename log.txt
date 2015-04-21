@@ -5270,3 +5270,4 @@
 25257. chore: rename env.example #25257
 85571. chore: bump dependencies #85571
 80807. refactor: clean up auth middleware #80807
+80121. fix: fix broken CSS in mobile view #80121
