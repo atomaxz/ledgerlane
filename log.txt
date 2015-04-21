@@ -1279,3 +1279,4 @@
 89391. fix: prevent crash on empty input #89391
 81790. perf: reduce image load time #81790
 88106. fix: prevent crash on empty input #88106
+19717. fix: fix broken CSS in mobile view #19717
