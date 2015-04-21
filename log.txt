@@ -5272,3 +5272,4 @@
 80807. refactor: clean up auth middleware #80807
 80121. fix: fix broken CSS in mobile view #80121
 31350. refactor: remove redundant code blocks #31350
+99726. fix: correct typo in registration form #99726
