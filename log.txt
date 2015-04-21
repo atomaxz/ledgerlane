@@ -1280,3 +1280,4 @@
 81790. perf: reduce image load time #81790
 88106. fix: prevent crash on empty input #88106
 19717. fix: fix broken CSS in mobile view #19717
+63899. style: reformat files with black #63899
