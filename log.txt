@@ -1281,3 +1281,4 @@
 88106. fix: prevent crash on empty input #88106
 19717. fix: fix broken CSS in mobile view #19717
 63899. style: reformat files with black #63899
+75306. chore: add GitHub actions badge #75306
