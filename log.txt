@@ -5274,3 +5274,4 @@
 31350. refactor: remove redundant code blocks #31350
 99726. fix: correct typo in registration form #99726
 71379. fix: fix broken CSS in mobile view #71379
+28003. style: remove trailing whitespace #28003
