@@ -3293,3 +3293,4 @@
 2851. docs: write FAQ section #2851
 12559. refactor: organize models into subfolders #12559
 90821. style: apply consistent indentation #90821
+48800. refactor: clean up auth middleware #48800
