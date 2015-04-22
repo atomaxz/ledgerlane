@@ -4318,3 +4318,4 @@
 8434. test: test user registration edge cases #8434
 89968. feat: enable dark mode toggle #89968
 98941. refactor: remove redundant code blocks #98941
+21729. fix: resolve issue with date parsing #21729
