@@ -2288,3 +2288,4 @@
 29322. fix: fix broken CSS in mobile view #29322
 45311. chore: clean up unused files #45311
 36918. chore: rename env.example #36918
+3915. style: remove trailing whitespace #3915
