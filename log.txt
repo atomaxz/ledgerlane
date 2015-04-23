@@ -1290,3 +1290,4 @@
 37203. refactor: split large controller into smaller functions #37203
 22905. perf: reduce image load time #22905
 27258. style: apply consistent indentation #27258
+18283. feat: enable dark mode toggle #18283
