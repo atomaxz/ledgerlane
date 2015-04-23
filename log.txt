@@ -1289,3 +1289,4 @@
 38210. feat: create admin dashboard #38210
 37203. refactor: split large controller into smaller functions #37203
 22905. perf: reduce image load time #22905
+27258. style: apply consistent indentation #27258
