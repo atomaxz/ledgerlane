@@ -5276,3 +5276,4 @@
 71379. fix: fix broken CSS in mobile view #71379
 28003. style: remove trailing whitespace #28003
 15186. refactor: refactor quiz grading logic #15186
+60577. refactor: split large controller into smaller functions #60577
