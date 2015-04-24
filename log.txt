@@ -312,3 +312,4 @@
 51968. chore: update .gitignore #51968
 17585. feat: add export to CSV option #17585
 23909. docs: update README with setup steps #23909
+26468. chore: rename env.example #26468
