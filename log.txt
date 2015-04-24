@@ -4323,3 +4323,4 @@
 74903. fix: handle 500 error in quiz API #74903
 50684. test: increase coverage on auth module #50684
 71039. docs: document token refresh logic #71039
+26489. chore: add GitHub actions badge #26489
