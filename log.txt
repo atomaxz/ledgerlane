@@ -309,3 +309,4 @@
 79681. perf: lazy-load components #79681
 38559. style: remove trailing whitespace #38559
 24293. chore: rename env.example #24293
+51968. chore: update .gitignore #51968
