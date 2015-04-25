@@ -5281,3 +5281,4 @@
 34327. docs: document token refresh logic #34327
 84920. feat: implement quiz timer feature #84920
 48259. refactor: remove redundant code blocks #48259
+20443. test: increase coverage on auth module #20443
