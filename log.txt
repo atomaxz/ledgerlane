@@ -2292,3 +2292,4 @@
 56477. style: remove trailing whitespace #56477
 88200. refactor: refactor quiz grading logic #88200
 59482. chore: bump dependencies #59482
+81807. test: mock database connection in test suite #81807
