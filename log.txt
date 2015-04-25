@@ -2293,3 +2293,4 @@
 88200. refactor: refactor quiz grading logic #88200
 59482. chore: bump dependencies #59482
 81807. test: mock database connection in test suite #81807
+1176. feat: support email verification #1176
