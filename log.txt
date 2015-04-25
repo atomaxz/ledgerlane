@@ -5282,3 +5282,4 @@
 84920. feat: implement quiz timer feature #84920
 48259. refactor: remove redundant code blocks #48259
 20443. test: increase coverage on auth module #20443
+24348. feat: enable dark mode toggle #24348
