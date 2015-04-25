@@ -3302,3 +3302,4 @@
 66366. test: increase coverage on auth module #66366
 51990. chore: update .gitignore #51990
 94109. docs: write FAQ section #94109
+57497. chore: add GitHub actions badge #57497
