@@ -5284,3 +5284,4 @@
 20443. test: increase coverage on auth module #20443
 24348. feat: enable dark mode toggle #24348
 70964. style: remove trailing whitespace #70964
+51375. test: increase coverage on auth module #51375
