@@ -4326,3 +4326,4 @@
 26489. chore: add GitHub actions badge #26489
 49464. perf: reduce image load time #49464
 35251. style: standardize quote style #35251
+29226. docs: clarify environment setup #29226
