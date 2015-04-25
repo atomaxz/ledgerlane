@@ -1296,3 +1296,4 @@
 84445. refactor: remove redundant code blocks #84445
 38434. perf: lazy-load components #38434
 30744. feat: support email verification #30744
+40884. fix: fix null pointer exception on login #40884
