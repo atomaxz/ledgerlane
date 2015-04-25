@@ -1295,3 +1295,4 @@
 61301. fix: prevent crash on empty input #61301
 84445. refactor: remove redundant code blocks #84445
 38434. perf: lazy-load components #38434
+30744. feat: support email verification #30744
