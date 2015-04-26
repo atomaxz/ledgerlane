@@ -2297,3 +2297,4 @@
 15580. style: apply consistent indentation #15580
 97068. feat: add export to CSV option #97068
 57131. fix: correct typo in registration form #57131
+33461. test: test user registration edge cases #33461
