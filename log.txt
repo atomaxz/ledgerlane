@@ -317,3 +317,4 @@
 19082. refactor: remove redundant code blocks #19082
 40874. refactor: clean up auth middleware #40874
 28737. feat: add user authentication #28737
+44332. fix: prevent crash on empty input #44332
