@@ -2295,3 +2295,4 @@
 81807. test: mock database connection in test suite #81807
 1176. feat: support email verification #1176
 15580. style: apply consistent indentation #15580
+97068. feat: add export to CSV option #97068
