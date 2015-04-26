@@ -5285,3 +5285,4 @@
 24348. feat: enable dark mode toggle #24348
 70964. style: remove trailing whitespace #70964
 51375. test: increase coverage on auth module #51375
+98769. style: apply consistent indentation #98769
