@@ -1297,3 +1297,4 @@
 38434. perf: lazy-load components #38434
 30744. feat: support email verification #30744
 40884. fix: fix null pointer exception on login #40884
+56166. perf: optimize database query for quiz results #56166
