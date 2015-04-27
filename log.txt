@@ -2299,3 +2299,4 @@
 57131. fix: correct typo in registration form #57131
 33461. test: test user registration edge cases #33461
 49132. docs: improve code comments in utils #49132
+59052. perf: optimize database query for quiz results #59052
