@@ -5295,3 +5295,4 @@
 26043. style: apply consistent indentation #26043
 16387. perf: reduce image load time #16387
 97522. test: increase coverage on auth module #97522
+56171. style: standardize quote style #56171
