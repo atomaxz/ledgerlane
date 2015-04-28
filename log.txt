@@ -4334,3 +4334,4 @@
 88013. refactor: remove redundant code blocks #88013
 46739. fix: fix broken CSS in mobile view #46739
 59924. feat: add user authentication #59924
+23056. fix: handle 500 error in quiz API #23056
