@@ -4336,3 +4336,4 @@
 59924. feat: add user authentication #59924
 23056. fix: handle 500 error in quiz API #23056
 42070. chore: clean up unused files #42070
+63314. docs: write FAQ section #63314
