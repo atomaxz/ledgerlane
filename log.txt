@@ -322,3 +322,4 @@
 47191. style: remove trailing whitespace #47191
 24458. style: apply consistent indentation #24458
 72338. chore: update .gitignore #72338
+95927. perf: cache repeated calculations #95927
