@@ -1306,3 +1306,4 @@
 29946. refactor: refactor quiz grading logic #29946
 46449. refactor: remove redundant code blocks #46449
 4337. refactor: remove redundant code blocks #4337
+33506. test: mock database connection in test suite #33506
