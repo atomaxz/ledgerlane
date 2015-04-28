@@ -1310,3 +1310,4 @@
 56628. style: rename variables for clarity #56628
 13717. docs: clarify environment setup #13717
 54551. chore: update .gitignore #54551
+98279. fix: fix broken CSS in mobile view #98279
