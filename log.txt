@@ -2307,3 +2307,4 @@
 70256. fix: handle 500 error in quiz API #70256
 89603. feat: implement quiz timer feature #89603
 55994. feat: add export to CSV option #55994
+78931. style: remove trailing whitespace #78931
