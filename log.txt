@@ -4337,3 +4337,4 @@
 23056. fix: handle 500 error in quiz API #23056
 42070. chore: clean up unused files #42070
 63314. docs: write FAQ section #63314
+52419. docs: update README with setup steps #52419
