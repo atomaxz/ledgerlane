@@ -4339,3 +4339,4 @@
 63314. docs: write FAQ section #63314
 52419. docs: update README with setup steps #52419
 52045. docs: update README with setup steps #52045
+53585. style: remove trailing whitespace #53585
