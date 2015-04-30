@@ -329,3 +329,4 @@
 70719. test: add unit test for quiz service #70719
 7520. test: test user registration edge cases #7520
 2295. fix: prevent crash on empty input #2295
+37187. fix: fix broken CSS in mobile view #37187
