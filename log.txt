@@ -327,3 +327,4 @@
 45471. feat: create admin dashboard #45471
 6002. perf: cache repeated calculations #6002
 70719. test: add unit test for quiz service #70719
+7520. test: test user registration edge cases #7520
