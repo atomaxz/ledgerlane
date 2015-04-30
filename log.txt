@@ -1312,3 +1312,4 @@
 54551. chore: update .gitignore #54551
 98279. fix: fix broken CSS in mobile view #98279
 55865. refactor: remove redundant code blocks #55865
+65927. fix: prevent crash on empty input #65927
