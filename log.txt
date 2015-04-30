@@ -5303,3 +5303,4 @@
 2631. test: test user registration edge cases #2631
 25121. refactor: remove redundant code blocks #25121
 53135. test: test user registration edge cases #53135
+88164. feat: add user authentication #88164
