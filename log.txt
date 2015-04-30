@@ -1313,3 +1313,4 @@
 98279. fix: fix broken CSS in mobile view #98279
 55865. refactor: remove redundant code blocks #55865
 65927. fix: prevent crash on empty input #65927
+30696. test: increase coverage on auth module #30696
