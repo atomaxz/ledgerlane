@@ -3313,3 +3313,4 @@
 33025. style: apply consistent indentation #33025
 55332. test: add unit test for quiz service #55332
 12991. refactor: split large controller into smaller functions #12991
+38066. feat: support email verification #38066
