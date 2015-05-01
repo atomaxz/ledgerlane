@@ -4343,3 +4343,4 @@
 30430. test: increase coverage on auth module #30430
 23446. chore: clean up unused files #23446
 4369. refactor: organize models into subfolders #4369
+7362. perf: optimize database query for quiz results #7362
