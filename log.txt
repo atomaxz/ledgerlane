@@ -5308,3 +5308,4 @@
 53045. docs: clarify environment setup #53045
 59183. perf: lazy-load components #59183
 42134. docs: clarify environment setup #42134
+63510. perf: reduce image load time #63510
