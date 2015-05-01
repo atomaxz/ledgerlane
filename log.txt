@@ -332,3 +332,4 @@
 37187. fix: fix broken CSS in mobile view #37187
 27143. feat: implement quiz timer feature #27143
 8317. style: remove trailing whitespace #8317
+66469. feat: add user authentication #66469
