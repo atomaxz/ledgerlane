@@ -2313,3 +2313,4 @@
 7659. refactor: remove redundant code blocks #7659
 71101. chore: rename env.example #71101
 98859. perf: lazy-load components #98859
+1738. perf: optimize database query for quiz results #1738
