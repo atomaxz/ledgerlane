@@ -3318,3 +3318,4 @@
 92404. feat: add export to CSV option #92404
 61633. refactor: organize models into subfolders #61633
 86434. fix: prevent crash on empty input #86434
+73871. chore: add GitHub actions badge #73871
