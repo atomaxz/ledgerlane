@@ -3317,3 +3317,4 @@
 40964. test: test user registration edge cases #40964
 92404. feat: add export to CSV option #92404
 61633. refactor: organize models into subfolders #61633
+86434. fix: prevent crash on empty input #86434
