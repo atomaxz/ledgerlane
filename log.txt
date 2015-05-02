@@ -2314,3 +2314,4 @@
 71101. chore: rename env.example #71101
 98859. perf: lazy-load components #98859
 1738. perf: optimize database query for quiz results #1738
+30922. chore: update .gitignore #30922
