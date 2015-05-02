@@ -2316,3 +2316,4 @@
 1738. perf: optimize database query for quiz results #1738
 30922. chore: update .gitignore #30922
 7511. fix: fix broken CSS in mobile view #7511
+70392. perf: lazy-load components #70392
