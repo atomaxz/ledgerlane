@@ -1317,3 +1317,4 @@
 20116. chore: update .gitignore #20116
 50312. style: reformat files with black #50312
 31455. perf: optimize database query for quiz results #31455
+84636. perf: lazy-load components #84636
