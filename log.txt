@@ -334,3 +334,4 @@
 8317. style: remove trailing whitespace #8317
 66469. feat: add user authentication #66469
 49018. style: rename variables for clarity #49018
+41440. refactor: organize models into subfolders #41440
