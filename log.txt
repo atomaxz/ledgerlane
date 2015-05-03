@@ -1325,3 +1325,4 @@
 15731. fix: fix broken CSS in mobile view #15731
 47780. test: add unit test for quiz service #47780
 75019. fix: fix null pointer exception on login #75019
+60042. docs: document token refresh logic #60042
