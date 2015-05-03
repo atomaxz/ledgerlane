@@ -3327,3 +3327,4 @@
 95781. refactor: clean up auth middleware #95781
 40515. style: apply consistent indentation #40515
 62417. chore: bump dependencies #62417
+2034. docs: write FAQ section #2034
