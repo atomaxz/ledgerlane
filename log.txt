@@ -4347,3 +4347,4 @@
 50925. refactor: split large controller into smaller functions #50925
 94146. feat: enable dark mode toggle #94146
 86045. refactor: refactor quiz grading logic #86045
+27394. perf: lazy-load components #27394
