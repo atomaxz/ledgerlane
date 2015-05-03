@@ -1322,3 +1322,4 @@
 11952. feat: create admin dashboard #11952
 88456. style: remove trailing whitespace #88456
 0669. perf: reduce image load time #669
+15731. fix: fix broken CSS in mobile view #15731
