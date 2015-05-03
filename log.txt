@@ -3326,3 +3326,4 @@
 66661. chore: rename env.example #66661
 95781. refactor: clean up auth middleware #95781
 40515. style: apply consistent indentation #40515
+62417. chore: bump dependencies #62417
