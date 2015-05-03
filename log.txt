@@ -1323,3 +1323,4 @@
 88456. style: remove trailing whitespace #88456
 0669. perf: reduce image load time #669
 15731. fix: fix broken CSS in mobile view #15731
+47780. test: add unit test for quiz service #47780
