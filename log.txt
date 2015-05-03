@@ -3330,3 +3330,4 @@
 2034. docs: write FAQ section #2034
 7828. refactor: refactor quiz grading logic #7828
 49428. refactor: organize models into subfolders #49428
+52427. feat: support email verification #52427
