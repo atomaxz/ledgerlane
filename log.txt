@@ -337,3 +337,4 @@
 41440. refactor: organize models into subfolders #41440
 38602. fix: resolve issue with date parsing #38602
 88193. style: remove trailing whitespace #88193
+41279. fix: correct typo in registration form #41279
