@@ -5316,3 +5316,4 @@
 44307. chore: bump dependencies #44307
 48151. feat: create admin dashboard #48151
 3056. feat: support email verification #3056
+68678. fix: handle 500 error in quiz API #68678
