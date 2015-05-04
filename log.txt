@@ -2320,3 +2320,4 @@
 55395. fix: fix broken CSS in mobile view #55395
 77831. feat: create admin dashboard #77831
 74469. style: apply consistent indentation #74469
+58790. chore: clean up unused files #58790
