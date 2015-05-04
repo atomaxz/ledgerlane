@@ -1327,3 +1327,4 @@
 75019. fix: fix null pointer exception on login #75019
 60042. docs: document token refresh logic #60042
 60649. test: add integration test for /submit endpoint #60649
+46140. perf: lazy-load components #46140
