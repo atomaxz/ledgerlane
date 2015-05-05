@@ -4352,3 +4352,4 @@
 75157. test: add unit test for quiz service #75157
 94739. chore: clean up unused files #94739
 83177. style: standardize quote style #83177
+48952. perf: optimize database query for quiz results #48952
