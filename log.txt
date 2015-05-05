@@ -5318,3 +5318,4 @@
 3056. feat: support email verification #3056
 68678. fix: handle 500 error in quiz API #68678
 1101. fix: handle 500 error in quiz API #1101
+56756. docs: update README with setup steps #56756
