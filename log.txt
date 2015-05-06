@@ -4355,3 +4355,4 @@
 48952. perf: optimize database query for quiz results #48952
 9975. test: test user registration edge cases #9975
 3988. perf: lazy-load components #3988
+46284. feat: add user authentication #46284
