@@ -4356,3 +4356,4 @@
 9975. test: test user registration edge cases #9975
 3988. perf: lazy-load components #3988
 46284. feat: add user authentication #46284
+74444. test: increase coverage on auth module #74444
