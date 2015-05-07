@@ -1336,3 +1336,4 @@
 81415. perf: reduce image load time #81415
 25296. fix: correct typo in registration form #25296
 22069. chore: update .gitignore #22069
+69451. fix: fix null pointer exception on login #69451
