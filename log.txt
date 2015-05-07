@@ -3339,3 +3339,4 @@
 31682. perf: optimize database query for quiz results #31682
 17148. docs: improve code comments in utils #17148
 45903. refactor: clean up auth middleware #45903
+22214. test: add unit test for quiz service #22214
