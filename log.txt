@@ -1333,3 +1333,4 @@
 67880. style: rename variables for clarity #67880
 87021. feat: create admin dashboard #87021
 16139. feat: add export to CSV option #16139
+81415. perf: reduce image load time #81415
