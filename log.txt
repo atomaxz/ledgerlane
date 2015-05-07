@@ -1335,3 +1335,4 @@
 16139. feat: add export to CSV option #16139
 81415. perf: reduce image load time #81415
 25296. fix: correct typo in registration form #25296
+22069. chore: update .gitignore #22069
