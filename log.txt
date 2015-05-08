@@ -349,3 +349,4 @@
 22541. docs: write FAQ section #22541
 93016. perf: optimize database query for quiz results #93016
 40001. refactor: refactor quiz grading logic #40001
+44910. chore: add GitHub actions badge #44910
