@@ -1339,3 +1339,4 @@
 69451. fix: fix null pointer exception on login #69451
 52409. docs: write FAQ section #52409
 82495. perf: reduce image load time #82495
+20335. fix: handle 500 error in quiz API #20335
