@@ -5322,3 +5322,4 @@
 70084. style: rename variables for clarity #70084
 46897. refactor: clean up auth middleware #46897
 54802. fix: correct typo in registration form #54802
+37798. fix: handle 500 error in quiz API #37798
