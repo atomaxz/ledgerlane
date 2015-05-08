@@ -3343,3 +3343,4 @@
 81775. refactor: split large controller into smaller functions #81775
 35040. perf: cache repeated calculations #35040
 98245. chore: rename env.example #98245
+41203. test: test user registration edge cases #41203
