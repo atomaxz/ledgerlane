@@ -4365,3 +4365,4 @@
 40402. docs: add API usage examples #40402
 89809. refactor: split large controller into smaller functions #89809
 99740. fix: resolve issue with date parsing #99740
+89920. chore: add GitHub actions badge #89920
