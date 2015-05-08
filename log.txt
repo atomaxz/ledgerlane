@@ -1340,3 +1340,4 @@
 52409. docs: write FAQ section #52409
 82495. perf: reduce image load time #82495
 20335. fix: handle 500 error in quiz API #20335
+6727. refactor: refactor quiz grading logic #6727
