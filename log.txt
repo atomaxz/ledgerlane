@@ -5324,3 +5324,4 @@
 54802. fix: correct typo in registration form #54802
 37798. fix: handle 500 error in quiz API #37798
 18194. feat: support email verification #18194
+21384. fix: prevent crash on empty input #21384
