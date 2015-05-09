@@ -5326,3 +5326,4 @@
 18194. feat: support email verification #18194
 21384. fix: prevent crash on empty input #21384
 71784. perf: cache repeated calculations #71784
+41497. docs: write FAQ section #41497
