@@ -5327,3 +5327,4 @@
 21384. fix: prevent crash on empty input #21384
 71784. perf: cache repeated calculations #71784
 41497. docs: write FAQ section #41497
+58872. style: apply consistent indentation #58872
