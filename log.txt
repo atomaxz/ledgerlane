@@ -5328,3 +5328,4 @@
 71784. perf: cache repeated calculations #71784
 41497. docs: write FAQ section #41497
 58872. style: apply consistent indentation #58872
+91231. feat: enable dark mode toggle #91231
