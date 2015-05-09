@@ -5329,3 +5329,4 @@
 41497. docs: write FAQ section #41497
 58872. style: apply consistent indentation #58872
 91231. feat: enable dark mode toggle #91231
+53270. perf: reduce image load time #53270
