@@ -1344,3 +1344,4 @@
 78292. refactor: remove redundant code blocks #78292
 44968. test: increase coverage on auth module #44968
 20055. fix: prevent crash on empty input #20055
+0769. feat: add export to CSV option #769
