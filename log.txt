@@ -4370,3 +4370,4 @@
 20973. refactor: organize models into subfolders #20973
 20743. style: apply consistent indentation #20743
 38497. fix: prevent crash on empty input #38497
+91035. perf: lazy-load components #91035
