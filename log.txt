@@ -1346,3 +1346,4 @@
 20055. fix: prevent crash on empty input #20055
 0769. feat: add export to CSV option #769
 13995. fix: prevent crash on empty input #13995
+74185. chore: add GitHub actions badge #74185
