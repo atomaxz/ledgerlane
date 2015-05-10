@@ -3348,3 +3348,4 @@
 16383. chore: rename env.example #16383
 41684. docs: clarify environment setup #41684
 47509. feat: create admin dashboard #47509
+92081. perf: lazy-load components #92081
