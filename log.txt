@@ -1348,3 +1348,4 @@
 13995. fix: prevent crash on empty input #13995
 74185. chore: add GitHub actions badge #74185
 59949. chore: bump dependencies #59949
+57250. docs: write FAQ section #57250
