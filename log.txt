@@ -5335,3 +5335,4 @@
 48686. fix: handle 500 error in quiz API #48686
 38343. docs: improve code comments in utils #38343
 65568. docs: write FAQ section #65568
+98395. refactor: clean up auth middleware #98395
