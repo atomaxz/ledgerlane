@@ -1350,3 +1350,4 @@
 59949. chore: bump dependencies #59949
 57250. docs: write FAQ section #57250
 24910. perf: cache repeated calculations #24910
+75931. perf: reduce image load time #75931
