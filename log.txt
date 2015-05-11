@@ -2335,3 +2335,4 @@
 12599. refactor: organize models into subfolders #12599
 30691. test: mock database connection in test suite #30691
 68005. style: remove trailing whitespace #68005
+28266. test: test user registration edge cases #28266
