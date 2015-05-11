@@ -355,3 +355,4 @@
 47352. test: add unit test for quiz service #47352
 54626. refactor: split large controller into smaller functions #54626
 53243. docs: clarify environment setup #53243
+20111. test: increase coverage on auth module #20111
