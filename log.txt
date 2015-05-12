@@ -2339,3 +2339,4 @@
 56005. style: reformat files with black #56005
 95518. feat: add user authentication #95518
 86580. perf: reduce image load time #86580
+89600. fix: resolve issue with date parsing #89600
