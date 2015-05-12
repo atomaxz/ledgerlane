@@ -4379,3 +4379,4 @@
 83900. test: add unit test for quiz service #83900
 56287. docs: clarify environment setup #56287
 1011. fix: fix broken CSS in mobile view #1011
+84176. feat: add user authentication #84176
