@@ -357,3 +357,4 @@
 53243. docs: clarify environment setup #53243
 20111. test: increase coverage on auth module #20111
 91866. style: standardize quote style #91866
+53896. perf: reduce image load time #53896
