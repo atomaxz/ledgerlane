@@ -2342,3 +2342,4 @@
 89600. fix: resolve issue with date parsing #89600
 52490. docs: add API usage examples #52490
 73972. refactor: organize models into subfolders #73972
+6568. fix: fix broken CSS in mobile view #6568
