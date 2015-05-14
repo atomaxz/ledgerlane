@@ -3357,3 +3357,4 @@
 72792. test: add unit test for quiz service #72792
 58661. style: apply consistent indentation #58661
 87052. chore: bump dependencies #87052
+55889. perf: reduce image load time #55889
