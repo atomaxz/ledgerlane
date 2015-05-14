@@ -2344,3 +2344,4 @@
 73972. refactor: organize models into subfolders #73972
 6568. fix: fix broken CSS in mobile view #6568
 87278. fix: prevent crash on empty input #87278
+93988. style: apply consistent indentation #93988
