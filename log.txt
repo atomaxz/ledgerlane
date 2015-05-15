@@ -3359,3 +3359,4 @@
 87052. chore: bump dependencies #87052
 55889. perf: reduce image load time #55889
 70934. chore: add GitHub actions badge #70934
+78899. test: test user registration edge cases #78899
