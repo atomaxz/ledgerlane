@@ -4387,3 +4387,4 @@
 87414. refactor: refactor quiz grading logic #87414
 37089. chore: bump dependencies #37089
 18540. style: apply consistent indentation #18540
+67355. fix: fix null pointer exception on login #67355
