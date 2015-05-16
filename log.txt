@@ -2353,3 +2353,4 @@
 32176. test: mock database connection in test suite #32176
 95394. feat: support email verification #95394
 40159. perf: cache repeated calculations #40159
+75717. fix: handle 500 error in quiz API #75717
