@@ -3361,3 +3361,4 @@
 70934. chore: add GitHub actions badge #70934
 78899. test: test user registration edge cases #78899
 94957. perf: reduce image load time #94957
+7815. refactor: organize models into subfolders #7815
