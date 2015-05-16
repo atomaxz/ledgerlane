@@ -2351,3 +2351,4 @@
 61009. refactor: clean up auth middleware #61009
 98803. test: increase coverage on auth module #98803
 32176. test: mock database connection in test suite #32176
+95394. feat: support email verification #95394
