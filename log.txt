@@ -1356,3 +1356,4 @@
 47271. perf: cache repeated calculations #47271
 45674. feat: enable dark mode toggle #45674
 81224. refactor: clean up auth middleware #81224
+81117. style: standardize quote style #81117
