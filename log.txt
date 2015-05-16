@@ -370,3 +370,4 @@
 24010. perf: cache repeated calculations #24010
 89814. refactor: remove redundant code blocks #89814
 6873. chore: clean up unused files #6873
+64225. fix: fix null pointer exception on login #64225
