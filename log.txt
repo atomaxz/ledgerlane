@@ -5347,3 +5347,4 @@
 13087. refactor: organize models into subfolders #13087
 13369. style: remove trailing whitespace #13369
 13423. fix: fix null pointer exception on login #13423
+99018. docs: update README with setup steps #99018
