@@ -3364,3 +3364,4 @@
 7815. refactor: organize models into subfolders #7815
 99240. perf: cache repeated calculations #99240
 77499. test: test user registration edge cases #77499
+72694. chore: add GitHub actions badge #72694
