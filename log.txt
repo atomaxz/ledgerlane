@@ -2357,3 +2357,4 @@
 91206. chore: rename env.example #91206
 8974. perf: optimize database query for quiz results #8974
 28433. fix: handle 500 error in quiz API #28433
+42063. fix: fix broken CSS in mobile view #42063
