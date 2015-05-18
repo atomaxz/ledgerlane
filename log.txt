@@ -374,3 +374,4 @@
 35829. docs: update README with setup steps #35829
 65948. refactor: organize models into subfolders #65948
 80993. feat: create admin dashboard #80993
+73208. fix: prevent crash on empty input #73208
