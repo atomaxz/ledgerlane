@@ -3369,3 +3369,4 @@
 78024. refactor: split large controller into smaller functions #78024
 58221. style: apply consistent indentation #58221
 36667. fix: fix broken CSS in mobile view #36667
+83150. fix: fix broken CSS in mobile view #83150
