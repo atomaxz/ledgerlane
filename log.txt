@@ -3370,3 +3370,4 @@
 58221. style: apply consistent indentation #58221
 36667. fix: fix broken CSS in mobile view #36667
 83150. fix: fix broken CSS in mobile view #83150
+60126. test: test user registration edge cases #60126
