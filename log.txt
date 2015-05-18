@@ -2363,3 +2363,4 @@
 71670. chore: add GitHub actions badge #71670
 34816. feat: add export to CSV option #34816
 95553. fix: fix broken CSS in mobile view #95553
+48823. refactor: organize models into subfolders #48823
