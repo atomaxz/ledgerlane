@@ -5348,3 +5348,4 @@
 13369. style: remove trailing whitespace #13369
 13423. fix: fix null pointer exception on login #13423
 99018. docs: update README with setup steps #99018
+71498. refactor: remove redundant code blocks #71498
