@@ -3372,3 +3372,4 @@
 83150. fix: fix broken CSS in mobile view #83150
 60126. test: test user registration edge cases #60126
 64783. feat: add export to CSV option #64783
+59382. feat: enable dark mode toggle #59382
