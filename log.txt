@@ -380,3 +380,4 @@
 52416. feat: enable dark mode toggle #52416
 58343. perf: cache repeated calculations #58343
 37064. refactor: split large controller into smaller functions #37064
+18040. feat: create admin dashboard #18040
