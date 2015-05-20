@@ -4397,3 +4397,4 @@
 12286. perf: reduce image load time #12286
 83025. perf: optimize database query for quiz results #83025
 35718. perf: cache repeated calculations #35718
+12203. fix: correct typo in registration form #12203
