@@ -2367,3 +2367,4 @@
 75429. style: standardize quote style #75429
 48619. test: add unit test for quiz service #48619
 84035. test: add integration test for /submit endpoint #84035
+6258. chore: add GitHub actions badge #6258
