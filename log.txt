@@ -1361,3 +1361,4 @@
 91045. fix: fix broken CSS in mobile view #91045
 11958. chore: bump dependencies #11958
 15254. docs: document token refresh logic #15254
+32480. style: remove trailing whitespace #32480
