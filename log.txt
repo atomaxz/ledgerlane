@@ -5351,3 +5351,4 @@
 71498. refactor: remove redundant code blocks #71498
 79351. chore: bump dependencies #79351
 14315. fix: handle 500 error in quiz API #14315
+67522. chore: bump dependencies #67522
