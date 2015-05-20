@@ -5350,3 +5350,4 @@
 99018. docs: update README with setup steps #99018
 71498. refactor: remove redundant code blocks #71498
 79351. chore: bump dependencies #79351
+14315. fix: handle 500 error in quiz API #14315
