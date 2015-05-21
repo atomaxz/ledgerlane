@@ -2368,3 +2368,4 @@
 48619. test: add unit test for quiz service #48619
 84035. test: add integration test for /submit endpoint #84035
 6258. chore: add GitHub actions badge #6258
+11676. chore: clean up unused files #11676
