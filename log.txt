@@ -386,3 +386,4 @@
 94320. style: remove trailing whitespace #94320
 52815. fix: fix null pointer exception on login #52815
 40401. style: apply consistent indentation #40401
+21502. refactor: split large controller into smaller functions #21502
