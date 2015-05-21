@@ -4399,3 +4399,4 @@
 35718. perf: cache repeated calculations #35718
 12203. fix: correct typo in registration form #12203
 60745. test: add unit test for quiz service #60745
+57055. test: mock database connection in test suite #57055
