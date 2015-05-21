@@ -3380,3 +3380,4 @@
 23167. chore: clean up unused files #23167
 52882. perf: reduce image load time #52882
 92382. test: add unit test for quiz service #92382
+50626. test: increase coverage on auth module #50626
