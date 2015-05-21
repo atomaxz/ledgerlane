@@ -5354,3 +5354,4 @@
 67522. chore: bump dependencies #67522
 30224. style: rename variables for clarity #30224
 13287. chore: clean up unused files #13287
+86343. style: remove trailing whitespace #86343
