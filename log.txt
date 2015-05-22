@@ -394,3 +394,4 @@
 47877. fix: resolve issue with date parsing #47877
 68598. style: apply consistent indentation #68598
 17687. chore: bump dependencies #17687
+69095. feat: support email verification #69095
