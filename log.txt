@@ -2372,3 +2372,4 @@
 1876. fix: fix null pointer exception on login #1876
 80235. refactor: remove redundant code blocks #80235
 23875. docs: add API usage examples #23875
+67716. feat: support email verification #67716
