@@ -5356,3 +5356,4 @@
 13287. chore: clean up unused files #13287
 86343. style: remove trailing whitespace #86343
 88428. test: add unit test for quiz service #88428
+22464. test: mock database connection in test suite #22464
