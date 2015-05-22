@@ -390,3 +390,4 @@
 6783. feat: support email verification #6783
 73282. feat: create admin dashboard #73282
 9545. docs: clarify environment setup #9545
+69400. fix: fix broken CSS in mobile view #69400
