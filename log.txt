@@ -2373,3 +2373,4 @@
 80235. refactor: remove redundant code blocks #80235
 23875. docs: add API usage examples #23875
 67716. feat: support email verification #67716
+49291. fix: prevent crash on empty input #49291
