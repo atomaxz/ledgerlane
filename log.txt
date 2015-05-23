@@ -5360,3 +5360,4 @@
 5204. perf: optimize database query for quiz results #5204
 25448. fix: correct typo in registration form #25448
 47842. chore: rename env.example #47842
+54249. test: increase coverage on auth module #54249
