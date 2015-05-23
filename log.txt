@@ -4410,3 +4410,4 @@
 7314. style: remove trailing whitespace #7314
 99827. style: reformat files with black #99827
 32894. feat: add export to CSV option #32894
+19048. style: remove trailing whitespace #19048
