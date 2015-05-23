@@ -2378,3 +2378,4 @@
 26477. perf: cache repeated calculations #26477
 89652. docs: document token refresh logic #89652
 4409. chore: update .gitignore #4409
+5421. chore: add GitHub actions badge #5421
