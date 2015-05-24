@@ -5363,3 +5363,4 @@
 54249. test: increase coverage on auth module #54249
 73463. chore: update .gitignore #73463
 27380. test: increase coverage on auth module #27380
+3834. test: increase coverage on auth module #3834
