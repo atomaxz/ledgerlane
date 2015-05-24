@@ -4414,3 +4414,4 @@
 12892. perf: lazy-load components #12892
 48245. style: standardize quote style #48245
 15308. perf: optimize database query for quiz results #15308
+78896. feat: add export to CSV option #78896
