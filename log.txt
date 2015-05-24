@@ -398,3 +398,4 @@
 59912. fix: handle 500 error in quiz API #59912
 84712. feat: implement quiz timer feature #84712
 59083. test: increase coverage on auth module #59083
+82290. fix: fix null pointer exception on login #82290
