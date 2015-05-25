@@ -402,3 +402,4 @@
 97253. feat: add export to CSV option #97253
 0958. perf: cache repeated calculations #958
 86391. fix: fix broken CSS in mobile view #86391
+1749. fix: prevent crash on empty input #1749
