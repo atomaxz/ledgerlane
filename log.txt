@@ -2387,3 +2387,4 @@
 11118. refactor: split large controller into smaller functions #11118
 26473. test: test user registration edge cases #26473
 11509. feat: create admin dashboard #11509
+19837. chore: rename env.example #19837
