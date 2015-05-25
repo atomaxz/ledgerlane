@@ -4417,3 +4417,4 @@
 78896. feat: add export to CSV option #78896
 75954. test: add integration test for /submit endpoint #75954
 65890. perf: lazy-load components #65890
+5732. test: test user registration edge cases #5732
