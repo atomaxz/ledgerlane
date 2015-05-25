@@ -1373,3 +1373,4 @@
 87280. perf: optimize database query for quiz results #87280
 7357. test: increase coverage on auth module #7357
 44279. refactor: split large controller into smaller functions #44279
+42192. chore: bump dependencies #42192
