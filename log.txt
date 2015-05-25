@@ -2385,3 +2385,4 @@
 34525. docs: improve code comments in utils #34525
 24283. style: standardize quote style #24283
 11118. refactor: split large controller into smaller functions #11118
+26473. test: test user registration edge cases #26473
