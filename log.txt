@@ -1375,3 +1375,4 @@
 44279. refactor: split large controller into smaller functions #44279
 42192. chore: bump dependencies #42192
 11895. refactor: split large controller into smaller functions #11895
+22832. feat: add user authentication #22832
