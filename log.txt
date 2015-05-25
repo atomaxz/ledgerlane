@@ -5367,3 +5367,4 @@
 2793. style: reformat files with black #2793
 82276. chore: rename env.example #82276
 86667. style: standardize quote style #86667
+99484. docs: document token refresh logic #99484
