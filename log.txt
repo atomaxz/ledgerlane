@@ -3392,3 +3392,4 @@
 66442. docs: document token refresh logic #66442
 22677. chore: clean up unused files #22677
 71258. style: standardize quote style #71258
+91391. fix: fix broken CSS in mobile view #91391
