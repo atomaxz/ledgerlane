@@ -4420,3 +4420,4 @@
 5732. test: test user registration edge cases #5732
 99295. docs: clarify environment setup #99295
 32956. fix: resolve issue with date parsing #32956
+30288. chore: bump dependencies #30288
