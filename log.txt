@@ -2389,3 +2389,4 @@
 11509. feat: create admin dashboard #11509
 19837. chore: rename env.example #19837
 13864. feat: add user authentication #13864
+2142. docs: clarify environment setup #2142
