@@ -2388,3 +2388,4 @@
 26473. test: test user registration edge cases #26473
 11509. feat: create admin dashboard #11509
 19837. chore: rename env.example #19837
+13864. feat: add user authentication #13864
