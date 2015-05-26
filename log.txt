@@ -403,3 +403,4 @@
 0958. perf: cache repeated calculations #958
 86391. fix: fix broken CSS in mobile view #86391
 1749. fix: prevent crash on empty input #1749
+16763. test: increase coverage on auth module #16763
