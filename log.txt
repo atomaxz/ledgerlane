@@ -3398,3 +3398,4 @@
 82191. feat: create admin dashboard #82191
 2962. chore: update .gitignore #2962
 71044. perf: lazy-load components #71044
+44118. fix: prevent crash on empty input #44118
