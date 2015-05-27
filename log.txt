@@ -1382,3 +1382,4 @@
 57053. chore: update .gitignore #57053
 92947. fix: fix null pointer exception on login #92947
 70424. style: rename variables for clarity #70424
+31423. feat: support email verification #31423
