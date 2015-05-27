@@ -3394,3 +3394,4 @@
 71258. style: standardize quote style #71258
 91391. fix: fix broken CSS in mobile view #91391
 37395. refactor: remove redundant code blocks #37395
+86367. perf: lazy-load components #86367
