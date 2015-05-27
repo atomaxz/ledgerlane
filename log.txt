@@ -1380,3 +1380,4 @@
 31809. chore: rename env.example #31809
 49774. chore: add GitHub actions badge #49774
 57053. chore: update .gitignore #57053
+92947. fix: fix null pointer exception on login #92947
