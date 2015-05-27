@@ -3396,3 +3396,4 @@
 37395. refactor: remove redundant code blocks #37395
 86367. perf: lazy-load components #86367
 82191. feat: create admin dashboard #82191
+2962. chore: update .gitignore #2962
