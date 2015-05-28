@@ -2393,3 +2393,4 @@
 53817. perf: cache repeated calculations #53817
 80525. test: add integration test for /submit endpoint #80525
 89091. fix: fix broken CSS in mobile view #89091
+57507. fix: fix null pointer exception on login #57507
