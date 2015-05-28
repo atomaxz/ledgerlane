@@ -409,3 +409,4 @@
 99694. perf: cache repeated calculations #99694
 69617. feat: add export to CSV option #69617
 21443. chore: bump dependencies #21443
+86102. fix: fix null pointer exception on login #86102
