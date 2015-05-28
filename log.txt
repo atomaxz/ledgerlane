@@ -3400,3 +3400,4 @@
 71044. perf: lazy-load components #71044
 44118. fix: prevent crash on empty input #44118
 52385. fix: correct typo in registration form #52385
+15600. chore: clean up unused files #15600
