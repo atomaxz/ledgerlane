@@ -1385,3 +1385,4 @@
 31423. feat: support email verification #31423
 13556. chore: bump dependencies #13556
 63502. fix: correct typo in registration form #63502
+4712. docs: clarify environment setup #4712
