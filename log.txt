@@ -2396,3 +2396,4 @@
 57507. fix: fix null pointer exception on login #57507
 36960. feat: support email verification #36960
 96309. test: add integration test for /submit endpoint #96309
+97506. chore: update .gitignore #97506
