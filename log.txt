@@ -3402,3 +3402,4 @@
 52385. fix: correct typo in registration form #52385
 15600. chore: clean up unused files #15600
 60676. test: increase coverage on auth module #60676
+50849. fix: fix broken CSS in mobile view #50849
