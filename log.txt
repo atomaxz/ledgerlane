@@ -3405,3 +3405,4 @@
 50849. fix: fix broken CSS in mobile view #50849
 61384. fix: correct typo in registration form #61384
 61859. perf: lazy-load components #61859
+3945. docs: write FAQ section #3945
