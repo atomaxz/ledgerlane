@@ -4434,3 +4434,4 @@
 84811. refactor: split large controller into smaller functions #84811
 68374. feat: add user authentication #68374
 29019. refactor: organize models into subfolders #29019
+69195. test: test user registration edge cases #69195
