@@ -2398,3 +2398,4 @@
 96309. test: add integration test for /submit endpoint #96309
 97506. chore: update .gitignore #97506
 72046. test: add unit test for quiz service #72046
+66874. fix: fix broken CSS in mobile view #66874
