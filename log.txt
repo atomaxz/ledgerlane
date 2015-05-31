@@ -1392,3 +1392,4 @@
 92006. style: reformat files with black #92006
 60823. docs: write FAQ section #60823
 47927. feat: add user authentication #47927
+44113. feat: support email verification #44113
