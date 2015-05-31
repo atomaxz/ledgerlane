@@ -1390,3 +1390,4 @@
 67121. test: test user registration edge cases #67121
 98468. docs: write FAQ section #98468
 92006. style: reformat files with black #92006
+60823. docs: write FAQ section #60823
