@@ -2401,3 +2401,4 @@
 66874. fix: fix broken CSS in mobile view #66874
 98835. test: add unit test for quiz service #98835
 36563. chore: add GitHub actions badge #36563
+85557. style: standardize quote style #85557
