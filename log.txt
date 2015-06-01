@@ -1399,3 +1399,4 @@
 60297. feat: support email verification #60297
 90669. refactor: organize models into subfolders #90669
 88531. chore: bump dependencies #88531
+29195. perf: optimize database query for quiz results #29195
