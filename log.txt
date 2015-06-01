@@ -1396,3 +1396,4 @@
 27104. test: mock database connection in test suite #27104
 48141. perf: optimize database query for quiz results #48141
 38526. fix: correct typo in registration form #38526
+60297. feat: support email verification #60297
