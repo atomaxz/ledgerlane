@@ -3410,3 +3410,4 @@
 33447. test: mock database connection in test suite #33447
 60595. style: apply consistent indentation #60595
 36842. refactor: organize models into subfolders #36842
+11956. fix: fix null pointer exception on login #11956
