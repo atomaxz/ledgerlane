@@ -1401,3 +1401,4 @@
 88531. chore: bump dependencies #88531
 29195. perf: optimize database query for quiz results #29195
 12074. test: increase coverage on auth module #12074
+57221. test: add integration test for /submit endpoint #57221
