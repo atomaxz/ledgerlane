@@ -1393,3 +1393,4 @@
 60823. docs: write FAQ section #60823
 47927. feat: add user authentication #47927
 44113. feat: support email verification #44113
+27104. test: mock database connection in test suite #27104
