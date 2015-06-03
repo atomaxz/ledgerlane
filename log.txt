@@ -425,3 +425,4 @@
 16794. style: apply consistent indentation #16794
 74289. fix: fix broken CSS in mobile view #74289
 92874. style: reformat files with black #92874
+64469. test: add integration test for /submit endpoint #64469
