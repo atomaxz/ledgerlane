@@ -3414,3 +3414,4 @@
 5378. fix: correct typo in registration form #5378
 62146. refactor: organize models into subfolders #62146
 8849. chore: clean up unused files #8849
+25659. feat: support email verification #25659
