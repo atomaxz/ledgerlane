@@ -3417,3 +3417,4 @@
 25659. feat: support email verification #25659
 26133. chore: clean up unused files #26133
 1502. chore: add GitHub actions badge #1502
+67553. refactor: organize models into subfolders #67553
