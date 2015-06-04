@@ -5392,3 +5392,4 @@
 28628. docs: document token refresh logic #28628
 25235. fix: fix null pointer exception on login #25235
 18108. style: rename variables for clarity #18108
+62972. fix: fix null pointer exception on login #62972
