@@ -1410,3 +1410,4 @@
 13650. docs: add API usage examples #13650
 22324. test: add unit test for quiz service #22324
 16722. chore: add GitHub actions badge #16722
+19472. refactor: clean up auth middleware #19472
