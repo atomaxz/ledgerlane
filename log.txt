@@ -4447,3 +4447,4 @@
 84694. test: add integration test for /submit endpoint #84694
 54509. perf: cache repeated calculations #54509
 80513. fix: resolve issue with date parsing #80513
+0668. perf: optimize database query for quiz results #668
