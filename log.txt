@@ -3420,3 +3420,4 @@
 67553. refactor: organize models into subfolders #67553
 44490. perf: lazy-load components #44490
 27653. chore: add GitHub actions badge #27653
+12032. feat: create admin dashboard #12032
