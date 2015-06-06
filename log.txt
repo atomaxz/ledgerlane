@@ -3422,3 +3422,4 @@
 27653. chore: add GitHub actions badge #27653
 12032. feat: create admin dashboard #12032
 80669. perf: cache repeated calculations #80669
+4342. perf: reduce image load time #4342
