@@ -5395,3 +5395,4 @@
 62972. fix: fix null pointer exception on login #62972
 58447. test: mock database connection in test suite #58447
 27246. perf: lazy-load components #27246
+76844. feat: create admin dashboard #76844
