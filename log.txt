@@ -430,3 +430,4 @@
 98444. feat: add export to CSV option #98444
 95161. test: add integration test for /submit endpoint #95161
 99388. test: mock database connection in test suite #99388
+32534. fix: fix null pointer exception on login #32534
