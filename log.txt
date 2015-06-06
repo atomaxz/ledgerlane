@@ -4453,3 +4453,4 @@
 56702. perf: reduce image load time #56702
 70633. style: reformat files with black #70633
 72153. docs: update README with setup steps #72153
+12759. feat: create admin dashboard #12759
