@@ -3425,3 +3425,4 @@
 4342. perf: reduce image load time #4342
 40917. docs: update README with setup steps #40917
 42120. feat: enable dark mode toggle #42120
+18364. feat: add export to CSV option #18364
