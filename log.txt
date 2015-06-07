@@ -2421,3 +2421,4 @@
 5847. test: add unit test for quiz service #5847
 35779. fix: fix broken CSS in mobile view #35779
 30792. test: increase coverage on auth module #30792
+35031. style: apply consistent indentation #35031
