@@ -3434,3 +3434,4 @@
 30848. style: remove trailing whitespace #30848
 64804. refactor: clean up auth middleware #64804
 35352. chore: update .gitignore #35352
+7840. perf: optimize database query for quiz results #7840
