@@ -3432,3 +3432,4 @@
 37895. chore: update .gitignore #37895
 39936. test: increase coverage on auth module #39936
 30848. style: remove trailing whitespace #30848
+64804. refactor: clean up auth middleware #64804
