@@ -3430,3 +3430,4 @@
 67039. feat: add export to CSV option #67039
 35354. perf: reduce image load time #35354
 37895. chore: update .gitignore #37895
+39936. test: increase coverage on auth module #39936
