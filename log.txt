@@ -437,3 +437,4 @@
 12206. refactor: remove redundant code blocks #12206
 40638. refactor: remove redundant code blocks #40638
 1486. style: reformat files with black #1486
+26250. perf: cache repeated calculations #26250
