@@ -5405,3 +5405,4 @@
 19819. feat: create admin dashboard #19819
 19154. fix: handle 500 error in quiz API #19154
 58780. chore: bump dependencies #58780
+60418. chore: clean up unused files #60418
