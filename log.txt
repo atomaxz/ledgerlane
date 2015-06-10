@@ -1416,3 +1416,4 @@
 86266. fix: prevent crash on empty input #86266
 14935. perf: cache repeated calculations #14935
 55984. test: add unit test for quiz service #55984
+3962. fix: correct typo in registration form #3962
