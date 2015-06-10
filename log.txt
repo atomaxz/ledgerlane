@@ -5409,3 +5409,4 @@
 68950. feat: add user authentication #68950
 71518. docs: improve code comments in utils #71518
 2402. test: test user registration edge cases #2402
+70872. test: test user registration edge cases #70872
