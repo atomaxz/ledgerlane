@@ -440,3 +440,4 @@
 26250. perf: cache repeated calculations #26250
 51714. fix: fix null pointer exception on login #51714
 66493. test: add unit test for quiz service #66493
+15420. test: test user registration edge cases #15420
