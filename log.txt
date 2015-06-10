@@ -5410,3 +5410,4 @@
 71518. docs: improve code comments in utils #71518
 2402. test: test user registration edge cases #2402
 70872. test: test user registration edge cases #70872
+64752. test: mock database connection in test suite #64752
