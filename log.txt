@@ -1418,3 +1418,4 @@
 55984. test: add unit test for quiz service #55984
 3962. fix: correct typo in registration form #3962
 98238. refactor: remove redundant code blocks #98238
+28472. feat: add user authentication #28472
