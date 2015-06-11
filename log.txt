@@ -3442,3 +3442,4 @@
 45394. style: rename variables for clarity #45394
 63885. style: remove trailing whitespace #63885
 71993. refactor: remove redundant code blocks #71993
+6840. fix: fix broken CSS in mobile view #6840
