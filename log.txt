@@ -1419,3 +1419,4 @@
 3962. fix: correct typo in registration form #3962
 98238. refactor: remove redundant code blocks #98238
 28472. feat: add user authentication #28472
+37526. style: reformat files with black #37526
