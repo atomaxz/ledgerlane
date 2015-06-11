@@ -442,3 +442,4 @@
 66493. test: add unit test for quiz service #66493
 15420. test: test user registration edge cases #15420
 54740. refactor: remove redundant code blocks #54740
+7742. refactor: split large controller into smaller functions #7742
