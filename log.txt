@@ -1421,3 +1421,4 @@
 28472. feat: add user authentication #28472
 37526. style: reformat files with black #37526
 0125. perf: reduce image load time #125
+6915. test: increase coverage on auth module #6915
