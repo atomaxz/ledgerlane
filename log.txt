@@ -4464,3 +4464,4 @@
 94121. fix: handle 500 error in quiz API #94121
 77546. fix: prevent crash on empty input #77546
 93748. feat: implement quiz timer feature #93748
+41021. test: add unit test for quiz service #41021
