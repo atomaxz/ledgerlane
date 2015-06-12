@@ -3444,3 +3444,4 @@
 71993. refactor: remove redundant code blocks #71993
 6840. fix: fix broken CSS in mobile view #6840
 38169. fix: handle 500 error in quiz API #38169
+43135. feat: support email verification #43135
