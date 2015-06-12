@@ -4462,3 +4462,4 @@
 79971. feat: enable dark mode toggle #79971
 14510. docs: write FAQ section #14510
 94121. fix: handle 500 error in quiz API #94121
+77546. fix: prevent crash on empty input #77546
