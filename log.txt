@@ -449,3 +449,4 @@
 0214. chore: rename env.example #214
 51962. style: apply consistent indentation #51962
 26241. fix: handle 500 error in quiz API #26241
+42241. fix: prevent crash on empty input #42241
