@@ -448,3 +448,4 @@
 49389. perf: cache repeated calculations #49389
 0214. chore: rename env.example #214
 51962. style: apply consistent indentation #51962
+26241. fix: handle 500 error in quiz API #26241
