@@ -5415,3 +5415,4 @@
 82846. refactor: split large controller into smaller functions #82846
 33149. style: apply consistent indentation #33149
 46175. chore: update .gitignore #46175
+52610. test: test user registration edge cases #52610
