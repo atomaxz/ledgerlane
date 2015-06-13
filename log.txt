@@ -2434,3 +2434,4 @@
 47763. fix: fix null pointer exception on login #47763
 94298. feat: implement quiz timer feature #94298
 74342. refactor: refactor quiz grading logic #74342
+19162. fix: prevent crash on empty input #19162
