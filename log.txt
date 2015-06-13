@@ -451,3 +451,4 @@
 26241. fix: handle 500 error in quiz API #26241
 42241. fix: prevent crash on empty input #42241
 15235. style: rename variables for clarity #15235
+80403. feat: add user authentication #80403
