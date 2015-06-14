@@ -1427,3 +1427,4 @@
 32158. test: add unit test for quiz service #32158
 93706. refactor: refactor quiz grading logic #93706
 63470. style: standardize quote style #63470
+36344. feat: enable dark mode toggle #36344
