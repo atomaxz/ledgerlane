@@ -5418,3 +5418,4 @@
 52610. test: test user registration edge cases #52610
 60459. style: remove trailing whitespace #60459
 18873. fix: resolve issue with date parsing #18873
+78008. perf: reduce image load time #78008
