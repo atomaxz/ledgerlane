@@ -1428,3 +1428,4 @@
 93706. refactor: refactor quiz grading logic #93706
 63470. style: standardize quote style #63470
 36344. feat: enable dark mode toggle #36344
+97527. test: add integration test for /submit endpoint #97527
