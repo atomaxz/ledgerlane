@@ -4471,3 +4471,4 @@
 3959. fix: correct typo in registration form #3959
 14829. perf: reduce image load time #14829
 79144. feat: add user authentication #79144
+42472. perf: lazy-load components #42472
