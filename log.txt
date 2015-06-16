@@ -4475,3 +4475,4 @@
 17427. fix: handle 500 error in quiz API #17427
 61247. docs: add API usage examples #61247
 73389. perf: cache repeated calculations #73389
+42794. feat: add export to CSV option #42794
