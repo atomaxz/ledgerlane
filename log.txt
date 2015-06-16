@@ -1431,3 +1431,4 @@
 97527. test: add integration test for /submit endpoint #97527
 17617. feat: implement quiz timer feature #17617
 43160. perf: reduce image load time #43160
+7018. refactor: clean up auth middleware #7018
