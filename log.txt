@@ -5422,3 +5422,4 @@
 91081. docs: document token refresh logic #91081
 53365. fix: prevent crash on empty input #53365
 85710. style: standardize quote style #85710
+74839. fix: correct typo in registration form #74839
