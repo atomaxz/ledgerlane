@@ -5423,3 +5423,4 @@
 53365. fix: prevent crash on empty input #53365
 85710. style: standardize quote style #85710
 74839. fix: correct typo in registration form #74839
+84746. test: add unit test for quiz service #84746
