@@ -3459,3 +3459,4 @@
 34864. feat: create admin dashboard #34864
 54297. feat: implement quiz timer feature #54297
 59142. test: increase coverage on auth module #59142
+21307. chore: update .gitignore #21307
