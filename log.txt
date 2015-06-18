@@ -3465,3 +3465,4 @@
 11013. style: remove trailing whitespace #11013
 14725. docs: clarify environment setup #14725
 31645. refactor: organize models into subfolders #31645
+3282. perf: lazy-load components #3282
