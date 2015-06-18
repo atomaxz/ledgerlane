@@ -3460,3 +3460,4 @@
 54297. feat: implement quiz timer feature #54297
 59142. test: increase coverage on auth module #59142
 21307. chore: update .gitignore #21307
+18496. fix: handle 500 error in quiz API #18496
