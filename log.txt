@@ -2457,3 +2457,4 @@
 44270. test: test user registration edge cases #44270
 64472. fix: fix null pointer exception on login #64472
 20031. test: mock database connection in test suite #20031
+25814. perf: optimize database query for quiz results #25814
