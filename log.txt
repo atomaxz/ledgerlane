@@ -5427,3 +5427,4 @@
 78321. refactor: split large controller into smaller functions #78321
 66267. chore: add GitHub actions badge #66267
 33787. fix: fix null pointer exception on login #33787
+81157. test: increase coverage on auth module #81157
