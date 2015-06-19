@@ -5428,3 +5428,4 @@
 66267. chore: add GitHub actions badge #66267
 33787. fix: fix null pointer exception on login #33787
 81157. test: increase coverage on auth module #81157
+81833. fix: correct typo in registration form #81833
