@@ -2454,3 +2454,4 @@
 60147. chore: clean up unused files #60147
 42795. feat: support email verification #42795
 16910. refactor: refactor quiz grading logic #16910
+44270. test: test user registration edge cases #44270
