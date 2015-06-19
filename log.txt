@@ -2455,3 +2455,4 @@
 42795. feat: support email verification #42795
 16910. refactor: refactor quiz grading logic #16910
 44270. test: test user registration edge cases #44270
+64472. fix: fix null pointer exception on login #64472
