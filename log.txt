@@ -1441,3 +1441,4 @@
 23669. chore: update .gitignore #23669
 46390. test: add integration test for /submit endpoint #46390
 52490. docs: add API usage examples #52490
+93878. perf: optimize database query for quiz results #93878
