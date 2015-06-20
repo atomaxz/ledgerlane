@@ -3475,3 +3475,4 @@
 45317. test: add unit test for quiz service #45317
 1957. test: add integration test for /submit endpoint #1957
 14204. docs: update README with setup steps #14204
+3082. fix: handle 500 error in quiz API #3082
