@@ -472,3 +472,4 @@
 95471. fix: resolve issue with date parsing #95471
 58447. test: mock database connection in test suite #58447
 28805. perf: cache repeated calculations #28805
+71765. test: increase coverage on auth module #71765
