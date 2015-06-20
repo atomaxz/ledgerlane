@@ -2465,3 +2465,4 @@
 32111. test: mock database connection in test suite #32111
 96354. fix: fix broken CSS in mobile view #96354
 25560. fix: fix null pointer exception on login #25560
+44791. fix: fix null pointer exception on login #44791
