@@ -1443,3 +1443,4 @@
 52490. docs: add API usage examples #52490
 93878. perf: optimize database query for quiz results #93878
 16832. chore: clean up unused files #16832
+47567. chore: add GitHub actions badge #47567
