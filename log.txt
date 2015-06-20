@@ -3471,3 +3471,4 @@
 63393. refactor: remove redundant code blocks #63393
 95871. docs: clarify environment setup #95871
 64416. chore: add GitHub actions badge #64416
+13380. fix: fix broken CSS in mobile view #13380
