@@ -4483,3 +4483,4 @@
 62994. style: rename variables for clarity #62994
 72420. test: increase coverage on auth module #72420
 64007. style: rename variables for clarity #64007
+71648. test: add integration test for /submit endpoint #71648
