@@ -2466,3 +2466,4 @@
 96354. fix: fix broken CSS in mobile view #96354
 25560. fix: fix null pointer exception on login #25560
 44791. fix: fix null pointer exception on login #44791
+24406. style: apply consistent indentation #24406
