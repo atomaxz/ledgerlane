@@ -3476,3 +3476,4 @@
 1957. test: add integration test for /submit endpoint #1957
 14204. docs: update README with setup steps #14204
 3082. fix: handle 500 error in quiz API #3082
+49092. fix: fix null pointer exception on login #49092
