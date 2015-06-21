@@ -473,3 +473,4 @@
 58447. test: mock database connection in test suite #58447
 28805. perf: cache repeated calculations #28805
 71765. test: increase coverage on auth module #71765
+17805. feat: add export to CSV option #17805
