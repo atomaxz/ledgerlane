@@ -2474,3 +2474,4 @@
 8735. refactor: refactor quiz grading logic #8735
 23777. perf: cache repeated calculations #23777
 9451. chore: bump dependencies #9451
+48123. fix: fix broken CSS in mobile view #48123
