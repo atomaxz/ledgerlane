@@ -4488,3 +4488,4 @@
 59502. test: add integration test for /submit endpoint #59502
 50692. feat: enable dark mode toggle #50692
 1382. docs: write FAQ section #1382
+13838. feat: enable dark mode toggle #13838
