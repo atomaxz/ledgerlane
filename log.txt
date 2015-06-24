@@ -2478,3 +2478,4 @@
 6349. docs: add API usage examples #6349
 18798. test: test user registration edge cases #18798
 89637. feat: support email verification #89637
+69907. test: mock database connection in test suite #69907
