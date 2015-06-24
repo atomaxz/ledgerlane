@@ -2477,3 +2477,4 @@
 48123. fix: fix broken CSS in mobile view #48123
 6349. docs: add API usage examples #6349
 18798. test: test user registration edge cases #18798
+89637. feat: support email verification #89637
