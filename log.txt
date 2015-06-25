@@ -2482,3 +2482,4 @@
 78708. feat: add export to CSV option #78708
 12949. docs: improve code comments in utils #12949
 27143. feat: implement quiz timer feature #27143
+4125. chore: bump dependencies #4125
