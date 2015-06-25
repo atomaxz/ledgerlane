@@ -4493,3 +4493,4 @@
 56190. fix: handle 500 error in quiz API #56190
 11806. docs: write FAQ section #11806
 0064. refactor: organize models into subfolders #64
+6471. docs: update README with setup steps #6471
