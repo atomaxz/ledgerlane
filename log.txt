@@ -5443,3 +5443,4 @@
 62076. chore: update .gitignore #62076
 29805. feat: create admin dashboard #29805
 25160. feat: enable dark mode toggle #25160
+18079. chore: bump dependencies #18079
