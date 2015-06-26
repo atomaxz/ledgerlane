@@ -5446,3 +5446,4 @@
 18079. chore: bump dependencies #18079
 6384. perf: cache repeated calculations #6384
 91953. perf: reduce image load time #91953
+41884. fix: prevent crash on empty input #41884
