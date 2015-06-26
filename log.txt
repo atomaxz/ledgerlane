@@ -1450,3 +1450,4 @@
 10999. test: test user registration edge cases #10999
 67733. docs: improve code comments in utils #67733
 73803. style: apply consistent indentation #73803
+6522. chore: update .gitignore #6522
