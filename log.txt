@@ -2487,3 +2487,4 @@
 36702. docs: improve code comments in utils #36702
 52440. refactor: organize models into subfolders #52440
 75139. refactor: clean up auth middleware #75139
+28948. style: remove trailing whitespace #28948
