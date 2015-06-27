@@ -1455,3 +1455,4 @@
 87602. feat: add user authentication #87602
 34397. feat: create admin dashboard #34397
 53367. refactor: organize models into subfolders #53367
+25028. docs: update README with setup steps #25028
