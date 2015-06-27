@@ -2489,3 +2489,4 @@
 75139. refactor: clean up auth middleware #75139
 28948. style: remove trailing whitespace #28948
 99129. perf: optimize database query for quiz results #99129
+60940. refactor: organize models into subfolders #60940
