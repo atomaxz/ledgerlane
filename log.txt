@@ -489,3 +489,4 @@
 2210. test: increase coverage on auth module #2210
 18308. feat: support email verification #18308
 96598. fix: prevent crash on empty input #96598
+42084. refactor: remove redundant code blocks #42084
