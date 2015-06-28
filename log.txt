@@ -5454,3 +5454,4 @@
 10702. docs: add API usage examples #10702
 63265. style: apply consistent indentation #63265
 44273. test: add integration test for /submit endpoint #44273
+3642. chore: add GitHub actions badge #3642
