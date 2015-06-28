@@ -488,3 +488,4 @@
 55951. refactor: refactor quiz grading logic #55951
 2210. test: increase coverage on auth module #2210
 18308. feat: support email verification #18308
+96598. fix: prevent crash on empty input #96598
