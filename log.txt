@@ -493,3 +493,4 @@
 41472. chore: bump dependencies #41472
 65514. docs: document token refresh logic #65514
 99172. docs: clarify environment setup #99172
+4796. feat: enable dark mode toggle #4796
