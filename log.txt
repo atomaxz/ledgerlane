@@ -4504,3 +4504,4 @@
 37110. test: add integration test for /submit endpoint #37110
 37477. feat: support email verification #37477
 57492. perf: optimize database query for quiz results #57492
+45349. test: test user registration edge cases #45349
