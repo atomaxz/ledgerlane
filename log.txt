@@ -2498,3 +2498,4 @@
 50998. style: apply consistent indentation #50998
 96569. style: remove trailing whitespace #96569
 74960. refactor: remove redundant code blocks #74960
+58965. chore: bump dependencies #58965
