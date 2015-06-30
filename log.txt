@@ -1462,3 +1462,4 @@
 8113. test: increase coverage on auth module #8113
 6716. refactor: organize models into subfolders #6716
 44349. chore: add GitHub actions badge #44349
+96667. chore: add GitHub actions badge #96667
