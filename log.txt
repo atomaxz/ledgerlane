@@ -4507,3 +4507,4 @@
 45349. test: test user registration edge cases #45349
 79345. perf: lazy-load components #79345
 93404. chore: update .gitignore #93404
+54666. fix: fix null pointer exception on login #54666
