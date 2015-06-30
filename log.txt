@@ -495,3 +495,4 @@
 99172. docs: clarify environment setup #99172
 4796. feat: enable dark mode toggle #4796
 76304. fix: fix broken CSS in mobile view #76304
+0568. fix: fix broken CSS in mobile view #568
