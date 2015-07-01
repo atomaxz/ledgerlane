@@ -1466,3 +1466,4 @@
 60760. style: standardize quote style #60760
 75472. docs: clarify environment setup #75472
 42983. feat: add export to CSV option #42983
+88855. perf: lazy-load components #88855
