@@ -498,3 +498,4 @@
 0568. fix: fix broken CSS in mobile view #568
 65177. refactor: clean up auth middleware #65177
 47164. perf: cache repeated calculations #47164
+1057. perf: reduce image load time #1057
