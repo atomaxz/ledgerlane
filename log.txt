@@ -5460,3 +5460,4 @@
 1455. feat: create admin dashboard #1455
 85007. docs: write FAQ section #85007
 66411. perf: cache repeated calculations #66411
+14431. docs: write FAQ section #14431
