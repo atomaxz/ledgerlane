@@ -2499,3 +2499,4 @@
 96569. style: remove trailing whitespace #96569
 74960. refactor: remove redundant code blocks #74960
 58965. chore: bump dependencies #58965
+7490. docs: document token refresh logic #7490
