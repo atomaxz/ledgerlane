@@ -1468,3 +1468,4 @@
 42983. feat: add export to CSV option #42983
 88855. perf: lazy-load components #88855
 46831. refactor: clean up auth middleware #46831
+99046. feat: enable dark mode toggle #99046
