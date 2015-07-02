@@ -502,3 +502,4 @@
 61233. perf: reduce image load time #61233
 10147. fix: fix null pointer exception on login #10147
 4130. test: mock database connection in test suite #4130
+90904. perf: optimize database query for quiz results #90904
