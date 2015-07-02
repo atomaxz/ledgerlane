@@ -500,3 +500,4 @@
 47164. perf: cache repeated calculations #47164
 1057. perf: reduce image load time #1057
 61233. perf: reduce image load time #61233
+10147. fix: fix null pointer exception on login #10147
