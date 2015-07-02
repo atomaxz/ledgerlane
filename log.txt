@@ -4510,3 +4510,4 @@
 54666. fix: fix null pointer exception on login #54666
 50042. feat: add export to CSV option #50042
 13106. feat: create admin dashboard #13106
+92586. feat: add user authentication #92586
