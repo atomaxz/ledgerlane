@@ -5465,3 +5465,4 @@
 50813. docs: update README with setup steps #50813
 34080. refactor: split large controller into smaller functions #34080
 26380. docs: update README with setup steps #26380
+66648. test: increase coverage on auth module #66648
