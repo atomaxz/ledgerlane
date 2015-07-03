@@ -2504,3 +2504,4 @@
 42373. test: add integration test for /submit endpoint #42373
 34317. docs: improve code comments in utils #34317
 28408. test: increase coverage on auth module #28408
+52197. feat: add user authentication #52197
