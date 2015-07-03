@@ -2506,3 +2506,4 @@
 28408. test: increase coverage on auth module #28408
 52197. feat: add user authentication #52197
 75319. style: apply consistent indentation #75319
+53732. refactor: clean up auth middleware #53732
