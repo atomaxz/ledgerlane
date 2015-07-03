@@ -504,3 +504,4 @@
 4130. test: mock database connection in test suite #4130
 90904. perf: optimize database query for quiz results #90904
 44053. test: test user registration edge cases #44053
+57725. feat: support email verification #57725
