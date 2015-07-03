@@ -4512,3 +4512,4 @@
 13106. feat: create admin dashboard #13106
 92586. feat: add user authentication #92586
 21109. chore: clean up unused files #21109
+23042. chore: update .gitignore #23042
