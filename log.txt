@@ -4516,3 +4516,4 @@
 27954. docs: improve code comments in utils #27954
 21990. docs: clarify environment setup #21990
 32781. chore: bump dependencies #32781
+97956. refactor: clean up auth middleware #97956
