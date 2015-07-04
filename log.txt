@@ -2512,3 +2512,4 @@
 23907. fix: fix null pointer exception on login #23907
 78373. chore: update .gitignore #78373
 33055. feat: support email verification #33055
+76284. perf: optimize database query for quiz results #76284
