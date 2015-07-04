@@ -4518,3 +4518,4 @@
 32781. chore: bump dependencies #32781
 97956. refactor: clean up auth middleware #97956
 69009. chore: add GitHub actions badge #69009
+38980. test: mock database connection in test suite #38980
