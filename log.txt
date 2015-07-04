@@ -2511,3 +2511,4 @@
 82725. refactor: refactor quiz grading logic #82725
 23907. fix: fix null pointer exception on login #23907
 78373. chore: update .gitignore #78373
+33055. feat: support email verification #33055
