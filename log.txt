@@ -2509,3 +2509,4 @@
 53732. refactor: clean up auth middleware #53732
 15326. refactor: refactor quiz grading logic #15326
 82725. refactor: refactor quiz grading logic #82725
+23907. fix: fix null pointer exception on login #23907
