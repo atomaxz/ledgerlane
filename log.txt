@@ -2510,3 +2510,4 @@
 15326. refactor: refactor quiz grading logic #15326
 82725. refactor: refactor quiz grading logic #82725
 23907. fix: fix null pointer exception on login #23907
+78373. chore: update .gitignore #78373
