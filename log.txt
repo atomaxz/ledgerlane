@@ -3513,3 +3513,4 @@
 11259. test: increase coverage on auth module #11259
 86981. perf: cache repeated calculations #86981
 42318. feat: add user authentication #42318
+72671. docs: document token refresh logic #72671
