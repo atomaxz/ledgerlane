@@ -1475,3 +1475,4 @@
 56584. feat: create admin dashboard #56584
 36840. chore: rename env.example #36840
 99026. fix: handle 500 error in quiz API #99026
+58059. perf: cache repeated calculations #58059
