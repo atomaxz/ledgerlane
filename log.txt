@@ -5468,3 +5468,4 @@
 66648. test: increase coverage on auth module #66648
 60848. refactor: refactor quiz grading logic #60848
 4830. test: increase coverage on auth module #4830
+6897. test: test user registration edge cases #6897
