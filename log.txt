@@ -3517,3 +3517,4 @@
 91268. chore: bump dependencies #91268
 43011. feat: create admin dashboard #43011
 76199. test: test user registration edge cases #76199
+61514. refactor: clean up auth middleware #61514
