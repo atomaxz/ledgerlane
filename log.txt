@@ -2516,3 +2516,4 @@
 80546. chore: clean up unused files #80546
 28330. docs: add API usage examples #28330
 5127. feat: support email verification #5127
+35055. perf: reduce image load time #35055
