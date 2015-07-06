@@ -509,3 +509,4 @@
 43511. feat: add export to CSV option #43511
 76705. style: apply consistent indentation #76705
 70249. chore: clean up unused files #70249
+37316. perf: cache repeated calculations #37316
