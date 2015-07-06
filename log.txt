@@ -1481,3 +1481,4 @@
 30976. chore: update .gitignore #30976
 27807. chore: rename env.example #27807
 12546. fix: resolve issue with date parsing #12546
+50184. fix: prevent crash on empty input #50184
