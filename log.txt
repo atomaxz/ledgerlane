@@ -1484,3 +1484,4 @@
 50184. fix: prevent crash on empty input #50184
 65048. docs: add API usage examples #65048
 57702. fix: resolve issue with date parsing #57702
+7592. chore: bump dependencies #7592
