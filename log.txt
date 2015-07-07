@@ -3524,3 +3524,4 @@
 39256. docs: improve code comments in utils #39256
 79563. refactor: refactor quiz grading logic #79563
 93733. refactor: refactor quiz grading logic #93733
+44850. fix: correct typo in registration form #44850
