@@ -2520,3 +2520,4 @@
 42943. perf: cache repeated calculations #42943
 38441. fix: correct typo in registration form #38441
 9464. style: rename variables for clarity #9464
+54420. chore: clean up unused files #54420
