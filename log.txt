@@ -513,3 +513,4 @@
 86631. chore: rename env.example #86631
 16433. perf: cache repeated calculations #16433
 13287. chore: clean up unused files #13287
+65846. docs: update README with setup steps #65846
