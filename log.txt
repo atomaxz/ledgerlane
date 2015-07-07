@@ -2518,3 +2518,4 @@
 5127. feat: support email verification #5127
 35055. perf: reduce image load time #35055
 42943. perf: cache repeated calculations #42943
+38441. fix: correct typo in registration form #38441
