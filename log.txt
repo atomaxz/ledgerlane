@@ -5475,3 +5475,4 @@
 30826. feat: support email verification #30826
 55512. chore: add GitHub actions badge #55512
 15436. chore: update .gitignore #15436
+82365. feat: support email verification #82365
