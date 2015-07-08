@@ -1485,3 +1485,4 @@
 65048. docs: add API usage examples #65048
 57702. fix: resolve issue with date parsing #57702
 7592. chore: bump dependencies #7592
+4606. docs: update README with setup steps #4606
