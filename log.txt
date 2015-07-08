@@ -5476,3 +5476,4 @@
 55512. chore: add GitHub actions badge #55512
 15436. chore: update .gitignore #15436
 82365. feat: support email verification #82365
+96247. refactor: remove redundant code blocks #96247
