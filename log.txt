@@ -517,3 +517,4 @@
 44224. feat: add export to CSV option #44224
 34184. docs: clarify environment setup #34184
 26658. perf: lazy-load components #26658
+34932. feat: enable dark mode toggle #34932
