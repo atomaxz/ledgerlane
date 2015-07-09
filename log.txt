@@ -1490,3 +1490,4 @@
 62455. perf: cache repeated calculations #62455
 21334. test: add integration test for /submit endpoint #21334
 55690. feat: support email verification #55690
+4440. feat: enable dark mode toggle #4440
