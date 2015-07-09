@@ -5481,3 +5481,4 @@
 78048. docs: improve code comments in utils #78048
 13286. chore: add GitHub actions badge #13286
 52746. feat: create admin dashboard #52746
+69904. perf: lazy-load components #69904
