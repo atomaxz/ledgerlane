@@ -1494,3 +1494,4 @@
 50828. perf: cache repeated calculations #50828
 70333. chore: update .gitignore #70333
 18348. fix: prevent crash on empty input #18348
+64494. perf: lazy-load components #64494
