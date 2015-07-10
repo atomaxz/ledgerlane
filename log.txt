@@ -1492,3 +1492,4 @@
 55690. feat: support email verification #55690
 4440. feat: enable dark mode toggle #4440
 50828. perf: cache repeated calculations #50828
+70333. chore: update .gitignore #70333
