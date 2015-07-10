@@ -519,3 +519,4 @@
 26658. perf: lazy-load components #26658
 34932. feat: enable dark mode toggle #34932
 64739. feat: implement quiz timer feature #64739
+1356. fix: handle 500 error in quiz API #1356
