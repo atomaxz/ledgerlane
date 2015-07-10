@@ -5483,3 +5483,4 @@
 52746. feat: create admin dashboard #52746
 69904. perf: lazy-load components #69904
 85847. fix: correct typo in registration form #85847
+95672. docs: document token refresh logic #95672
