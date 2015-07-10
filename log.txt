@@ -1497,3 +1497,4 @@
 64494. perf: lazy-load components #64494
 42131. test: add unit test for quiz service #42131
 60981. test: increase coverage on auth module #60981
+86376. style: reformat files with black #86376
