@@ -2525,3 +2525,4 @@
 54635. chore: clean up unused files #54635
 49450. feat: add user authentication #49450
 68171. docs: write FAQ section #68171
+83302. fix: fix null pointer exception on login #83302
