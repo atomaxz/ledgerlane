@@ -5482,3 +5482,4 @@
 13286. chore: add GitHub actions badge #13286
 52746. feat: create admin dashboard #52746
 69904. perf: lazy-load components #69904
+85847. fix: correct typo in registration form #85847
