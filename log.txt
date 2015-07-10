@@ -3531,3 +3531,4 @@
 52116. feat: enable dark mode toggle #52116
 87457. test: test user registration edge cases #87457
 57244. test: test user registration edge cases #57244
+92849. style: apply consistent indentation #92849
