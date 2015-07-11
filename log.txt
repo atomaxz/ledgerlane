@@ -1499,3 +1499,4 @@
 60981. test: increase coverage on auth module #60981
 86376. style: reformat files with black #86376
 27789. chore: clean up unused files #27789
+67901. perf: optimize database query for quiz results #67901
