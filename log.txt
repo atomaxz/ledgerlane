@@ -2532,3 +2532,4 @@
 93555. chore: clean up unused files #93555
 67681. style: rename variables for clarity #67681
 32450. docs: improve code comments in utils #32450
+78199. docs: write FAQ section #78199
