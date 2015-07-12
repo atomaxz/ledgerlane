@@ -1505,3 +1505,4 @@
 1437. chore: rename env.example #1437
 67049. style: remove trailing whitespace #67049
 32760. feat: add user authentication #32760
+10964. style: remove trailing whitespace #10964
