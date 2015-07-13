@@ -5488,3 +5488,4 @@
 18447. feat: create admin dashboard #18447
 39602. style: reformat files with black #39602
 73562. docs: write FAQ section #73562
+64740. test: increase coverage on auth module #64740
