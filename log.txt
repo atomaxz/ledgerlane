@@ -5487,3 +5487,4 @@
 44583. style: standardize quote style #44583
 18447. feat: create admin dashboard #18447
 39602. style: reformat files with black #39602
+73562. docs: write FAQ section #73562
