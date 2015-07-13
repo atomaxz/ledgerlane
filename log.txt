@@ -529,3 +529,4 @@
 72126. docs: write FAQ section #72126
 59814. refactor: clean up auth middleware #59814
 85326. test: add unit test for quiz service #85326
+94177. fix: resolve issue with date parsing #94177
