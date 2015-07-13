@@ -4537,3 +4537,4 @@
 34691. refactor: organize models into subfolders #34691
 14161. style: apply consistent indentation #14161
 37886. feat: support email verification #37886
+91178. style: reformat files with black #91178
