@@ -526,3 +526,4 @@
 64665. perf: optimize database query for quiz results #64665
 81881. refactor: organize models into subfolders #81881
 42281. refactor: remove redundant code blocks #42281
+72126. docs: write FAQ section #72126
