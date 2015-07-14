@@ -5491,3 +5491,4 @@
 64740. test: increase coverage on auth module #64740
 48722. test: add integration test for /submit endpoint #48722
 70742. refactor: remove redundant code blocks #70742
+47518. style: remove trailing whitespace #47518
