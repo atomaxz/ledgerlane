@@ -2541,3 +2541,4 @@
 8464. docs: document token refresh logic #8464
 58086. refactor: organize models into subfolders #58086
 5314. chore: rename env.example #5314
+25456. perf: cache repeated calculations #25456
