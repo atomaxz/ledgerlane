@@ -3542,3 +3542,4 @@
 62485. test: add unit test for quiz service #62485
 85818. test: mock database connection in test suite #85818
 28375. chore: rename env.example #28375
+99991. style: reformat files with black #99991
