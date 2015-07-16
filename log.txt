@@ -5498,3 +5498,4 @@
 2085. style: remove trailing whitespace #2085
 96086. style: apply consistent indentation #96086
 70252. chore: bump dependencies #70252
+5257. perf: cache repeated calculations #5257
