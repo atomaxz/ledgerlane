@@ -5497,3 +5497,4 @@
 80152. refactor: clean up auth middleware #80152
 2085. style: remove trailing whitespace #2085
 96086. style: apply consistent indentation #96086
+70252. chore: bump dependencies #70252
