@@ -3544,3 +3544,4 @@
 28375. chore: rename env.example #28375
 99991. style: reformat files with black #99991
 40697. test: test user registration edge cases #40697
+73629. docs: write FAQ section #73629
