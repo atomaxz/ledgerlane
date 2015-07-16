@@ -2545,3 +2545,4 @@
 5257. perf: cache repeated calculations #5257
 30678. refactor: refactor quiz grading logic #30678
 46059. feat: enable dark mode toggle #46059
+30711. fix: handle 500 error in quiz API #30711
