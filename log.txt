@@ -3547,3 +3547,4 @@
 73629. docs: write FAQ section #73629
 95186. refactor: split large controller into smaller functions #95186
 37908. test: test user registration edge cases #37908
+1282. style: standardize quote style #1282
