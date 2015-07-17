@@ -5502,3 +5502,4 @@
 78611. docs: document token refresh logic #78611
 19457. docs: update README with setup steps #19457
 53385. docs: write FAQ section #53385
+81998. test: test user registration edge cases #81998
