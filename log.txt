@@ -1519,3 +1519,4 @@
 70777. style: apply consistent indentation #70777
 91915. test: mock database connection in test suite #91915
 63116. feat: implement quiz timer feature #63116
+96239. fix: prevent crash on empty input #96239
