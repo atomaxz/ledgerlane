@@ -5503,3 +5503,4 @@
 19457. docs: update README with setup steps #19457
 53385. docs: write FAQ section #53385
 81998. test: test user registration edge cases #81998
+74169. fix: handle 500 error in quiz API #74169
