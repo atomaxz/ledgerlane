@@ -5508,3 +5508,4 @@
 70785. docs: improve code comments in utils #70785
 18788. docs: add API usage examples #18788
 61738. test: increase coverage on auth module #61738
+58020. feat: add user authentication #58020
