@@ -538,3 +538,4 @@
 82112. feat: enable dark mode toggle #82112
 4594. feat: implement quiz timer feature #4594
 35071. docs: improve code comments in utils #35071
+71892. perf: reduce image load time #71892
