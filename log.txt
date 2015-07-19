@@ -4552,3 +4552,4 @@
 23988. perf: reduce image load time #23988
 5867. style: standardize quote style #5867
 12057. docs: improve code comments in utils #12057
+81885. docs: write FAQ section #81885
