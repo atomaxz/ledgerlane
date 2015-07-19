@@ -5507,3 +5507,4 @@
 26151. test: add unit test for quiz service #26151
 70785. docs: improve code comments in utils #70785
 18788. docs: add API usage examples #18788
+61738. test: increase coverage on auth module #61738
