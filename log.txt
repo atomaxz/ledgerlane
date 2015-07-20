@@ -2553,3 +2553,4 @@
 73741. fix: prevent crash on empty input #73741
 27855. style: remove trailing whitespace #27855
 32969. refactor: split large controller into smaller functions #32969
+24354. fix: correct typo in registration form #24354
