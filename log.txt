@@ -3556,3 +3556,4 @@
 36879. docs: add API usage examples #36879
 52578. refactor: remove redundant code blocks #52578
 80183. docs: document token refresh logic #80183
+87433. docs: update README with setup steps #87433
