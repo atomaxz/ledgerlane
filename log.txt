@@ -551,3 +551,4 @@
 95268. style: rename variables for clarity #95268
 50375. test: test user registration edge cases #50375
 81156. docs: clarify environment setup #81156
+65310. docs: update README with setup steps #65310
