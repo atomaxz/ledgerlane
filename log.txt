@@ -549,3 +549,4 @@
 2847. docs: update README with setup steps #2847
 89073. style: rename variables for clarity #89073
 95268. style: rename variables for clarity #95268
+50375. test: test user registration edge cases #50375
