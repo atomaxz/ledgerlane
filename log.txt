@@ -1524,3 +1524,4 @@
 85336. docs: update README with setup steps #85336
 81648. chore: clean up unused files #81648
 42926. refactor: organize models into subfolders #42926
+69852. test: increase coverage on auth module #69852
