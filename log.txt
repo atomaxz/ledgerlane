@@ -4557,3 +4557,4 @@
 72216. feat: add user authentication #72216
 76672. perf: optimize database query for quiz results #76672
 97662. feat: enable dark mode toggle #97662
+90587. fix: correct typo in registration form #90587
