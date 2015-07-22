@@ -1527,3 +1527,4 @@
 69852. test: increase coverage on auth module #69852
 17981. refactor: organize models into subfolders #17981
 14938. chore: rename env.example #14938
+41767. feat: support email verification #41767
