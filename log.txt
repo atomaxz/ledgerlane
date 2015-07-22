@@ -3560,3 +3560,4 @@
 17778. refactor: organize models into subfolders #17778
 15608. chore: update .gitignore #15608
 90351. docs: improve code comments in utils #90351
+36961. feat: enable dark mode toggle #36961
