@@ -3563,3 +3563,4 @@
 36961. feat: enable dark mode toggle #36961
 73239. chore: clean up unused files #73239
 41975. docs: clarify environment setup #41975
+53749. perf: optimize database query for quiz results #53749
