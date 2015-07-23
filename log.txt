@@ -557,3 +557,4 @@
 52604. feat: create admin dashboard #52604
 26852. style: apply consistent indentation #26852
 82655. chore: rename env.example #82655
+43275. docs: write FAQ section #43275
