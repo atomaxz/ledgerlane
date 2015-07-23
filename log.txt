@@ -1529,3 +1529,4 @@
 14938. chore: rename env.example #14938
 41767. feat: support email verification #41767
 96508. refactor: refactor quiz grading logic #96508
+75936. docs: clarify environment setup #75936
