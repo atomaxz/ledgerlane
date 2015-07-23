@@ -4560,3 +4560,4 @@
 90587. fix: correct typo in registration form #90587
 97409. docs: document token refresh logic #97409
 12746. fix: resolve issue with date parsing #12746
+57278. feat: enable dark mode toggle #57278
