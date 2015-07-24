@@ -558,3 +558,4 @@
 26852. style: apply consistent indentation #26852
 82655. chore: rename env.example #82655
 43275. docs: write FAQ section #43275
+26745. docs: clarify environment setup #26745
