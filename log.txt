@@ -4567,3 +4567,4 @@
 8026. feat: add export to CSV option #8026
 75383. docs: document token refresh logic #75383
 67477. chore: add GitHub actions badge #67477
+28001. feat: add user authentication #28001
