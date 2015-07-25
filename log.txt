@@ -1538,3 +1538,4 @@
 91213. refactor: refactor quiz grading logic #91213
 37289. perf: cache repeated calculations #37289
 73408. chore: clean up unused files #73408
+54688. fix: fix broken CSS in mobile view #54688
