@@ -4566,3 +4566,4 @@
 23816. refactor: refactor quiz grading logic #23816
 8026. feat: add export to CSV option #8026
 75383. docs: document token refresh logic #75383
+67477. chore: add GitHub actions badge #67477
