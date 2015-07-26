@@ -563,3 +563,4 @@
 80283. docs: improve code comments in utils #80283
 22145. style: reformat files with black #22145
 5184. docs: write FAQ section #5184
+57821. fix: fix null pointer exception on login #57821
