@@ -5522,3 +5522,4 @@
 7133. feat: implement quiz timer feature #7133
 98985. feat: add export to CSV option #98985
 95366. docs: write FAQ section #95366
+16267. fix: correct typo in registration form #16267
