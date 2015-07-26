@@ -564,3 +564,4 @@
 22145. style: reformat files with black #22145
 5184. docs: write FAQ section #5184
 57821. fix: fix null pointer exception on login #57821
+39171. fix: prevent crash on empty input #39171
