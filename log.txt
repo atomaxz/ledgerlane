@@ -1541,3 +1541,4 @@
 54688. fix: fix broken CSS in mobile view #54688
 26662. feat: create admin dashboard #26662
 51330. chore: bump dependencies #51330
+1620. refactor: clean up auth middleware #1620
