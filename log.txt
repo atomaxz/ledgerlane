@@ -1540,3 +1540,4 @@
 73408. chore: clean up unused files #73408
 54688. fix: fix broken CSS in mobile view #54688
 26662. feat: create admin dashboard #26662
+51330. chore: bump dependencies #51330
