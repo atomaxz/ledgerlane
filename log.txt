@@ -4570,3 +4570,4 @@
 28001. feat: add user authentication #28001
 18709. chore: update .gitignore #18709
 27566. style: apply consistent indentation #27566
+82682. test: add integration test for /submit endpoint #82682
