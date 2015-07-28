@@ -3572,3 +3572,4 @@
 75673. refactor: organize models into subfolders #75673
 85659. refactor: organize models into subfolders #85659
 92728. perf: optimize database query for quiz results #92728
+73677. docs: write FAQ section #73677
