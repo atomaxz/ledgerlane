@@ -4576,3 +4576,4 @@
 48370. chore: add GitHub actions badge #48370
 73884. docs: improve code comments in utils #73884
 7893. style: standardize quote style #7893
+27902. fix: prevent crash on empty input #27902
