@@ -1551,3 +1551,4 @@
 58022. docs: add API usage examples #58022
 23021. refactor: organize models into subfolders #23021
 27323. perf: cache repeated calculations #27323
+29656. fix: handle 500 error in quiz API #29656
