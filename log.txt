@@ -574,3 +574,4 @@
 55955. feat: add export to CSV option #55955
 94227. fix: fix null pointer exception on login #94227
 1372. fix: handle 500 error in quiz API #1372
+66317. fix: handle 500 error in quiz API #66317
