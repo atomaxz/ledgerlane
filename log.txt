@@ -5533,3 +5533,4 @@
 3146. test: add unit test for quiz service #3146
 17848. docs: document token refresh logic #17848
 17519. fix: handle 500 error in quiz API #17519
+19708. perf: lazy-load components #19708
