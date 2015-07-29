@@ -2578,3 +2578,4 @@
 3661. test: add integration test for /submit endpoint #3661
 90687. fix: fix null pointer exception on login #90687
 87532. feat: enable dark mode toggle #87532
+87606. style: apply consistent indentation #87606
