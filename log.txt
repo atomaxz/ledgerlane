@@ -2579,3 +2579,4 @@
 90687. fix: fix null pointer exception on login #90687
 87532. feat: enable dark mode toggle #87532
 87606. style: apply consistent indentation #87606
+9732. fix: prevent crash on empty input #9732
