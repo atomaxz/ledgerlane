@@ -1553,3 +1553,4 @@
 27323. perf: cache repeated calculations #27323
 29656. fix: handle 500 error in quiz API #29656
 10359. perf: optimize database query for quiz results #10359
+79190. refactor: refactor quiz grading logic #79190
