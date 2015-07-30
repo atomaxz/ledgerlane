@@ -5534,3 +5534,4 @@
 17848. docs: document token refresh logic #17848
 17519. fix: handle 500 error in quiz API #17519
 19708. perf: lazy-load components #19708
+46797. style: apply consistent indentation #46797
