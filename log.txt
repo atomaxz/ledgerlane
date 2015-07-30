@@ -3582,3 +3582,4 @@
 86784. fix: fix broken CSS in mobile view #86784
 78458. feat: add export to CSV option #78458
 43149. chore: update .gitignore #43149
+51717. docs: document token refresh logic #51717
