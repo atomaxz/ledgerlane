@@ -4581,3 +4581,4 @@
 96543. test: increase coverage on auth module #96543
 63704. feat: support email verification #63704
 99277. feat: support email verification #99277
+89550. test: add unit test for quiz service #89550
