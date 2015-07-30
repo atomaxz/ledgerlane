@@ -3583,3 +3583,4 @@
 78458. feat: add export to CSV option #78458
 43149. chore: update .gitignore #43149
 51717. docs: document token refresh logic #51717
+21842. fix: correct typo in registration form #21842
