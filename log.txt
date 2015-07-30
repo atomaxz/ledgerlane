@@ -4580,3 +4580,4 @@
 86807. refactor: organize models into subfolders #86807
 96543. test: increase coverage on auth module #96543
 63704. feat: support email verification #63704
+99277. feat: support email verification #99277
