@@ -577,3 +577,4 @@
 66317. fix: handle 500 error in quiz API #66317
 16354. feat: add user authentication #16354
 83597. test: test user registration edge cases #83597
+25650. style: standardize quote style #25650
