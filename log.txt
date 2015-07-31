@@ -579,3 +579,4 @@
 83597. test: test user registration edge cases #83597
 25650. style: standardize quote style #25650
 9208. docs: improve code comments in utils #9208
+16598. fix: handle 500 error in quiz API #16598
