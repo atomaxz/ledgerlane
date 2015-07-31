@@ -4586,3 +4586,4 @@
 41345. docs: write FAQ section #41345
 95831. test: test user registration edge cases #95831
 14950. fix: fix broken CSS in mobile view #14950
+0160. docs: update README with setup steps #160
