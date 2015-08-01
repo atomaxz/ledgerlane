@@ -5544,3 +5544,4 @@
 14953. feat: implement quiz timer feature #14953
 98594. test: add integration test for /submit endpoint #98594
 43333. docs: update README with setup steps #43333
+16700. test: mock database connection in test suite #16700
