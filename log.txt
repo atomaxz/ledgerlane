@@ -1559,3 +1559,4 @@
 19857. chore: clean up unused files #19857
 32391. feat: add export to CSV option #32391
 56421. chore: add GitHub actions badge #56421
+63658. fix: handle 500 error in quiz API #63658
