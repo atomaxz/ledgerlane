@@ -5548,3 +5548,4 @@
 42016. refactor: organize models into subfolders #42016
 57405. style: rename variables for clarity #57405
 93549. style: rename variables for clarity #93549
+10969. perf: lazy-load components #10969
