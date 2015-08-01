@@ -584,3 +584,4 @@
 71167. refactor: organize models into subfolders #71167
 43541. perf: reduce image load time #43541
 34108. docs: add API usage examples #34108
+57787. feat: enable dark mode toggle #57787
