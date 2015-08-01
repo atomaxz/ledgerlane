@@ -5549,3 +5549,4 @@
 57405. style: rename variables for clarity #57405
 93549. style: rename variables for clarity #93549
 10969. perf: lazy-load components #10969
+42316. fix: fix null pointer exception on login #42316
