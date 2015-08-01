@@ -582,3 +582,4 @@
 16598. fix: handle 500 error in quiz API #16598
 40579. style: standardize quote style #40579
 71167. refactor: organize models into subfolders #71167
+43541. perf: reduce image load time #43541
