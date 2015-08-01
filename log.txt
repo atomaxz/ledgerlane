@@ -1558,3 +1558,4 @@
 79803. refactor: organize models into subfolders #79803
 19857. chore: clean up unused files #19857
 32391. feat: add export to CSV option #32391
+56421. chore: add GitHub actions badge #56421
