@@ -1567,3 +1567,4 @@
 68128. test: mock database connection in test suite #68128
 35499. docs: clarify environment setup #35499
 5014. test: add integration test for /submit endpoint #5014
+94140. fix: fix null pointer exception on login #94140
