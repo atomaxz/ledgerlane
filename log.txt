@@ -587,3 +587,4 @@
 57787. feat: enable dark mode toggle #57787
 21595. test: add integration test for /submit endpoint #21595
 37878. style: reformat files with black #37878
+54605. docs: write FAQ section #54605
