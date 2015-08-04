@@ -2589,3 +2589,4 @@
 89114. docs: update README with setup steps #89114
 78039. style: standardize quote style #78039
 99150. docs: write FAQ section #99150
+39183. style: remove trailing whitespace #39183
