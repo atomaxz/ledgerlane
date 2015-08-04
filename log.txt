@@ -4595,3 +4595,4 @@
 90414. feat: support email verification #90414
 53726. refactor: refactor quiz grading logic #53726
 50818. perf: reduce image load time #50818
+78030. style: standardize quote style #78030
