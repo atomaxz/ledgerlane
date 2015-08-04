@@ -2594,3 +2594,4 @@
 63065. style: apply consistent indentation #63065
 87036. fix: fix broken CSS in mobile view #87036
 73346. test: mock database connection in test suite #73346
+67113. style: apply consistent indentation #67113
