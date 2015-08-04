@@ -2593,3 +2593,4 @@
 54895. style: standardize quote style #54895
 63065. style: apply consistent indentation #63065
 87036. fix: fix broken CSS in mobile view #87036
+73346. test: mock database connection in test suite #73346
