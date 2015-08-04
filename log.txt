@@ -5557,3 +5557,4 @@
 75859. feat: support email verification #75859
 89753. perf: reduce image load time #89753
 80589. test: add unit test for quiz service #80589
+4990. feat: enable dark mode toggle #4990
