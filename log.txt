@@ -2597,3 +2597,4 @@
 67113. style: apply consistent indentation #67113
 14270. refactor: clean up auth middleware #14270
 10869. perf: reduce image load time #10869
+49936. fix: prevent crash on empty input #49936
