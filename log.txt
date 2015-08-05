@@ -592,3 +592,4 @@
 88789. perf: lazy-load components #88789
 80275. test: increase coverage on auth module #80275
 66777. test: test user registration edge cases #66777
+47075. fix: fix null pointer exception on login #47075
