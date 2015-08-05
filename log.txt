@@ -5562,3 +5562,4 @@
 15319. feat: create admin dashboard #15319
 76135. style: apply consistent indentation #76135
 91915. test: mock database connection in test suite #91915
+41971. docs: document token refresh logic #41971
