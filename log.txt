@@ -590,3 +590,4 @@
 54605. docs: write FAQ section #54605
 79438. test: test user registration edge cases #79438
 88789. perf: lazy-load components #88789
+80275. test: increase coverage on auth module #80275
