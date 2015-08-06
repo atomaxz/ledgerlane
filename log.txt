@@ -3599,3 +3599,4 @@
 83205. chore: rename env.example #83205
 98025. refactor: refactor quiz grading logic #98025
 82445. refactor: clean up auth middleware #82445
+40447. fix: prevent crash on empty input #40447
