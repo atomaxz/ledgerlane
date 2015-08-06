@@ -1580,3 +1580,4 @@
 93454. feat: enable dark mode toggle #93454
 36825. refactor: refactor quiz grading logic #36825
 63864. feat: create admin dashboard #63864
+9799. fix: correct typo in registration form #9799
