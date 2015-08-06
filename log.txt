@@ -3598,3 +3598,4 @@
 8269. test: mock database connection in test suite #8269
 83205. chore: rename env.example #83205
 98025. refactor: refactor quiz grading logic #98025
+82445. refactor: clean up auth middleware #82445
