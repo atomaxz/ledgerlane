@@ -596,3 +596,4 @@
 44552. style: remove trailing whitespace #44552
 63665. fix: correct typo in registration form #63665
 12258. style: apply consistent indentation #12258
+44276. chore: rename env.example #44276
