@@ -1582,3 +1582,4 @@
 63864. feat: create admin dashboard #63864
 9799. fix: correct typo in registration form #9799
 42666. docs: add API usage examples #42666
+17519. fix: handle 500 error in quiz API #17519
