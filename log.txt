@@ -4603,3 +4603,4 @@
 14507. refactor: remove redundant code blocks #14507
 40086. style: remove trailing whitespace #40086
 80557. refactor: organize models into subfolders #80557
+48254. perf: lazy-load components #48254
