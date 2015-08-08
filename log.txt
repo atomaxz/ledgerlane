@@ -599,3 +599,4 @@
 44276. chore: rename env.example #44276
 83772. style: reformat files with black #83772
 40987. chore: clean up unused files #40987
+5609. test: mock database connection in test suite #5609
