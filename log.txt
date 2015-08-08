@@ -3605,3 +3605,4 @@
 34882. fix: resolve issue with date parsing #34882
 46741. refactor: refactor quiz grading logic #46741
 31086. refactor: split large controller into smaller functions #31086
+11783. chore: add GitHub actions badge #11783
