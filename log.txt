@@ -3603,3 +3603,4 @@
 72985. docs: add API usage examples #72985
 75531. fix: fix null pointer exception on login #75531
 34882. fix: resolve issue with date parsing #34882
+46741. refactor: refactor quiz grading logic #46741
