@@ -597,3 +597,4 @@
 63665. fix: correct typo in registration form #63665
 12258. style: apply consistent indentation #12258
 44276. chore: rename env.example #44276
+83772. style: reformat files with black #83772
