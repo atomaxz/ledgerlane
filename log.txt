@@ -2612,3 +2612,4 @@
 37545. perf: optimize database query for quiz results #37545
 94507. fix: correct typo in registration form #94507
 75142. style: reformat files with black #75142
+94582. test: add unit test for quiz service #94582
