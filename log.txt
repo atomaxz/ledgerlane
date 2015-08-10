@@ -3609,3 +3609,4 @@
 9927. refactor: split large controller into smaller functions #9927
 29875. perf: cache repeated calculations #29875
 43569. test: add integration test for /submit endpoint #43569
+41074. fix: fix broken CSS in mobile view #41074
