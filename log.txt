@@ -606,3 +606,4 @@
 72785. fix: handle 500 error in quiz API #72785
 14179. test: add integration test for /submit endpoint #14179
 83421. docs: document token refresh logic #83421
+94664. chore: bump dependencies #94664
