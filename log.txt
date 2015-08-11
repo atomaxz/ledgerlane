@@ -1590,3 +1590,4 @@
 20980. feat: implement quiz timer feature #20980
 25842. feat: add export to CSV option #25842
 12888. perf: optimize database query for quiz results #12888
+64975. perf: cache repeated calculations #64975
