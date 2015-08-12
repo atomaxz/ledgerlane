@@ -3613,3 +3613,4 @@
 67229. refactor: clean up auth middleware #67229
 62930. fix: fix null pointer exception on login #62930
 84830. perf: reduce image load time #84830
+28091. chore: add GitHub actions badge #28091
