@@ -2615,3 +2615,4 @@
 94582. test: add unit test for quiz service #94582
 79900. style: apply consistent indentation #79900
 95014. test: mock database connection in test suite #95014
+50927. feat: add user authentication #50927
