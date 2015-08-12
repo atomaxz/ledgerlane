@@ -2617,3 +2617,4 @@
 95014. test: mock database connection in test suite #95014
 50927. feat: add user authentication #50927
 22097. fix: fix broken CSS in mobile view #22097
+54371. refactor: clean up auth middleware #54371
