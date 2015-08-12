@@ -1592,3 +1592,4 @@
 12888. perf: optimize database query for quiz results #12888
 64975. perf: cache repeated calculations #64975
 98971. style: rename variables for clarity #98971
+48828. perf: lazy-load components #48828
