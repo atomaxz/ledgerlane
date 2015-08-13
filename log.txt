@@ -2618,3 +2618,4 @@
 50927. feat: add user authentication #50927
 22097. fix: fix broken CSS in mobile view #22097
 54371. refactor: clean up auth middleware #54371
+38031. docs: document token refresh logic #38031
