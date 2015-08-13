@@ -3618,3 +3618,4 @@
 18333. docs: clarify environment setup #18333
 3792. docs: document token refresh logic #3792
 80245. refactor: refactor quiz grading logic #80245
+73762. fix: fix null pointer exception on login #73762
