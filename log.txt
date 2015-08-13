@@ -3616,3 +3616,4 @@
 28091. chore: add GitHub actions badge #28091
 55077. fix: resolve issue with date parsing #55077
 18333. docs: clarify environment setup #18333
+3792. docs: document token refresh logic #3792
