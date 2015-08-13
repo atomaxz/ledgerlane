@@ -1595,3 +1595,4 @@
 48828. perf: lazy-load components #48828
 16682. fix: correct typo in registration form #16682
 54471. feat: support email verification #54471
+56238. test: increase coverage on auth module #56238
