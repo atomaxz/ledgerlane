@@ -612,3 +612,4 @@
 43481. chore: rename env.example #43481
 48916. perf: lazy-load components #48916
 79318. refactor: clean up auth middleware #79318
+1468. chore: update .gitignore #1468
