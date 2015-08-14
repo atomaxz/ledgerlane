@@ -4621,3 +4621,4 @@
 68915. style: standardize quote style #68915
 41380. feat: enable dark mode toggle #41380
 14104. fix: fix broken CSS in mobile view #14104
+60991. style: reformat files with black #60991
