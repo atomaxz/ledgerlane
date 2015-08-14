@@ -613,3 +613,4 @@
 48916. perf: lazy-load components #48916
 79318. refactor: clean up auth middleware #79318
 1468. chore: update .gitignore #1468
+79290. chore: add GitHub actions badge #79290
