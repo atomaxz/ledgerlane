@@ -1597,3 +1597,4 @@
 54471. feat: support email verification #54471
 56238. test: increase coverage on auth module #56238
 94820. refactor: split large controller into smaller functions #94820
+71385. feat: add user authentication #71385
