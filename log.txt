@@ -614,3 +614,4 @@
 79318. refactor: clean up auth middleware #79318
 1468. chore: update .gitignore #1468
 79290. chore: add GitHub actions badge #79290
+38227. fix: handle 500 error in quiz API #38227
