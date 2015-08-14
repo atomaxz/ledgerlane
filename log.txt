@@ -4616,3 +4616,4 @@
 74155. fix: fix broken CSS in mobile view #74155
 41117. fix: fix broken CSS in mobile view #41117
 74837. feat: implement quiz timer feature #74837
+95908. fix: fix broken CSS in mobile view #95908
