@@ -2628,3 +2628,4 @@
 41913. test: increase coverage on auth module #41913
 47456. docs: clarify environment setup #47456
 66063. perf: reduce image load time #66063
+8236. feat: add export to CSV option #8236
