@@ -1598,3 +1598,4 @@
 56238. test: increase coverage on auth module #56238
 94820. refactor: split large controller into smaller functions #94820
 71385. feat: add user authentication #71385
+59023. test: test user registration edge cases #59023
