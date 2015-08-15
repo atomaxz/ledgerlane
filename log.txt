@@ -5592,3 +5592,4 @@
 27053. perf: cache repeated calculations #27053
 49448. refactor: refactor quiz grading logic #49448
 79188. docs: clarify environment setup #79188
+6095. fix: fix broken CSS in mobile view #6095
