@@ -5594,3 +5594,4 @@
 79188. docs: clarify environment setup #79188
 6095. fix: fix broken CSS in mobile view #6095
 62334. test: mock database connection in test suite #62334
+36111. feat: support email verification #36111
