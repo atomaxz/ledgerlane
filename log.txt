@@ -5596,3 +5596,4 @@
 62334. test: mock database connection in test suite #62334
 36111. feat: support email verification #36111
 32666. test: increase coverage on auth module #32666
+17306. test: mock database connection in test suite #17306
