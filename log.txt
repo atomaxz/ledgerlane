@@ -619,3 +619,4 @@
 0953. test: increase coverage on auth module #953
 31747. refactor: organize models into subfolders #31747
 51993. style: reformat files with black #51993
+78632. feat: add user authentication #78632
