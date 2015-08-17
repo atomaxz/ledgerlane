@@ -5598,3 +5598,4 @@
 32666. test: increase coverage on auth module #32666
 17306. test: mock database connection in test suite #17306
 75615. docs: add API usage examples #75615
+42955. feat: enable dark mode toggle #42955
