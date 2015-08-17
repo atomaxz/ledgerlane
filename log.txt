@@ -1605,3 +1605,4 @@
 95442. docs: update README with setup steps #95442
 61898. refactor: split large controller into smaller functions #61898
 80377. test: test user registration edge cases #80377
+81057. feat: add export to CSV option #81057
