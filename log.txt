@@ -621,3 +621,4 @@
 51993. style: reformat files with black #51993
 78632. feat: add user authentication #78632
 45124. style: reformat files with black #45124
+74988. docs: update README with setup steps #74988
