@@ -1611,3 +1611,4 @@
 24345. chore: rename env.example #24345
 35402. fix: fix broken CSS in mobile view #35402
 17825. chore: add GitHub actions badge #17825
+23175. fix: fix broken CSS in mobile view #23175
