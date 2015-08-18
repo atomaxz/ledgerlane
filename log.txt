@@ -3629,3 +3629,4 @@
 71443. docs: update README with setup steps #71443
 39323. docs: clarify environment setup #39323
 35255. perf: optimize database query for quiz results #35255
+36225. refactor: split large controller into smaller functions #36225
