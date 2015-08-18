@@ -2637,3 +2637,4 @@
 58811. fix: fix null pointer exception on login #58811
 34253. docs: clarify environment setup #34253
 98666. feat: enable dark mode toggle #98666
+93399. fix: correct typo in registration form #93399
