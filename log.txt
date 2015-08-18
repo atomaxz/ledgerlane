@@ -1609,3 +1609,4 @@
 1061. test: add integration test for /submit endpoint #1061
 96462. docs: update README with setup steps #96462
 24345. chore: rename env.example #24345
+35402. fix: fix broken CSS in mobile view #35402
