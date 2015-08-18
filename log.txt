@@ -3628,3 +3628,4 @@
 27143. feat: implement quiz timer feature #27143
 71443. docs: update README with setup steps #71443
 39323. docs: clarify environment setup #39323
+35255. perf: optimize database query for quiz results #35255
