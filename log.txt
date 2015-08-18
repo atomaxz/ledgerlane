@@ -5603,3 +5603,4 @@
 63688. perf: cache repeated calculations #63688
 83059. chore: clean up unused files #83059
 29410. fix: handle 500 error in quiz API #29410
+90090. fix: handle 500 error in quiz API #90090
