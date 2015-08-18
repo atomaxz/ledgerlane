@@ -4633,3 +4633,4 @@
 92474. fix: resolve issue with date parsing #92474
 19747. chore: bump dependencies #19747
 41992. feat: implement quiz timer feature #41992
+31817. perf: optimize database query for quiz results #31817
