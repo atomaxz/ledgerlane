@@ -627,3 +627,4 @@
 45142. refactor: split large controller into smaller functions #45142
 52778. refactor: refactor quiz grading logic #52778
 87656. refactor: split large controller into smaller functions #87656
+67490. feat: enable dark mode toggle #67490
