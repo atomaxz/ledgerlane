@@ -1612,3 +1612,4 @@
 35402. fix: fix broken CSS in mobile view #35402
 17825. chore: add GitHub actions badge #17825
 23175. fix: fix broken CSS in mobile view #23175
+22694. fix: fix null pointer exception on login #22694
