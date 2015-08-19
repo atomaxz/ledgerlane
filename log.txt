@@ -3631,3 +3631,4 @@
 35255. perf: optimize database query for quiz results #35255
 36225. refactor: split large controller into smaller functions #36225
 34243. chore: bump dependencies #34243
+94705. style: reformat files with black #94705
