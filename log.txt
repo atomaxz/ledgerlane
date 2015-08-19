@@ -3632,3 +3632,4 @@
 36225. refactor: split large controller into smaller functions #36225
 34243. chore: bump dependencies #34243
 94705. style: reformat files with black #94705
+4210. fix: correct typo in registration form #4210
