@@ -2641,3 +2641,4 @@
 57722. test: mock database connection in test suite #57722
 62100. refactor: split large controller into smaller functions #62100
 13366. feat: implement quiz timer feature #13366
+37903. feat: add user authentication #37903
