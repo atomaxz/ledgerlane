@@ -632,3 +632,4 @@
 0342. feat: add user authentication #342
 45016. test: increase coverage on auth module #45016
 15201. style: standardize quote style #15201
+6420. docs: write FAQ section #6420
