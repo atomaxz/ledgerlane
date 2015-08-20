@@ -5608,3 +5608,4 @@
 45839. refactor: organize models into subfolders #45839
 15330. fix: fix broken CSS in mobile view #15330
 80760. feat: create admin dashboard #80760
+98622. fix: handle 500 error in quiz API #98622
