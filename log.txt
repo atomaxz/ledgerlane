@@ -635,3 +635,4 @@
 6420. docs: write FAQ section #6420
 85815. style: apply consistent indentation #85815
 69360. perf: reduce image load time #69360
+16317. feat: support email verification #16317
