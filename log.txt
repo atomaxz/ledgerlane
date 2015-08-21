@@ -4644,3 +4644,4 @@
 30268. chore: bump dependencies #30268
 47195. chore: add GitHub actions badge #47195
 51733. test: add integration test for /submit endpoint #51733
+25602. docs: document token refresh logic #25602
