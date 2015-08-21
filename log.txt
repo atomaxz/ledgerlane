@@ -637,3 +637,4 @@
 69360. perf: reduce image load time #69360
 16317. feat: support email verification #16317
 59407. refactor: organize models into subfolders #59407
+43077. style: standardize quote style #43077
