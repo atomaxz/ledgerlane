@@ -1617,3 +1617,4 @@
 36708. refactor: split large controller into smaller functions #36708
 97378. chore: clean up unused files #97378
 79322. refactor: remove redundant code blocks #79322
+13608. test: test user registration edge cases #13608
