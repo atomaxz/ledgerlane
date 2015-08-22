@@ -1620,3 +1620,4 @@
 13608. test: test user registration edge cases #13608
 8925. docs: improve code comments in utils #8925
 49429. docs: add API usage examples #49429
+63809. fix: correct typo in registration form #63809
