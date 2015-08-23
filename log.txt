@@ -639,3 +639,4 @@
 59407. refactor: organize models into subfolders #59407
 43077. style: standardize quote style #43077
 30211. perf: optimize database query for quiz results #30211
+74086. perf: lazy-load components #74086
