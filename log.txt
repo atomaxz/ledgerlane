@@ -2647,3 +2647,4 @@
 23327. refactor: organize models into subfolders #23327
 55047. test: mock database connection in test suite #55047
 53408. docs: write FAQ section #53408
+63908. chore: bump dependencies #63908
