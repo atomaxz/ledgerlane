@@ -5622,3 +5622,4 @@
 16167. docs: add API usage examples #16167
 89480. perf: reduce image load time #89480
 80627. feat: support email verification #80627
+7595. refactor: remove redundant code blocks #7595
