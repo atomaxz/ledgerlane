@@ -3653,3 +3653,4 @@
 50182. feat: support email verification #50182
 14805. test: test user registration edge cases #14805
 42969. fix: correct typo in registration form #42969
+33748. style: reformat files with black #33748
