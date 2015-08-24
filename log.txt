@@ -645,3 +645,4 @@
 66571. chore: add GitHub actions badge #66571
 13506. style: reformat files with black #13506
 19999. feat: support email verification #19999
+76278. refactor: organize models into subfolders #76278
