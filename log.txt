@@ -643,3 +643,4 @@
 16375. fix: fix null pointer exception on login #16375
 53449. chore: clean up unused files #53449
 66571. chore: add GitHub actions badge #66571
+13506. style: reformat files with black #13506
