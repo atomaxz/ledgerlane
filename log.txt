@@ -1624,3 +1624,4 @@
 27106. feat: support email verification #27106
 2475. docs: improve code comments in utils #2475
 8179. fix: handle 500 error in quiz API #8179
+73116. feat: support email verification #73116
