@@ -3650,3 +3650,4 @@
 78192. refactor: refactor quiz grading logic #78192
 8154. refactor: remove redundant code blocks #8154
 44044. test: mock database connection in test suite #44044
+50182. feat: support email verification #50182
