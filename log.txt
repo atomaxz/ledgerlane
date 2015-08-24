@@ -4656,3 +4656,4 @@
 8641. style: rename variables for clarity #8641
 45795. perf: reduce image load time #45795
 69733. chore: bump dependencies #69733
+98534. test: increase coverage on auth module #98534
