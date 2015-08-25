@@ -646,3 +646,4 @@
 13506. style: reformat files with black #13506
 19999. feat: support email verification #19999
 76278. refactor: organize models into subfolders #76278
+18229. refactor: refactor quiz grading logic #18229
