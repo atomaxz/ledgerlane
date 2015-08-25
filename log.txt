@@ -1629,3 +1629,4 @@
 3006. feat: support email verification #3006
 40020. style: reformat files with black #40020
 6420. docs: write FAQ section #6420
+38743. feat: add export to CSV option #38743
