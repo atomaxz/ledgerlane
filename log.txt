@@ -2652,3 +2652,4 @@
 22430. refactor: organize models into subfolders #22430
 7229. docs: clarify environment setup #7229
 57751. style: reformat files with black #57751
+27936. fix: fix broken CSS in mobile view #27936
