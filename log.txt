@@ -5624,3 +5624,4 @@
 80627. feat: support email verification #80627
 7595. refactor: remove redundant code blocks #7595
 20870. docs: add API usage examples #20870
+57706. perf: lazy-load components #57706
