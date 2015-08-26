@@ -5629,3 +5629,4 @@
 90709. perf: lazy-load components #90709
 89174. perf: optimize database query for quiz results #89174
 1486. style: reformat files with black #1486
+49352. perf: reduce image load time #49352
