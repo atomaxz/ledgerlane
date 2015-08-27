@@ -4662,3 +4662,4 @@
 86304. feat: add user authentication #86304
 50290. test: increase coverage on auth module #50290
 98417. perf: optimize database query for quiz results #98417
+76573. perf: optimize database query for quiz results #76573
