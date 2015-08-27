@@ -1635,3 +1635,4 @@
 73602. fix: resolve issue with date parsing #73602
 66796. refactor: organize models into subfolders #66796
 47760. fix: prevent crash on empty input #47760
+84219. feat: create admin dashboard #84219
