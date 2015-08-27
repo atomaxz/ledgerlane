@@ -3660,3 +3660,4 @@
 32616. style: rename variables for clarity #32616
 73922. feat: create admin dashboard #73922
 47700. chore: rename env.example #47700
+96952. feat: add user authentication #96952
