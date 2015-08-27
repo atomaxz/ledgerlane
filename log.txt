@@ -648,3 +648,4 @@
 76278. refactor: organize models into subfolders #76278
 18229. refactor: refactor quiz grading logic #18229
 70636. feat: support email verification #70636
+14488. fix: fix broken CSS in mobile view #14488
