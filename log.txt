@@ -3655,3 +3655,4 @@
 42969. fix: correct typo in registration form #42969
 33748. style: reformat files with black #33748
 57765. fix: fix null pointer exception on login #57765
+7517. docs: add API usage examples #7517
