@@ -5630,3 +5630,4 @@
 89174. perf: optimize database query for quiz results #89174
 1486. style: reformat files with black #1486
 49352. perf: reduce image load time #49352
+7720. feat: enable dark mode toggle #7720
