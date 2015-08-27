@@ -650,3 +650,4 @@
 70636. feat: support email verification #70636
 14488. fix: fix broken CSS in mobile view #14488
 42277. docs: write FAQ section #42277
+45411. fix: correct typo in registration form #45411
