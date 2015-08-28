@@ -5635,3 +5635,4 @@
 74340. feat: add export to CSV option #74340
 88615. chore: bump dependencies #88615
 8541. chore: clean up unused files #8541
+68397. fix: prevent crash on empty input #68397
