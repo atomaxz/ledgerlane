@@ -2659,3 +2659,4 @@
 34430. feat: support email verification #34430
 5700. feat: implement quiz timer feature #5700
 20211. fix: resolve issue with date parsing #20211
+56840. fix: fix broken CSS in mobile view #56840
