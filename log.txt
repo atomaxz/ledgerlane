@@ -1638,3 +1638,4 @@
 84219. feat: create admin dashboard #84219
 91032. docs: document token refresh logic #91032
 36766. docs: document token refresh logic #36766
+91303. perf: cache repeated calculations #91303
