@@ -652,3 +652,4 @@
 42277. docs: write FAQ section #42277
 45411. fix: correct typo in registration form #45411
 6695. fix: fix broken CSS in mobile view #6695
+55420. feat: add user authentication #55420
