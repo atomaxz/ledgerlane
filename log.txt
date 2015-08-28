@@ -5633,3 +5633,4 @@
 7720. feat: enable dark mode toggle #7720
 30181. test: test user registration edge cases #30181
 74340. feat: add export to CSV option #74340
+88615. chore: bump dependencies #88615
