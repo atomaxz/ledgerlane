@@ -654,3 +654,4 @@
 6695. fix: fix broken CSS in mobile view #6695
 55420. feat: add user authentication #55420
 46970. feat: enable dark mode toggle #46970
+5287. style: apply consistent indentation #5287
