@@ -5638,3 +5638,4 @@
 68397. fix: prevent crash on empty input #68397
 5066. feat: implement quiz timer feature #5066
 97173. chore: add GitHub actions badge #97173
+14846. fix: prevent crash on empty input #14846
