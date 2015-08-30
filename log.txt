@@ -2663,3 +2663,4 @@
 50321. perf: cache repeated calculations #50321
 69125. refactor: clean up auth middleware #69125
 36589. feat: create admin dashboard #36589
+36174. test: test user registration edge cases #36174
