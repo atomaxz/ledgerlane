@@ -656,3 +656,4 @@
 46970. feat: enable dark mode toggle #46970
 5287. style: apply consistent indentation #5287
 31004. style: apply consistent indentation #31004
+70913. style: remove trailing whitespace #70913
