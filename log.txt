@@ -1646,3 +1646,4 @@
 15944. feat: add export to CSV option #15944
 51346. perf: optimize database query for quiz results #51346
 89859. perf: reduce image load time #89859
+97924. chore: update .gitignore #97924
