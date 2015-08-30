@@ -1644,3 +1644,4 @@
 57616. refactor: clean up auth middleware #57616
 45510. chore: bump dependencies #45510
 15944. feat: add export to CSV option #15944
+51346. perf: optimize database query for quiz results #51346
