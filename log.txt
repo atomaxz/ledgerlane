@@ -5642,3 +5642,4 @@
 21792. chore: bump dependencies #21792
 28919. test: mock database connection in test suite #28919
 72796. refactor: remove redundant code blocks #72796
+1261. test: add integration test for /submit endpoint #1261
