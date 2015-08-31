@@ -2665,3 +2665,4 @@
 36589. feat: create admin dashboard #36589
 36174. test: test user registration edge cases #36174
 82861. chore: add GitHub actions badge #82861
+71756. perf: reduce image load time #71756
