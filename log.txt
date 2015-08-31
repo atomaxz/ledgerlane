@@ -1652,3 +1652,4 @@
 35420. chore: bump dependencies #35420
 6457. refactor: organize models into subfolders #6457
 45299. feat: add export to CSV option #45299
+21500. perf: cache repeated calculations #21500
