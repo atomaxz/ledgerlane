@@ -4671,3 +4671,4 @@
 81705. test: add integration test for /submit endpoint #81705
 4373. test: add unit test for quiz service #4373
 69302. chore: update .gitignore #69302
+87337. fix: fix null pointer exception on login #87337
