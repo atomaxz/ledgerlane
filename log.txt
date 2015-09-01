@@ -1653,3 +1653,4 @@
 6457. refactor: organize models into subfolders #6457
 45299. feat: add export to CSV option #45299
 21500. perf: cache repeated calculations #21500
+49470. test: mock database connection in test suite #49470
