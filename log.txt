@@ -659,3 +659,4 @@
 70913. style: remove trailing whitespace #70913
 48820. fix: resolve issue with date parsing #48820
 36247. refactor: clean up auth middleware #36247
+89313. feat: support email verification #89313
