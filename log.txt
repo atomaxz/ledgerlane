@@ -5645,3 +5645,4 @@
 1261. test: add integration test for /submit endpoint #1261
 56847. feat: create admin dashboard #56847
 70085. style: apply consistent indentation #70085
+22788. feat: support email verification #22788
