@@ -2667,3 +2667,4 @@
 82861. chore: add GitHub actions badge #82861
 71756. perf: reduce image load time #71756
 81247. chore: bump dependencies #81247
+93592. style: reformat files with black #93592
