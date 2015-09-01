@@ -3673,3 +3673,4 @@
 93583. docs: document token refresh logic #93583
 45071. test: increase coverage on auth module #45071
 11537. perf: cache repeated calculations #11537
+0506. chore: bump dependencies #506
