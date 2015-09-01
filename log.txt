@@ -4677,3 +4677,4 @@
 60325. chore: clean up unused files #60325
 17029. test: increase coverage on auth module #17029
 59005. refactor: organize models into subfolders #59005
+96504. chore: add GitHub actions badge #96504
