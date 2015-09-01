@@ -660,3 +660,4 @@
 48820. fix: resolve issue with date parsing #48820
 36247. refactor: clean up auth middleware #36247
 89313. feat: support email verification #89313
+24740. test: mock database connection in test suite #24740
