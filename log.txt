@@ -4676,3 +4676,4 @@
 33293. style: remove trailing whitespace #33293
 60325. chore: clean up unused files #60325
 17029. test: increase coverage on auth module #17029
+59005. refactor: organize models into subfolders #59005
