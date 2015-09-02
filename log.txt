@@ -4679,3 +4679,4 @@
 59005. refactor: organize models into subfolders #59005
 96504. chore: add GitHub actions badge #96504
 9420. chore: rename env.example #9420
+17832. fix: prevent crash on empty input #17832
