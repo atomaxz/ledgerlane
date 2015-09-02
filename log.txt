@@ -3674,3 +3674,4 @@
 45071. test: increase coverage on auth module #45071
 11537. perf: cache repeated calculations #11537
 0506. chore: bump dependencies #506
+45085. feat: add user authentication #45085
