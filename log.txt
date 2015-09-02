@@ -661,3 +661,4 @@
 36247. refactor: clean up auth middleware #36247
 89313. feat: support email verification #89313
 24740. test: mock database connection in test suite #24740
+10845. style: remove trailing whitespace #10845
