@@ -1658,3 +1658,4 @@
 57621. feat: support email verification #57621
 44475. fix: fix broken CSS in mobile view #44475
 90402. test: mock database connection in test suite #90402
+29770. style: apply consistent indentation #29770
