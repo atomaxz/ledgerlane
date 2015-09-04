@@ -5648,3 +5648,4 @@
 22788. feat: support email verification #22788
 72879. fix: fix broken CSS in mobile view #72879
 80393. refactor: split large controller into smaller functions #80393
+81560. chore: update .gitignore #81560
