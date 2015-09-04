@@ -2672,3 +2672,4 @@
 35643. docs: write FAQ section #35643
 43552. feat: add export to CSV option #43552
 97045. test: test user registration edge cases #97045
+78176. fix: prevent crash on empty input #78176
