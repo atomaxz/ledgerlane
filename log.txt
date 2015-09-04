@@ -667,3 +667,4 @@
 98513. chore: clean up unused files #98513
 93571. style: reformat files with black #93571
 97762. style: rename variables for clarity #97762
+84440. chore: add GitHub actions badge #84440
