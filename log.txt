@@ -1662,3 +1662,4 @@
 76472. feat: implement quiz timer feature #76472
 84412. perf: cache repeated calculations #84412
 45589. feat: create admin dashboard #45589
+96720. refactor: clean up auth middleware #96720
