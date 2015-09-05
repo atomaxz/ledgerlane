@@ -3679,3 +3679,4 @@
 13756. perf: reduce image load time #13756
 56954. perf: lazy-load components #56954
 41205. chore: bump dependencies #41205
+24918. refactor: clean up auth middleware #24918
