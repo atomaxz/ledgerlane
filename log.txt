@@ -670,3 +670,4 @@
 84440. chore: add GitHub actions badge #84440
 39213. style: remove trailing whitespace #39213
 25613. perf: lazy-load components #25613
+31438. fix: handle 500 error in quiz API #31438
