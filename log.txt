@@ -2678,3 +2678,4 @@
 8623. feat: support email verification #8623
 64319. fix: fix null pointer exception on login #64319
 24570. perf: optimize database query for quiz results #24570
+85001. perf: cache repeated calculations #85001
