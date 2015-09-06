@@ -673,3 +673,4 @@
 31438. fix: handle 500 error in quiz API #31438
 64783. feat: add export to CSV option #64783
 62699. chore: update .gitignore #62699
+51716. fix: prevent crash on empty input #51716
