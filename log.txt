@@ -1666,3 +1666,4 @@
 25381. docs: write FAQ section #25381
 64989. chore: rename env.example #64989
 47248. feat: implement quiz timer feature #47248
+55659. test: add integration test for /submit endpoint #55659
