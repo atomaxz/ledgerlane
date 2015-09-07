@@ -4686,3 +4686,4 @@
 70017. perf: reduce image load time #70017
 59745. fix: prevent crash on empty input #59745
 66286. docs: improve code comments in utils #66286
+84524. fix: handle 500 error in quiz API #84524
