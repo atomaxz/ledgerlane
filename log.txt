@@ -680,3 +680,4 @@
 59755. feat: enable dark mode toggle #59755
 40509. docs: update README with setup steps #40509
 75500. test: test user registration edge cases #75500
+8287. chore: bump dependencies #8287
