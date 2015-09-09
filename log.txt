@@ -683,3 +683,4 @@
 8287. chore: bump dependencies #8287
 23521. fix: prevent crash on empty input #23521
 10344. refactor: remove redundant code blocks #10344
+2829. fix: prevent crash on empty input #2829
