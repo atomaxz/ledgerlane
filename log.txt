@@ -5661,3 +5661,4 @@
 37831. docs: document token refresh logic #37831
 9991. style: reformat files with black #9991
 33062. refactor: clean up auth middleware #33062
+96560. feat: add user authentication #96560
