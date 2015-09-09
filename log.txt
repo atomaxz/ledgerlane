@@ -678,3 +678,4 @@
 3083. chore: update .gitignore #3083
 51546. style: standardize quote style #51546
 59755. feat: enable dark mode toggle #59755
+40509. docs: update README with setup steps #40509
