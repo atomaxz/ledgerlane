@@ -1673,3 +1673,4 @@
 10288. fix: handle 500 error in quiz API #10288
 77356. test: test user registration edge cases #77356
 75834. refactor: remove redundant code blocks #75834
+77294. fix: resolve issue with date parsing #77294
