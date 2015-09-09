@@ -4693,3 +4693,4 @@
 61403. refactor: refactor quiz grading logic #61403
 20028. style: apply consistent indentation #20028
 91899. fix: fix null pointer exception on login #91899
+35620. test: mock database connection in test suite #35620
