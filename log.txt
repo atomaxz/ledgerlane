@@ -4695,3 +4695,4 @@
 91899. fix: fix null pointer exception on login #91899
 35620. test: mock database connection in test suite #35620
 22560. perf: optimize database query for quiz results #22560
+57978. fix: handle 500 error in quiz API #57978
