@@ -687,3 +687,4 @@
 28321. refactor: organize models into subfolders #28321
 50826. perf: reduce image load time #50826
 86239. docs: write FAQ section #86239
+36772. chore: add GitHub actions badge #36772
