@@ -1675,3 +1675,4 @@
 75834. refactor: remove redundant code blocks #75834
 77294. fix: resolve issue with date parsing #77294
 21339. perf: reduce image load time #21339
+12076. perf: lazy-load components #12076
