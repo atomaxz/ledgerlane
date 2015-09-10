@@ -2689,3 +2689,4 @@
 31230. docs: add API usage examples #31230
 81983. fix: fix broken CSS in mobile view #81983
 46969. style: remove trailing whitespace #46969
+78826. fix: fix broken CSS in mobile view #78826
