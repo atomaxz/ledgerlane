@@ -3690,3 +3690,4 @@
 21005. test: increase coverage on auth module #21005
 83020. style: rename variables for clarity #83020
 12508. perf: reduce image load time #12508
+1274. feat: add user authentication #1274
