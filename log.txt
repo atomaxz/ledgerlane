@@ -1679,3 +1679,4 @@
 56240. style: reformat files with black #56240
 23208. style: reformat files with black #23208
 38043. docs: write FAQ section #38043
+90532. docs: document token refresh logic #90532
