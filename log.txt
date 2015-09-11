@@ -691,3 +691,4 @@
 56534. docs: improve code comments in utils #56534
 96367. style: standardize quote style #96367
 14299. chore: add GitHub actions badge #14299
+7514. test: mock database connection in test suite #7514
