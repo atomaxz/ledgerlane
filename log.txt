@@ -5662,3 +5662,4 @@
 9991. style: reformat files with black #9991
 33062. refactor: clean up auth middleware #33062
 96560. feat: add user authentication #96560
+45053. refactor: refactor quiz grading logic #45053
