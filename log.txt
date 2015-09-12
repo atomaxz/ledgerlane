@@ -5669,3 +5669,4 @@
 47923. style: remove trailing whitespace #47923
 10727. chore: rename env.example #10727
 16492. feat: add user authentication #16492
+56260. chore: bump dependencies #56260
