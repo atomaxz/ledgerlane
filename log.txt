@@ -3698,3 +3698,4 @@
 28637. fix: correct typo in registration form #28637
 67133. perf: reduce image load time #67133
 99762. chore: add GitHub actions badge #99762
+56118. feat: create admin dashboard #56118
