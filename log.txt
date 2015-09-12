@@ -1682,3 +1682,4 @@
 90532. docs: document token refresh logic #90532
 74834. docs: clarify environment setup #74834
 34203. feat: support email verification #34203
+95585. chore: rename env.example #95585
