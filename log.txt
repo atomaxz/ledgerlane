@@ -2691,3 +2691,4 @@
 46969. style: remove trailing whitespace #46969
 78826. fix: fix broken CSS in mobile view #78826
 53113. perf: cache repeated calculations #53113
+73868. fix: handle 500 error in quiz API #73868
