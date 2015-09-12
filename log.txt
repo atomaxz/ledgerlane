@@ -5668,3 +5668,4 @@
 12868. fix: resolve issue with date parsing #12868
 47923. style: remove trailing whitespace #47923
 10727. chore: rename env.example #10727
+16492. feat: add user authentication #16492
