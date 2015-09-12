@@ -1681,3 +1681,4 @@
 38043. docs: write FAQ section #38043
 90532. docs: document token refresh logic #90532
 74834. docs: clarify environment setup #74834
+34203. feat: support email verification #34203
