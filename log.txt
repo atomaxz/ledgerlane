@@ -4700,3 +4700,4 @@
 60145. fix: resolve issue with date parsing #60145
 67598. refactor: organize models into subfolders #67598
 73675. feat: add export to CSV option #73675
+20046. fix: handle 500 error in quiz API #20046
