@@ -2694,3 +2694,4 @@
 73868. fix: handle 500 error in quiz API #73868
 78971. perf: optimize database query for quiz results #78971
 45688. feat: create admin dashboard #45688
+18646. chore: add GitHub actions badge #18646
