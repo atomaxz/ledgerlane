@@ -5671,3 +5671,4 @@
 16492. feat: add user authentication #16492
 56260. chore: bump dependencies #56260
 66884. docs: improve code comments in utils #66884
+93720. test: test user registration edge cases #93720
