@@ -2699,3 +2699,4 @@
 57281. refactor: clean up auth middleware #57281
 78409. feat: create admin dashboard #78409
 2121. feat: implement quiz timer feature #2121
+22663. perf: optimize database query for quiz results #22663
