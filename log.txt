@@ -698,3 +698,4 @@
 55020. perf: optimize database query for quiz results #55020
 90773. feat: create admin dashboard #90773
 93066. perf: reduce image load time #93066
+96624. chore: clean up unused files #96624
