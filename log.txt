@@ -2700,3 +2700,4 @@
 78409. feat: create admin dashboard #78409
 2121. feat: implement quiz timer feature #2121
 22663. perf: optimize database query for quiz results #22663
+18436. refactor: refactor quiz grading logic #18436
