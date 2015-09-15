@@ -3704,3 +3704,4 @@
 89029. style: standardize quote style #89029
 44240. docs: add API usage examples #44240
 20230. test: test user registration edge cases #20230
+49512. refactor: clean up auth middleware #49512
