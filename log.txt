@@ -5674,3 +5674,4 @@
 93720. test: test user registration edge cases #93720
 59086. test: add integration test for /submit endpoint #59086
 38369. chore: bump dependencies #38369
+27470. docs: document token refresh logic #27470
