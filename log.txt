@@ -1686,3 +1686,4 @@
 20232. perf: reduce image load time #20232
 49998. feat: create admin dashboard #49998
 33896. docs: document token refresh logic #33896
+11400. fix: handle 500 error in quiz API #11400
