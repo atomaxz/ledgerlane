@@ -4713,3 +4713,4 @@
 77622. refactor: remove redundant code blocks #77622
 1200. perf: cache repeated calculations #1200
 16008. docs: add API usage examples #16008
+73692. docs: document token refresh logic #73692
