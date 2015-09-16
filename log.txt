@@ -5679,3 +5679,4 @@
 53629. refactor: split large controller into smaller functions #53629
 30944. docs: document token refresh logic #30944
 59139. perf: optimize database query for quiz results #59139
+60805. fix: prevent crash on empty input #60805
