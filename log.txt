@@ -4712,3 +4712,4 @@
 80606. docs: write FAQ section #80606
 77622. refactor: remove redundant code blocks #77622
 1200. perf: cache repeated calculations #1200
+16008. docs: add API usage examples #16008
