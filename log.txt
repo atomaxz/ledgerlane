@@ -2704,3 +2704,4 @@
 74358. chore: update .gitignore #74358
 0195. docs: clarify environment setup #195
 16626. feat: add user authentication #16626
+14460. chore: add GitHub actions badge #14460
