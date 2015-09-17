@@ -2706,3 +2706,4 @@
 16626. feat: add user authentication #16626
 14460. chore: add GitHub actions badge #14460
 93807. fix: prevent crash on empty input #93807
+45428. test: mock database connection in test suite #45428
