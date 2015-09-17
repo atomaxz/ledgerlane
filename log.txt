@@ -3708,3 +3708,4 @@
 16583. feat: create admin dashboard #16583
 75439. test: add unit test for quiz service #75439
 81020. style: remove trailing whitespace #81020
+38657. feat: add user authentication #38657
