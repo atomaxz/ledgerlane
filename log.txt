@@ -704,3 +704,4 @@
 22599. perf: lazy-load components #22599
 31485. test: increase coverage on auth module #31485
 38379. feat: create admin dashboard #38379
+78114. perf: lazy-load components #78114
