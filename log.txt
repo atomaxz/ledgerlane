@@ -4714,3 +4714,4 @@
 1200. perf: cache repeated calculations #1200
 16008. docs: add API usage examples #16008
 73692. docs: document token refresh logic #73692
+3702. refactor: clean up auth middleware #3702
