@@ -2708,3 +2708,4 @@
 93807. fix: prevent crash on empty input #93807
 45428. test: mock database connection in test suite #45428
 31076. perf: reduce image load time #31076
+86217. docs: write FAQ section #86217
