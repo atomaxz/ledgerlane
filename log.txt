@@ -2709,3 +2709,4 @@
 45428. test: mock database connection in test suite #45428
 31076. perf: reduce image load time #31076
 86217. docs: write FAQ section #86217
+46336. perf: cache repeated calculations #46336
