@@ -3710,3 +3710,4 @@
 81020. style: remove trailing whitespace #81020
 38657. feat: add user authentication #38657
 72809. test: test user registration edge cases #72809
+84636. perf: lazy-load components #84636
