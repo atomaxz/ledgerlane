@@ -1691,3 +1691,4 @@
 21011. chore: clean up unused files #21011
 67885. perf: optimize database query for quiz results #67885
 67617. perf: cache repeated calculations #67617
+50522. refactor: clean up auth middleware #50522
