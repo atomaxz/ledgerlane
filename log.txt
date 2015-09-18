@@ -1689,3 +1689,4 @@
 11400. fix: handle 500 error in quiz API #11400
 25048. perf: optimize database query for quiz results #25048
 21011. chore: clean up unused files #21011
+67885. perf: optimize database query for quiz results #67885
