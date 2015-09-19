@@ -710,3 +710,4 @@
 54144. fix: fix null pointer exception on login #54144
 13133. feat: create admin dashboard #13133
 82755. test: add unit test for quiz service #82755
+23585. test: mock database connection in test suite #23585
