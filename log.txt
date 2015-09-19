@@ -2713,3 +2713,4 @@
 95119. feat: add user authentication #95119
 71659. chore: update .gitignore #71659
 97913. docs: improve code comments in utils #97913
+15078. fix: fix broken CSS in mobile view #15078
