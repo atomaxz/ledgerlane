@@ -5688,3 +5688,4 @@
 47895. fix: resolve issue with date parsing #47895
 37307. chore: clean up unused files #37307
 13735. chore: update .gitignore #13735
+21277. test: test user registration edge cases #21277
