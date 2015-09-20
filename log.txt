@@ -3717,3 +3717,4 @@
 37588. fix: resolve issue with date parsing #37588
 55849. refactor: split large controller into smaller functions #55849
 12027. style: apply consistent indentation #12027
+57391. chore: add GitHub actions badge #57391
