@@ -5694,3 +5694,4 @@
 19191. perf: reduce image load time #19191
 28189. perf: optimize database query for quiz results #28189
 85087. feat: create admin dashboard #85087
+27111. docs: update README with setup steps #27111
