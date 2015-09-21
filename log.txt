@@ -2716,3 +2716,4 @@
 15078. fix: fix broken CSS in mobile view #15078
 68510. test: add unit test for quiz service #68510
 13143. fix: prevent crash on empty input #13143
+12617. fix: fix broken CSS in mobile view #12617
