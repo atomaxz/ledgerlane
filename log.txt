@@ -1698,3 +1698,4 @@
 19848. style: apply consistent indentation #19848
 48702. chore: add GitHub actions badge #48702
 39490. docs: write FAQ section #39490
+9797. fix: fix null pointer exception on login #9797
