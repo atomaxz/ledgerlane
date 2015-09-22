@@ -1701,3 +1701,4 @@
 9797. fix: fix null pointer exception on login #9797
 0212. docs: add API usage examples #212
 55946. docs: add API usage examples #55946
+44015. fix: prevent crash on empty input #44015
