@@ -717,3 +717,4 @@
 47945. docs: add API usage examples #47945
 25155. feat: add user authentication #25155
 59967. style: apply consistent indentation #59967
+20323. fix: prevent crash on empty input #20323
