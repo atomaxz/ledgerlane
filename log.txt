@@ -718,3 +718,4 @@
 25155. feat: add user authentication #25155
 59967. style: apply consistent indentation #59967
 20323. fix: prevent crash on empty input #20323
+38786. feat: create admin dashboard #38786
