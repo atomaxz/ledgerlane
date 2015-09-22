@@ -2718,3 +2718,4 @@
 13143. fix: prevent crash on empty input #13143
 12617. fix: fix broken CSS in mobile view #12617
 63000. docs: improve code comments in utils #63000
+57384. feat: enable dark mode toggle #57384
