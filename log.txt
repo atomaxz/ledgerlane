@@ -4725,3 +4725,4 @@
 7712. style: rename variables for clarity #7712
 12579. refactor: organize models into subfolders #12579
 77858. style: rename variables for clarity #77858
+98304. feat: add user authentication #98304
