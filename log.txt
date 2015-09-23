@@ -4728,3 +4728,4 @@
 98304. feat: add user authentication #98304
 5965. chore: update .gitignore #5965
 49232. perf: optimize database query for quiz results #49232
+18150. refactor: clean up auth middleware #18150
