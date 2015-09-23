@@ -2720,3 +2720,4 @@
 63000. docs: improve code comments in utils #63000
 57384. feat: enable dark mode toggle #57384
 89516. style: reformat files with black #89516
+14657. feat: support email verification #14657
