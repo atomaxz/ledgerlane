@@ -3721,3 +3721,4 @@
 78980. feat: enable dark mode toggle #78980
 52327. test: increase coverage on auth module #52327
 39497. test: increase coverage on auth module #39497
+58764. fix: fix broken CSS in mobile view #58764
