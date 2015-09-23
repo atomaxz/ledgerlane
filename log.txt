@@ -3723,3 +3723,4 @@
 39497. test: increase coverage on auth module #39497
 58764. fix: fix broken CSS in mobile view #58764
 15740. fix: fix null pointer exception on login #15740
+55926. style: standardize quote style #55926
