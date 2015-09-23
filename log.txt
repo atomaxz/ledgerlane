@@ -3724,3 +3724,4 @@
 58764. fix: fix broken CSS in mobile view #58764
 15740. fix: fix null pointer exception on login #15740
 55926. style: standardize quote style #55926
+5900. chore: rename env.example #5900
