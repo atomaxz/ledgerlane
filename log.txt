@@ -721,3 +721,4 @@
 38786. feat: create admin dashboard #38786
 4411. feat: create admin dashboard #4411
 60254. refactor: clean up auth middleware #60254
+16010. feat: add user authentication #16010
