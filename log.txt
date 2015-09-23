@@ -5696,3 +5696,4 @@
 85087. feat: create admin dashboard #85087
 27111. docs: update README with setup steps #27111
 17906. refactor: split large controller into smaller functions #17906
+66419. feat: support email verification #66419
