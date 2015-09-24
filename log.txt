@@ -4735,3 +4735,4 @@
 88334. fix: resolve issue with date parsing #88334
 77680. test: increase coverage on auth module #77680
 10216. feat: add export to CSV option #10216
+2300. chore: update .gitignore #2300
