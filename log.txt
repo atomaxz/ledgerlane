@@ -3726,3 +3726,4 @@
 55926. style: standardize quote style #55926
 5900. chore: rename env.example #5900
 81056. chore: update .gitignore #81056
+84039. style: rename variables for clarity #84039
