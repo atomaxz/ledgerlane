@@ -4732,3 +4732,4 @@
 93293. fix: fix broken CSS in mobile view #93293
 66856. perf: optimize database query for quiz results #66856
 11287. chore: add GitHub actions badge #11287
+88334. fix: resolve issue with date parsing #88334
