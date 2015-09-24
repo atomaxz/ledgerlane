@@ -2725,3 +2725,4 @@
 9755. perf: lazy-load components #9755
 4600. feat: support email verification #4600
 2997. style: standardize quote style #2997
+89800. chore: update .gitignore #89800
