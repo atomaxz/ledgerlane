@@ -723,3 +723,4 @@
 60254. refactor: clean up auth middleware #60254
 16010. feat: add user authentication #16010
 40043. feat: support email verification #40043
+93086. style: apply consistent indentation #93086
