@@ -3727,3 +3727,4 @@
 5900. chore: rename env.example #5900
 81056. chore: update .gitignore #81056
 84039. style: rename variables for clarity #84039
+48741. test: test user registration edge cases #48741
