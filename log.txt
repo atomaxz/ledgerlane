@@ -3728,3 +3728,4 @@
 81056. chore: update .gitignore #81056
 84039. style: rename variables for clarity #84039
 48741. test: test user registration edge cases #48741
+97271. docs: write FAQ section #97271
