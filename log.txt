@@ -3732,3 +3732,4 @@
 32352. test: add integration test for /submit endpoint #32352
 43372. fix: resolve issue with date parsing #43372
 13580. test: increase coverage on auth module #13580
+38174. style: apply consistent indentation #38174
