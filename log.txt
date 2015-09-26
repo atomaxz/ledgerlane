@@ -1714,3 +1714,4 @@
 16082. chore: update .gitignore #16082
 18334. feat: implement quiz timer feature #18334
 24119. feat: enable dark mode toggle #24119
+40592. docs: update README with setup steps #40592
