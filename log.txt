@@ -5709,3 +5709,4 @@
 55975. perf: optimize database query for quiz results #55975
 36960. feat: support email verification #36960
 30900. refactor: refactor quiz grading logic #30900
+5802. chore: update .gitignore #5802
