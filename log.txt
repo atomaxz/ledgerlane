@@ -5706,3 +5706,4 @@
 40186. feat: add export to CSV option #40186
 70341. chore: rename env.example #70341
 60280. refactor: refactor quiz grading logic #60280
+55975. perf: optimize database query for quiz results #55975
