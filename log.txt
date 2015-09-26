@@ -3730,3 +3730,4 @@
 48741. test: test user registration edge cases #48741
 97271. docs: write FAQ section #97271
 32352. test: add integration test for /submit endpoint #32352
+43372. fix: resolve issue with date parsing #43372
