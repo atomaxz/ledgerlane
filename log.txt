@@ -3729,3 +3729,4 @@
 84039. style: rename variables for clarity #84039
 48741. test: test user registration edge cases #48741
 97271. docs: write FAQ section #97271
+32352. test: add integration test for /submit endpoint #32352
