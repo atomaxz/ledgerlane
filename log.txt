@@ -733,3 +733,4 @@
 85207. test: add unit test for quiz service #85207
 96734. feat: add export to CSV option #96734
 31268. chore: update .gitignore #31268
+32390. perf: lazy-load components #32390
