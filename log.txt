@@ -1720,3 +1720,4 @@
 81806. refactor: organize models into subfolders #81806
 45797. fix: fix null pointer exception on login #45797
 8622. docs: write FAQ section #8622
+98418. perf: optimize database query for quiz results #98418
