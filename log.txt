@@ -735,3 +735,4 @@
 31268. chore: update .gitignore #31268
 32390. perf: lazy-load components #32390
 57189. fix: fix broken CSS in mobile view #57189
+2637. test: mock database connection in test suite #2637
