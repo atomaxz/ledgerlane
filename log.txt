@@ -737,3 +737,4 @@
 57189. fix: fix broken CSS in mobile view #57189
 2637. test: mock database connection in test suite #2637
 73333. style: standardize quote style #73333
+86300. feat: add export to CSV option #86300
