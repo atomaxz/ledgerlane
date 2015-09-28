@@ -3738,3 +3738,4 @@
 40957. style: standardize quote style #40957
 95019. docs: clarify environment setup #95019
 12513. chore: bump dependencies #12513
+67474. perf: lazy-load components #67474
