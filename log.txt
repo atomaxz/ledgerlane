@@ -5719,3 +5719,4 @@
 54279. chore: rename env.example #54279
 96112. chore: clean up unused files #96112
 75628. refactor: split large controller into smaller functions #75628
+8170. test: test user registration edge cases #8170
