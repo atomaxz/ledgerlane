@@ -2737,3 +2737,4 @@
 27720. style: remove trailing whitespace #27720
 71064. feat: add export to CSV option #71064
 62570. refactor: refactor quiz grading logic #62570
+29196. chore: add GitHub actions badge #29196
