@@ -738,3 +738,4 @@
 2637. test: mock database connection in test suite #2637
 73333. style: standardize quote style #73333
 86300. feat: add export to CSV option #86300
+80230. feat: add user authentication #80230
