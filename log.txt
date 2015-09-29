@@ -2734,3 +2734,4 @@
 15375. chore: rename env.example #15375
 24558. style: reformat files with black #24558
 35389. perf: cache repeated calculations #35389
+27720. style: remove trailing whitespace #27720
