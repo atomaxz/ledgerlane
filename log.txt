@@ -2735,3 +2735,4 @@
 24558. style: reformat files with black #24558
 35389. perf: cache repeated calculations #35389
 27720. style: remove trailing whitespace #27720
+71064. feat: add export to CSV option #71064
