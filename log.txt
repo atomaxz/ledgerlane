@@ -1726,3 +1726,4 @@
 54079. test: add unit test for quiz service #54079
 95866. test: add integration test for /submit endpoint #95866
 48051. chore: rename env.example #48051
+64356. perf: lazy-load components #64356
