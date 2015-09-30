@@ -1727,3 +1727,4 @@
 95866. test: add integration test for /submit endpoint #95866
 48051. chore: rename env.example #48051
 64356. perf: lazy-load components #64356
+8474. chore: add GitHub actions badge #8474
