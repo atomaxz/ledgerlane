@@ -741,3 +741,4 @@
 80230. feat: add user authentication #80230
 67747. fix: correct typo in registration form #67747
 8199. refactor: split large controller into smaller functions #8199
+42928. fix: fix broken CSS in mobile view #42928
