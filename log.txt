@@ -4755,3 +4755,4 @@
 6618. refactor: remove redundant code blocks #6618
 1422. docs: write FAQ section #1422
 91544. style: apply consistent indentation #91544
+99518. chore: add GitHub actions badge #99518
