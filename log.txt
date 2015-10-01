@@ -2739,3 +2739,4 @@
 62570. refactor: refactor quiz grading logic #62570
 29196. chore: add GitHub actions badge #29196
 47055. style: apply consistent indentation #47055
+71827. perf: reduce image load time #71827
