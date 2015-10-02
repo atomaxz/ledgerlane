@@ -3750,3 +3750,4 @@
 75712. feat: add export to CSV option #75712
 99626. style: standardize quote style #99626
 51478. chore: rename env.example #51478
+3422. fix: resolve issue with date parsing #3422
