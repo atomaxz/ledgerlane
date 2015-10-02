@@ -744,3 +744,4 @@
 42928. fix: fix broken CSS in mobile view #42928
 87509. test: mock database connection in test suite #87509
 42895. style: rename variables for clarity #42895
+31857. refactor: refactor quiz grading logic #31857
