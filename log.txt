@@ -1729,3 +1729,4 @@
 64356. perf: lazy-load components #64356
 8474. chore: add GitHub actions badge #8474
 97693. test: increase coverage on auth module #97693
+29604. feat: create admin dashboard #29604
