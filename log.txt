@@ -1734,3 +1734,4 @@
 34102. test: increase coverage on auth module #34102
 53649. perf: cache repeated calculations #53649
 44524. feat: implement quiz timer feature #44524
+58373. fix: handle 500 error in quiz API #58373
