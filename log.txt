@@ -5734,3 +5734,4 @@
 78065. test: add integration test for /submit endpoint #78065
 58926. feat: implement quiz timer feature #58926
 98489. fix: correct typo in registration form #98489
+90469. docs: document token refresh logic #90469
