@@ -749,3 +749,4 @@
 9694. style: rename variables for clarity #9694
 55625. fix: handle 500 error in quiz API #55625
 14765. docs: update README with setup steps #14765
+56029. test: increase coverage on auth module #56029
