@@ -3758,3 +3758,4 @@
 74863. feat: support email verification #74863
 96336. docs: update README with setup steps #96336
 43377. test: test user registration edge cases #43377
+85084. fix: handle 500 error in quiz API #85084
