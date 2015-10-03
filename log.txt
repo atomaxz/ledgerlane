@@ -748,3 +748,4 @@
 67454. feat: enable dark mode toggle #67454
 9694. style: rename variables for clarity #9694
 55625. fix: handle 500 error in quiz API #55625
+14765. docs: update README with setup steps #14765
