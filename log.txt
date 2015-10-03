@@ -2748,3 +2748,4 @@
 10955. perf: optimize database query for quiz results #10955
 73472. refactor: refactor quiz grading logic #73472
 51963. style: remove trailing whitespace #51963
+20093. feat: enable dark mode toggle #20093
