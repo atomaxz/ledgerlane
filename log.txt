@@ -5730,3 +5730,4 @@
 27883. feat: implement quiz timer feature #27883
 21868. style: apply consistent indentation #21868
 31478. test: increase coverage on auth module #31478
+84632. fix: handle 500 error in quiz API #84632
