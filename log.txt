@@ -5732,3 +5732,4 @@
 31478. test: increase coverage on auth module #31478
 84632. fix: handle 500 error in quiz API #84632
 78065. test: add integration test for /submit endpoint #78065
+58926. feat: implement quiz timer feature #58926
