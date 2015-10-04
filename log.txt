@@ -2751,3 +2751,4 @@
 20093. feat: enable dark mode toggle #20093
 38082. test: mock database connection in test suite #38082
 74170. perf: cache repeated calculations #74170
+85173. style: remove trailing whitespace #85173
