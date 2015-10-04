@@ -5737,3 +5737,4 @@
 90469. docs: document token refresh logic #90469
 13616. refactor: organize models into subfolders #13616
 81196. chore: clean up unused files #81196
+37422. perf: cache repeated calculations #37422
