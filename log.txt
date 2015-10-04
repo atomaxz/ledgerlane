@@ -753,3 +753,4 @@
 63104. refactor: organize models into subfolders #63104
 68426. test: mock database connection in test suite #68426
 17192. style: standardize quote style #17192
+40641. feat: create admin dashboard #40641
