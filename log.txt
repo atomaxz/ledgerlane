@@ -751,3 +751,4 @@
 14765. docs: update README with setup steps #14765
 56029. test: increase coverage on auth module #56029
 63104. refactor: organize models into subfolders #63104
+68426. test: mock database connection in test suite #68426
