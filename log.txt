@@ -1738,3 +1738,4 @@
 56439. perf: optimize database query for quiz results #56439
 46794. chore: bump dependencies #46794
 2896. test: add integration test for /submit endpoint #2896
+96345. refactor: clean up auth middleware #96345
