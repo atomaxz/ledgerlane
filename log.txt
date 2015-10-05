@@ -5739,3 +5739,4 @@
 81196. chore: clean up unused files #81196
 37422. perf: cache repeated calculations #37422
 16127. refactor: split large controller into smaller functions #16127
+79764. test: increase coverage on auth module #79764
