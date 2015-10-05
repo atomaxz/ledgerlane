@@ -2758,3 +2758,4 @@
 39368. feat: implement quiz timer feature #39368
 67717. fix: fix null pointer exception on login #67717
 47071. feat: support email verification #47071
+95094. chore: rename env.example #95094
