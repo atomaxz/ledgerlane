@@ -756,3 +756,4 @@
 40641. feat: create admin dashboard #40641
 50213. fix: fix null pointer exception on login #50213
 49734. style: reformat files with black #49734
+84922. style: rename variables for clarity #84922
