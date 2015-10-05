@@ -1743,3 +1743,4 @@
 47215. docs: improve code comments in utils #47215
 90482. refactor: clean up auth middleware #90482
 5437. feat: create admin dashboard #5437
+13776. test: mock database connection in test suite #13776
