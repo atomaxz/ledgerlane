@@ -4764,3 +4764,4 @@
 28967. refactor: split large controller into smaller functions #28967
 41542. perf: cache repeated calculations #41542
 22588. feat: add export to CSV option #22588
+86682. style: remove trailing whitespace #86682
