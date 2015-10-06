@@ -5743,3 +5743,4 @@
 23743. feat: add export to CSV option #23743
 52222. feat: implement quiz timer feature #52222
 25216. refactor: clean up auth middleware #25216
+46428. chore: add GitHub actions badge #46428
