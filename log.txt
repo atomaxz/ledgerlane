@@ -1747,3 +1747,4 @@
 9583. feat: add user authentication #9583
 56229. docs: update README with setup steps #56229
 15850. perf: cache repeated calculations #15850
+10732. perf: reduce image load time #10732
