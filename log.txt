@@ -5745,3 +5745,4 @@
 25216. refactor: clean up auth middleware #25216
 46428. chore: add GitHub actions badge #46428
 40460. docs: improve code comments in utils #40460
+85940. perf: optimize database query for quiz results #85940
