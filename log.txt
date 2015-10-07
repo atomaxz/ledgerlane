@@ -4765,3 +4765,4 @@
 41542. perf: cache repeated calculations #41542
 22588. feat: add export to CSV option #22588
 86682. style: remove trailing whitespace #86682
+75764. test: increase coverage on auth module #75764
