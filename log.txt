@@ -760,3 +760,4 @@
 84766. docs: document token refresh logic #84766
 98234. style: reformat files with black #98234
 82424. docs: write FAQ section #82424
+30404. docs: update README with setup steps #30404
