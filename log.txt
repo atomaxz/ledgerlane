@@ -1749,3 +1749,4 @@
 15850. perf: cache repeated calculations #15850
 10732. perf: reduce image load time #10732
 4542. style: rename variables for clarity #4542
+8690. refactor: refactor quiz grading logic #8690
