@@ -3771,3 +3771,4 @@
 9663. chore: rename env.example #9663
 71684. test: mock database connection in test suite #71684
 83754. style: standardize quote style #83754
+82384. feat: add user authentication #82384
