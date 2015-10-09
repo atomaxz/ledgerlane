@@ -2765,3 +2765,4 @@
 50736. fix: fix null pointer exception on login #50736
 87101. fix: handle 500 error in quiz API #87101
 91579. docs: document token refresh logic #91579
+16073. test: add integration test for /submit endpoint #16073
