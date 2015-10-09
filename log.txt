@@ -3777,3 +3777,4 @@
 71581. perf: reduce image load time #71581
 17830. docs: clarify environment setup #17830
 48895. fix: fix broken CSS in mobile view #48895
+22189. refactor: organize models into subfolders #22189
