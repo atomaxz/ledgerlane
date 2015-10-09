@@ -3776,3 +3776,4 @@
 99739. style: remove trailing whitespace #99739
 71581. perf: reduce image load time #71581
 17830. docs: clarify environment setup #17830
+48895. fix: fix broken CSS in mobile view #48895
