@@ -1751,3 +1751,4 @@
 4542. style: rename variables for clarity #4542
 8690. refactor: refactor quiz grading logic #8690
 68908. refactor: split large controller into smaller functions #68908
+23888. test: test user registration edge cases #23888
