@@ -2766,3 +2766,4 @@
 87101. fix: handle 500 error in quiz API #87101
 91579. docs: document token refresh logic #91579
 16073. test: add integration test for /submit endpoint #16073
+25461. feat: create admin dashboard #25461
