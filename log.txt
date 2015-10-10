@@ -4774,3 +4774,4 @@
 75885. test: increase coverage on auth module #75885
 18074. feat: add user authentication #18074
 57353. chore: clean up unused files #57353
+40099. style: reformat files with black #40099
