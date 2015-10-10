@@ -4772,3 +4772,4 @@
 75860. perf: optimize database query for quiz results #75860
 46060. feat: support email verification #46060
 75885. test: increase coverage on auth module #75885
+18074. feat: add user authentication #18074
