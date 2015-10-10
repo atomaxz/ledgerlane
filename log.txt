@@ -771,3 +771,4 @@
 91517. docs: add API usage examples #91517
 85825. feat: add export to CSV option #85825
 92664. chore: add GitHub actions badge #92664
+88516. feat: add user authentication #88516
