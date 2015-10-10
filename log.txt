@@ -3782,3 +3782,4 @@
 29912. feat: add user authentication #29912
 63792. refactor: refactor quiz grading logic #63792
 92925. docs: write FAQ section #92925
+11341. perf: lazy-load components #11341
