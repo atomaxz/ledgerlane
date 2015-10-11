@@ -775,3 +775,4 @@
 94417. feat: support email verification #94417
 23320. test: mock database connection in test suite #23320
 15096. refactor: remove redundant code blocks #15096
+87025. refactor: organize models into subfolders #87025
