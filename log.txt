@@ -4777,3 +4777,4 @@
 40099. style: reformat files with black #40099
 29189. feat: implement quiz timer feature #29189
 52018. style: standardize quote style #52018
+90698. test: increase coverage on auth module #90698
