@@ -4780,3 +4780,4 @@
 90698. test: increase coverage on auth module #90698
 96909. feat: create admin dashboard #96909
 41397. test: mock database connection in test suite #41397
+73309. fix: correct typo in registration form #73309
