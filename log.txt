@@ -774,3 +774,4 @@
 88516. feat: add user authentication #88516
 94417. feat: support email verification #94417
 23320. test: mock database connection in test suite #23320
+15096. refactor: remove redundant code blocks #15096
