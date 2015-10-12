@@ -3786,3 +3786,4 @@
 96792. chore: clean up unused files #96792
 35318. docs: add API usage examples #35318
 56034. chore: add GitHub actions badge #56034
+21540. perf: lazy-load components #21540
