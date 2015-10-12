@@ -1758,3 +1758,4 @@
 28001. feat: add user authentication #28001
 77572. perf: cache repeated calculations #77572
 93501. style: rename variables for clarity #93501
+0217. fix: correct typo in registration form #217
