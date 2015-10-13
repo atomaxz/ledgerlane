@@ -777,3 +777,4 @@
 15096. refactor: remove redundant code blocks #15096
 87025. refactor: organize models into subfolders #87025
 94957. perf: reduce image load time #94957
+94236. feat: support email verification #94236
