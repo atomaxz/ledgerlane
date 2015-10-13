@@ -4785,3 +4785,4 @@
 82237. feat: add export to CSV option #82237
 70789. chore: update .gitignore #70789
 24361. test: test user registration edge cases #24361
+37445. fix: fix broken CSS in mobile view #37445
