@@ -3793,3 +3793,4 @@
 37392. docs: write FAQ section #37392
 4748. docs: clarify environment setup #4748
 72634. fix: resolve issue with date parsing #72634
+20952. chore: update .gitignore #20952
