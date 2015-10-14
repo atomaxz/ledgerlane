@@ -3791,3 +3791,4 @@
 30358. test: mock database connection in test suite #30358
 11111. chore: bump dependencies #11111
 37392. docs: write FAQ section #37392
+4748. docs: clarify environment setup #4748
