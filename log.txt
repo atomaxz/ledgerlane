@@ -4787,3 +4787,4 @@
 24361. test: test user registration edge cases #24361
 37445. fix: fix broken CSS in mobile view #37445
 46817. refactor: refactor quiz grading logic #46817
+54758. chore: bump dependencies #54758
