@@ -1767,3 +1767,4 @@
 11816. chore: bump dependencies #11816
 48992. style: reformat files with black #48992
 45307. test: add integration test for /submit endpoint #45307
+91928. style: remove trailing whitespace #91928
