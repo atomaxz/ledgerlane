@@ -2780,3 +2780,4 @@
 43127. style: apply consistent indentation #43127
 88831. style: standardize quote style #88831
 5511. refactor: remove redundant code blocks #5511
+90488. chore: bump dependencies #90488
