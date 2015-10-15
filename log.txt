@@ -2782,3 +2782,4 @@
 5511. refactor: remove redundant code blocks #5511
 90488. chore: bump dependencies #90488
 80281. test: mock database connection in test suite #80281
+89118. fix: fix null pointer exception on login #89118
