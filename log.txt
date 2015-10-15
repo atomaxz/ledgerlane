@@ -4795,3 +4795,4 @@
 54013. feat: enable dark mode toggle #54013
 79877. test: add integration test for /submit endpoint #79877
 69055. fix: fix null pointer exception on login #69055
+79969. test: mock database connection in test suite #79969
