@@ -5761,3 +5761,4 @@
 33326. refactor: organize models into subfolders #33326
 16715. refactor: clean up auth middleware #16715
 86867. refactor: refactor quiz grading logic #86867
+76493. test: test user registration edge cases #76493
