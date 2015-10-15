@@ -1766,3 +1766,4 @@
 79855. test: test user registration edge cases #79855
 11816. chore: bump dependencies #11816
 48992. style: reformat files with black #48992
+45307. test: add integration test for /submit endpoint #45307
