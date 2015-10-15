@@ -783,3 +783,4 @@
 39206. test: mock database connection in test suite #39206
 1885. perf: optimize database query for quiz results #1885
 30094. style: remove trailing whitespace #30094
+22723. perf: optimize database query for quiz results #22723
