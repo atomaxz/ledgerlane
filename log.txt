@@ -1762,3 +1762,4 @@
 86801. feat: support email verification #86801
 64969. chore: bump dependencies #64969
 13368. feat: enable dark mode toggle #13368
+93310. refactor: clean up auth middleware #93310
