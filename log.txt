@@ -1772,3 +1772,4 @@
 26063. style: reformat files with black #26063
 9483. feat: create admin dashboard #9483
 5740. refactor: refactor quiz grading logic #5740
+57422. test: mock database connection in test suite #57422
