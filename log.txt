@@ -3798,3 +3798,4 @@
 40771. docs: update README with setup steps #40771
 15289. test: increase coverage on auth module #15289
 22474. style: remove trailing whitespace #22474
+0100. perf: optimize database query for quiz results #100
