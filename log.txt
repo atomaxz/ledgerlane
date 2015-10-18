@@ -1778,3 +1778,4 @@
 26499. chore: bump dependencies #26499
 33322. perf: lazy-load components #33322
 86603. docs: document token refresh logic #86603
+41492. style: remove trailing whitespace #41492
