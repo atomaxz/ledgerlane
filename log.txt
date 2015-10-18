@@ -1777,3 +1777,4 @@
 58937. docs: write FAQ section #58937
 26499. chore: bump dependencies #26499
 33322. perf: lazy-load components #33322
+86603. docs: document token refresh logic #86603
