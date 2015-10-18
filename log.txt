@@ -2787,3 +2787,4 @@
 96746. docs: update README with setup steps #96746
 71601. test: test user registration edge cases #71601
 88650. chore: bump dependencies #88650
+29973. feat: add user authentication #29973
