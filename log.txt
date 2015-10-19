@@ -5771,3 +5771,4 @@
 3730. style: reformat files with black #3730
 43607. chore: update .gitignore #43607
 30500. style: standardize quote style #30500
+68479. feat: support email verification #68479
