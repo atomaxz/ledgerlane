@@ -5772,3 +5772,4 @@
 43607. chore: update .gitignore #43607
 30500. style: standardize quote style #30500
 68479. feat: support email verification #68479
+37041. perf: lazy-load components #37041
