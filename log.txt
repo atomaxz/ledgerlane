@@ -2792,3 +2792,4 @@
 33931. test: mock database connection in test suite #33931
 41965. style: apply consistent indentation #41965
 10939. test: mock database connection in test suite #10939
+25972. chore: bump dependencies #25972
