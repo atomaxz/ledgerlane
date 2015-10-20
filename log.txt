@@ -1786,3 +1786,4 @@
 90122. refactor: split large controller into smaller functions #90122
 49049. style: remove trailing whitespace #49049
 23990. feat: create admin dashboard #23990
+43210. fix: fix broken CSS in mobile view #43210
