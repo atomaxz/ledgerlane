@@ -794,3 +794,4 @@
 95743. feat: enable dark mode toggle #95743
 93033. chore: rename env.example #93033
 36309. fix: resolve issue with date parsing #36309
+8860. feat: create admin dashboard #8860
