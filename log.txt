@@ -5774,3 +5774,4 @@
 68479. feat: support email verification #68479
 37041. perf: lazy-load components #37041
 10114. test: add unit test for quiz service #10114
+76762. fix: handle 500 error in quiz API #76762
