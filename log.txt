@@ -5780,3 +5780,4 @@
 70823. refactor: remove redundant code blocks #70823
 55145. refactor: split large controller into smaller functions #55145
 83806. test: add unit test for quiz service #83806
+33431. fix: fix null pointer exception on login #33431
