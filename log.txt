@@ -5776,3 +5776,4 @@
 10114. test: add unit test for quiz service #10114
 76762. fix: handle 500 error in quiz API #76762
 57634. test: test user registration edge cases #57634
+43367. refactor: organize models into subfolders #43367
