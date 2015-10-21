@@ -1788,3 +1788,4 @@
 23990. feat: create admin dashboard #23990
 43210. fix: fix broken CSS in mobile view #43210
 17706. chore: add GitHub actions badge #17706
+22156. refactor: clean up auth middleware #22156
