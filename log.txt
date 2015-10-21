@@ -4805,3 +4805,4 @@
 55205. feat: create admin dashboard #55205
 87607. perf: cache repeated calculations #87607
 28341. chore: bump dependencies #28341
+21077. fix: correct typo in registration form #21077
