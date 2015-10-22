@@ -1792,3 +1792,4 @@
 90047. style: apply consistent indentation #90047
 23550. refactor: split large controller into smaller functions #23550
 83853. perf: lazy-load components #83853
+22520. test: add unit test for quiz service #22520
