@@ -1789,3 +1789,4 @@
 43210. fix: fix broken CSS in mobile view #43210
 17706. chore: add GitHub actions badge #17706
 22156. refactor: clean up auth middleware #22156
+90047. style: apply consistent indentation #90047
