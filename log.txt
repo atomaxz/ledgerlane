@@ -2800,3 +2800,4 @@
 2850. docs: update README with setup steps #2850
 80406. test: add unit test for quiz service #80406
 3251. feat: add user authentication #3251
+78651. chore: clean up unused files #78651
