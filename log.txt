@@ -2801,3 +2801,4 @@
 80406. test: add unit test for quiz service #80406
 3251. feat: add user authentication #3251
 78651. chore: clean up unused files #78651
+24774. test: test user registration edge cases #24774
