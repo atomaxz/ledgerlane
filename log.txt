@@ -5782,3 +5782,4 @@
 83806. test: add unit test for quiz service #83806
 33431. fix: fix null pointer exception on login #33431
 29646. docs: add API usage examples #29646
+41243. perf: optimize database query for quiz results #41243
