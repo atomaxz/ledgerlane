@@ -798,3 +798,4 @@
 83352. fix: fix null pointer exception on login #83352
 95595. test: mock database connection in test suite #95595
 56320. refactor: split large controller into smaller functions #56320
+59740. refactor: clean up auth middleware #59740
