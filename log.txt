@@ -1795,3 +1795,4 @@
 22520. test: add unit test for quiz service #22520
 77558. refactor: remove redundant code blocks #77558
 89393. refactor: split large controller into smaller functions #89393
+72733. docs: write FAQ section #72733
