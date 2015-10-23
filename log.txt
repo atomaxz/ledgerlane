@@ -2806,3 +2806,4 @@
 12085. fix: resolve issue with date parsing #12085
 31738. chore: update .gitignore #31738
 73952. test: add unit test for quiz service #73952
+83563. fix: fix broken CSS in mobile view #83563
