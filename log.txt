@@ -4807,3 +4807,4 @@
 28341. chore: bump dependencies #28341
 21077. fix: correct typo in registration form #21077
 32886. fix: handle 500 error in quiz API #32886
+41094. test: mock database connection in test suite #41094
