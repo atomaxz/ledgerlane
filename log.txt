@@ -1798,3 +1798,4 @@
 72733. docs: write FAQ section #72733
 60065. docs: improve code comments in utils #60065
 25786. style: reformat files with black #25786
+83483. test: mock database connection in test suite #83483
