@@ -2810,3 +2810,4 @@
 36961. feat: enable dark mode toggle #36961
 74201. fix: resolve issue with date parsing #74201
 61551. chore: bump dependencies #61551
+22830. perf: optimize database query for quiz results #22830
