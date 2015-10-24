@@ -5785,3 +5785,4 @@
 41243. perf: optimize database query for quiz results #41243
 45784. feat: support email verification #45784
 15204. chore: bump dependencies #15204
+8955. test: add unit test for quiz service #8955
