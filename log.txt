@@ -799,3 +799,4 @@
 95595. test: mock database connection in test suite #95595
 56320. refactor: split large controller into smaller functions #56320
 59740. refactor: clean up auth middleware #59740
+91528. perf: lazy-load components #91528
