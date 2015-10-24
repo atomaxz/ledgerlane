@@ -2807,3 +2807,4 @@
 31738. chore: update .gitignore #31738
 73952. test: add unit test for quiz service #73952
 83563. fix: fix broken CSS in mobile view #83563
+36961. feat: enable dark mode toggle #36961
