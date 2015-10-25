@@ -2814,3 +2814,4 @@
 60369. docs: add API usage examples #60369
 39802. feat: add export to CSV option #39802
 82210. fix: fix null pointer exception on login #82210
+98221. chore: rename env.example #98221
