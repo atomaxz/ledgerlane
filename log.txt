@@ -803,3 +803,4 @@
 61602. perf: optimize database query for quiz results #61602
 59972. refactor: organize models into subfolders #59972
 7374. feat: add user authentication #7374
+22860. test: mock database connection in test suite #22860
