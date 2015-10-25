@@ -2812,3 +2812,4 @@
 61551. chore: bump dependencies #61551
 22830. perf: optimize database query for quiz results #22830
 60369. docs: add API usage examples #60369
+39802. feat: add export to CSV option #39802
