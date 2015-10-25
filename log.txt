@@ -2816,3 +2816,4 @@
 82210. fix: fix null pointer exception on login #82210
 98221. chore: rename env.example #98221
 83094. perf: optimize database query for quiz results #83094
+9922. test: mock database connection in test suite #9922
