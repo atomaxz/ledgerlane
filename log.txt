@@ -1802,3 +1802,4 @@
 26521. feat: add user authentication #26521
 31532. chore: add GitHub actions badge #31532
 70587. fix: correct typo in registration form #70587
+26549. fix: fix broken CSS in mobile view #26549
