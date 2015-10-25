@@ -3821,3 +3821,4 @@
 94152. fix: fix broken CSS in mobile view #94152
 7360. style: apply consistent indentation #7360
 52545. fix: fix broken CSS in mobile view #52545
+74501. docs: write FAQ section #74501
