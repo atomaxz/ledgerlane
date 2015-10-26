@@ -5789,3 +5789,4 @@
 57674. chore: rename env.example #57674
 64477. perf: optimize database query for quiz results #64477
 4211. perf: optimize database query for quiz results #4211
+56379. test: increase coverage on auth module #56379
