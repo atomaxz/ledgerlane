@@ -3823,3 +3823,4 @@
 52545. fix: fix broken CSS in mobile view #52545
 74501. docs: write FAQ section #74501
 31212. test: add unit test for quiz service #31212
+81998. test: test user registration edge cases #81998
