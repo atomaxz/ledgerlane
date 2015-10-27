@@ -5800,3 +5800,4 @@
 32319. style: reformat files with black #32319
 66759. feat: enable dark mode toggle #66759
 53585. style: remove trailing whitespace #53585
+48528. test: test user registration edge cases #48528
