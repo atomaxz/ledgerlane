@@ -808,3 +808,4 @@
 5234. feat: support email verification #5234
 64328. perf: reduce image load time #64328
 76287. perf: lazy-load components #76287
+87165. refactor: remove redundant code blocks #87165
