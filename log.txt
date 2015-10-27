@@ -5798,3 +5798,4 @@
 51893. chore: rename env.example #51893
 50355. refactor: refactor quiz grading logic #50355
 32319. style: reformat files with black #32319
+66759. feat: enable dark mode toggle #66759
