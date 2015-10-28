@@ -1809,3 +1809,4 @@
 24212. chore: rename env.example #24212
 69372. test: add unit test for quiz service #69372
 90451. perf: optimize database query for quiz results #90451
+48228. perf: reduce image load time #48228
