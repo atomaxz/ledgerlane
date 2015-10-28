@@ -4819,3 +4819,4 @@
 60968. fix: resolve issue with date parsing #60968
 87990. style: reformat files with black #87990
 53580. style: remove trailing whitespace #53580
+61106. perf: reduce image load time #61106
