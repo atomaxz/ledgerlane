@@ -3829,3 +3829,4 @@
 30669. feat: create admin dashboard #30669
 52937. perf: lazy-load components #52937
 18527. refactor: split large controller into smaller functions #18527
+54793. chore: update .gitignore #54793
