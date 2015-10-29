@@ -1812,3 +1812,4 @@
 48228. perf: reduce image load time #48228
 81691. perf: lazy-load components #81691
 34728. perf: cache repeated calculations #34728
+15106. docs: clarify environment setup #15106
