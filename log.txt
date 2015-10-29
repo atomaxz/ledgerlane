@@ -1810,3 +1810,4 @@
 69372. test: add unit test for quiz service #69372
 90451. perf: optimize database query for quiz results #90451
 48228. perf: reduce image load time #48228
+81691. perf: lazy-load components #81691
