@@ -814,3 +814,4 @@
 20018. fix: fix null pointer exception on login #20018
 5326. feat: enable dark mode toggle #5326
 52019. docs: clarify environment setup #52019
+77687. perf: lazy-load components #77687
