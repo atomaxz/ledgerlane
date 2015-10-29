@@ -2825,3 +2825,4 @@
 12452. fix: fix null pointer exception on login #12452
 25858. refactor: remove redundant code blocks #25858
 1914. perf: cache repeated calculations #1914
+27377. fix: handle 500 error in quiz API #27377
