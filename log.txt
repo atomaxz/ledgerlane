@@ -812,3 +812,4 @@
 9386. feat: create admin dashboard #9386
 24921. chore: clean up unused files #24921
 20018. fix: fix null pointer exception on login #20018
+5326. feat: enable dark mode toggle #5326
