@@ -821,3 +821,4 @@
 31845. fix: fix broken CSS in mobile view #31845
 73268. docs: update README with setup steps #73268
 81125. docs: write FAQ section #81125
+91285. feat: support email verification #91285
