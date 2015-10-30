@@ -2829,3 +2829,4 @@
 82997. fix: prevent crash on empty input #82997
 93587. test: add unit test for quiz service #93587
 48374. chore: update .gitignore #48374
+11547. feat: add export to CSV option #11547
