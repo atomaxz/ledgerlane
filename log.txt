@@ -816,3 +816,4 @@
 52019. docs: clarify environment setup #52019
 77687. perf: lazy-load components #77687
 68634. refactor: remove redundant code blocks #68634
+27310. perf: reduce image load time #27310
