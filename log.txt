@@ -2827,3 +2827,4 @@
 1914. perf: cache repeated calculations #1914
 27377. fix: handle 500 error in quiz API #27377
 82997. fix: prevent crash on empty input #82997
+93587. test: add unit test for quiz service #93587
