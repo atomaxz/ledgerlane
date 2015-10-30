@@ -2828,3 +2828,4 @@
 27377. fix: handle 500 error in quiz API #27377
 82997. fix: prevent crash on empty input #82997
 93587. test: add unit test for quiz service #93587
+48374. chore: update .gitignore #48374
