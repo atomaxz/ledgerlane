@@ -4828,3 +4828,4 @@
 62399. chore: add GitHub actions badge #62399
 63983. chore: rename env.example #63983
 24647. docs: write FAQ section #24647
+35565. style: standardize quote style #35565
