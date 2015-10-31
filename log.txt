@@ -822,3 +822,4 @@
 73268. docs: update README with setup steps #73268
 81125. docs: write FAQ section #81125
 91285. feat: support email verification #91285
+3569. style: standardize quote style #3569
