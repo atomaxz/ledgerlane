@@ -5807,3 +5807,4 @@
 35015. perf: reduce image load time #35015
 60431. test: add unit test for quiz service #60431
 60981. test: increase coverage on auth module #60981
+58350. feat: implement quiz timer feature #58350
