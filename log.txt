@@ -5811,3 +5811,4 @@
 72070. perf: optimize database query for quiz results #72070
 82580. style: reformat files with black #82580
 91101. test: add unit test for quiz service #91101
+85448. test: increase coverage on auth module #85448
