@@ -5809,3 +5809,4 @@
 60981. test: increase coverage on auth module #60981
 58350. feat: implement quiz timer feature #58350
 72070. perf: optimize database query for quiz results #72070
+82580. style: reformat files with black #82580
