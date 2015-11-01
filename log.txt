@@ -825,3 +825,4 @@
 3569. style: standardize quote style #3569
 39685. refactor: refactor quiz grading logic #39685
 55251. docs: document token refresh logic #55251
+48037. fix: correct typo in registration form #48037
