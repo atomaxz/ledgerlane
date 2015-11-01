@@ -2836,3 +2836,4 @@
 38044. feat: create admin dashboard #38044
 23995. feat: add export to CSV option #23995
 78915. test: mock database connection in test suite #78915
+36686. test: add integration test for /submit endpoint #36686
