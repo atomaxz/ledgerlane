@@ -828,3 +828,4 @@
 48037. fix: correct typo in registration form #48037
 37773. docs: write FAQ section #37773
 77977. test: add unit test for quiz service #77977
+17634. feat: support email verification #17634
