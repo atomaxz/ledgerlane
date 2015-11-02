@@ -830,3 +830,4 @@
 77977. test: add unit test for quiz service #77977
 17634. feat: support email verification #17634
 44314. fix: prevent crash on empty input #44314
+6708. docs: document token refresh logic #6708
