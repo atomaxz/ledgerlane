@@ -3838,3 +3838,4 @@
 54089. docs: improve code comments in utils #54089
 68627. chore: update .gitignore #68627
 10731. test: add integration test for /submit endpoint #10731
+26707. test: increase coverage on auth module #26707
