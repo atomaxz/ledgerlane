@@ -3839,3 +3839,4 @@
 68627. chore: update .gitignore #68627
 10731. test: add integration test for /submit endpoint #10731
 26707. test: increase coverage on auth module #26707
+27473. style: apply consistent indentation #27473
