@@ -3840,3 +3840,4 @@
 10731. test: add integration test for /submit endpoint #10731
 26707. test: increase coverage on auth module #26707
 27473. style: apply consistent indentation #27473
+53053. fix: prevent crash on empty input #53053
