@@ -3842,3 +3842,4 @@
 27473. style: apply consistent indentation #27473
 53053. fix: prevent crash on empty input #53053
 70513. chore: bump dependencies #70513
+64750. feat: support email verification #64750
