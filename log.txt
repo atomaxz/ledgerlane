@@ -3843,3 +3843,4 @@
 53053. fix: prevent crash on empty input #53053
 70513. chore: bump dependencies #70513
 64750. feat: support email verification #64750
+33361. test: test user registration edge cases #33361
