@@ -1830,3 +1830,4 @@
 49581. chore: rename env.example #49581
 2630. feat: enable dark mode toggle #2630
 14213. docs: improve code comments in utils #14213
+33107. test: increase coverage on auth module #33107
