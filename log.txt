@@ -5820,3 +5820,4 @@
 44611. style: apply consistent indentation #44611
 8158. chore: rename env.example #8158
 92823. feat: add export to CSV option #92823
+24796. perf: cache repeated calculations #24796
