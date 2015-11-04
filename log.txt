@@ -2846,3 +2846,4 @@
 63040. fix: correct typo in registration form #63040
 75503. docs: add API usage examples #75503
 65529. chore: add GitHub actions badge #65529
+77640. feat: support email verification #77640
