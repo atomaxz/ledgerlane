@@ -3849,3 +3849,4 @@
 77859. test: increase coverage on auth module #77859
 32671. style: remove trailing whitespace #32671
 95268. style: rename variables for clarity #95268
+4759. perf: optimize database query for quiz results #4759
