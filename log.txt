@@ -2847,3 +2847,4 @@
 75503. docs: add API usage examples #75503
 65529. chore: add GitHub actions badge #65529
 77640. feat: support email verification #77640
+65394. chore: bump dependencies #65394
