@@ -4836,3 +4836,4 @@
 39003. chore: update .gitignore #39003
 70406. test: mock database connection in test suite #70406
 57017. chore: add GitHub actions badge #57017
+75614. perf: optimize database query for quiz results #75614
