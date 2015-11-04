@@ -3847,3 +3847,4 @@
 7552. docs: improve code comments in utils #7552
 23725. perf: cache repeated calculations #23725
 77859. test: increase coverage on auth module #77859
+32671. style: remove trailing whitespace #32671
