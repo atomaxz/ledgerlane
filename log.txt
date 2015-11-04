@@ -5821,3 +5821,4 @@
 8158. chore: rename env.example #8158
 92823. feat: add export to CSV option #92823
 24796. perf: cache repeated calculations #24796
+53949. chore: update .gitignore #53949
