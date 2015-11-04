@@ -2845,3 +2845,4 @@
 20230. test: test user registration edge cases #20230
 63040. fix: correct typo in registration form #63040
 75503. docs: add API usage examples #75503
+65529. chore: add GitHub actions badge #65529
