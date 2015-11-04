@@ -834,3 +834,4 @@
 81526. test: add integration test for /submit endpoint #81526
 8553. perf: cache repeated calculations #8553
 8693. fix: resolve issue with date parsing #8693
+32642. feat: add export to CSV option #32642
