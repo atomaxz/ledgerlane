@@ -4845,3 +4845,4 @@
 67314. docs: improve code comments in utils #67314
 58564. fix: correct typo in registration form #58564
 28355. chore: add GitHub actions badge #28355
+74149. docs: update README with setup steps #74149
