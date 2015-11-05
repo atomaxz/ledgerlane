@@ -1835,3 +1835,4 @@
 68248. refactor: split large controller into smaller functions #68248
 66818. fix: correct typo in registration form #66818
 25782. docs: clarify environment setup #25782
+30551. chore: rename env.example #30551
