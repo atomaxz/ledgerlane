@@ -4843,3 +4843,4 @@
 75303. refactor: clean up auth middleware #75303
 99702. chore: bump dependencies #99702
 67314. docs: improve code comments in utils #67314
+58564. fix: correct typo in registration form #58564
