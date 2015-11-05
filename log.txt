@@ -3854,3 +3854,4 @@
 75730. refactor: remove redundant code blocks #75730
 76821. style: remove trailing whitespace #76821
 86577. perf: cache repeated calculations #86577
+41390. refactor: clean up auth middleware #41390
