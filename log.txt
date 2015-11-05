@@ -4844,3 +4844,4 @@
 99702. chore: bump dependencies #99702
 67314. docs: improve code comments in utils #67314
 58564. fix: correct typo in registration form #58564
+28355. chore: add GitHub actions badge #28355
