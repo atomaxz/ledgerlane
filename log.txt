@@ -2849,3 +2849,4 @@
 77640. feat: support email verification #77640
 65394. chore: bump dependencies #65394
 82897. style: apply consistent indentation #82897
+50164. feat: add user authentication #50164
