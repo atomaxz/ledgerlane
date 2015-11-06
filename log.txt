@@ -2852,3 +2852,4 @@
 50164. feat: add user authentication #50164
 16847. fix: resolve issue with date parsing #16847
 40832. style: standardize quote style #40832
+87993. fix: prevent crash on empty input #87993
