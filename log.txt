@@ -837,3 +837,4 @@
 32642. feat: add export to CSV option #32642
 65760. fix: prevent crash on empty input #65760
 42371. chore: add GitHub actions badge #42371
+46711. style: reformat files with black #46711
