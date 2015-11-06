@@ -5825,3 +5825,4 @@
 69745. perf: cache repeated calculations #69745
 49183. feat: support email verification #49183
 19254. test: mock database connection in test suite #19254
+79533. refactor: organize models into subfolders #79533
