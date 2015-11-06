@@ -1838,3 +1838,4 @@
 30551. chore: rename env.example #30551
 69411. fix: handle 500 error in quiz API #69411
 83064. refactor: remove redundant code blocks #83064
+17454. test: increase coverage on auth module #17454
