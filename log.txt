@@ -3856,3 +3856,4 @@
 86577. perf: cache repeated calculations #86577
 41390. refactor: clean up auth middleware #41390
 71224. fix: fix broken CSS in mobile view #71224
+99556. docs: update README with setup steps #99556
