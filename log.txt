@@ -3857,3 +3857,4 @@
 41390. refactor: clean up auth middleware #41390
 71224. fix: fix broken CSS in mobile view #71224
 99556. docs: update README with setup steps #99556
+94565. fix: fix null pointer exception on login #94565
