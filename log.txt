@@ -836,3 +836,4 @@
 8693. fix: resolve issue with date parsing #8693
 32642. feat: add export to CSV option #32642
 65760. fix: prevent crash on empty input #65760
+42371. chore: add GitHub actions badge #42371
