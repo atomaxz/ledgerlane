@@ -5827,3 +5827,4 @@
 19254. test: mock database connection in test suite #19254
 79533. refactor: organize models into subfolders #79533
 38756. feat: add user authentication #38756
+15472. refactor: clean up auth middleware #15472
