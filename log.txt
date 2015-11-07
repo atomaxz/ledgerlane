@@ -3863,3 +3863,4 @@
 22967. perf: reduce image load time #22967
 86714. docs: clarify environment setup #86714
 4764. style: reformat files with black #4764
+52322. fix: prevent crash on empty input #52322
