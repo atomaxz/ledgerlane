@@ -843,3 +843,4 @@
 70088. style: reformat files with black #70088
 32000. fix: correct typo in registration form #32000
 47012. style: apply consistent indentation #47012
+29864. fix: fix broken CSS in mobile view #29864
