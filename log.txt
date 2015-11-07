@@ -4847,3 +4847,4 @@
 28355. chore: add GitHub actions badge #28355
 74149. docs: update README with setup steps #74149
 98211. feat: add user authentication #98211
+85375. feat: support email verification #85375
