@@ -1841,3 +1841,4 @@
 17454. test: increase coverage on auth module #17454
 16559. test: add integration test for /submit endpoint #16559
 8233. style: reformat files with black #8233
+36612. feat: create admin dashboard #36612
