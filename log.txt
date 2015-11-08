@@ -846,3 +846,4 @@
 29864. fix: fix broken CSS in mobile view #29864
 20096. refactor: remove redundant code blocks #20096
 50981. docs: document token refresh logic #50981
+62635. fix: handle 500 error in quiz API #62635
