@@ -3865,3 +3865,4 @@
 4764. style: reformat files with black #4764
 52322. fix: prevent crash on empty input #52322
 89630. test: increase coverage on auth module #89630
+25892. refactor: clean up auth middleware #25892
