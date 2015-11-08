@@ -845,3 +845,4 @@
 47012. style: apply consistent indentation #47012
 29864. fix: fix broken CSS in mobile view #29864
 20096. refactor: remove redundant code blocks #20096
+50981. docs: document token refresh logic #50981
