@@ -5829,3 +5829,4 @@
 38756. feat: add user authentication #38756
 15472. refactor: clean up auth middleware #15472
 45484. refactor: refactor quiz grading logic #45484
+53419. refactor: clean up auth middleware #53419
