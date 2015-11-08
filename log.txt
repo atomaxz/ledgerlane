@@ -1846,3 +1846,4 @@
 7108. docs: update README with setup steps #7108
 30430. test: increase coverage on auth module #30430
 88325. style: reformat files with black #88325
+34381. test: test user registration edge cases #34381
