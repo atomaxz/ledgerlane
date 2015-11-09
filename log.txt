@@ -2856,3 +2856,4 @@
 41214. docs: improve code comments in utils #41214
 25964. fix: correct typo in registration form #25964
 17309. perf: reduce image load time #17309
+70576. test: mock database connection in test suite #70576
