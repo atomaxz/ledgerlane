@@ -5830,3 +5830,4 @@
 15472. refactor: clean up auth middleware #15472
 45484. refactor: refactor quiz grading logic #45484
 53419. refactor: clean up auth middleware #53419
+1339. perf: lazy-load components #1339
