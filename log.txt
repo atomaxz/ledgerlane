@@ -3867,3 +3867,4 @@
 89630. test: increase coverage on auth module #89630
 25892. refactor: clean up auth middleware #25892
 93581. chore: add GitHub actions badge #93581
+40921. test: add unit test for quiz service #40921
