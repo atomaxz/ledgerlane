@@ -4852,3 +4852,4 @@
 90147. refactor: remove redundant code blocks #90147
 29250. docs: document token refresh logic #29250
 19144. perf: reduce image load time #19144
+61818. fix: fix broken CSS in mobile view #61818
