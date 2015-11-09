@@ -1848,3 +1848,4 @@
 88325. style: reformat files with black #88325
 34381. test: test user registration edge cases #34381
 20837. style: rename variables for clarity #20837
+38289. chore: add GitHub actions badge #38289
