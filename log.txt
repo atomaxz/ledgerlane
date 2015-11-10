@@ -849,3 +849,4 @@
 62635. fix: handle 500 error in quiz API #62635
 92889. perf: optimize database query for quiz results #92889
 1703. docs: document token refresh logic #1703
+76250. test: add integration test for /submit endpoint #76250
