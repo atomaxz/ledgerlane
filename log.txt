@@ -3870,3 +3870,4 @@
 40921. test: add unit test for quiz service #40921
 99613. fix: prevent crash on empty input #99613
 54400. perf: optimize database query for quiz results #54400
+15388. perf: lazy-load components #15388
