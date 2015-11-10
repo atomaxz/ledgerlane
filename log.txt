@@ -5837,3 +5837,4 @@
 34891. refactor: refactor quiz grading logic #34891
 67406. feat: add export to CSV option #67406
 26859. feat: implement quiz timer feature #26859
+5538. style: remove trailing whitespace #5538
