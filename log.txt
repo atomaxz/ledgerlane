@@ -5839,3 +5839,4 @@
 26859. feat: implement quiz timer feature #26859
 5538. style: remove trailing whitespace #5538
 60462. chore: update .gitignore #60462
+30305. chore: rename env.example #30305
