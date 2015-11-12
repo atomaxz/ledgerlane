@@ -1858,3 +1858,4 @@
 76970. feat: add user authentication #76970
 49915. chore: add GitHub actions badge #49915
 70708. feat: add user authentication #70708
+33695. perf: lazy-load components #33695
