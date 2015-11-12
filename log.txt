@@ -2863,3 +2863,4 @@
 91815. chore: bump dependencies #91815
 66674. docs: write FAQ section #66674
 64239. refactor: remove redundant code blocks #64239
+34705. chore: rename env.example #34705
