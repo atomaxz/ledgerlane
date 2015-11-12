@@ -2864,3 +2864,4 @@
 66674. docs: write FAQ section #66674
 64239. refactor: remove redundant code blocks #64239
 34705. chore: rename env.example #34705
+47601. test: add integration test for /submit endpoint #47601
