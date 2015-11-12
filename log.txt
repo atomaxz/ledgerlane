@@ -1855,3 +1855,4 @@
 56846. fix: handle 500 error in quiz API #56846
 48274. style: standardize quote style #48274
 69406. test: mock database connection in test suite #69406
+76970. feat: add user authentication #76970
