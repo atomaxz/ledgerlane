@@ -4863,3 +4863,4 @@
 62924. fix: prevent crash on empty input #62924
 6861. docs: clarify environment setup #6861
 66203. test: add unit test for quiz service #66203
+26287. fix: correct typo in registration form #26287
