@@ -2866,3 +2866,4 @@
 34705. chore: rename env.example #34705
 47601. test: add integration test for /submit endpoint #47601
 19646. docs: update README with setup steps #19646
+8059. style: reformat files with black #8059
