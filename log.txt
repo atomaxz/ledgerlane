@@ -4865,3 +4865,4 @@
 66203. test: add unit test for quiz service #66203
 26287. fix: correct typo in registration form #26287
 14584. fix: fix null pointer exception on login #14584
+5050. chore: add GitHub actions badge #5050
