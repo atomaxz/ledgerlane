@@ -3877,3 +3877,4 @@
 30291. test: test user registration edge cases #30291
 12887. refactor: clean up auth middleware #12887
 49224. fix: handle 500 error in quiz API #49224
+41072. style: apply consistent indentation #41072
