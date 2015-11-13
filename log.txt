@@ -3875,3 +3875,4 @@
 19682. chore: update .gitignore #19682
 82887. docs: clarify environment setup #82887
 30291. test: test user registration edge cases #30291
+12887. refactor: clean up auth middleware #12887
