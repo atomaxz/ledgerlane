@@ -5848,3 +5848,4 @@
 5747. refactor: clean up auth middleware #5747
 44930. docs: update README with setup steps #44930
 33873. perf: reduce image load time #33873
+92872. fix: fix null pointer exception on login #92872
