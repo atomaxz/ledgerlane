@@ -4871,3 +4871,4 @@
 96238. refactor: remove redundant code blocks #96238
 5545. fix: fix broken CSS in mobile view #5545
 44383. docs: document token refresh logic #44383
+60032. docs: write FAQ section #60032
