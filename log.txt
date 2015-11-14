@@ -5846,3 +5846,4 @@
 62515. docs: write FAQ section #62515
 81078. test: increase coverage on auth module #81078
 5747. refactor: clean up auth middleware #5747
+44930. docs: update README with setup steps #44930
