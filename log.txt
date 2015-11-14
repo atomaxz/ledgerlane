@@ -2870,3 +2870,4 @@
 53638. feat: enable dark mode toggle #53638
 67445. docs: improve code comments in utils #67445
 29702. perf: cache repeated calculations #29702
+41812. docs: document token refresh logic #41812
