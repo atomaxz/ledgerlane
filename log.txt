@@ -3881,3 +3881,4 @@
 97610. style: standardize quote style #97610
 76586. refactor: split large controller into smaller functions #76586
 84062. style: rename variables for clarity #84062
+69777. fix: prevent crash on empty input #69777
