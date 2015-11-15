@@ -861,3 +861,4 @@
 23180. style: remove trailing whitespace #23180
 51365. refactor: remove redundant code blocks #51365
 13094. test: mock database connection in test suite #13094
+97244. style: remove trailing whitespace #97244
