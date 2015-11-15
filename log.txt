@@ -4873,3 +4873,4 @@
 44383. docs: document token refresh logic #44383
 60032. docs: write FAQ section #60032
 78026. fix: prevent crash on empty input #78026
+75199. test: test user registration edge cases #75199
