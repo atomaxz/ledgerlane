@@ -864,3 +864,4 @@
 97244. style: remove trailing whitespace #97244
 0199. docs: add API usage examples #199
 16215. docs: write FAQ section #16215
+33911. test: test user registration edge cases #33911
