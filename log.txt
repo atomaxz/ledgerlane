@@ -5850,3 +5850,4 @@
 33873. perf: reduce image load time #33873
 92872. fix: fix null pointer exception on login #92872
 7954. style: rename variables for clarity #7954
+16673. test: test user registration edge cases #16673
