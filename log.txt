@@ -5855,3 +5855,4 @@
 74916. test: mock database connection in test suite #74916
 83671. perf: cache repeated calculations #83671
 32235. refactor: refactor quiz grading logic #32235
+44267. fix: handle 500 error in quiz API #44267
