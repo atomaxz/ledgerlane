@@ -4875,3 +4875,4 @@
 78026. fix: prevent crash on empty input #78026
 75199. test: test user registration edge cases #75199
 45164. docs: write FAQ section #45164
+7716. feat: create admin dashboard #7716
