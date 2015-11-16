@@ -5857,3 +5857,4 @@
 32235. refactor: refactor quiz grading logic #32235
 44267. fix: handle 500 error in quiz API #44267
 39678. style: reformat files with black #39678
+72075. fix: correct typo in registration form #72075
