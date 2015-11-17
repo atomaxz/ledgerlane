@@ -1868,3 +1868,4 @@
 45572. refactor: organize models into subfolders #45572
 44778. style: apply consistent indentation #44778
 22441. style: remove trailing whitespace #22441
+25998. style: remove trailing whitespace #25998
