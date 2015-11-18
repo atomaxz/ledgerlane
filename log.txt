@@ -5860,3 +5860,4 @@
 72075. fix: correct typo in registration form #72075
 54642. refactor: remove redundant code blocks #54642
 60543. perf: reduce image load time #60543
+30948. feat: create admin dashboard #30948
