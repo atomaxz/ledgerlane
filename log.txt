@@ -1872,3 +1872,4 @@
 54522. test: add unit test for quiz service #54522
 63454. chore: bump dependencies #63454
 72601. refactor: split large controller into smaller functions #72601
+79561. fix: fix broken CSS in mobile view #79561
