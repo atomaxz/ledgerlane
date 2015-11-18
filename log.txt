@@ -872,3 +872,4 @@
 9082. style: apply consistent indentation #9082
 39339. chore: rename env.example #39339
 15180. docs: improve code comments in utils #15180
+70184. test: increase coverage on auth module #70184
