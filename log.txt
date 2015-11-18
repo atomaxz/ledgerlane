@@ -1874,3 +1874,4 @@
 72601. refactor: split large controller into smaller functions #72601
 79561. fix: fix broken CSS in mobile view #79561
 28805. perf: cache repeated calculations #28805
+33813. style: apply consistent indentation #33813
