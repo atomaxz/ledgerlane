@@ -874,3 +874,4 @@
 15180. docs: improve code comments in utils #15180
 70184. test: increase coverage on auth module #70184
 36746. docs: document token refresh logic #36746
+21274. perf: cache repeated calculations #21274
