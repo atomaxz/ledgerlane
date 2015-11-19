@@ -4884,3 +4884,4 @@
 98820. feat: implement quiz timer feature #98820
 14114. style: apply consistent indentation #14114
 43232. fix: fix null pointer exception on login #43232
+94102. fix: fix broken CSS in mobile view #94102
