@@ -5866,3 +5866,4 @@
 15335. feat: enable dark mode toggle #15335
 74073. style: standardize quote style #74073
 27141. test: increase coverage on auth module #27141
+81029. perf: lazy-load components #81029
