@@ -5863,3 +5863,4 @@
 30948. feat: create admin dashboard #30948
 40093. docs: improve code comments in utils #40093
 56022. refactor: clean up auth middleware #56022
+15335. feat: enable dark mode toggle #15335
