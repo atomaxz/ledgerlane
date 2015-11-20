@@ -1878,3 +1878,4 @@
 74832. chore: bump dependencies #74832
 14138. chore: update .gitignore #14138
 56788. perf: lazy-load components #56788
+15962. perf: optimize database query for quiz results #15962
