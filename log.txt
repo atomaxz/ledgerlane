@@ -4886,3 +4886,4 @@
 43232. fix: fix null pointer exception on login #43232
 94102. fix: fix broken CSS in mobile view #94102
 71656. perf: cache repeated calculations #71656
+76987. style: rename variables for clarity #76987
