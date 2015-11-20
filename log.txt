@@ -2887,3 +2887,4 @@
 75847. test: increase coverage on auth module #75847
 59392. perf: lazy-load components #59392
 93594. fix: fix null pointer exception on login #93594
+76681. refactor: clean up auth middleware #76681
