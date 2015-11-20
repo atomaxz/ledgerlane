@@ -2886,3 +2886,4 @@
 44059. docs: update README with setup steps #44059
 75847. test: increase coverage on auth module #75847
 59392. perf: lazy-load components #59392
+93594. fix: fix null pointer exception on login #93594
