@@ -2885,3 +2885,4 @@
 77899. perf: cache repeated calculations #77899
 44059. docs: update README with setup steps #44059
 75847. test: increase coverage on auth module #75847
+59392. perf: lazy-load components #59392
