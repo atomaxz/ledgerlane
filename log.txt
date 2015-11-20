@@ -1879,3 +1879,4 @@
 14138. chore: update .gitignore #14138
 56788. perf: lazy-load components #56788
 15962. perf: optimize database query for quiz results #15962
+17406. style: apply consistent indentation #17406
