@@ -2889,3 +2889,4 @@
 93594. fix: fix null pointer exception on login #93594
 76681. refactor: clean up auth middleware #76681
 12298. feat: add user authentication #12298
+22538. fix: correct typo in registration form #22538
