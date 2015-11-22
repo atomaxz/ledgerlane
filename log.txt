@@ -4888,3 +4888,4 @@
 71656. perf: cache repeated calculations #71656
 76987. style: rename variables for clarity #76987
 24855. docs: add API usage examples #24855
+54160. perf: lazy-load components #54160
