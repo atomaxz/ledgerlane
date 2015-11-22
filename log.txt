@@ -3896,3 +3896,4 @@
 76931. style: reformat files with black #76931
 93411. test: add unit test for quiz service #93411
 44007. perf: lazy-load components #44007
+45463. fix: prevent crash on empty input #45463
