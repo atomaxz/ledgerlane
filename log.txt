@@ -2892,3 +2892,4 @@
 22538. fix: correct typo in registration form #22538
 56694. refactor: refactor quiz grading logic #56694
 31642. feat: implement quiz timer feature #31642
+99879. perf: lazy-load components #99879
