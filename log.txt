@@ -4889,3 +4889,4 @@
 76987. style: rename variables for clarity #76987
 24855. docs: add API usage examples #24855
 54160. perf: lazy-load components #54160
+41922. chore: bump dependencies #41922
