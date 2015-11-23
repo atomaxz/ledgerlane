@@ -4890,3 +4890,4 @@
 24855. docs: add API usage examples #24855
 54160. perf: lazy-load components #54160
 41922. chore: bump dependencies #41922
+7889. docs: document token refresh logic #7889
