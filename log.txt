@@ -3901,3 +3901,4 @@
 37061. fix: fix null pointer exception on login #37061
 46076. style: apply consistent indentation #46076
 60078. test: add unit test for quiz service #60078
+19283. test: test user registration edge cases #19283
