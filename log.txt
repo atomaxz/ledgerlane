@@ -5873,3 +5873,4 @@
 41454. fix: handle 500 error in quiz API #41454
 55191. perf: reduce image load time #55191
 58027. feat: create admin dashboard #58027
+41398. chore: bump dependencies #41398
