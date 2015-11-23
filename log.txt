@@ -1889,3 +1889,4 @@
 76442. perf: lazy-load components #76442
 63840. refactor: clean up auth middleware #63840
 28062. fix: correct typo in registration form #28062
+16334. feat: create admin dashboard #16334
