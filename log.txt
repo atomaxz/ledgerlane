@@ -883,3 +883,4 @@
 80299. docs: clarify environment setup #80299
 57622. refactor: remove redundant code blocks #57622
 89200. refactor: organize models into subfolders #89200
+70837. perf: lazy-load components #70837
