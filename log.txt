@@ -3905,3 +3905,4 @@
 42063. fix: fix broken CSS in mobile view #42063
 38540. style: reformat files with black #38540
 99043. refactor: refactor quiz grading logic #99043
+50144. fix: prevent crash on empty input #50144
