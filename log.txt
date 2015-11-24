@@ -885,3 +885,4 @@
 89200. refactor: organize models into subfolders #89200
 70837. perf: lazy-load components #70837
 0287. feat: add export to CSV option #287
+71328. style: remove trailing whitespace #71328
