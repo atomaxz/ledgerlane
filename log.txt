@@ -1893,3 +1893,4 @@
 39557. refactor: refactor quiz grading logic #39557
 21038. docs: document token refresh logic #21038
 80253. fix: correct typo in registration form #80253
+95789. fix: fix broken CSS in mobile view #95789
