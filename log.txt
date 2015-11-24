@@ -2895,3 +2895,4 @@
 99879. perf: lazy-load components #99879
 50360. test: add integration test for /submit endpoint #50360
 10885. refactor: refactor quiz grading logic #10885
+21948. feat: enable dark mode toggle #21948
