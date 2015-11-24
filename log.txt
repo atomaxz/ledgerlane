@@ -5875,3 +5875,4 @@
 58027. feat: create admin dashboard #58027
 41398. chore: bump dependencies #41398
 63698. refactor: remove redundant code blocks #63698
+51270. perf: lazy-load components #51270
