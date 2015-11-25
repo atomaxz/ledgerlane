@@ -3910,3 +3910,4 @@
 31327. chore: clean up unused files #31327
 67454. feat: enable dark mode toggle #67454
 60805. fix: prevent crash on empty input #60805
+49798. docs: clarify environment setup #49798
