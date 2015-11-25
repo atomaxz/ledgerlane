@@ -3909,3 +3909,4 @@
 66396. refactor: refactor quiz grading logic #66396
 31327. chore: clean up unused files #31327
 67454. feat: enable dark mode toggle #67454
+60805. fix: prevent crash on empty input #60805
