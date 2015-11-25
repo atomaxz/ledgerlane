@@ -4897,3 +4897,4 @@
 42857. fix: handle 500 error in quiz API #42857
 21808. chore: bump dependencies #21808
 97644. refactor: organize models into subfolders #97644
+91832. refactor: clean up auth middleware #91832
