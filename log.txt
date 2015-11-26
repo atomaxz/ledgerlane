@@ -5881,3 +5881,4 @@
 86481. perf: reduce image load time #86481
 59187. feat: add user authentication #59187
 88051. refactor: refactor quiz grading logic #88051
+70313. fix: fix null pointer exception on login #70313
