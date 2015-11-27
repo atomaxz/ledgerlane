@@ -900,3 +900,4 @@
 8215. perf: lazy-load components #8215
 64536. fix: correct typo in registration form #64536
 74941. refactor: clean up auth middleware #74941
+77063. feat: add user authentication #77063
