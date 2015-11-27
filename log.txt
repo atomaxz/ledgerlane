@@ -3918,3 +3918,4 @@
 27514. refactor: clean up auth middleware #27514
 52697. chore: rename env.example #52697
 55977. fix: fix null pointer exception on login #55977
+23684. style: reformat files with black #23684
