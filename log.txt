@@ -5888,3 +5888,4 @@
 14589. test: mock database connection in test suite #14589
 30173. refactor: clean up auth middleware #30173
 62387. feat: add user authentication #62387
+99154. test: increase coverage on auth module #99154
