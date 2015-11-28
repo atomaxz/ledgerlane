@@ -901,3 +901,4 @@
 64536. fix: correct typo in registration form #64536
 74941. refactor: clean up auth middleware #74941
 77063. feat: add user authentication #77063
+59161. chore: update .gitignore #59161
