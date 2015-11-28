@@ -3920,3 +3920,4 @@
 55977. fix: fix null pointer exception on login #55977
 23684. style: reformat files with black #23684
 30536. docs: clarify environment setup #30536
+80395. fix: fix null pointer exception on login #80395
