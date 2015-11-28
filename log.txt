@@ -4902,3 +4902,4 @@
 55707. refactor: remove redundant code blocks #55707
 68350. style: reformat files with black #68350
 14975. test: test user registration edge cases #14975
+50194. perf: reduce image load time #50194
