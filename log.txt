@@ -2904,3 +2904,4 @@
 89674. chore: rename env.example #89674
 3269. docs: improve code comments in utils #3269
 53172. perf: lazy-load components #53172
+53837. test: mock database connection in test suite #53837
