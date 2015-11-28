@@ -1903,3 +1903,4 @@
 74252. refactor: refactor quiz grading logic #74252
 55310. refactor: organize models into subfolders #55310
 7767. docs: add API usage examples #7767
+27846. refactor: clean up auth middleware #27846
