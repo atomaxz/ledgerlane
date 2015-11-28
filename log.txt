@@ -5890,3 +5890,4 @@
 62387. feat: add user authentication #62387
 99154. test: increase coverage on auth module #99154
 98558. refactor: split large controller into smaller functions #98558
+55927. fix: handle 500 error in quiz API #55927
