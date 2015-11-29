@@ -5900,3 +5900,4 @@
 93716. fix: correct typo in registration form #93716
 61841. chore: bump dependencies #61841
 30992. chore: bump dependencies #30992
+57470. test: test user registration edge cases #57470
