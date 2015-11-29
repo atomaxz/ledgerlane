@@ -907,3 +907,4 @@
 19802. feat: add user authentication #19802
 88763. perf: optimize database query for quiz results #88763
 73719. test: add integration test for /submit endpoint #73719
+69824. fix: handle 500 error in quiz API #69824
