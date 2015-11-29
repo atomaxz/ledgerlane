@@ -5895,3 +5895,4 @@
 84629. chore: bump dependencies #84629
 64650. refactor: organize models into subfolders #64650
 75973. docs: add API usage examples #75973
+44350. test: test user registration edge cases #44350
