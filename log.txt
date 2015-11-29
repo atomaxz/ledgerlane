@@ -5896,3 +5896,4 @@
 64650. refactor: organize models into subfolders #64650
 75973. docs: add API usage examples #75973
 44350. test: test user registration edge cases #44350
+25153. perf: lazy-load components #25153
