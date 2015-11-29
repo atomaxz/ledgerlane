@@ -905,3 +905,4 @@
 25023. test: test user registration edge cases #25023
 39796. style: reformat files with black #39796
 19802. feat: add user authentication #19802
+88763. perf: optimize database query for quiz results #88763
