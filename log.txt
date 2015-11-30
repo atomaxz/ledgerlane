@@ -4906,3 +4906,4 @@
 2685. chore: update .gitignore #2685
 10350. style: remove trailing whitespace #10350
 35680. fix: fix null pointer exception on login #35680
+65089. fix: fix broken CSS in mobile view #65089
