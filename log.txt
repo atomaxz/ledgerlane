@@ -2910,3 +2910,4 @@
 14343. feat: enable dark mode toggle #14343
 53285. feat: support email verification #53285
 17910. fix: correct typo in registration form #17910
+65520. chore: add GitHub actions badge #65520
