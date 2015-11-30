@@ -909,3 +909,4 @@
 73719. test: add integration test for /submit endpoint #73719
 69824. fix: handle 500 error in quiz API #69824
 77536. test: increase coverage on auth module #77536
+52663. test: test user registration edge cases #52663
