@@ -2908,3 +2908,4 @@
 54397. style: rename variables for clarity #54397
 94536. chore: clean up unused files #94536
 14343. feat: enable dark mode toggle #14343
+53285. feat: support email verification #53285
