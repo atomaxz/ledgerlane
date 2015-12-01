@@ -1913,3 +1913,4 @@
 35715. fix: resolve issue with date parsing #35715
 94903. fix: resolve issue with date parsing #94903
 8344. refactor: organize models into subfolders #8344
+50382. fix: handle 500 error in quiz API #50382
