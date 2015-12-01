@@ -4909,3 +4909,4 @@
 65089. fix: fix broken CSS in mobile view #65089
 0557. docs: update README with setup steps #557
 88164. feat: add user authentication #88164
+44987. feat: add export to CSV option #44987
