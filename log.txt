@@ -5906,3 +5906,4 @@
 14505. test: add integration test for /submit endpoint #14505
 41985. refactor: clean up auth middleware #41985
 60835. feat: add export to CSV option #60835
+84434. chore: add GitHub actions badge #84434
