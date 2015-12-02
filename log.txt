@@ -3927,3 +3927,4 @@
 33636. docs: clarify environment setup #33636
 35367. style: remove trailing whitespace #35367
 42390. perf: optimize database query for quiz results #42390
+58212. perf: cache repeated calculations #58212
