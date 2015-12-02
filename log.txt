@@ -5909,3 +5909,4 @@
 84434. chore: add GitHub actions badge #84434
 33241. feat: enable dark mode toggle #33241
 89902. style: reformat files with black #89902
+93781. perf: optimize database query for quiz results #93781
