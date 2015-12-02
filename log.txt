@@ -4911,3 +4911,4 @@
 88164. feat: add user authentication #88164
 44987. feat: add export to CSV option #44987
 68797. feat: create admin dashboard #68797
+17854. perf: cache repeated calculations #17854
