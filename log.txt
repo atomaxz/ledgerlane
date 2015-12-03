@@ -3931,3 +3931,4 @@
 33415. perf: cache repeated calculations #33415
 30418. perf: cache repeated calculations #30418
 59899. chore: update .gitignore #59899
+57521. feat: support email verification #57521
