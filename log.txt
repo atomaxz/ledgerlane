@@ -1917,3 +1917,4 @@
 31876. fix: prevent crash on empty input #31876
 33908. fix: resolve issue with date parsing #33908
 28292. refactor: remove redundant code blocks #28292
+94733. test: mock database connection in test suite #94733
