@@ -2916,3 +2916,4 @@
 90513. chore: add GitHub actions badge #90513
 28628. docs: document token refresh logic #28628
 79348. feat: add export to CSV option #79348
+24991. perf: cache repeated calculations #24991
