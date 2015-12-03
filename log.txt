@@ -918,3 +918,4 @@
 54378. perf: cache repeated calculations #54378
 76634. style: remove trailing whitespace #76634
 86820. docs: write FAQ section #86820
+46333. chore: bump dependencies #46333
