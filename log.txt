@@ -3930,3 +3930,4 @@
 58212. perf: cache repeated calculations #58212
 33415. perf: cache repeated calculations #33415
 30418. perf: cache repeated calculations #30418
+59899. chore: update .gitignore #59899
