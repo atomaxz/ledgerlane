@@ -919,3 +919,4 @@
 76634. style: remove trailing whitespace #76634
 86820. docs: write FAQ section #86820
 46333. chore: bump dependencies #46333
+53003. test: mock database connection in test suite #53003
