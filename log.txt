@@ -924,3 +924,4 @@
 39337. chore: update .gitignore #39337
 58765. refactor: organize models into subfolders #58765
 57889. fix: correct typo in registration form #57889
+57899. fix: fix broken CSS in mobile view #57899
