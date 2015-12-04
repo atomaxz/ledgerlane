@@ -4922,3 +4922,4 @@
 81454. docs: improve code comments in utils #81454
 58631. refactor: clean up auth middleware #58631
 38030. perf: reduce image load time #38030
+73139. perf: optimize database query for quiz results #73139
