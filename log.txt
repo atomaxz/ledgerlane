@@ -923,3 +923,4 @@
 27045. feat: enable dark mode toggle #27045
 39337. chore: update .gitignore #39337
 58765. refactor: organize models into subfolders #58765
+57889. fix: correct typo in registration form #57889
