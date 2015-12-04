@@ -921,3 +921,4 @@
 46333. chore: bump dependencies #46333
 53003. test: mock database connection in test suite #53003
 27045. feat: enable dark mode toggle #27045
+39337. chore: update .gitignore #39337
