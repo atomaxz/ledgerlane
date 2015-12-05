@@ -926,3 +926,4 @@
 57889. fix: correct typo in registration form #57889
 57899. fix: fix broken CSS in mobile view #57899
 31055. chore: bump dependencies #31055
+98737. test: test user registration edge cases #98737
