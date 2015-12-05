@@ -1923,3 +1923,4 @@
 98506. fix: fix broken CSS in mobile view #98506
 70462. perf: optimize database query for quiz results #70462
 48565. refactor: split large controller into smaller functions #48565
+36649. test: test user registration edge cases #36649
