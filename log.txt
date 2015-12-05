@@ -3935,3 +3935,4 @@
 0660. feat: enable dark mode toggle #660
 29119. style: rename variables for clarity #29119
 96281. style: rename variables for clarity #96281
+95302. refactor: organize models into subfolders #95302
