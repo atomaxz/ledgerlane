@@ -4931,3 +4931,4 @@
 22656. docs: write FAQ section #22656
 55275. refactor: split large controller into smaller functions #55275
 29599. docs: clarify environment setup #29599
+72440. fix: prevent crash on empty input #72440
