@@ -5919,3 +5919,4 @@
 71914. style: apply consistent indentation #71914
 61154. style: apply consistent indentation #61154
 86225. test: test user registration edge cases #86225
+33499. feat: add export to CSV option #33499
