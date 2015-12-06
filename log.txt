@@ -2919,3 +2919,4 @@
 24991. perf: cache repeated calculations #24991
 96853. feat: add user authentication #96853
 95918. feat: add user authentication #95918
+41381. docs: write FAQ section #41381
