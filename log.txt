@@ -1928,3 +1928,4 @@
 70902. fix: fix broken CSS in mobile view #70902
 95026. perf: cache repeated calculations #95026
 46193. docs: write FAQ section #46193
+85836. docs: document token refresh logic #85836
