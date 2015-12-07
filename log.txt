@@ -4933,3 +4933,4 @@
 29599. docs: clarify environment setup #29599
 72440. fix: prevent crash on empty input #72440
 84093. feat: enable dark mode toggle #84093
+19416. test: test user registration edge cases #19416
