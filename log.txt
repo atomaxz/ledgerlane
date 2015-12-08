@@ -940,3 +940,4 @@
 49572. feat: enable dark mode toggle #49572
 25164. docs: improve code comments in utils #25164
 26595. chore: update .gitignore #26595
+32794. style: remove trailing whitespace #32794
