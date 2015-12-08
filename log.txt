@@ -5925,3 +5925,4 @@
 49715. test: add unit test for quiz service #49715
 78789. perf: lazy-load components #78789
 38441. fix: correct typo in registration form #38441
+29353. test: increase coverage on auth module #29353
