@@ -2927,3 +2927,4 @@
 40257. test: test user registration edge cases #40257
 63555. test: mock database connection in test suite #63555
 1796. refactor: refactor quiz grading logic #1796
+14617. docs: write FAQ section #14617
