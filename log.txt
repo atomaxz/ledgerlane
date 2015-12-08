@@ -2931,3 +2931,4 @@
 13090. perf: lazy-load components #13090
 86320. test: add unit test for quiz service #86320
 2755. docs: document token refresh logic #2755
+57357. fix: prevent crash on empty input #57357
