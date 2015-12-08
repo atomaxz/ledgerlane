@@ -936,3 +936,4 @@
 35388. fix: resolve issue with date parsing #35388
 71740. chore: rename env.example #71740
 43052. style: apply consistent indentation #43052
+5376. fix: handle 500 error in quiz API #5376
