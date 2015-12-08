@@ -1931,3 +1931,4 @@
 85836. docs: document token refresh logic #85836
 84345. style: reformat files with black #84345
 61918. docs: document token refresh logic #61918
+39215. feat: support email verification #39215
