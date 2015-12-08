@@ -937,3 +937,4 @@
 71740. chore: rename env.example #71740
 43052. style: apply consistent indentation #43052
 5376. fix: handle 500 error in quiz API #5376
+49572. feat: enable dark mode toggle #49572
