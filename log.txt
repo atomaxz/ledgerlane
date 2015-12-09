@@ -5932,3 +5932,4 @@
 9920. docs: clarify environment setup #9920
 8723. test: mock database connection in test suite #8723
 32792. refactor: organize models into subfolders #32792
+66690. feat: support email verification #66690
