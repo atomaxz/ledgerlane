@@ -2936,3 +2936,4 @@
 83554. style: remove trailing whitespace #83554
 20119. fix: fix broken CSS in mobile view #20119
 59676. fix: fix broken CSS in mobile view #59676
+37385. style: reformat files with black #37385
