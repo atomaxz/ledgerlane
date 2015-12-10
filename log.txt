@@ -4941,3 +4941,4 @@
 84994. feat: add export to CSV option #84994
 65636. docs: clarify environment setup #65636
 94902. chore: update .gitignore #94902
+67044. perf: optimize database query for quiz results #67044
