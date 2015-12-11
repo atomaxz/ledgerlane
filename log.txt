@@ -2938,3 +2938,4 @@
 59676. fix: fix broken CSS in mobile view #59676
 37385. style: reformat files with black #37385
 91284. refactor: remove redundant code blocks #91284
+19217. feat: support email verification #19217
