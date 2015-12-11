@@ -1936,3 +1936,4 @@
 11904. test: add unit test for quiz service #11904
 75683. test: add unit test for quiz service #75683
 84707. perf: optimize database query for quiz results #84707
+74211. perf: reduce image load time #74211
