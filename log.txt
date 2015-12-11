@@ -4945,3 +4945,4 @@
 77490. fix: fix null pointer exception on login #77490
 15269. docs: clarify environment setup #15269
 85411. style: reformat files with black #85411
+45743. test: increase coverage on auth module #45743
