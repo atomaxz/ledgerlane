@@ -2941,3 +2941,4 @@
 19217. feat: support email verification #19217
 21316. feat: support email verification #21316
 84659. feat: add user authentication #84659
+28378. test: test user registration edge cases #28378
