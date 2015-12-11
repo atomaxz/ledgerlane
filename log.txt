@@ -4946,3 +4946,4 @@
 15269. docs: clarify environment setup #15269
 85411. style: reformat files with black #85411
 45743. test: increase coverage on auth module #45743
+48027. fix: fix null pointer exception on login #48027
