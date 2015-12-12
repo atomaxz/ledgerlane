@@ -4947,3 +4947,4 @@
 85411. style: reformat files with black #85411
 45743. test: increase coverage on auth module #45743
 48027. fix: fix null pointer exception on login #48027
+20657. feat: enable dark mode toggle #20657
