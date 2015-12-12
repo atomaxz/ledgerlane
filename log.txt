@@ -3951,3 +3951,4 @@
 96369. docs: add API usage examples #96369
 92870. refactor: refactor quiz grading logic #92870
 71483. test: test user registration edge cases #71483
+5167. perf: optimize database query for quiz results #5167
