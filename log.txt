@@ -5943,3 +5943,4 @@
 36158. refactor: refactor quiz grading logic #36158
 28931. refactor: split large controller into smaller functions #28931
 55803. style: reformat files with black #55803
+3466. feat: enable dark mode toggle #3466
