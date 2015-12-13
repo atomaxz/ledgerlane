@@ -5945,3 +5945,4 @@
 55803. style: reformat files with black #55803
 3466. feat: enable dark mode toggle #3466
 10685. fix: correct typo in registration form #10685
+92370. fix: handle 500 error in quiz API #92370
