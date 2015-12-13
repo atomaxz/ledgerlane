@@ -1943,3 +1943,4 @@
 81759. perf: cache repeated calculations #81759
 63265. style: apply consistent indentation #63265
 8062. style: reformat files with black #8062
+78305. perf: optimize database query for quiz results #78305
