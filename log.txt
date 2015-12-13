@@ -2947,3 +2947,4 @@
 7876. feat: enable dark mode toggle #7876
 54773. refactor: clean up auth middleware #54773
 29470. fix: fix broken CSS in mobile view #29470
+27194. perf: optimize database query for quiz results #27194
