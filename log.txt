@@ -2945,3 +2945,4 @@
 79892. test: test user registration edge cases #79892
 26529. feat: implement quiz timer feature #26529
 7876. feat: enable dark mode toggle #7876
+54773. refactor: clean up auth middleware #54773
