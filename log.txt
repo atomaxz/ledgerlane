@@ -5946,3 +5946,4 @@
 3466. feat: enable dark mode toggle #3466
 10685. fix: correct typo in registration form #10685
 92370. fix: handle 500 error in quiz API #92370
+52594. refactor: refactor quiz grading logic #52594
