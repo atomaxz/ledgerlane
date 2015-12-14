@@ -2948,3 +2948,4 @@
 54773. refactor: clean up auth middleware #54773
 29470. fix: fix broken CSS in mobile view #29470
 27194. perf: optimize database query for quiz results #27194
+64900. test: test user registration edge cases #64900
