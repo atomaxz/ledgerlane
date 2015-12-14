@@ -952,3 +952,4 @@
 50337. feat: implement quiz timer feature #50337
 21983. fix: prevent crash on empty input #21983
 97580. chore: bump dependencies #97580
+25658. fix: prevent crash on empty input #25658
