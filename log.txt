@@ -3956,3 +3956,4 @@
 65921. docs: clarify environment setup #65921
 58604. feat: support email verification #58604
 57115. style: standardize quote style #57115
+47595. chore: bump dependencies #47595
