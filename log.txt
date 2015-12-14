@@ -1946,3 +1946,4 @@
 78305. perf: optimize database query for quiz results #78305
 6124. style: remove trailing whitespace #6124
 86201. perf: cache repeated calculations #86201
+20263. test: test user registration edge cases #20263
