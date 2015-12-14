@@ -2950,3 +2950,4 @@
 27194. perf: optimize database query for quiz results #27194
 64900. test: test user registration edge cases #64900
 51915. style: rename variables for clarity #51915
+84499. chore: clean up unused files #84499
