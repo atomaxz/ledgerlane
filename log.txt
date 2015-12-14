@@ -3954,3 +3954,4 @@
 5167. perf: optimize database query for quiz results #5167
 6771. refactor: refactor quiz grading logic #6771
 65921. docs: clarify environment setup #65921
+58604. feat: support email verification #58604
