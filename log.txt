@@ -950,3 +950,4 @@
 80785. test: add integration test for /submit endpoint #80785
 16289. feat: implement quiz timer feature #16289
 50337. feat: implement quiz timer feature #50337
+21983. fix: prevent crash on empty input #21983
