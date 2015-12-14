@@ -4952,3 +4952,4 @@
 35320. docs: improve code comments in utils #35320
 76526. style: apply consistent indentation #76526
 73144. test: mock database connection in test suite #73144
+26172. feat: support email verification #26172
