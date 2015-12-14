@@ -2952,3 +2952,4 @@
 51915. style: rename variables for clarity #51915
 84499. chore: clean up unused files #84499
 51007. perf: cache repeated calculations #51007
+64931. fix: fix null pointer exception on login #64931
