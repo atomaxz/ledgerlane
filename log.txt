@@ -4961,3 +4961,4 @@
 1714. perf: optimize database query for quiz results #1714
 26931. perf: reduce image load time #26931
 6971. refactor: refactor quiz grading logic #6971
+9155. test: add unit test for quiz service #9155
