@@ -5950,3 +5950,4 @@
 81378. docs: clarify environment setup #81378
 19717. fix: fix broken CSS in mobile view #19717
 15382. refactor: remove redundant code blocks #15382
+23863. style: rename variables for clarity #23863
