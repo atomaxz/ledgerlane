@@ -5952,3 +5952,4 @@
 15382. refactor: remove redundant code blocks #15382
 23863. style: rename variables for clarity #23863
 67095. perf: lazy-load components #67095
+37343. style: remove trailing whitespace #37343
