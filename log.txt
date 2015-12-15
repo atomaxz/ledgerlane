@@ -4960,3 +4960,4 @@
 94536. chore: clean up unused files #94536
 1714. perf: optimize database query for quiz results #1714
 26931. perf: reduce image load time #26931
+6971. refactor: refactor quiz grading logic #6971
