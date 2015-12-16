@@ -4963,3 +4963,4 @@
 6971. refactor: refactor quiz grading logic #6971
 9155. test: add unit test for quiz service #9155
 5412. refactor: remove redundant code blocks #5412
+31668. perf: reduce image load time #31668
