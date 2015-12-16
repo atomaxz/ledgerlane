@@ -958,3 +958,4 @@
 7213. perf: optimize database query for quiz results #7213
 93610. perf: reduce image load time #93610
 39902. refactor: remove redundant code blocks #39902
+74861. docs: update README with setup steps #74861
