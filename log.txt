@@ -2954,3 +2954,4 @@
 51007. perf: cache repeated calculations #51007
 64931. fix: fix null pointer exception on login #64931
 43316. test: add unit test for quiz service #43316
+99383. refactor: organize models into subfolders #99383
