@@ -3963,3 +3963,4 @@
 24173. fix: correct typo in registration form #24173
 7845. fix: resolve issue with date parsing #7845
 85202. style: apply consistent indentation #85202
+63190. refactor: clean up auth middleware #63190
