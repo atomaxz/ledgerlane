@@ -3965,3 +3965,4 @@
 85202. style: apply consistent indentation #85202
 63190. refactor: clean up auth middleware #63190
 0607. feat: add export to CSV option #607
+86658. chore: add GitHub actions badge #86658
