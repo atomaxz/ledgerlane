@@ -1951,3 +1951,4 @@
 24855. docs: add API usage examples #24855
 27172. perf: optimize database query for quiz results #27172
 1364. fix: prevent crash on empty input #1364
+87364. feat: support email verification #87364
