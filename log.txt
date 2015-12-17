@@ -5956,3 +5956,4 @@
 11575. docs: add API usage examples #11575
 90086. fix: fix broken CSS in mobile view #90086
 20220. style: rename variables for clarity #20220
+96331. docs: clarify environment setup #96331
