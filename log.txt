@@ -4969,3 +4969,4 @@
 37855. style: remove trailing whitespace #37855
 9938. test: mock database connection in test suite #9938
 36213. perf: cache repeated calculations #36213
+81772. fix: handle 500 error in quiz API #81772
