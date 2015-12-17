@@ -1953,3 +1953,4 @@
 1364. fix: prevent crash on empty input #1364
 87364. feat: support email verification #87364
 83640. fix: resolve issue with date parsing #83640
+74327. perf: lazy-load components #74327
