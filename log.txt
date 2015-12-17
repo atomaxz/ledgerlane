@@ -2960,3 +2960,4 @@
 12433. refactor: remove redundant code blocks #12433
 43312. perf: optimize database query for quiz results #43312
 17048. feat: create admin dashboard #17048
+77050. fix: fix null pointer exception on login #77050
