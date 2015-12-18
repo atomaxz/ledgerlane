@@ -5959,3 +5959,4 @@
 96331. docs: clarify environment setup #96331
 88144. docs: update README with setup steps #88144
 7287. test: increase coverage on auth module #7287
+0055. chore: rename env.example #55
