@@ -2964,3 +2964,4 @@
 11919. docs: document token refresh logic #11919
 51439. style: apply consistent indentation #51439
 18482. chore: add GitHub actions badge #18482
+86358. test: increase coverage on auth module #86358
