@@ -5965,3 +5965,4 @@
 22272. docs: add API usage examples #22272
 16694. test: add integration test for /submit endpoint #16694
 30736. docs: update README with setup steps #30736
+75053. fix: fix broken CSS in mobile view #75053
