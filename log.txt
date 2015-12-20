@@ -4976,3 +4976,4 @@
 74912. test: test user registration edge cases #74912
 95353. docs: add API usage examples #95353
 40842. perf: cache repeated calculations #40842
+96309. test: add integration test for /submit endpoint #96309
