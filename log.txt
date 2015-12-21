@@ -975,3 +975,4 @@
 37697. test: add integration test for /submit endpoint #37697
 3611. feat: create admin dashboard #3611
 71800. test: increase coverage on auth module #71800
+33998. perf: lazy-load components #33998
