@@ -3974,3 +3974,4 @@
 97384. chore: update .gitignore #97384
 77756. test: mock database connection in test suite #77756
 90280. test: increase coverage on auth module #90280
+86277. docs: write FAQ section #86277
