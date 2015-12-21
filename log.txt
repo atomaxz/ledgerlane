@@ -5968,3 +5968,4 @@
 75053. fix: fix broken CSS in mobile view #75053
 9710. fix: handle 500 error in quiz API #9710
 21356. feat: create admin dashboard #21356
+5359. test: increase coverage on auth module #5359
