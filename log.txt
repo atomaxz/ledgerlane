@@ -4979,3 +4979,4 @@
 96309. test: add integration test for /submit endpoint #96309
 27200. test: increase coverage on auth module #27200
 35884. fix: fix null pointer exception on login #35884
+57208. fix: prevent crash on empty input #57208
