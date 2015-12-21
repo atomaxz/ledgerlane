@@ -3971,3 +3971,4 @@
 14892. style: apply consistent indentation #14892
 24137. style: rename variables for clarity #24137
 35476. style: reformat files with black #35476
+97384. chore: update .gitignore #97384
