@@ -2965,3 +2965,4 @@
 51439. style: apply consistent indentation #51439
 18482. chore: add GitHub actions badge #18482
 86358. test: increase coverage on auth module #86358
+15865. docs: write FAQ section #15865
