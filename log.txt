@@ -4983,3 +4983,4 @@
 48536. refactor: organize models into subfolders #48536
 58038. style: standardize quote style #58038
 46699. docs: add API usage examples #46699
+18300. fix: correct typo in registration form #18300
