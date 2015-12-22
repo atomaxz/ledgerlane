@@ -3976,3 +3976,4 @@
 90280. test: increase coverage on auth module #90280
 86277. docs: write FAQ section #86277
 30118. test: increase coverage on auth module #30118
+68808. fix: fix broken CSS in mobile view #68808
