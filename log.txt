@@ -1963,3 +1963,4 @@
 59030. refactor: split large controller into smaller functions #59030
 82866. style: apply consistent indentation #82866
 69339. test: test user registration edge cases #69339
+53051. chore: add GitHub actions badge #53051
