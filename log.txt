@@ -2973,3 +2973,4 @@
 62414. feat: add export to CSV option #62414
 95199. chore: rename env.example #95199
 39029. chore: rename env.example #39029
+41232. perf: lazy-load components #41232
