@@ -5970,3 +5970,4 @@
 21356. feat: create admin dashboard #21356
 5359. test: increase coverage on auth module #5359
 38752. style: standardize quote style #38752
+39884. test: add unit test for quiz service #39884
