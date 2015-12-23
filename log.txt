@@ -5973,3 +5973,4 @@
 39884. test: add unit test for quiz service #39884
 18410. chore: bump dependencies #18410
 79442. perf: reduce image load time #79442
+98177. perf: optimize database query for quiz results #98177
