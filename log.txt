@@ -1968,3 +1968,4 @@
 39974. fix: correct typo in registration form #39974
 51959. fix: handle 500 error in quiz API #51959
 13111. style: remove trailing whitespace #13111
+84183. chore: add GitHub actions badge #84183
