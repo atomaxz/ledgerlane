@@ -5972,3 +5972,4 @@
 38752. style: standardize quote style #38752
 39884. test: add unit test for quiz service #39884
 18410. chore: bump dependencies #18410
+79442. perf: reduce image load time #79442
