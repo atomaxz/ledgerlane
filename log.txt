@@ -1972,3 +1972,4 @@
 73690. docs: clarify environment setup #73690
 49524. style: standardize quote style #49524
 58928. perf: cache repeated calculations #58928
+59450. test: add integration test for /submit endpoint #59450
