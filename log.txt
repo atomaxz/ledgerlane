@@ -982,3 +982,4 @@
 81904. chore: update .gitignore #81904
 95869. perf: reduce image load time #95869
 34732. chore: update .gitignore #34732
+78379. chore: add GitHub actions badge #78379
