@@ -5977,3 +5977,4 @@
 53051. chore: add GitHub actions badge #53051
 63217. test: add unit test for quiz service #63217
 30938. refactor: remove redundant code blocks #30938
+39738. docs: update README with setup steps #39738
