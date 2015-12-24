@@ -2976,3 +2976,4 @@
 41232. perf: lazy-load components #41232
 68453. perf: lazy-load components #68453
 4745. perf: cache repeated calculations #4745
+97771. test: test user registration edge cases #97771
