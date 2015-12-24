@@ -4988,3 +4988,4 @@
 95338. fix: correct typo in registration form #95338
 93411. test: add unit test for quiz service #93411
 69875. fix: handle 500 error in quiz API #69875
+99215. perf: lazy-load components #99215
