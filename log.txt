@@ -2979,3 +2979,4 @@
 97771. test: test user registration edge cases #97771
 88418. refactor: split large controller into smaller functions #88418
 32426. test: test user registration edge cases #32426
+87762. test: add integration test for /submit endpoint #87762
