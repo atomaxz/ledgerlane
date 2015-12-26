@@ -1979,3 +1979,4 @@
 23217. docs: clarify environment setup #23217
 90549. perf: cache repeated calculations #90549
 86457. test: add integration test for /submit endpoint #86457
+55680. fix: handle 500 error in quiz API #55680
