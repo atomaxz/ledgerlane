@@ -1982,3 +1982,4 @@
 55680. fix: handle 500 error in quiz API #55680
 82312. docs: clarify environment setup #82312
 52681. chore: update .gitignore #52681
+22288. docs: update README with setup steps #22288
