@@ -3986,3 +3986,4 @@
 38869. chore: bump dependencies #38869
 46406. chore: bump dependencies #46406
 60163. style: apply consistent indentation #60163
+14917. docs: document token refresh logic #14917
