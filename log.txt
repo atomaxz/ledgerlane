@@ -1983,3 +1983,4 @@
 82312. docs: clarify environment setup #82312
 52681. chore: update .gitignore #52681
 22288. docs: update README with setup steps #22288
+0528. fix: correct typo in registration form #528
