@@ -1981,3 +1981,4 @@
 86457. test: add integration test for /submit endpoint #86457
 55680. fix: handle 500 error in quiz API #55680
 82312. docs: clarify environment setup #82312
+52681. chore: update .gitignore #52681
