@@ -5990,3 +5990,4 @@
 38663. fix: prevent crash on empty input #38663
 25085. docs: add API usage examples #25085
 77631. fix: handle 500 error in quiz API #77631
+7007. feat: enable dark mode toggle #7007
