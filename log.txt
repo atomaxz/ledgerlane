@@ -5993,3 +5993,4 @@
 7007. feat: enable dark mode toggle #7007
 71788. perf: cache repeated calculations #71788
 7209. fix: fix broken CSS in mobile view #7209
+8322. fix: fix null pointer exception on login #8322
