@@ -1984,3 +1984,4 @@
 52681. chore: update .gitignore #52681
 22288. docs: update README with setup steps #22288
 0528. fix: correct typo in registration form #528
+78652. refactor: organize models into subfolders #78652
