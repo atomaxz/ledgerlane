@@ -992,3 +992,4 @@
 70564. test: add integration test for /submit endpoint #70564
 29884. chore: rename env.example #29884
 1923. test: mock database connection in test suite #1923
+93453. fix: correct typo in registration form #93453
