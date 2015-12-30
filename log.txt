@@ -1996,3 +1996,4 @@
 73960. refactor: organize models into subfolders #73960
 98069. refactor: remove redundant code blocks #98069
 58268. fix: handle 500 error in quiz API #58268
+15915. test: mock database connection in test suite #15915
