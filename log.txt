@@ -5996,3 +5996,4 @@
 8322. fix: fix null pointer exception on login #8322
 26656. perf: reduce image load time #26656
 68099. refactor: clean up auth middleware #68099
+54278. style: remove trailing whitespace #54278
