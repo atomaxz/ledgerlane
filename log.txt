@@ -2991,3 +2991,4 @@
 78014. chore: add GitHub actions badge #78014
 64183. refactor: split large controller into smaller functions #64183
 3773. test: add unit test for quiz service #3773
+35014. chore: update .gitignore #35014
