@@ -1995,3 +1995,4 @@
 15316. fix: resolve issue with date parsing #15316
 73960. refactor: organize models into subfolders #73960
 98069. refactor: remove redundant code blocks #98069
+58268. fix: handle 500 error in quiz API #58268
