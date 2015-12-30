@@ -5995,3 +5995,4 @@
 7209. fix: fix broken CSS in mobile view #7209
 8322. fix: fix null pointer exception on login #8322
 26656. perf: reduce image load time #26656
+68099. refactor: clean up auth middleware #68099
