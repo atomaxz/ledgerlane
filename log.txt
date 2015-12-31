@@ -3996,3 +3996,4 @@
 73565. docs: add API usage examples #73565
 71111. refactor: organize models into subfolders #71111
 60937. style: remove trailing whitespace #60937
+37059. perf: optimize database query for quiz results #37059
