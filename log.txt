@@ -996,3 +996,4 @@
 80957. refactor: organize models into subfolders #80957
 21352. fix: fix broken CSS in mobile view #21352
 35660. docs: clarify environment setup #35660
+12827. fix: prevent crash on empty input #12827
